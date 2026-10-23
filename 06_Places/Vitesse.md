@@ -17,7 +17,7 @@ Vitesse, in the kingdom of Estercost, is the City of Flowers, "located in what J
 - Garden towers, most with every third or fourth floor given over to gardens (Book 6, Ch47 L603). The Adventure Society branch is in one of them, with a meeting room opening onto a balcony (Book 7, Ch43 L18); the Adventure Society and Magic Society each hold an entire building, and the royal family keeps a tower as a palace (Book 6, Ch47 L604).
 - Trees line every street, heavy with blossom.
 - **Remore Academy** and the **Burning Violet** guild house stand opposite each other; the guild house moved there after Roland Remore took over the guild long ago (Book 12, Ch43 L64).
-- A tower belonging to the Geller family stands in Vitesse: on a high balcony of one of the famous flowering towers Sophie leans into Humphrey (Book 11 Ch68 L1934-1935).
+- A tower belonging to the Geller family stands in Vitesse: on a high balcony of one of the famous flowering towers Sophie leans into Humphrey (Book 11, Ch68 L1934-1935).
 
 ## 3. Society and rule
 

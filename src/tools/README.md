@@ -7,6 +7,7 @@ Scripts and data that build and check the compendium. This folder replaced `src/
 | Tool | What it does |
 |---|---|
 | `build_register.py` | Reads every compendium `.md` (except the generated and log files), grades each cited claim against `src/Source_Text/`, and writes `Appendices/Source_Register.md`, `Appendices/Source_Map.md` and `register_new.json`. Run after any document edit. Reads `chapter_index.json`, `old_register.json` (hand notes carried over), `map_log.tsv`, `map_thread.tsv`, `map_thread_notes.md`. |
+| `lint.py` | Document linter. Checks headers (Status, Spoiler level, Valid from/through, Sources, Related), spoiler level values, that every `(Book N, ChX LY)` cite names a chapter and line that exist, that Related links resolve, cite format, leftover shorthand and folder-overview coverage. Writes `src/tools/lint_report.md`; also runs at the end of `build_register.py`. Target: zero errors and zero warnings. |
 | `rd.py` | Read and search chapter text. `rd.py r BOOK CH LO HI WIDTH` prints lines; `rd.py g REGEX BOOK_FROM BOOK_TO WIDTH MAX` greps. |
 | `who.py` | Samples every line that matches a name across all books: `who.py "REGEX" N` prints a count by book and N evenly spaced lines. |
 | `cc2.py` | Citation checker: for each `(Book N, ChX LY)` cite in the given documents, reports claims whose terms overlap the cited lines below a threshold. `THR=0.30 python3 src/tools/cc2.py 01_World_Primer.md`. |

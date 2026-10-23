@@ -470,3 +470,8 @@ def write_map(out, cnt):
 
 if __name__ == "__main__":
     main()
+
+# document lint (src/tools/lint.py): report errors and warnings after every build
+import lint
+_e, _w, _n = lint.run()
+print("lint: %d documents, %d errors, %d warnings (see src/tools/lint_report.md)" % (_n, len(_e), len(_w)))

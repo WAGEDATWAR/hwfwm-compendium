@@ -5,7 +5,7 @@ Spoiler level: 3 (covers all thirteen books)
 Valid from: before Book 1
 Valid through: end of Book 13
 Sources: book text (cited as "Book N, ChX LY" against `Source_Text/`); chapter notes for Books 1-13 (marked "notes"); fan wiki Timeline page (marked "wiki")
-Related: Book_01_Timeline.md to Book_13_Timeline.md (one per book), ../01_World_Primer.md, ../07_Characters/00_Characters_Overview.md, ../06_Places/00_Places_Overview.md, ../Appendices/Glossary.md, ../Appendices/Name_Index.md, ../Appendices/Change_Log.md, ../Appendices/Source_Map.md, ../TODO_Verification.md
+Related: Book_01_Timeline.md (and Book_02 to Book_13, one per book), ../01_World_Primer.md, ../07_Characters/00_Characters_Overview.md, ../06_Places/00_Places_Overview.md, ../Appendices/Glossary.md, ../Appendices/Name_Index.md, ../Appendices/Change_Log.md, ../Appendices/Source_Map.md, ../TODO_Verification.md
 
 ## 1. How to read this timeline
 

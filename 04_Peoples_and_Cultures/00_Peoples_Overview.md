@@ -21,6 +21,8 @@ The civilisation-building peoples of Pallimustus, what a racial gift is, and the
 - **Not native**: outworlders and valash are not native to Pallimustus (see Outworlders.md and Valash.md); messengers are covered in the Cosmology files.
 - **From race to nature**: in Book 12 Jason's character screen says "nature" instead of "race" and calls him a "prime avatar of an astral nexus"; Shade suggests that "race" is a term Jason took from games and cannot cover the breadth of people the System now serves (Book 12, Ch8 L100-102). Jason keeps the six powers that used to be racial gifts (Book 12, Ch8 L103).
 
+- **Life and society files**: `Daily_Life.md` (calendar, clothing, food, transport), `Economy_and_Money.md` (spirit coins, farms, trade), `Law_and_Indenture.md` and `Religion_in_Practice.md`.
+
 ## 3. Using this in a story
 
 Treat race as a matter of body, gifts and culture, not value: gifts are real advantages, but anyone's gifts can evolve. Greenstone scenes are human-heavy; ports, Vitesse and Yaresh are mixed.

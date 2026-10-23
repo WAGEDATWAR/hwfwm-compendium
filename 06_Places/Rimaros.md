@@ -44,7 +44,7 @@ High. Far above Greenstone's mid-iron. The Sea of Storms is saturated with storm
 
 ## 6. Notable people
 
-Soramir and Zila Rimaros, Liara and Baseph Rimaros, Dara and Zara Rimaros, Emiliano (the Storm King of Book 12, Zara's brother, Book 12, Ch12 L19; adopted cousin, Book 13, Ch1022 L20), Trenchant Moore, Jacinda Irios, Havi Estos, Pelli (the mayor of Palisaros, in the post since before Argy's family began growing fruit, Book 7 Ch13 L28-30), Hils Jaramaris.
+Soramir and Zila Rimaros, Liara and Baseph Rimaros, Dara and Zara Rimaros, Emiliano (the Storm King of Book 12, Zara's brother, Book 12, Ch12 L19; adopted cousin, Book 13, Ch1022 L20), Trenchant Moore, Jacinda Irios, Havi Estos, Pelli (the mayor of Palisaros, in the post since before Argy's family began growing fruit, Book 7, Ch13 L28-30), Hils Jaramaris.
 
 ## 7. Customs and daily life
 

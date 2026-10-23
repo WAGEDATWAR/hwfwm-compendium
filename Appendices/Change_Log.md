@@ -133,7 +133,7 @@ Status values used in headers: Draft (written, not yet checked against the book 
 
 **Section H items (33 unretagged claims)**
 - Found in the chapter files and verified or marked partial: Gary "almost silver" (B3 Ch21 L60), Geller tower (B11 Ch68 L1935), Clive "venerate" (B1 Ch85 L51), Belinda joins Clive (B2 Ch12 L6), Rufus bronze (B1 Ch15 L92), Roland as "the grandfather who means so much" (B12 Ch45 L97), Sophie's Mana Wellspring (B2 Ch61 L146), Lenora's "seventeen years ago" (B12 Ch67 L65), and others.
-- Corrected: `07_Characters/Jason_Asano.md` now cites Book 1 (iron) and Book 3 Ch29 (bronze regional gate) for Path of Shadows; the range of "roughly two hundred kilometres" is confirmed at Book 4 Ch1 L67 (an earlier version of this entry wrongly said the figure was not in the books; the line had been cut off in a search display). `03_Magic_and_Adventuring/Magic_and_Adventuring.md` cites notes for silver (continental) and gold (global). Jason becomes an astral king in Book 8 (Ch65), not Book 9.
+- Corrected: `07_Characters/Jason_Asano.md` now cites Book 1 (iron) and Book 3 Ch29 (bronze regional gate) for Path of Shadows; the range of "roughly two hundred kilometres" is confirmed at Book 4, Ch1 L67 (an earlier version of this entry wrongly said the figure was not in the books; the line had been cut off in a search display). `03_Magic_and_Adventuring/Magic_and_Adventuring.md` cites notes for silver (continental) and gold (global). Jason becomes an astral king in Book 8 (Ch65), not Book 9.
 - Retagged to notes: astral-space hazards (Books 1-3), the Cardinas wave, Jason's university stint, Rufus's gold rank, Zara's rank.
 - Register: 277 verified, 248 partial, 95 unlocated (620 rows).
 
@@ -159,12 +159,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Review of partial and notes-only rows**
 - Checked the unlocated rows against the chapter notes and the wiki clause by clause. Claims confirmed there are now graded **notes-confirmed** in the register (the document tag stays "notes" or "wiki"); a few more were found in the book text. Register now: 460 verified, 114 partial, 24 notes-confirmed, 16 unlocated.
 - Claims found in none of the three tiers were removed from the documents: Rufus's "measured and courteous" voice and his gold rank (Book 11 calls him the strongest combatant below gold; no gold rank found), Zara's iron rank when she meets Jason, the Jason "irreverent speeches" line, and the Familiars line about recalling shadow bodies.
-- Other corrections: Emi's cubes and tunnels, Colin's "tuck right in" line (Book 11 Ch33 L50), Gary's Vitesse origin (Book 1 Ch30 L47).
+- Other corrections: Emi's cubes and tunnels, Colin's "tuck right in" line (Book 11, Ch33 L50), Gary's Vitesse origin (Book 1, Ch30 L47).
 
 **Supporting cast (07_Characters, one file per character)**
 - Added 55 individual character files: the Asano family (Ken, Cheryl, Erika, Kaito, Amy, Hiro, Taika, Yumi, Akari), the Remore and Geller families (Gabriel, Arabelle, Roland, Gwydion Remore; Keith, Henrietta, Rick, Phoebe Geller), Emir and his circle (Emir Bahadir, Constance, Jory Tillman, Gabrielle Pellin), Greenstone officials and crime lords (Vincent Trenslow, Elspeth Arella, Lucian Lamprey, Pochard Finn, Clarissa Ventress, Cole Silva, Adris Dorgan), the Mercers (Thalia, Cassandra, Thadwick), Builder-cult and Purity figures (Zato, Shako, Timos, Cressida and Landemere Vane, Melody Jain), Earth figures (Mr North, Gerling, Elizabeth, Simon McKean, Lenora Coleman, Itsuki Tiwari, Nigel Thornton, Craig Vermillion), and Pallimustus figures (Liara Rimaros, Soramir, Allayeth, Charist, Carlos Quilido, Hana Shavar, Musin Heath, Marek Nior Vargas, Tera Jun Casta, Jamis Fran Muskar). A first grouped Asano family file was replaced by individual files at the user's request.
 - Each fact cites "Book N, ChX LY"; the citations were parsed into new register rows (R0640 onward), graded probable when the cited lines share terms with the claim, and 6 low-overlap citations were checked by hand. Facts only in the chapter notes are tagged "notes".
-- Corrected an earlier log entry: Path of Shadows' "roughly two hundred kilometres" range is confirmed at Book 4 Ch1 L67 (the Jason file now cites it).
+- Corrected an earlier log entry: Path of Shadows' "roughly two hundred kilometres" range is confirmed at Book 4, Ch1 L67 (the Jason file now cites it).
 
 **Line-by-line check of the new supporting-cast files**
 - Printed every citation in the 55 new character files beside its cited chapter lines and read them. All were supported; seven wording errors were fixed: Elizabeth (the vampire-leader remark is a Cabal member's, not Rufus's; the Book 6 rituals are defensive rituals against vorger, not against Jason), Elspeth Arella (Book 12 shows her in her office, not explicitly still director), Hiro (Jason plans the gold sale; he lifts the bar later), Kaito (Jason and Akari ride in his helicopter; the text does not say he flies it), Taika ("nearly silver" is notes-only).
@@ -173,7 +173,7 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **04_Peoples_and_Cultures (started) and the structure plan**
 - `00_Project_Structure.md` section 3: the `04_Peoples_and_Cultures/` entry now lists one file per people plus daily life, food and clothing, religion in practice, law and indenture, and an **economy document**; section 11 updated.
 - Added 14 files: `00_Peoples_Overview.md`, `Humans.md`, `Elves.md`, `Leonids.md`, `Celestines.md`, `Draconians.md`, `Smoulder_and_Brighthearts.md`, `Runics.md`, `Valash.md`, `Outworlders.md`, `Daily_Life.md`, `Religion_in_Practice.md`, `Law_and_Indenture.md` and `Economy_and_Money.md`. Each fact cites "Book N, ChX LY"; the citations were parsed into the register and every cited line was read beside its claim (a few line numbers were corrected).
-- Also corrected `05_Organisations/Adventure_Society.md`: both Lucian (asks for a three-star contract, Book 1 Ch42 L67) and Pochard ("the Adventure Society will make it three-star", L68) speak, so the earlier attribution to Pochard was partly right.
+- Also corrected `05_Organisations/Adventure_Society.md`: both Lucian (asks for a three-star contract, Book 1, Ch42 L67) and Pochard ("the Adventure Society will make it three-star", L68) speak, so the earlier attribution to Pochard was partly right.
 - Not yet written for 04: clothing and food by region.
 
 ### 04 regional cultures and missing peoples
@@ -352,6 +352,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Structure document refresh, build plan item 0.3 (2026-10-22)**
 - Rewrote sections 3, 8, 9, 10 and 11 of `00_Project_Structure.md`: the folder layout now matches the repository (including `src/tools`, `src/Chapter_Notes`, the two TODO files and the Minor_Places and Minor_Cast subfolders), "What exists now" became a state table, the build order records that every section has been built and verified, section 9 carries the narrowed Cardinas-length and Book 12 date entries, and section 10 adds version-control and tool practices. Section 11 now points to `TODO_Build_Plan.md`.
 - Corrected the spelling-variant list (Hendren/Hedron, not Herston) and pointed section 2 to the new locations of the chapter notes and the archived lorebook.
+
+**Document linter, build plan item 0.5 (2026-10-22)**
+- Added `src/tools/lint.py` (header fields, spoiler values, cite existence and line ranges, Related links, cite form, shorthand, folder-overview coverage). It runs at the end of `build_register.py` and writes `src/tools/lint_report.md`; a seeded test document triggered every check.
+- First run found 4 errors and 19 warnings; all fixed: 15 cites written without the comma ("Book 9 Ch29 L17") were standardised to "Book 9, Ch29 L17" in 10 files, the Master_Timeline Related line was corrected, the Peoples Overview now lists the four life-and-society files, and "mixed" is allowed as a spoiler value for the Glossary, Name_Index and Characters Overview. Result: 256 documents, 0 errors, 0 warnings.
 
 ## Pending index updates
 

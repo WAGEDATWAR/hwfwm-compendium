@@ -56,4 +56,4 @@ In Book 12 Jason announces that the System will be withdrawn from regions that o
 
 ## Open questions
 
-- The Queen of Estercost is not named in the chapters read (Book 12 Ch51 L13). Duke Percival Headingway, patriarch of House Headingway, holds a title from Cyrion (Book 12 Ch53 L3).
+- The Queen of Estercost is not named in the chapters read (Book 12, Ch51 L13). Duke Percival Headingway, patriarch of House Headingway, holds a title from Cyrion (Book 12, Ch53 L3).
