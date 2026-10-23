@@ -65,7 +65,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 ### 2B. Organisations (`05_Organisations`, only 6 files)
 - **2B.1 (Done 2026-10-23) Network (M).** Founding (Book 13, Ch1017), the Grid, categories, committees (Mr North, Mrs West, Mr/Mrs East and South in Book 5), branches (Sydney, Lyon, Berlin, Zurich), public name GDN.
 - **2B.2 (Done 2026-10-23) Cabal (M).** Its leaders, vampire lords (Elizabeth, Wassily, Klaus, Magdalyn), old founders and the messenger link (Book 13, Ch954 L3-6).
-- **2B.3 Engineers of Ascension (M).** Noreth's leadership (Book 13, Ch1017 L39-40), Plan A and B, Gerling, Barbou.
+- **2B.3 (Done 2026-10-23) Engineers of Ascension (M).** Noreth's leadership (Book 13, Ch1017 L39-40), Plan A and B, Gerling, Barbou.
 - **2B.4 EDJI and the post-reveal institutions (M).** The multinational taskforce, the UN Office of Supernatural Affairs (Anna, Holly Macrossan), the Joint Magitech Weapons Research Institute, the Asano clan's organisation (Yumi, Ketevan, Noriko's old clan).
 - **2B.5 Order of the Reaper and Cult of the Reaper (M).** The history told in Book 9, Ch27 and Book 10, Ch36; Callum's, Melody's and Marta's roles; Open_Questions 20.
 - **2B.6 Alchemy Association, Mirage Chamber Association, Magical Research Association (S each).** Each is mentioned in `Magic_Society_and_Associations.md`; split out with cites.

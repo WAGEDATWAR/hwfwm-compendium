@@ -29,6 +29,8 @@ Vermillion, the Cabal's front man in Sydney in Book 4 (Ch10 L116), says "the Cab
 
 ## 4. The Engineers of Ascension (EOA)
 
+See [Engineers_of_Ascension.md](Engineers_of_Ascension.md) for the full account.
+
 - **Structure** (Book 5, Ch8 L14-18): four Cardinals: Mr North, Mrs South, Mr East and Mrs West. A "former Mrs South" gave the Network information about the necromancer (Book 6, Ch25 L98-99), so she left the EOA. Adrien Barbou becomes Mr East: "the previous Mr East" is "the late Mr East" (Book 5, Ch8 L28, L39), and Barbou is "now going by Mr East" beside Mr North (Book 5, Ch30 L43), "the new Mr East" with a new Mrs South (Book 5, Ch32 L5). In Book 6 Jason demands Barbou from Mr North, who refuses to give him up.
 - **Methods and plans**: North reports (Book 5, Ch3 L8-12) that disabling the Grid is "proving more difficult than anticipated" and that they have shut off only localised areas. In Book 13 Jason says Plan A was to wreck the Grid, forcing the World-Phoenix to step in; Plan B was an army of super-soldiers to fight Knowledge's forces, a project that the Asano clan took up and perfected (Book 13, Ch1017 L39-43).
 - **Reach**: took Perth, then Melbourne, then moved on Sydney (Book 4, Ch9 L76). Its League of Heroes appears at Broken Hill.
