@@ -56,7 +56,7 @@ Register: 3,445 ok, 210 near, 52 weak, 22 reviewed, 16 wiki, 1 notes rows. The p
 Add topic files in this order, each with the Topic template (Summary / How it works / Variations / Examples / Misconceptions / Changes over time):
 - **2A.1 (Done 2026-10-22) Authority and sanctioning (M).** Book 8-13 passages on authority as the currency of transcendent beings, sanctions (Purity, the old Builder, Hero's planned self-sanction), and Jason's domains as "set-state authority" (Book 8, Ch57 L64-67).
 - **2A.2 (Done 2026-10-22) The Cosmic Throne, the Sundering and the System (L).** Raythe and Velius's account (Book 11, Ch64-65), Jason's briefing (Book 13, Ch1017), the throne "could never be restored" (Book 12, Ch1 L34), the System as Jason's interface made universal (Book 12, Ch1 L36), the System Administrator gift and the withdrawal over indenture (Book 12, Ch50). One file for the Throne, one for the System.
-- **2A.3 The Rules of Intrusion (S).** Book 12, Ch63 L5-7 and Book 13, Ch1017 L44.
+- **2A.3 (Done 2026-10-22) The Rules of Intrusion (S).** Book 12, Ch63 L5-7 and Book 13, Ch1017 L44.
 - **2A.4 The deep astral and Interstice (S).** Dumpling soup (Book 1, Ch69 L85) and Interstice (Book 3, Ch69 L219-222).
 - **2A.5 The Unorthodoxy and the Council of Kings (M).** Both appear in `Astral_Kings_and_Messengers.md` but deserve their own files with member lists (Open_Questions 2-4).
 - **2A.6 One file per major god (L, suggested).** Knowledge, Death, Healer, Hero, Purity/Disguise, Dominion, Undeath, Fertility, Hearth, Pain, Destruction, Discord. The existing `Gods_and_Churches.md` is a list; individual files can hold clergy, rules, miracles and conflicts, each marked by spoiler level.

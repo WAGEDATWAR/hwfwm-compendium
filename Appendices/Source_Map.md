@@ -1037,14 +1037,14 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch54 | Having Strangers Come Along | Book_12_Timeline L16, L29; Glossary L29; Nik_Asano L33-34 | 4 |
 | Ch55 | Take Things Slow | Book_12_Timeline L21, L90 | 2 |
 | Ch56 | The End of What Can Be Productively Achieved Here | Artefact_Site_One L3-4, L124; Open_Questions L3-4; 01_World_Primer L4; Book_12_Timeline L117; Magic_Society_and_Associations L119; Lorelei_Grantham L119 | 7 |
-| Ch57 | Someone Got Sucked Off | 00_Cosmology_Overview L3; 00_Astral_Overview L3; Jota_Withers L3, L7-12, L14; Book_12_Timeline L3, L7, L22, L24, L36, L58; Era_Selection L3; NPC_Rosters_by_Era L3; Plot_Hooks L12 | 14 |
+| Ch57 | Someone Got Sucked Off | 00_Cosmology_Overview L3; 00_Astral_Overview L3; Jota_Withers L3, L7-12, L14; Book_12_Timeline L3, L7, L22, L24, L36, L58; Era_Selection L3; NPC_Rosters_by_Era L3; Plot_Hooks L12; The_Rules_of_Intrusion L13, L14, L21, L62 | 18 |
 | Ch58 | A City With No Dawn | Gabrielle_Pellin L41; Book_12_Timeline L41; Name_Index L41; Emi_Evans_Asano L49 | 4 |
 | Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Master_Timeline L5; Glossary L5; Essence_Catalogue L9 | 12 |
-| Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93; Cosmic_Throne_and_the_Sundering L16 | 7 |
+| Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93; Cosmic_Throne_and_the_Sundering L16; The_Rules_of_Intrusion L52, L52-54 | 9 |
 | Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21 | 20 |
 | Ch62 | It Sets a Tone | Book_12_Timeline L3, L4, L51, L98, L101, L117; Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28; Artefact_Site_One L45, L53 | 12 |
-| Ch63 | We Already Know Who You Are | Book_12_Timeline L3, L15, L16, L42, L61, L79 …; 01_World_Primer L7; 00_Cosmology_Overview L7; Cosmic_Throne_and_the_Sundering L9; Jota_Withers L16-19; Noriko_Asano L19, L30; Yumi_Asano L19; Plot_Hooks L19 … | 16 |
-| Ch64 | Good Luck in Your Battle | Minor_Cast_Books_10-13 L12; Artefact_Site_One L21, L22-24; Book_12_Timeline L21, L48, L60, L74, L87, L93 …; Jota_Withers L76-79 | 13 |
+| Ch63 | We Already Know Who You Are | Book_12_Timeline L3, L15, L16, L42, L61, L79 …; The_Rules_of_Intrusion L5, L6, L7, L9, L45; 01_World_Primer L7; 00_Cosmology_Overview L7; Cosmic_Throne_and_the_Sundering L9; Jota_Withers L16-19; Noriko_Asano L19, L30; Yumi_Asano L19 … | 21 |
+| Ch64 | Good Luck in Your Battle | Minor_Cast_Books_10-13 L12; The_Rules_of_Intrusion L20; Artefact_Site_One L21, L22-24; Book_12_Timeline L21, L48, L60, L74, L87, L93 …; Jota_Withers L76-79 | 14 |
 | Ch65 | Second Chance to Make a First Impression | Minor_Cast_Books_10-13 L4; Book_12_Timeline L11, L53, L55 | 4 |
 | Ch66 | The Right Move | Book_12_Timeline L5, L13, L34, L53, L62, L63 …; Dimensional_Storage_and_Portals L6; Hegemons_Will_and_Dominion L63-66, L67 | 12 |
 | Ch67 | A Lot of Things to Do | Book_12_Timeline L5, L19, L22, L30, L42, L51 …; Astral_Kings_and_Messengers L23; Artefact_Site_One L44-47; Master_Timeline L65, L113; Open_Questions L65, L113; Emi_Evans_Asano L146-149, L149; Jason_Power_Set_Reference L153-155, L157-160, L162-167, L168-169, L170-192, L175 …; Ranks_and_Advancement L154, L154-155, L155 … | 102 |
@@ -1057,7 +1057,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch951 | Messy but Delicious | Nik_Asano L4-11, L7, L11; Dimensional_Storage_and_Portals L25; Book_12_Timeline L50; Book_13_Timeline L50; Master_Timeline L50; Era_Selection L50; Open_Questions L50 | 9 |
 | Ch952 | All Your Well-Learned Politesse | Book_13_Timeline L35 | 1 |
 | Ch953 | Perfect Humanoid Specimens | Book_13_Timeline L3; Anna_Tilden L9; Sigrid_Freyn L39; Chloe_Baudrillard L84; Emi_Evans_Asano L84 | 5 |
-| Ch954 | Misgivings | Earth_Powers L3-6; Astral_Kings_and_Messengers L4; Boris_Ket_Lundi L4, L5-6, L7-12, L9, L20; 00_Earth_Overview L9; Artefact_Site_One L17; Book_13_Timeline L17, L20; Dawn L19 | 12 |
+| Ch954 | Misgivings | Earth_Powers L3-6; Astral_Kings_and_Messengers L4; Boris_Ket_Lundi L4, L5-6, L7-12, L9, L20; 00_Earth_Overview L9; Artefact_Site_One L17; Book_13_Timeline L17, L20; Dawn L19; The_Rules_of_Intrusion L40 | 13 |
 | Ch955 | The Unadulterated Jason | Book_13_Timeline L63 | 1 |
 | Ch956 | Emergent Situation | Zara_Rimaros L3, L40, L41; Minor_Cast_Books_4-6 L23; Emi_Evans_Asano L26, L56-58; Book_13_Timeline L41 | 7 |
 | Ch957 | When the Screaming Began | Book_13_Timeline L32 | 1 |
@@ -1090,11 +1090,11 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch984 | What Slumbers Under the Mountain | Book_13_Timeline L3, L12, L62; Marie_Finnegan L34 | 4 |
 | Ch985 | Better Natures | Book_13_Timeline L3; Marie_Finnegan L32-102 | 2 |
 | Ch986 | The Deaths We Failed to Prevent | Book_13_Timeline L3, L6, L27 | 3 |
-| Ch987 | Consistent Agent of Chaos | Audrey_Blaine L10; Book_13_Timeline L16, L37, L63; Open_Questions L63 | 5 |
+| Ch987 | Consistent Agent of Chaos | Audrey_Blaine L10; Book_13_Timeline L16, L37, L63; The_Rules_of_Intrusion L38; Open_Questions L63 | 6 |
 | Ch988 | If You Can’t Keep Up | Era_Selection L26; Plot_Hooks L26; Open_Questions L26; Book_13_Timeline L40; Holly_Macrossan L52-54 | 5 |
 | Ch989 | A Man Fought Monsters | Book_13_Timeline L3, L50, L68; Earth_Powers L48; NPC_Rosters_by_Era L48 | 5 |
 | Ch990 | Monstrous on the Inside | Book_13_Timeline L3, L21, L38, L65, L86 | 5 |
-| Ch991 | This Offer Kind of Sucks | Book_13_Timeline L3 | 1 |
+| Ch991 | This Offer Kind of Sucks | Book_13_Timeline L3; The_Rules_of_Intrusion L34 | 2 |
 | Ch992 | Battle of the Plants | Book_13_Timeline L62; Authority_and_Sanctioning L63-64; Audrey_Blaine L116; Lorelei_Grantham L122-124 | 4 |
 | Ch993 | True to Yourself | Book_13_Timeline L3, L109 | 2 |
 | Ch994 | Not Open to Outside Consultation | Earth_Powers L39; Holly_Macrossan L39; Book_13_Timeline L51; Essence_Catalogue L78 | 4 |
@@ -1103,7 +1103,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch997 | The Man Who Fought the Monsters | Emi_Evans_Asano L11; Nik_Asano L11, L23; Sophie_Wexler L28-31; Clive_Standish L32; NPC_Rosters_by_Era L32; Neil_Davone L37-38; Book_13_Timeline L41 | 8 |
 | Ch998 | Sitting on a Volcano | Emi_Evans_Asano L3-4, L4; Nik_Asano L4; Book_13_Timeline L4, L99; Master_Timeline L4; Natalie_Park L105; Plot_Hooks L105; Audrey_Blaine L109 | 9 |
 | Ch999 | An Interesting Message | Thalia_Mercer L3; Book_13_Timeline L3 | 2 |
-| Ch1000 | Cosmic Tyrant Warlord Cult Leader | Boris_Ket_Lundi L3-7; Book_13_Timeline L37; Simon_McKean L104 | 3 |
+| Ch1000 | Cosmic Tyrant Warlord Cult Leader | Boris_Ket_Lundi L3-7; Book_13_Timeline L37; The_Rules_of_Intrusion L72; Simon_McKean L104 | 4 |
 | Ch1001 | It’s All Quite Australian | Book_13_Timeline L6; Master_Timeline L6; Rufus_Remore L8; NPC_Rosters_by_Era L8; Earth_Magic L8-9, L9; Monster_Cores_and_Training L9, L10; Carlos_Quilido L9 | 9 |
 | Ch1002 | The One Who Gets to Decide | Book_13_Timeline L3, L68; Yumi_Asano L23, L31; Simon_McKean L40; Open_Questions L64, L69; Master_Timeline L69 | 8 |
 | Ch1003 | Stare Down the Devil | Minor_Cast_Books_10-13 L3; Nik_Asano L67-72, L72; Book_13_Timeline L91; Master_Timeline L91 | 5 |
@@ -1120,10 +1120,10 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1014 | A Satisfying Day | Book_13_Timeline L3, L17, L34, L72, L91; The_System L28-30 | 6 |
 | Ch1015 | A Fight She’s Already Won | Colin L26; Li_Li_Mei L40; Nik_Asano L48; Book_13_Timeline L49; Master_Timeline L49; 01_World_Primer L78; Jason_Asano L78 | 7 |
 | Ch1016 | Worse Things | Hassan_Dukhtar L3, L23-31, L31; Book_13_Timeline L3, L21, L107, L119; Jason_Asano L21; NPC_Rosters_by_Era L23; Rufus_Remore L23-27; Farrah_Hurin L48; Gabrielle_Pellin L68, L74; Name_Index L68 … | 15 |
-| Ch1017 | A Room Full of Hands | Book_13_Timeline L5; 00_Cosmology_Overview L6-8; Spoiler_Management L6-8, L14-24; Cosmic_Throne_and_the_Sundering L9, L9-11; Authority_and_Sanctioning L11, L15-16; Open_Questions L11, L15, L17-19, L18; Plot_Hooks L14; Jason_Asano L14-15 … | 32 |
+| Ch1017 | A Room Full of Hands | Book_13_Timeline L5; 00_Cosmology_Overview L6-8; Spoiler_Management L6-8, L14-24; Cosmic_Throne_and_the_Sundering L9, L9-11; Authority_and_Sanctioning L11, L15-16; Open_Questions L11, L15, L17-19, L18; Plot_Hooks L14; Jason_Asano L14-15 … | 36 |
 | Ch1018 | I Don’t Need Hope | Book_13_Timeline L52 | 1 |
 | Ch1019 | Blatantly Ignoring Laws | Book_13_Timeline L3 | 1 |
-| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Minor_Cast_Books_10-13 L85; Glossary L85-91; Artefact_Site_One L95; Open_Questions L95 | 8 |
+| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Minor_Cast_Books_10-13 L85; Glossary L85-91; Artefact_Site_One L95; Open_Questions L95; The_Rules_of_Intrusion L96-101, L99-100, L100 | 11 |
 | Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; Cosmic_Throne_and_the_Sundering L69-71 | 2 |
 | Ch1022 | While We Have the Chance | Book_13_Timeline L3; Rimaros L20; Thadwick_Mercer L35, L62; Dimensional_Storage_and_Portals L35 | 5 |
 | Ch1023 | Broken What Matters Most | Book_13_Timeline L3, L12; Open_Questions L12, L103; Artefact_Site_One L103; Gods_and_Churches L139; Gabrielle_Pellin L139; Knowledge L139 | 8 |

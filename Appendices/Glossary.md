@@ -374,7 +374,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Ritual**: magic through circles and chants. **[0]**
 
-**Rules of Intrusion**: cosmic law about entering worlds. **[2]**
+**Rules of Intrusion**: cosmic law about entering worlds (also "Laws of Intrusion"); see `02_Cosmology_and_Powers/The_Rules_of_Intrusion.md`. **[3]**
 
 ## S
 

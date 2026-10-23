@@ -430,6 +430,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `02_Cosmology_and_Powers/The_System.md`: the Book 11 announcement, Jason's imprint on the throne, the default and expanding features, the System Administrator gift and its limits, the withdrawal over indenture and the diamond-rankers' position, and the Book 13 alerts.
 - Both files are level 3 throughout. Cross-links added to `00_Cosmology_Overview.md` and the Glossary.
 
+**The Rules of Intrusion, build plan item 2A.3 (2026-10-22)**
+- New `02_Cosmology_and_Powers/The_Rules_of_Intrusion.md` (level 3): the rules' scope (holy wars and dimensional invasion), closed worlds, rank-based flexibility and pretexts, invitations and the host-guest principle, the stricter regime since the throne was restored, Knowledge's need for a holy war, and why the Earth bridge anchor sits outside Jason's domains. Cross-linked from the Cosmology overview.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
