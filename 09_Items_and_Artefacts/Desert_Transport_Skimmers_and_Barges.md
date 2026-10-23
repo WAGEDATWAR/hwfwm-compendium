@@ -5,7 +5,7 @@ Spoiler level: 0
 Valid from: Book 1
 Valid through: Book 2
 Sources: Books 1, 2 (chapter files)
-Related: Cloud_Constructs_and_Palaces.md, 00_Items_Overview.md, ../07_Characters/Emir_Bahadir.md, ../04_Peoples_and_Cultures/00_Peoples_Overview.md, ../06_Places/Greenstone.md
+Related: Cloud_Constructs_and_Palaces.md, 00_Items_Overview.md, ../07_Characters/Emir_Bahadir.md, ../04_Peoples_and_Cultures/00_Peoples_Overview.md, ../06_Places/Greenstone.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

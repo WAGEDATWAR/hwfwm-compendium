@@ -5,7 +5,7 @@ Spoiler level: 0 for sections 1 to 3; sections 4 to 6 carry levels 1 to 3
 Valid from: Book 1, Ch1
 Valid through: Book 13
 Sources: Book 1 (Ch1, Ch87), Book 2 (Ch61, Ch63, Ch67), Book 3 (Ch21), Book 4 (Ch2, Ch3), Book 6 (Ch14), Book 11, Book 12 (Ch67)
-Related: Abilities_and_Attributes.md, Auras.md, Souls_Death_and_Healing.md, Jason_Power_Set_Reference.md, ../02_Cosmology_and_Powers/, ../09_Items_and_Artefacts/Tokens_Stones_and_Relics.md
+Related: Abilities_and_Attributes.md, Auras.md, Souls_Death_and_Healing.md, Jason_Power_Set_Reference.md, ../02_Cosmology_and_Powers/, ../09_Items_and_Artefacts/Tokens_Stones_and_Relics.md, ../09_Items_and_Artefacts/Dimensional_Storage_and_Portals.md
 
 ## 1. Summary
 

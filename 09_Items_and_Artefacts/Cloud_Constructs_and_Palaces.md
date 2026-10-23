@@ -5,7 +5,7 @@ Spoiler level: 0 for Books 1-2; 1 for Books 5-6
 Valid from: Book 1
 Valid through: Book 12
 Sources: Books 1, 2, 5, 6, 10, 12 (chapter files)
-Related: Soul_Bound_Items_and_Regalia.md, ../07_Characters/Emir_Bahadir.md, ../06_Places/Greenstone.md
+Related: Soul_Bound_Items_and_Regalia.md, ../07_Characters/Emir_Bahadir.md, ../06_Places/Greenstone.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

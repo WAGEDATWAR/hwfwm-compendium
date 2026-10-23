@@ -5,7 +5,7 @@ Spoiler level: 2-3
 Valid from: Book 5
 Valid through: Book 8
 Sources: Books 5, 6, 7, 8 (chapter files)
-Related: Tokens_Stones_and_Relics.md, ../02_Cosmology_and_Powers/00_Cosmology_Overview.md, ../07_Characters/Mr_North.md
+Related: Tokens_Stones_and_Relics.md, ../02_Cosmology_and_Powers/00_Cosmology_Overview.md, ../07_Characters/Mr_North.md, ../03_Magic_and_Adventuring/Astral_Spaces_Zones_and_Surges.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

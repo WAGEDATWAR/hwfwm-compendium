@@ -5,7 +5,7 @@ Spoiler level: 2
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1, 2, 3, 4, 5, 6, 7, 8, 10, 13 (chapter files)
-Related: Auras.md, Abilities_and_Attributes.md, Souls_Death_and_Healing.md, Awakening_Stones.md, ../02_Cosmology_and_Powers/Great_Astral_Beings.md, ../07_Characters/Jason_Asano.md
+Related: Auras.md, Abilities_and_Attributes.md, Souls_Death_and_Healing.md, Awakening_Stones.md, ../02_Cosmology_and_Powers/Great_Astral_Beings.md, ../07_Characters/Jason_Asano.md, ../09_Items_and_Artefacts/Tokens_Stones_and_Relics.md
 
 ## 1. Summary
 

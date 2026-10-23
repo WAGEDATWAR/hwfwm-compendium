@@ -5,7 +5,7 @@ Spoiler level: 3 (gold rank, Books 10-13; ability effects at lower ranks appear 
 Valid from: Book 12, Ch67
 Valid through: Book 12, Ch67 (his state at the end of Book 12)
 Sources: Book 12, Ch67 L150-390 (Appendices I to IV)
-Related: Abilities_and_Attributes.md, Afflictions_Boons_and_Damage.md, Awakening_Stones.md, Ranks_and_Advancement.md, ../07_Characters/Jason_Asano.md
+Related: Abilities_and_Attributes.md, Afflictions_Boons_and_Damage.md, Awakening_Stones.md, Ranks_and_Advancement.md, ../07_Characters/Jason_Asano.md, ../09_Items_and_Artefacts/Hegemons_Will_and_Dominion.md, ../09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md
 
 ## 1. Summary
 

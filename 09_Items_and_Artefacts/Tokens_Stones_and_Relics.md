@@ -5,7 +5,7 @@ Spoiler level: 2-3
 Valid from: Book 1
 Valid through: Book 10
 Sources: Books 1, 2, 3, 6, 8, 10 (chapter files)
-Related: 00_Items_Overview.md, ../02_Cosmology_and_Powers/Great_Astral_Beings.md, ../02_Cosmology_and_Powers/Gods_and_Churches.md
+Related: 00_Items_Overview.md, ../02_Cosmology_and_Powers/Great_Astral_Beings.md, ../02_Cosmology_and_Powers/Gods_and_Churches.md, ../03_Magic_and_Adventuring/Titles_and_Blessings.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

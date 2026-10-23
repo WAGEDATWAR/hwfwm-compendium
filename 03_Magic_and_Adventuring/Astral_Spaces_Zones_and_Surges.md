@@ -5,7 +5,7 @@ Spoiler level: 0 for section 2 (astral spaces and surges); sections 3 and 6 carr
 Valid from: Book 1, Ch24
 Valid through: Book 13
 Sources: Book 1 (Ch24, Ch31, Ch35, Ch104, Ch111), Book 2 (Ch21), Book 4 (Ch5, Ch37, Ch39, Ch40), Book 5 (Ch44, Ch68), Book 6 (Ch2, Ch5), Book 7 (Ch1, Ch38), Book 11 (Ch1)
-Related: Monsters.md, Rituals_Arrays_and_Formations.md, Earth_Magic.md, ../06_Places/Astral_Spaces/, ../02_Cosmology_and_Powers/00_Cosmology_Overview.md
+Related: Monsters.md, Rituals_Arrays_and_Formations.md, Earth_Magic.md, ../06_Places/Astral_Spaces/, ../02_Cosmology_and_Powers/00_Cosmology_Overview.md, ../09_Items_and_Artefacts/The_Builders_Door_and_Fundament_Gate.md
 
 ## 1. Summary
 

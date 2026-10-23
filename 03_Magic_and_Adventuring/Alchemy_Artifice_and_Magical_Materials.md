@@ -1,7 +1,7 @@
 # Alchemy, Artifice and Magical Materials
 
 Status: Draft (book text; facts carry a reference "Book N, ChX LY" to Source_Text)
-Spoiler level: 0 for sections 1 to 5; section 6 carries levels 1 to 3
+Spoiler level: 0 for sections 1 to 5 and 7; section 6 and tagged rows of section 7 carry levels 1 to 3
 Valid from: Book 1, Ch6
 Valid through: Book 13
 Sources: Book 1 (Ch6, Ch7, Ch19, Ch22, Ch27, Ch31, Ch32, Ch35, Ch36, Ch61, Ch80), Book 2 (Ch40, Ch51, Ch74), Book 3 (Ch1, Ch14)
@@ -60,3 +60,27 @@ Alongside essences and stones the world has a layer of working magic that does n
 - **Level 1:** Greenstone's market for essences and stones fell to an all-time low after the astral space was plundered (Book 3, Ch1 L100).
 - **Level 2:** Cloud constructs advance with Jason's rank (see `09_Items_and_Artefacts/Cloud_Constructs_and_Palaces.md`).
 - **Level 3:** In Book 12 Travis offers to build weapons for the cloud flask, saying he has "done weapons for your cloud flask before, but that was years ago" (Book 12, Ch23 L25).
+
+## 7. Item types and where they are described
+
+Each item type in `09_Items_and_Artefacts/` is explained here in one line and then in its own file. Rows from later books are under level tags.
+
+| Item type | What it is | Full account |
+|---|---|---|
+| Guild badges | A Magic Society-made medallion, paired with a tracking stone, that carries a member's aura imprint and stars (Book 1, Ch62 L46-47) | `../09_Items_and_Artefacts/Badges_and_Guild_Membership.md` |
+| Dimensional bags and storage | Bags have a rank and add slots to an inventory in proportion to it (Book 1, Ch76 L43, L49); portal abilities open only to places the user has visited (Book 1, Ch113 L58) | `../09_Items_and_Artefacts/Dimensional_Storage_and_Portals.md`; see also Unusual_and_Unique_Magic.md |
+| Soul-bound growth items | Items bound to one soul that rise in rank when fed the right materials: Dread Salvation (Book 1, Ch56 L49-52), the Cloud Flask (Book 2, Ch74 L34-46) and the Robes of the Astral Verdict (Book 1, Ch7 L17-21) | `../09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md` |
+| Cloud constructs | Buildings and vehicles made of cloud: Emir's ship and palace (Book 1, Ch101 L64, L103) and Jason's flask forms (Book 2, Ch74 L34-46) | `../09_Items_and_Artefacts/Cloud_Constructs_and_Palaces.md` |
+| Desert transport | Sand skimmers and larger sand barges that cross the desert (Book 1, Ch109 L21; Book 2, Ch40 L80) | `../09_Items_and_Artefacts/Desert_Transport_Skimmers_and_Barges.md` |
+| Consumables and trial rewards | One-use items such as the Lesser Miracle Potion (Book 2, Ch44 L127-129), clockwork cores (Book 2, Ch25 L24-26) and star seeds (Book 2, Ch21 L26-28) | `../09_Items_and_Artefacts/Consumables_and_Trial_Rewards.md` |
+| Awakening stones | Crystals that awaken essence abilities | Awakening_Stones.md and `../09_Items_and_Artefacts/Awakening_Stones.md` |
+| Tokens | Transcendent-rank items from great astral beings and gods, including astral blessing tokens (Book 2, Ch63 L45-47) | `../09_Items_and_Artefacts/Tokens_Stones_and_Relics.md`; see Titles_and_Blessings.md |
+
+<!-- level:2 -->
+| Item type (later books) | What it is | Full account |
+|---|---|---|
+| Regalia of the Dark Hegemon | Three soul-bound items joined into a set by the Soul-Imprinting Triune (Book 6, Ch4 L6-8) | `../09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md` |
+| Hegemon's Will and Dominion | The reforged sword and its scabbard, bound to Jason (Book 7, Ch54 L118-130) | `../09_Items_and_Artefacts/Hegemons_Will_and_Dominion.md`; see Jason_Power_Set_Reference.md |
+| The Builder's door and the Fundament Gate | An astral construct that manifests as a portal, and the ring of standing stones Jason incorporates into his Spirit Vault (Book 5, Ch41 L24-26, L52-62) | `../09_Items_and_Artefacts/The_Builders_Door_and_Fundament_Gate.md`; see Astral_Spaces_Zones_and_Surges.md |
+| Fundamental Realm Authority Token | A transcendent-rank token bound to Jason that opens gates to the fundamental realm (Book 8, Ch50 L87-91) | `../09_Items_and_Artefacts/Tokens_Stones_and_Relics.md` |
+<!-- /level -->

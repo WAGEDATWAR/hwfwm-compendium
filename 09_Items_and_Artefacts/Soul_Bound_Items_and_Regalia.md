@@ -5,7 +5,7 @@ Spoiler level: 0 for Books 1-5; 1 for the Book 6 set
 Valid from: Book 1
 Valid through: Book 6
 Sources: Books 1, 2, 5, 6 (chapter files)
-Related: 00_Items_Overview.md, ../07_Characters/Jason_Asano.md, ../07_Characters/Gary.md
+Related: 00_Items_Overview.md, ../07_Characters/Jason_Asano.md, ../07_Characters/Gary.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

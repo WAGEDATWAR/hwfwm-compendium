@@ -505,6 +505,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `03_Magic_and_Adventuring/Titles_and_Blessings.md`: the seven titles the text shows with their window text (Godless Prophet, Resolute, Spirit Warrior, Indomitable, Giant Slayer, Reality Hegemon, Keeper of the Cycle), how Jason explains titles in Book 13, and how blessings, tokens and star seeds differ, with the World-Phoenix blessing, Farrah's chain of blessings and Sophie's Boundary Breaker. `Auras.md` points to it.
 - Titles are shown only for Jason (and Delia's Resolute in Book 13); the text gives no list for others.
 
+**Reconcile 09 with 03, build plan item 2C.5 (2026-10-23)**
+- `Alchemy_Artifice_and_Magical_Materials.md` gains section 7, "Item types and where they are described", with a one-line explanation and cite for each item type in `09_Items_and_Artefacts/` (badges, bags and storage, soul-bound items, cloud constructs, desert transport, consumables, awakening stones, tokens, and the Book 5 to 8 items under a level 2 tag).
+- Every 09 file now links back to its 03 topic file in Related, and the 03 files for awakening stones, adventuring, astral spaces, Jason's set, titles and unusual magic link to their 09 files.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

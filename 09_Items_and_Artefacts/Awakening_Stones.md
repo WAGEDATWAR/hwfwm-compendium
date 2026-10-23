@@ -5,7 +5,7 @@ Spoiler level: 0
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1, 2, 5 (chapter files)
-Related: 00_Items_Overview.md, Tokens_Stones_and_Relics.md, ../03_Magic_and_Adventuring/Awakening_Stones.md, ../03_Magic_and_Adventuring/Essences.md, ../04_Peoples_and_Cultures/Economy_and_Money.md
+Related: 00_Items_Overview.md, Tokens_Stones_and_Relics.md, ../03_Magic_and_Adventuring/Awakening_Stones.md, ../03_Magic_and_Adventuring/Essences.md, ../04_Peoples_and_Cultures/Economy_and_Money.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

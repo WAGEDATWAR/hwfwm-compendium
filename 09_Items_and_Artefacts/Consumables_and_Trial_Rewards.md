@@ -5,7 +5,7 @@ Spoiler level: 0 for Books 1-3; 2 for Books 5-6
 Valid from: Book 1
 Valid through: Book 6
 Sources: Books 1, 2, 5, 6 (chapter files)
-Related: 00_Items_Overview.md, ../06_Places/Astral_Spaces/City_of_Fallen_Echoes.md, ../05_Organisations/Cults_and_Orders.md
+Related: 00_Items_Overview.md, ../06_Places/Astral_Spaces/City_of_Fallen_Echoes.md, ../05_Organisations/Cults_and_Orders.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

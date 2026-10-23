@@ -5,7 +5,7 @@ Spoiler level: 0 for sections 1 to 5; section 6 carries levels 1 to 2
 Valid from: Book 1, Ch57
 Valid through: Book 13
 Sources: Book 1 (Ch19, Ch57, Ch62, Ch63, Ch64, Ch65, Ch66, Ch91), Book 2 (Ch29, Ch47, Ch73), Book 7 (Ch5, Ch12, Ch21, Ch38, Ch44)
-Related: Monsters.md, Ranks_and_Advancement.md, Monster_Cores_and_Training.md, ../05_Organisations/Adventure_Society.md, ../05_Organisations/Guilds_and_Houses.md
+Related: Monsters.md, Ranks_and_Advancement.md, Monster_Cores_and_Training.md, ../05_Organisations/Adventure_Society.md, ../05_Organisations/Guilds_and_Houses.md, ../09_Items_and_Artefacts/Badges_and_Guild_Membership.md
 
 ## 1. Summary
 

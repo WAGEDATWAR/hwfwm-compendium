@@ -5,7 +5,7 @@ Spoiler level: 0 for sections 1 to 5; section 6 carries levels 2 and 3
 Valid from: Book 1, Ch19
 Valid through: Book 13
 Sources: Book 1 (Ch19, Ch22, Ch39, Ch91), Book 2 (Ch5, Ch9, Ch13, Ch56, Ch63)
-Related: 00_Magic_Overview.md, Essences.md, Abilities_and_Attributes.md, Ranks_and_Advancement.md, Rituals_Arrays_and_Formations.md
+Related: 00_Magic_Overview.md, Essences.md, Abilities_and_Attributes.md, Ranks_and_Advancement.md, Rituals_Arrays_and_Formations.md, ../09_Items_and_Artefacts/Awakening_Stones.md
 
 ## 1. Summary
 

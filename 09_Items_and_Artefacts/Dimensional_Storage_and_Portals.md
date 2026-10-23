@@ -5,7 +5,7 @@ Spoiler level: 1
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1, 2, 3, 5, 6, 7, 8, 12, 13 (chapter files)
-Related: 00_Items_Overview.md, ../03_Magic_and_Adventuring/Unusual_and_Unique_Magic.md, ../03_Magic_and_Adventuring/Adventuring_Profession.md, ../07_Characters/Clive_Standish.md, ../07_Characters/Jason_Asano.md
+Related: 00_Items_Overview.md, ../03_Magic_and_Adventuring/Unusual_and_Unique_Magic.md, ../03_Magic_and_Adventuring/Adventuring_Profession.md, ../07_Characters/Clive_Standish.md, ../07_Characters/Jason_Asano.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

@@ -5,7 +5,7 @@ Spoiler level: 1
 Valid from: Book 1
 Valid through: Book 12
 Sources: Books 1, 2, 3, 12 (chapter files)
-Related: 00_Items_Overview.md, ../05_Organisations/Adventure_Society.md, ../05_Organisations/Guilds_and_Houses.md, ../03_Magic_and_Adventuring/Adventuring_Profession.md, ../03_Magic_and_Adventuring/Ranks_and_Advancement.md
+Related: 00_Items_Overview.md, ../05_Organisations/Adventure_Society.md, ../05_Organisations/Guilds_and_Houses.md, ../03_Magic_and_Adventuring/Adventuring_Profession.md, ../03_Magic_and_Adventuring/Ranks_and_Advancement.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 

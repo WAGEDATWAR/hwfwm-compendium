@@ -5,7 +5,7 @@ Spoiler level: 2
 Valid from: Book 7
 Valid through: Book 12
 Sources: Books 7, 8, 11, 12 (chapter files)
-Related: Soul_Bound_Items_and_Regalia.md, 00_Items_Overview.md, ../03_Magic_and_Adventuring/Jason_Power_Set_Reference.md, ../07_Characters/Gary.md, ../07_Characters/Jason_Asano.md
+Related: Soul_Bound_Items_and_Regalia.md, 00_Items_Overview.md, ../03_Magic_and_Adventuring/Jason_Power_Set_Reference.md, ../07_Characters/Gary.md, ../07_Characters/Jason_Asano.md, ../03_Magic_and_Adventuring/Alchemy_Artifice_and_Magical_Materials.md
 
 ## 1. Summary
 
