@@ -21,6 +21,8 @@ A great astral being (GAB) is a cosmic-scale transcendent: an aspect of the cosm
 
 ## 3. Named great astral beings
 
+Each has its own file in `Great_Astral_Beings/`: [World-Phoenix](Great_Astral_Beings/World_Phoenix.md), [Builder](Great_Astral_Beings/The_Builder.md), [Reaper](Great_Astral_Beings/The_Reaper.md), [Celestial Book](Great_Astral_Beings/Celestial_Book.md), [Legion](Great_Astral_Beings/Legion.md), [All-Devouring Eye](Great_Astral_Beings/All_Devouring_Eye.md), [Keeper of Moments](Great_Astral_Beings/Keeper_of_Moments.md), [Seeker of Songs](Great_Astral_Beings/Seeker_of_Songs.md), [Whisper in Corners](Great_Astral_Beings/Whisper_in_Corners.md) and [Word in the Silence](Great_Astral_Beings/Word_in_the_Silence.md).
+
 | GAB | Concept | Notes |
 |---|---|---|
 | The Builder | Construction, forging reality | Original Builder sanctioned; new Builder is the mortal messenger Zithis Carrow Vayel (sixteen-year-old diamond-ranker when recruited; Book 10, Ch26 L55). Vessels have included Shako and Erigo Fin Desca (prime vessel after Shako was taken by the Sundered Throne; Book 10, Ch15 L5). |

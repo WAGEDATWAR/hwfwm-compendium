@@ -445,6 +445,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Open_Questions 6 (Hero's sanction) is resolved: Hero plans to sanction himself to add a gentler miracle option and make the relics of dead demigods usable (Book 11, Ch68 L707-709).
 - Observed: Death appears as a woman, a pale male elf and a plain woman in different scenes; the files record all three.
 
+**Great astral beings, one file each, build plan item 2A.7 (2026-10-23)**
+- New folder `02_Cosmology_and_Powers/Great_Astral_Beings/` with `World_Phoenix.md`, `The_Builder.md` (original and new), `The_Reaper.md`, `Celestial_Book.md`, `Legion.md`, `All_Devouring_Eye.md` and `Keeper_of_Moments.md`, plus stubs `Seeker_of_Songs.md`, `Whisper_in_Corners.md` and `Word_in_the_Silence.md`, which record every thing the text says. Each carries line-cited facts with later-book material under level 2 or 3 tags. `Great_Astral_Beings.md` links to them.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

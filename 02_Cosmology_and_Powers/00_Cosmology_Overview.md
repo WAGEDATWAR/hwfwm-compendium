@@ -83,4 +83,17 @@ Gods answer prayers and send miracles; great astral beings are rarely named outs
 - [The Healer](Gods/The_Healer.md) (spoiler level 1): The god of medicine and healing, the Healer is kind, modest in manner and strict with those who exploit the sick.
 - [Undeath](Gods/Undeath.md) (spoiler level 3): Undeath is the god of the unliving, the dark counterpart of Death.
 
+**Great_Astral_Beings/**
+
+- [The All-Devouring Eye](Great_Astral_Beings/All_Devouring_Eye.md) (spoiler level 1): The All-Devouring Eye is the great astral being of annihilation.
+- [The Celestial Book](Great_Astral_Beings/Celestial_Book.md) (spoiler level 1): The Celestial Book is the great astral being of the understanding of magic, venerated by researchers and ritualists.
+- [The Keeper of Moments](Great_Astral_Beings/Keeper_of_Moments.md) (spoiler level 2): The Keeper of Moments, also called the Keeper of the Sands, is the great astral being that governs time.
+- [Legion](Great_Astral_Beings/Legion.md) (spoiler level 2): Legion is the great astral being that administers the cosmic rules governing life itself.
+- [The Seeker of Songs](Great_Astral_Beings/Seeker_of_Songs.md) (spoiler level 3): The Seeker of Songs is a great astral being whose domain the books never state.
+- [The Builder](Great_Astral_Beings/The_Builder.md) (spoiler level 1): The Builder is the great astral being of construction, whose work is forging universes.
+- [The Reaper](Great_Astral_Beings/The_Reaper.md) (spoiler level 1): The Reaper is the great astral being of the finality of death.
+- [The Whisper in Corners](Great_Astral_Beings/Whisper_in_Corners.md) (spoiler level 3): The Whisper in Corners is a great astral being Jason had never heard of before meeting Raythe and Velius.
+- [The Word in the Silence](Great_Astral_Beings/Word_in_the_Silence.md) (spoiler level 3): The Word in the Silence is a great astral being named only once.
+- [The World-Phoenix](Great_Astral_Beings/World_Phoenix.md) (spoiler level 1): The World-Phoenix is the great astral being of dimensional integrity: it keeps universes from tearing, and it set Jason's journey in motion.
+
 <!-- files:end -->

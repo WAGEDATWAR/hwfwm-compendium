@@ -60,7 +60,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2A.4 (Done 2026-10-22) The deep astral and Interstice (S).** Dumpling soup (Book 1, Ch69 L85) and Interstice (Book 3, Ch69 L219-222).
 - **2A.5 (Done 2026-10-22) The Unorthodoxy and the Council of Kings (M).** Both appear in `Astral_Kings_and_Messengers.md` but deserve their own files with member lists (Open_Questions 2-4).
 - **2A.6 (Done 2026-10-22) One file per major god (L, suggested).** Knowledge, Death, Healer, Hero, Purity/Disguise, Dominion, Undeath, Fertility, Hearth, Pain, Destruction, Discord. The existing `Gods_and_Churches.md` is a list; individual files can hold clergy, rules, miracles and conflicts, each marked by spoiler level.
-- **2A.7 Great astral beings, one file each (M, suggested).** World-Phoenix, Builder (original and new), Reaper, Celestial Book, Legion, All-Devouring Eye, Keeper of Moments, Seeker of Songs, Whisper in Corners, Word in the Silence; at least stubs with their known vessels.
+- **2A.7 (Done 2026-10-23) Great astral beings, one file each (M, suggested).** World-Phoenix, Builder (original and new), Reaper, Celestial Book, Legion, All-Devouring Eye, Keeper of Moments, Seeker of Songs, Whisper in Corners, Word in the Silence; at least stubs with their known vessels.
 
 ### 2B. Organisations (`05_Organisations`, only 6 files)
 - **2B.1 Network (M).** Founding (Book 13, Ch1017), the Grid, categories, committees (Mr North, Mrs West, Mr/Mrs East and South in Book 5), branches (Sydney, Lyon, Berlin, Zurich), public name GDN.
