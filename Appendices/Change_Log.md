@@ -481,6 +481,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New folder `05_Organisations/Guilds/` with `Burning_Violet.md`, `Sapphire_Crown.md`, `Guild_Quotas_and_Contribution.md` (Book 7, Ch12 and related lines) and `Team_Shining_Scabbard.md`. `Guilds_and_Houses.md` points to them.
 - Observed: the text names no "backers" for Team Shining Scabbard other than the Mirror Kingdom's royal family; it is a royal-backed team, not a guild. The file records this.
 
+**Noble houses, build plan item 2B.9 (2026-10-23)**
+- New folder `05_Organisations/Noble_Houses/` with `House_Geller.md`, `House_Remore.md` (with the Remore Academy), `House_Mercer.md`, `House_Rimaros.md`, `House_Headingway.md`, `House_Kettering.md`, `House_Davone.md` and `House_Amouz.md`. The Kettering and Davone files are short because the text gives those families little. `Guilds_and_Houses.md` points to them.
+- Observed: Hudson and Dustin Kettering are both called Ketterings (Book 2, Ch15 L44; Book 2, Ch29 L8); their relationship is not stated.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

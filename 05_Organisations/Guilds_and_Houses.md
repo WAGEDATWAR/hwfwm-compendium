@@ -26,6 +26,8 @@ The royal family's guild in Rimaros (Book 7, Ch21 L11). The royal family support
 
 ## 4. House Irios
 
+Other houses have separate files in `Noble_Houses/`: [Geller](Noble_Houses/House_Geller.md), [Remore](Noble_Houses/House_Remore.md), [Mercer](Noble_Houses/House_Mercer.md), [Rimaros](Noble_Houses/House_Rimaros.md), [Headingway](Noble_Houses/House_Headingway.md), [Kettering](Noble_Houses/House_Kettering.md), [Davone](Noble_Houses/House_Davone.md) and [Amouz](Noble_Houses/House_Amouz.md).
+
 The pre-eminent producer of defensive engineering in the Storm Kingdom (Book 7, Ch18 L70): the defences of many cities and fortress towns, including Rimaros, are designed and maintained by the house. Its artificers take pride in the family, and Irios family members control Livaros's defences when it is attacked. Zara was matched with a member of the family (the cause of the scandal in Book 7, Ch18 L66-72). See `06_Places/Rimaros.md`.
 
 ## 5. Remore Academy

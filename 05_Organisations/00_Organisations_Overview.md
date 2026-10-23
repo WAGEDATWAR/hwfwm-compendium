@@ -68,4 +68,15 @@ Churches and gods are in `02_Cosmology_and_Powers/Gods_and_Churches.md`; messeng
 - [The Sapphire Crown Guild](Guilds/Sapphire_Crown.md) (spoiler level 2): The Sapphire Crown is the royal guild of Rimaros: a guild that works directly for the royal family, whose members rotate through the royal guard.
 - [Team Shining Scabbard and the Mirror Kingdom's Backing](Guilds/Team_Shining_Scabbard.md) (spoiler level 1): Team Shining Scabbard is the adventuring team of Prince Valdis of the Mirror Kingdom, built around the healer Sigrid Freyn.
 
+**Noble_Houses/**
+
+- [House Amouz](Noble_Houses/House_Amouz.md) (spoiler level 2): House Amouz is a Rimaros noble house that controls or has a share in more than half of the mining operations in the Sea of Storms.
+- [House Davone](Noble_Houses/House_Davone.md) (spoiler level 1): The Davones are a Greenstone family with close ties to the Mercers who were, in effect, servants of that family for years.
+- [House Geller](Noble_Houses/House_Geller.md) (spoiler level 1): The Gellers are an adventuring dynasty with branches across the world and a seat at an estate in the Greenstone delta.
+- [House Headingway](Noble_Houses/House_Headingway.md) (spoiler level 3): House Headingway is one of Estercost's pre-eminent families, with its title from Cyrion, the heart of civilisation.
+- [House Kettering](Noble_Houses/House_Kettering.md) (spoiler level 1): The Ketterings are a Greenstone family tied to the Mercers who send their sons to the Mercer compound.
+- [House Mercer](Noble_Houses/House_Mercer.md) (spoiler level 1): The Mercers are a very powerful Greenstone family, tied to the Duke through marriage, who run spirit coin farms and shape the city's other families through...
+- [House Remore and the Remore Academy](Noble_Houses/House_Remore.md) (spoiler level 1): The Remores are a family of educators and adventurers in Vitesse who hold no title but run the Remore Academy, one of the most respected adventurer schools...
+- [House Rimaros (the Royal House of Rimaros)](Noble_Houses/House_Rimaros.md) (spoiler level 2): The royal family of Rimaros rules the sky-island city and its kingdom under a Storm King.
+
 <!-- files:end -->
