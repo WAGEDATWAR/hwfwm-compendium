@@ -43,6 +43,29 @@ Minor Network, government and Earth figures of the Earth books that have no file
 
 - A silver-ranker with 94 percent core taint and the territory claimant in the Saint-Étienne zone (Book 6, Ch39 L25-27; Book 6, Ch38 L76-81).
 
+### Thanh
+
+- A category-three member of the capture team that hunts Jason through a large city in Book 5; his light essence gives him the speed to keep up and the aura to light the slum town (Book 5, Ch1 L15-17). Jason's aura stops his dead (Book 5, Ch1 L35), and Jason ends the fight with a threat to his soul (Book 5, Ch1 L85).
+
+### Ingrid
+
+- The head of the security team at the base where Travis is put in charge of the Special Munition Stockpile Division (Book 6, Ch28 L37-39). Jason says she gives off an Anisa vibe (Book 6, Ch29 L13).
+
+### Loth
+
+- A silver-rank dino-man who chose his own name, leading almost thirty dino-monsters through the Makassar proto-space in search of the unknown being behind the rainbow smoke (Book 5, Ch27 L24-26). He loses control of them as Jason's afflictions spread (Book 5, Ch27 L36-37).
+
+### Night Stalker
+
+- A bronze-rank vampire who fights beside Craig Vermillion and Franklin (Book 5, Ch64 L68) and calls himself the Night Stalker; Farrah threatens to put him down for it (Book 5, Ch65 L18).
+
+### Higgy
+
+- A member of Nigel Thornton's team who, with Darcy and Jonno, takes and gives the big hits (Book 4, Ch39 L76). He conjures a shield and prefers Higgy to "Captain America" (Book 4, Ch40 L63).
+<!-- level:3 -->
+- He is still with the team in Book 12, steering a conversation back on topic (Book 12, Ch3 L38), and in Book 13 calls "CONTACT!" as the squad guards Itsuki (Book 13, Ch1007 L39).
+<!-- /level -->
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

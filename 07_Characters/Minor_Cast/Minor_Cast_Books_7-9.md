@@ -48,6 +48,30 @@ Minor Storm Kingdom, Rimaros society and Purity-order figures with no file of th
 - Members named in Book 8: Sendira, Fila and Ramona, all women, Ramona once a celestine (Book 8, Ch9 L11); Rhett and Jaime, silver-rank members who stand apart from the compelled majority (Book 8, Ch16 L28; Book 8, Ch29 L28); Caitlyn, Heston, Marika and Elise, who challenge Melody Jain (Book 8, Ch18 L4-25); Kelleigh, Melody's cell member (Book 8, Ch18 L68); Laront, an ordinary Purity priest who never passed the flames (Book 8, Ch3 L38).
 - A Ramona on Miriam Vance's team, Moon's Edge, is a different person unless the text says otherwise (Book 11, Ch46 L11). Caitlyn's group thinks pain purifies the soul (Book 8, Ch33 L45).
 
+### Merrick Harlowe
+
+- The commander of a fort, a minor local lord and a silver-rank core user, who watches the first shab fall to the town's defences with little joy (Book 7, Ch19 L95). Melody Jain works on his sympathies (Book 7, Ch20 L84; Book 7, Ch32 L51, L86).
+
+### Eric Maldonado
+
+- The organiser behind the hunt for Jason in Book 9. He has sunk favours and most of his surge earnings into it (Book 9, Ch9 L57-58) and hired a costly tracker and an Adventure Society communications official (Book 9, Ch9 L58, L62). Shade judges his team the best prepared of the hunters (Book 9, Ch9 L19).
+
+### Rangel and Tellez
+
+- Two team leaders hunting Jason in the jungle (Book 9, Ch7 L33, L46). Rangel admits he stole Maldonado's plan (Book 9, Ch7 L92), and Jason takes four people from his group (Book 9, Ch9 L63).
+
+### Carilo
+
+- A healer in Rangel's party, told to cleanse a poisoned teammate (Book 9, Ch8 L6) before Jason drags him into the scrub (Book 9, Ch8 L12).
+
+### Emresh
+
+- A thug and loan collector in Yaresh who kicks Jason on the floor while Bellory fetches the repayment (Book 9, Ch44 L25, L60). He is silver rank and pushes past others in a crisis (Book 9, Ch101 L54).
+
+### Lancet de Varco
+
+- A tournament duellist of House de Varco and sometime adventurer, well known in the mirage arenas (Book 9, Ch15 L14), who is touchy about being called a coward (Book 9, Ch15 L53, L67).
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

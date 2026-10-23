@@ -33,6 +33,8 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Alchemy**: the craft of potions, ointments and reagents. Staples: recovery potion, healing unguent, crystal wash. **[0]**
 
+**Ancestral Majesty**: the form of address for Soramir Rimaros, used by Vesper and Liara (Book 7, Ch21 L65-66) and by a branch director (Book 7, Ch42 L6). **[2]**
+
 **Anomaly**: a monster-like being in a *transformation zone*; weaker versions are born from the strongest presence or the claimant's memories. A *greater anomaly* guards a *territory*. **[2]**
 
 **Apocalypse beast**: a creature of world-ending potential, usually artificial (the *sanguine horror*, the *world-taker worm*, the naga genesis egg). Some are weapons of messengers. **[1/2]**
@@ -231,6 +233,8 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Heidel**: the local equivalent of a horse; a two-headed scaled draught animal. **[0]**
 
+**Hump**: a nickname for Humphrey Geller (Book 1, Ch82 L18). **[1]**
+
 ## I
 
 **Immortal Crest**: soul crest tattoo for identification. **[1]**
@@ -355,6 +359,9 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 **Red Table**: blood cult with branches in remote areas, destroyed in Greenstone (Book 1, Ch18 L5; Book 3, Ch41 L66; Book 7, Ch55 L75). **[1]**
 
 **Regalia of the Dark Hegemon**: the set of Jason's three soul-bound items, made by the Soul-Imprinting Triune (Book 6, Ch4 L26-38; see `09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md`). **[1]**
+
+**Rejector**: the name Builder cultists give Jason (Book 3, Ch31 L45; Book 3, Ch51 L114). **[1]**
+
 **Relics of the King**: astral throne, astral gate and soul forge. **[2]**
 
 **Restricted list**: the Adventure Society's list of essences and combinations judged dangerous to the public (Death, Corrupt, Sacrifice, Undeath, Succubus and others); holders cannot join the Society. **[0]**
@@ -381,9 +388,13 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Shade**: Jason's shadow familiar and butler. **[1]**
 
+**Shades, the**: Shade's several bodies speaking as one (Book 2, Ch57 L29). **[1]**
+
 **Shining Scabbard, Team**: team led by Sigrid Freyn (Book 12, Ch15 L8). **[3]**
 
 **Skill book**: a consumable that imparts a skill. **[0]**
+
+**Soph**: a nickname for Sophie Wexler (Book 1, Ch84 L74). **[1]**
 
 **Soul crest**: see *Immortal Crest*. **[1]**
 

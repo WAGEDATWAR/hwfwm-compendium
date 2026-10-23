@@ -50,6 +50,18 @@ Minor figures of the Yaresh, Cardinas and return books with no file of their own
 
 - A general who leads a Book 13 meeting and raises the idea that McKean siphons power from Jason's domains (Book 13, Ch1003 L3; Book 13, Ch1011 L41), and enters a later meeting in an EDJI service dress uniform (Book 13, Ch1020 L85).
 
+### Finneus Gallow
+
+- A monster-core user from Gormanston's aristocratic faction, confronted by Marcus over who keeps Adventure Society membership after the messenger invasion (Book 10, Ch48 L15, L31, L41).
+
+### Geneva Andros
+
+- Director of the Network's Geneva branch (Book 13, Ch974 L52; Book 13, Ch975 L4). She is the only silver-ranker among the gold-rankers Jason fights on the flying bus (Book 13, Ch976 L6) and accuses Bussinger of turning traitor (Book 13, Ch977 L107).
+
+### Kol Kelis Vel
+
+- A gold-rank messenger in the Cardinas zone alongside Galis Jay Vahal (Book 11, Ch6 L50). Belinda's hidden circle leaves her badly hurt (Book 11, Ch14 L10, L20).
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

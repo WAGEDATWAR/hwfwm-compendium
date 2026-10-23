@@ -46,14 +46,17 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Beth Cavendish** (B1): adventurer with her own team who knows Humphrey (B1); her team reaches bronze while Humphrey's is in the astral space (B3). See `07_Characters/Beth_Cavendish.md`.
 - **Boris Ket Lundi (Ketland)** (B6 hints, B10): Unorthodoxy messenger, Cabal leader.
 - **Brian** (B12): a priest of Dominion who greets Jason.
+- **Bruce Corwin** (B4): joins Jason's party on the aircraft mission and shoots down rockets (Book 4, Ch47 L37-43; Book 4, Ch48 L83).
 - **Bussinger** (B13): dark-haired Swiss Network gold-ranker in red and gold, with golden vambraces and gauntlets.
 
 ## C
 
 - **Calcifer Bynes** (B10): Aristocratic Faction political figure in Yaresh; son of Gormanston.
 - **Callum (Cal) Morse** (B2): gold-rank stealth hunter and Emir's old teammate; reveals in B6 that he is part of the Cult of the Reaper. See `07_Characters/Callum_Morse.md`.
+- **Carilo** (B9): healer in Rangel's party. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Carlos Quilido** (B3): Healer priest, soul healer.
 - **Carmen** (B6): avatar of doom of the Sundered Throne who "just turns up" to collect, taking Shako away on the Last Ferry (B6, B8).
+- **Cas Vin Baral** (B11): silver-rank messenger used for ritual materials by the gold-rankers (Book 11, Ch7 L14; Book 11, Ch12 L56).
 - **Cassandra Mercer** (B1): Jason's early lover; silver.
 - **Cassie** (B12): Lenora's assistant.
 - **Charist** (B9): diamond elf of Yaresh.
@@ -90,8 +93,10 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Elspeth Arella** (B1): Greenstone director.
 - **Emi (Emi Evans-Asano)** (B4): Jason's niece, called "Moppet"; file: Emi_Evans_Asano.md.
 - **Emir Bahadir** (B1): treasure-hunter, gold.
+- **Emresh** (B9): loan-collecting thug in Yaresh. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Erigo Fin Desca** (B10): messenger remade as the Builder's new prime vessel after Shako was taken by the Sundered Throne. See `07_Characters/Erigo_Fin_Desca.md`.
 - **Erika Asano** (B3 epilogue mention; B4): Jason's older sister, a television chef.
+- **Ernest Geller** (B1): Geller team leader. See `07_Characters/Minor_Cast/Minor_Cast_Books_1-3.md`.
 - **Estella Warnock** (B7): spy, Belinda's wife.
 - **Emiliano** (B12): Storm King.
 - **Emerson Cleary** (B5): US Network deputy director.
@@ -100,6 +105,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 - **Fal Vin Garath** (B9): silver messenger.
 - **Farrah Hurin (Huren)** (B1): Volcano magician; dies in B1, returns B4.
+- **Finneus Gallow** (B10): monster-core user of Gormanston's aristocratic faction. See `07_Characters/Minor_Cast/Minor_Cast_Books_10-13.md`.
 - **Fiorella** (B12): brightheart militia.
 - **Franklin** (B4): Cabal vampire.
 
@@ -111,6 +117,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Garth Larosse** (B10): Undeath high priest, zemravore. See `07_Characters/Garth_Larosse.md`.
 - **Gary (Gareth Xandier)** (B1): leonid smith; **Gary Sharpton** (B12): his reincarnation.
 - **Geller family**: Danielle, her husband Keith, their children Humphrey and Henrietta, and relatives Rick, Phoebe, Jonah and Henry.
+- **Geneva Andros** (B13): director of the Network's Geneva branch. See `07_Characters/Minor_Cast/Minor_Cast_Books_10-13.md`.
 - **Genevieve Picot** (B1): deputy director of the Greenstone Adventure Society.
 - **Gerling (Jack)** (B5): US Network gold-ranker who kills Kaito, Asya and Greg (B5); later Elizabeth's blood slave (B12-13).
 - **Gibson Amouz** (B8): Amouz heir.
@@ -132,6 +139,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Henrietta Geller** (B2): Humphrey's older sister, a summoner.
 - **Hess Jor Nasala** (B9): silver messenger subordinate to Jes Fin Kaal. See `07_Characters/Hess_Jor_Nasala.md`.
 - **Hester Maharala** (B1 as Hester; B2 surname): Emir's portaler, from Jayapura on Pranay's northern coast.
+- **Higgy** (B4): member of Nigel Thornton's team. See `07_Characters/Minor_Cast/Minor_Cast_Books_4-6.md`.
 - **Hils Jaramaris** (B12): Storm Kingdom ambassador.
 - **Hiram** (B1): guard at the quarry village aperture.
 - **Hiro Asano** (B4): Jason's uncle.
@@ -142,6 +150,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 ## I
 
 - **Ian Evans** (B4): a doctor (Book 4, Ch31 L77), Erika's husband and Emi's father; see `07_Characters/Ian_Evans.md`.
+- **Ingrid** (B6): head of the stockpile security team. See `07_Characters/Minor_Cast/Minor_Cast_Books_4-6.md`.
 - **Itsuki Tiwari** (B5): affliction specialist; Akari's husband.
 
 ## J
@@ -150,14 +159,17 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Jali Corrik Fen** (B10): freed messenger.
 - **Jamar** (B12): bartender, Arash's nephew.
 - **Jamis Fran Muskar** (B10): Council of Kings avatar.
+- **Janice** (B1): Jory's teenage receptionist. See `07_Characters/Minor_Cast/Minor_Cast_Books_1-3.md`.
 - **Jason Asano** (B1): protagonist.
 - **Jeni Kavaloa** (B7): expedition leader; died B7. See `07_Characters/Jeni_Kavaloa.md`.
+- **Jerrick** (B1): Thadwick Mercer's burly thug adventurer. See `07_Characters/Minor_Cast/Minor_Cast_Books_1-3.md`.
 - **Jory Tillman** (B1): alchemist.
 - **Jota Withers** (B12): pirate captain.
 - **Jonah Geller (Jonas)** (B1): Geller; died in Book 2.
 
 ## K
 
+- **Imran Keane** (B2): guardian-type with heavy armour and a huge shield. See `07_Characters/Minor_Cast/Minor_Cast_Books_1-3.md`.
 - **Kaito Asano** (B2 mention; B4): Jason's brother, Amy's husband; killed in B5.
 - **Kaal (Jes Fin Kaal)** (B9): gold messenger voice.
 - **Kasper Irios** (B7): peak-bronze heir of House Irios; see `07_Characters/Kasper_Irios.md`.
@@ -167,26 +179,32 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Ketis** (B2): Emir's granddaughter.
 - **Killian Laurent** (B2): sickly elf, Builder-linked. See `07_Characters/Killian_Laurent.md`.
 - **Koa** (B12): Māori Earthling.
+- **Kol Kelis Vel** (B11): gold-rank messenger in the Cardinas zone. See `07_Characters/Minor_Cast/Minor_Cast_Books_10-13.md`.
 - **Korinne Pescos** (B7): guild-elite team leader; see `07_Characters/Korinne_Pescos.md`.
 - **Kreegle** (B12): pirate mutineer.
 
 ## L
 
+- **Lancet de Varco** (B9): House de Varco duellist. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Landemere Vane** (B1): Builder cultist.
 - **Lenora Coleman** (B11/12): Artefact Site director.
 - **Li Li Mei** (B4/5): Chinese Network leader, later Earthling. See `07_Characters/Li_Li_Mei.md`.
 - **Liara Rimaros** (B7): gold princess.
 - **Lorenn** (B10): brightheart leader.
 - **Lorelei Grantham** (B3 epilogue): MRA vice chancellor. See `07_Characters/Lorelei_Grantham.md`.
+- **Loth** (B5): silver-rank dino-man in the Makassar proto-space. See `07_Characters/Minor_Cast/Minor_Cast_Books_4-6.md`.
 - **Lucian Lamprey** (B1): corrupt Magic Society director.
+- **Madam Landry** (B1): landlady of Jason's inn in Greenstone. See `07_Characters/Minor_Cast/Minor_Cast_Books_1-3.md`.
 
 ## M
 
+- **Eric Maldonado** (B9): organiser of the hunt for Jason. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Marcus Hargrave Xenoria** (B10): leonid adventurer deployed by the Adventure Society to Yaresh as the Continental Council's representative. See `07_Characters/Marcus_Hargrave_Xenoria.md`.
 - **Marek Nior Vargas** (B9): defecting messenger.
 - **Marla** (B10): brightheart leader. See `07_Characters/Marla.md`.
 - **Marie Finnegan** (B13): Swiss Network director. See `07_Characters/Marie_Finnegan.md`.
 - **Melody Jain** (B7): Sophie's mother.
+- **Merrick Harlowe** (B7): fort commander and silver-rank core user. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Miles Cotezee** (B6): Adventure Society official. See `07_Characters/Miles_Cotezee.md`.
 - **Miriam Vance** (B10): gold tactician.
 - **Mr North / Noreth** (B5): EOA leader.
@@ -199,6 +217,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Neiman Bassingthwaite** (B12): Burning Violet's chief membership officer, an older gold-ranker.
 - **Nicolas Hendren** (B2): archbishop of Purity; killed in B3 See `07_Characters/Nicolas_Hendren.md`.
 - **Nigel Thornton** (B4): Network team leader.
+- **Night Stalker** (B5): bronze-rank vampire with Craig Vermillion. See `07_Characters/Minor_Cast/Minor_Cast_Books_4-6.md`.
 - **Nik (Nik Asano)** (B11): the humanoid rabbit Jason brought into being in his soul realm, who calls him "Dad"; "Lehenik" is the word he is named from, meaning "first"; file: Nik_Asano.md.
 - **Noriko Asano** (B5): Japanese matriarch. See `07_Characters/Noriko_Asano.md`.
 
@@ -216,7 +235,9 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 ## R
 
+- **Rangel** (B9): team leader in the hunt for Jason; with Tellez. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Raythe** (B9): vessel of the Keeper of Moments.
+- **Relia Vin Vala** (B11): silver-rank messenger, the pick of the bunch (Book 11, Ch13 L4).
 - **Rick Geller** (B1): gold, Geller leader.
 - **Roland Remore** (B1): diamond arch-chancellor.
 - **Rufus Remore** (B1): swordsman.
@@ -235,9 +256,11 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 - **Tabitha Gert** (B2): strict Adventure Society official who leads the Continental Council inquiry into Greenstone.
 - **Taika Williams** (B4): Garuda.
+- **Tellez** (B9): team leader in the hunt for Jason; with Rangel. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
 - **Tera Jun Casta** (B9): freed messenger.
 - **Thadwick Mercer** (B1): Mercer son; the Builder's vessel.
 - **Thalia Mercer** (B1): silver, Mercer matriarch.
+- **Thanh** (B5): category-three capture-team member with a light essence. See `07_Characters/Minor_Cast/Minor_Cast_Books_4-6.md`.
 - **Timos** (B2): Builder cultist.
 - **Todd "The Necromancer" Halverson** (B6): necromancer who got his start in Mr North's house; implicated in the Makassar undead.
 - **Trenchant Moore** (B7): royal guard commander. See `07_Characters/Trenchant_Moore.md`.

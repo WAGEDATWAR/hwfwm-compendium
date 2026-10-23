@@ -39,6 +39,32 @@ Recurring minor figures of the Greenstone books that have no file of their own.
 - Dean Tuckell is an iron-rank adventurer who summons monsters at the Clementson mill for Thadwick Mercer (Book 1, Ch94 L25-58). Clementson is the mill owner, a normal-rank man (Book 1, Ch94 L16).
 - Kyle Lindover, the leonid mill owner, is the victim of the fergax contract (Book 1, Ch93 L24-29).
 
+### Madam Landry
+
+- The landlady of the Greenstone inn where Jason lodges, who berates a tall man in scholar's robes in her lounge (Book 1, Ch64 L83). Jason calls her "a small business owner who works very hard to run a quality establishment" (Book 1, Ch82 L82).
+<!-- level:3 -->
+- By Book 12 she finds second-tier adventurers the perfect clientele for long-term tenancy (Book 12, Ch27 L5).
+<!-- /level -->
+
+### Janice
+
+- Jory's teenage receptionist and assistant at his shop (Book 1, Ch44 L40; Book 1, Ch106 L8). Jason pleads with her for crystal wash (Book 1, Ch76 L15).
+<!-- level:3 -->
+- A Janice manages a patisserie in Vitesse in Book 11 (Book 11, Ch68 L2060); the text does not say she is the same person.
+<!-- /level -->
+
+### Ernest Geller
+
+- A Geller team leader who looks like Humphrey, with the same height and broad shoulders; Jason does not assume a close relation (Book 1, Ch80 L90). He makes a "teaching moment" of his team's choices (Book 1, Ch82 L31), leads the team at the sand barge battle (Book 1, Ch90 L32) and later guards Jonah Geller (Book 2, Ch19 L73).
+
+### Jerrick
+
+- The burly thug adventurer, toughest of those Thadwick Mercer took under his auspices (Book 1, Ch95 L16); he fights with a spiked sphere on a chain (Book 1, Ch95 L46) and is quietly struck off the Adventure Society roll afterwards (Book 1, Ch97 L101).
+
+### Imran Keane
+
+- A guardian-type who conjures heavy armour and a huge shield, added to a party with Jory in the Reaper trials (Book 2, Ch46 L42) and then to Jason's party (Book 2, Ch53 L64).
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

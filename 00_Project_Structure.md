@@ -154,6 +154,7 @@ The cited questions live in `Appendices/Open_Questions.md` (24 entries); unconfi
 ## 10. Maintenance practices
 
 - Keep the **Source Register** (`Appendices/Source_Register.md`) and **Source Map** current by running `python3 src/tools/build_register.py` after any document edit; both files are generated, so never edit them by hand. Read any new "weak" rows it reports.
+- Run `python3 src/tools/name_scan.py` after each content tier; it must report zero uncovered words (use `--index` to list names that appear in documents but not yet in the Name Index or Glossary). Add any new name to a character file, a `Minor_Cast/` entry or the Glossary.
 - Keep a **Change Log** in `Appendices/Change_Log.md` listing each document added or revised, with the date. Update it at the end of every writing or verification session, not afterwards.
 - After writing any file, update the **Name Index** and add any new terms to the **Glossary**, and list the file in its folder's overview.
 - Mark each document's Status; a document is "Verified" only after being checked against the book text.
