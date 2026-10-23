@@ -106,7 +106,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 ## G
 
 - **Gabriel Remore** (B1): Rufus's father, a fire swordsman.
-- **Gabrielle Pellin** (B1): Knowledge priestess; Travis's wife.
+- **Gabrielle Pellin** (B1): Knowledge acolyte, later priestess (Book 1, Ch38 L122); Travis Noble's wife (Book 12, Ch58 L41; Book 13, Ch1016 L68).
 - **Garret Headingway** (B12): upper-echelon member of House Headingway, one of Estercost's pre-eminent families.
 - **Garth Larosse** (B10): Undeath high priest, zemravore. See `07_Characters/Garth_Larosse.md`.
 - **Gary (Gareth Xandier)** (B1): leonid smith; **Gary Sharpton** (B12): his reincarnation.
@@ -141,7 +141,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 ## I
 
-- **Ian Evans** (B4): Erika's husband and Emi's father; see `07_Characters/Ian_Evans.md`.
+- **Ian Evans** (B4): a doctor (Book 4, Ch31 L77), Erika's husband and Emi's father; see `07_Characters/Ian_Evans.md`.
 - **Itsuki Tiwari** (B5): affliction specialist; Akari's husband.
 
 ## J

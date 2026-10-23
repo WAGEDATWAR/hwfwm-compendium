@@ -15,7 +15,7 @@ The director of the Adventure Society's Yaresh branch.
 
 - "Musin Heath, director of the Adventure Society's Yaresh branch" (Book 10, Ch9 L38).
 - Announces a potential alliance with the messenger leader and shows his equanimity (Book 10, Ch10 L3); presents the messenger-delivered device with distrust (Book 10, Ch11 L4).
-- He is director of the Adventure Society's Yaresh branch (Book 10, Ch9 L38); he is an elf, as are most Yaresh locals (Book 10, Ch9 L37); his rank and core use are from the notes only (notes, Book 10; not located).
+- He is director of the Adventure Society's Yaresh branch (Book 10, Ch9 L38); he is an elf, as are most Yaresh locals (Book 10, Ch9 L37); his rank and core use are not stated in the chapters. He is a veteran administrator, not an expert at handling monsters, who calms an unruly room of silver-rankers by spreading his aura and imposing calm through aura suppression (Book 10, Ch10 L3).
 
 ## 3. Roleplay notes
 

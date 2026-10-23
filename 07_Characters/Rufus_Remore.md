@@ -13,7 +13,7 @@ Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the dia
 
 ## 2. Appearance
 
-Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three (Book 1, Ch11 L49). His voice is "like dark chocolate" (Book 1, Ch11 L51). The notes describe him as tall (notes, Book 1; no height is stated in the lines checked).
+Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three (Book 1, Ch11 L49). His voice is "like dark chocolate" (Book 1, Ch11 L51). He is "tall and lean" (Book 7, Ch9 L6) and a "tall, leanly muscular adventurer" (Book 9, Ch3 L59); no height in numbers is given.
 
 ## 3. Personality and voice
 

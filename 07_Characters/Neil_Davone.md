@@ -28,7 +28,7 @@ He grew up in the Mercer family's orbit: he started spending time at the Mercer 
 
 ## 5. Background
 
-An elf of the Davone family, whose household is on the Island and holds tea lands in the Mistrun valley (Book 2, Ch23 L17, where a maid serves the family's blend). He was initially Thadwick Mercer's lackey and team mate; after Thadwick's fall he quit and joined Jason (wiki). The wiki calls Cassandra Mercer an "ex? girlfriend" (wiki).
+An elf of the Davone family, whose household is on the Island and holds tea lands in the Mistrun valley (Book 2, Ch23 L17, where a maid serves the family's blend). He was initially Thadwick Mercer's lackey and team mate (Book 1, Ch110 L40; Book 2, Ch75 L67); after the disastrous expedition Thadwick disbanded the team without notice and the two were glad to be free of being known as Thadwick's flunkeys (Book 2, Ch27 L57), and Neil then joined Jason's team (Book 11, Ch6 L63). Cassandra Mercer is not his ex: as a youth he admired Thadwick's older sister (Book 2, Ch27 L43), and he was angry that she chose Jason (Book 11, Ch6 L60). She was Jason's girlfriend and ended it (Book 2, Ch13 L19).
 
 ## 6. Timeline of involvement
 

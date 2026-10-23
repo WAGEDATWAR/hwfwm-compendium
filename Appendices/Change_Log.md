@@ -387,6 +387,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - `TODO_Build_Plan.md` is now excluded from the register like `TODO_Verification.md`; it is a working list, and its cites were being graded as claims (three of the weak rows).
 - No claim was strengthened beyond its cite. Where a cite did not carry the whole sentence, the unsupported part was left as an uncited sentence or marked as an inference (for example that the Old City mayor answers to the Duke).
 
+**Remaining notes and wiki lines settled, build plan item 1.4 (2026-10-22)**
+- Located or narrowed against the chapters: Elizabeth leading vampires separate from the Cabal (`Earth_Powers.md`, Book 6, Ch47 L27 to L28), Rufus's height (`Rufus_Remore.md`, "tall and lean", Book 7, Ch9 L6), Vesper's silver rank (`Zara_Rimaros.md`, Book 7, Ch15 L74 and Ch21 L32), Anna's System scene (`Anna_Tilden.md`: she is shown a System Administrator window, not asked to confirm; Book 12, Ch42 L99 to L101) and her GDN role (go-between only; membership is not stated).
+- Musin Heath's rank and core use are not stated anywhere in the chapters (`Musin_Heath.md`); the notes claim is dropped and the text-based description kept.
+- `Neil_Davone.md`: the wiki lines are replaced by book lines (Thadwick's lackey; Cassandra is not Neil's ex-girlfriend, he admired her and she was Jason's girlfriend). The wiki "ex?" line was a mis-assignment.
+- `Name_Index.md` and `Gabrielle_Pellin.md`: Gabrielle Pellin as Travis Noble's wife and Ian Evans as a doctor now carry book lines; the Gabrielle file gains the Book 12 and 13 marriage facts.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

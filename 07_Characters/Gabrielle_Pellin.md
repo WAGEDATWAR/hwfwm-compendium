@@ -15,6 +15,7 @@ An acolyte of Knowledge who is Humphrey's girlfriend and later a priestess.
 
 - Introduces herself as "just an acolyte, not a full priestess" (Book 1, Ch38 L122); Humphrey breaks up with her in Book 2 (Book 2, Ch28 L25-30).
 - By Book 7 she is a priestess of the Goddess of Knowledge who has grown into "dangerous beauty, with olive skin, chocolate hair and graceful poise" (Book 7, Ch9 L7-8).
+- By Book 12 she is Travis Noble's wife and is quiet, still getting used to the absence of her goddess (Book 12, Ch58 L41); in Book 13 Travis brings his wife Gabrielle Pellin breakfast in bed (Book 13, Ch1016 L68, L74).
 - In Book 13 a cube leaves her chest into Knowledge's hand, and she seizes (Book 13, Ch1023 L139).
 
 ## 3. Roleplay notes
