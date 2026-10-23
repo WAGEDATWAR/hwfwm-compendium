@@ -513,6 +513,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New in `04_Peoples_and_Cultures/`: `Girlano_Culture.md`, `Sadi_Andali_Culture.md`, `Zartos_Culture.md`, `Dragon_Lands_Culture.md`, `Vitesse_Culture.md`, `Mirror_Kingdom_Culture.md`, `Dreisil_Culture.md`, `Boko_Culture.md`, `Jayapura_Culture.md` and `Ustei_Homeland_Culture.md`. Each is a culture-lens file linking to its place file; where the text says little (Girlano, Sadi Andali, Zartos, Dreisil, the Dragon Lands) the file says so and lists what is not stated.
 - Observed: the Mirror Kingdom is "small, affluent and geographically blessed" (Book 2, Ch51 L8) but a Book 13 line puts it "so far north that the ice never thaws" (Book 13, Ch1022 L51); both are recorded in the file. Dreisil is named only in Book 6, Ch47 L390 and L392.
 
+**Thin people files, build plan item 2D.2 (2026-10-23)**
+- `Merfolk.md`, `Goblins_and_Fairies.md`, `Runics.md` and `Valash.md` gain further cited facts (runics: civilisation-building species, spellcasters, kinship with smoulders; valash: Zolit Kreen's story; goblins and fairies: Cabal beings in human form). Merfolk stays at one real reference; a scan finds no other.
+- New `Lehenik.md` (Nik's kind, Book 11, Ch23 L42 to Book 13, Ch991 L5) and `Messengers_as_a_People.md` (society, hierarchy, names, with a pointer to the 02 file). The messenger-name pattern (Vin, Fin, Fran, Carmis, Ket) is an observation, not a rule stated by the text.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
