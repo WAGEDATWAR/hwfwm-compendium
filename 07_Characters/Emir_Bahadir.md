@@ -21,6 +21,6 @@ A gold-rank adventurer and patron of the Reaper contest whose cloud palace becom
 
 ## 3. Roleplay notes
 
-**Voice (condensed)**: Smooth, showy and fond of an entrance. Cues: Book 3, Ch5 L9; Book 3, Ch69 L509. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Smooth, showy and fond of an entrance. Cues: Emir liked big entrances, as seen in the grandiose arrival of his crew (Book 3, Ch5 L9); "Merfolk are not fish" (Book 3, Ch69 L509). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Smooth, generous and exact; he leaves little unsaid that matters.

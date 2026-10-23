@@ -22,4 +22,4 @@ A bronze-rank Greenstone adventurer and water healer who leads a team in the Ust
 
 ## 3. Roleplay notes
 
-Competent and brisk, a clear team leader who gives orders without ceremony (Book 1, Ch89 L77).
+Competent and brisk, a clear team leader who gives orders without ceremony. She directs the team: "We're going to move on the sand barge" (Book 1, Ch89 L77).

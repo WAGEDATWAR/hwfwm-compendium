@@ -61,7 +61,7 @@ Magic in the world is raw power from the astral. In a magic-rich world it conden
 ## 4. Changes over the series
 
 - **Level 1:** Books 1 to 3 establish the basics above, and the Reaper trials and Builder astral space add growth items, familiars and divine stones (Book 2, Ch13 L60-90; Book 2, Ch74 L40-50).
-- **Level 2:** Book 4 moves to Earth, where ranks are tiers and the Grid contains the leaks (Book 4, Ch11 L4-22; Book 5, Ch5 L11). Book 5 and Book 6 bring monster waves and transformation zones (Book 5, Ch44 L48). Book 7 and Book 8 run a surge on Pallimustus (Book 7, Ch1 L56).
+- **Level 2:** Book 4 moves to Earth, where magical ranks are named tiers that start at zero (Book 4, Ch11 L9-10). The Grid works as interconnected rituals built from the natural features of the world (Book 5, Ch5 L11). Book 5 and Book 6 bring monster waves and transformation zones (Book 5, Ch44 L48). Book 7 and Book 8 run a surge on Pallimustus (Book 7, Ch1 L56).
 - **Level 3:** After Jason's second zone, magic on Earth "had risen" and essences and monsters appear directly (Book 11, Ch1 L16). Confluences stop being fixed (Book 11, Ch68 L1574-1580; Book 12, Ch10 L91). Resurrection becomes harder (Book 9, Ch81 L61). The System spreads from Jason (Book 12, Ch67 L197).
 
 ## 5. Common misconceptions

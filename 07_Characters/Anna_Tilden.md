@@ -15,7 +15,7 @@ Anna Tilden is a Network director who first meets Jason on Earth in Book 4, beco
 
 - **Roles**: Director of the Network's Sydney operation, a government-faceless "suit" who hunts magic events from a helicopter, addressed as "Director" by Ketevan Arziani (Book 4, Ch5 L111-112); on the Steering Committee of old family Network members in Book 5 (Book 5, Ch9 L52); UN Liaison to the Asano clan in Book 6 (Book 6, Ch47 L16-18); Under-Secretary-General of the Office of Supernatural Affairs by Book 11, an ex-Network official who knew Jason with "trust and scared" (notes, Book 11).
 - **Family**: wife Susan; brother Terrance, the Network's media director (Book 4, Ch5 L5-7; Book 5, Ch8 L69).
-- **Habits**: in Book 12 Nigel Thornton's team works for her and she sends him to Rexion (Book 12, Ch10 L94; the contract-operative detail is from notes, Book 12). In Book 13 she sets up a meeting in Canberra for ambassadors and officials of the nations whose people were displaced (Book 13, Ch953 L9); that she works with Boris Ket Lundi is from notes, Book 13.
+- **Habits**: Nigel Thornton's team is most often contracted by her (Book 12, Ch3 L7), and Nigel says he came to Rexion on her job ("Anna Tilden. You know her, right?", Book 12, Ch10 L94). In Book 13 she sets up a meeting in Canberra for ambassadors and officials of the nations whose people were displaced (Book 13, Ch953 L9); that she works with Boris Ket Lundi is from notes, Book 13.
 
 ## 3. Timeline
 

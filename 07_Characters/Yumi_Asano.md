@@ -13,7 +13,7 @@ Jason's paternal grandmother and the matriarch of the Asano clan.
 
 ## 2. Facts
 
-- Present in Book 4 (Book 4, Ch74 L43).
+- Present in Book 4, raising her eyebrows at Jason (Book 4, Ch74 L43).
 - Pushes Jason to formalise the clan (Book 6, Ch47 L58).
 - Forbids members from going far outside the domain (Book 11, Ch36 L8-12).
 - Magic leaves her looking no older than Jason (Book 12, Ch2 L92).

@@ -15,7 +15,7 @@ Jason's mother, from a large Australian farming and mining family, and the one i
 
 - Her family are "miners and farmers, tracing their bloodline back through bushrangers, convicts, and indigenous Australians"; she was the one fascinated with Japan and tried to engage her children with their father's heritage (Book 1, Ch1 L88).
 - Jason describes his mother's side as "a large family of mostly rural types" (Book 2, Ch20 L18).
-- Present when the family gathers in Book 4 (Book 4, Ch45 L76).
+- Present when the family gathers in Book 4, where Amy puts a restraining hand on Cheryl's arm (Book 4, Ch45 L76).
 - She is "the pre-eminent upscale realtor in the Greater Casselton area" (Book 4, Ch24 L42); Jason is told his parents divorced a year ago and that his mother moved to Castle Reach (Book 4, Ch4 L105).
 
 ## 3. Roleplay notes

@@ -22,7 +22,7 @@ At first she is regal ("royal highness") and wary: in Book 2 Jason teleports int
 ## 4. Powers and skills as world facts
 
 - **Powers**: wind and water, big storms (Book 12, Ch0 L14 says she has "been blowing things up with big storms"); recovery, speed, astral and holy affinity (notes, Book 2).
-- **Rank**: gold by Book 12 (Book 12, Ch12 L3); her rank when she first meets Jason is not stated in the chapters read.
+- **Rank**: gold by Book 12: she stays in a suite fit for gold-rank adventurers (Book 12, Ch12 L3) and calls up a storm of gold-rank force (Book 13, Ch965 L86); her rank when she first meets Jason is not stated in the chapters read.
 
 ## 5. Background
 

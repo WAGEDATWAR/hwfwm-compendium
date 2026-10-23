@@ -24,7 +24,7 @@ An ice-armoured defender from the Kettering family who starts as one of Thadwick
 
 - Book 1-2: Thadwick's team, then Rick's (Book 1, Ch110 L17; Book 2, Ch29 L8).
 - Book 7: arrives with Rick's group in Rimaros (Book 7, Ch59 L65).
-- Book 10-11: fights in Cardinas with Neil and the brighthearts (Book 10, Ch70 L38; Book 11, Ch6-20).
+- Book 10-11: fights messengers on Rick's team, where Stash smashes him and Rick together (Book 10, Ch70 L38); in Book 11 he and Neil claim a territory as a defender-healer pair (Book 11, Ch8 L23).
 
 ## 4. Roleplay notes
 

@@ -29,7 +29,7 @@ Greenstone is a colony city at the mouth of a river delta in the low-magic far s
 - **The Big Three of the underworld**: Clarissa Ventress (mansion in the canal district), Cole Silva (obsessed with Sophie) and Adris Dorgan (the "quiet one", Book 1, Ch103 L120; Elspeth Arella's father, Book 1, Ch104 L88; Book 12, Ch27 L44). They keep the underworld running and avoid gang war because it draws the attention of the Island authorities (Book 1, Ch42 L22, L29).
 - **The great families**: the Gellers (an estate, with a mirage chamber), the Mercers (Thalia, Cassandra, Thadwick; the Mercer estate has a gate and guards), and the Remore family's academy annex.
 - **History of the settlers**: most Greenstoners descend from Estercost immigrants a few centuries ago; Boko to the north is much older, with a native population (Book 12, Ch29 L59-60).
-- **The Duke of Greenstone** rules the city from a walled residence in the Island's park district; only his household guard uses iron-rank essence users as basic troops, and the Old City's mayor answers to him (Book 12, Ch29 L38 gives the mayor; that he answers to the Duke is unchecked).
+- **The Duke of Greenstone** rules the city from a walled residence in the Island's park district; only his household guard uses iron-rank essence users as basic troops. Adris Dorgan, once a crime lord, is mayor of Old City by Book 12 (Book 12, Ch29 L38); that the mayor answers to the Duke is unchecked.
 - **Faiths**: temples in the Divine Square, including the Healer's. Purity's Anisa Lasalle begins the books in Rufus's party.
 
 ## 4. Magic level
@@ -67,7 +67,7 @@ Aristocrats and the wealthy live on the Island; ordinary people in the Old City.
 <!-- level:3 -->
 ## Later developments (spoilers)
 
-Greenstone is repeatedly touched by the Builder cult through Books 3-8. By Book 12 the third crime family's leader has been legitimised as mayor of the Old City (the Duke rules the city, Book 1, Ch36 L71; that the mayor answers to him is an inference), the Adventure Society is cleaner and, twenty years later, Elspeth Arella remains in the post she was forced into. Boko, the neighbouring academic city, is destroyed after Jason is assassinated there (Book 12, Ch32-33; Book 12, Ch33 L3); most of its ninety thousand people are evacuated first.
+Greenstone is repeatedly touched by the Builder cult through Books 3-8. By Book 12 the third crime family's leader has been legitimised as mayor of the Old City (the Duke rules the city; that the mayor answers to him is an inference), the Adventure Society is cleaner and, twenty years later, Elspeth Arella remains in the post she was forced into. Boko, the neighbouring academic city, is destroyed after Jason is assassinated there (Book 12, Ch32-33; Book 12, Ch33 L3); most of its ninety thousand people are evacuated first.
 
 <!-- /level -->
 

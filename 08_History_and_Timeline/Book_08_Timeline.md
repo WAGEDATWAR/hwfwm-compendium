@@ -11,13 +11,13 @@ Chapter-by-chapter order of Book 8, with the in-world time wherever the text giv
 
 ## 1. Time anchors used in this book
 
-- **Start**: the aftermath scenes of Book 7 are "a month" after the One Day War (Book 7, Ch66 L27); Book 8 starts in the same period, with Jason's team taking contracts again (Book 8, Ch1 L7).
+- **Start**: the aftermath scenes of Book 7 are a month after the One Day War (Book 7, Ch66 L27). Book 8 starts in the same period, with Jason on an expedition to the arid north coast (Book 8, Ch1 L7).
 - **Contract scheduling**: the Adventure Society functionary says Jason's team has contracts scheduled "for almost two weeks in advance" (Book 8, Ch3 L65).
 - **Stronghold**: Shade has occupied the mountain stronghold "for the last few days" (Book 8, Ch29 L22).
 - **Week**: the Pallimustus week has six days, with names such as Fourthday and Fifthday (Book 8, Ch58 L19).
 - **Convalescence**: Dawn's dinner guests talk of "the man who spent the last two months sitting around in his house, telling the most powerful people in the city to bog off" (Book 8, Ch62 L52), so Ch62 is about two months after the stronghold raid and the portal.
 - **Withdrawal**: the Builder's forces "effectively abandoned the Storm Kingdom as a battlefront weeks ago" (Book 8, Ch59 L6), and the Builder is "already withdrawing his forces from around the planet" (Book 8, Ch56 L35).
-- **End**: the book closes as the end of the monster surge approaches and Dawn leaves (Book 8, Ch68 L9).
+- **End**: the book closes as the end of the monster surge approaches. Dawn says she has lingered longer than she should and says goodbye at the gate (Book 8, Ch68 L9).
 
 ## 2. Contracts and the sacked fortress town (Ch1 to Ch8)
 

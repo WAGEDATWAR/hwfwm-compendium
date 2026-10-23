@@ -31,6 +31,6 @@ Elemental powers (notes, Book 11); he can take two people with him when he retur
 
 ## 5. Roleplay notes
 
-**Voice (condensed)**: Measured and careful. Cue: Book 11, Ch68 L493-498. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Measured and careful. Cue: "I am unfortunately inclined to agree," he tells Taika, and says he will attempt to simplify their situation (Book 11, Ch68 L493-498). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Wry, ancient and accented; he jokes while explaining cosmic danger.

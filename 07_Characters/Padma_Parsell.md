@@ -21,4 +21,4 @@ An adventurer from Remore Academy and Farrah's half-disciple, who leads a Vitess
 
 ## 3. Roleplay notes
 
-Keen, grieving and quick to speak her mind (Book 2, Ch38 L35).
+Keen, grieving and quick to speak her mind. When Lance calls out under his breath, she ignores him (Book 2, Ch38 L35).

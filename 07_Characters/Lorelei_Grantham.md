@@ -21,7 +21,7 @@ A researcher and later Vice-Dean and Vice Chancellor of astral magic research wh
 
 ## 3. Timeline of involvement
 
-- Book 3: introduces herself after the dome chamber events (Book 3, Ch69 L455).
+- Book 3: introduces herself as a researcher assigned to the Adventure Society's Continental Council (Book 3, Ch69 L455).
 - Book 6: Rakesh, Clive's recruitment and escape (Book 6, Ch47 L624-741).
 - Book 12-13: Earth expedition and Jason's school (Book 12, Ch56 L119; Book 13, Ch1016 L106).
 

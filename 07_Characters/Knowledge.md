@@ -24,7 +24,7 @@ The Book 13 briefing says she has been preparing to invade Earth for half a mill
 
 ## 4. Relationships
 
-Jason; Gabrielle Pellin; Purity and Disguise; the Church of Knowledge (funds the MRA, Book 12, Ch1 L58).
+Jason; Gabrielle Pellin; Purity and Disguise; the Church of Knowledge (one of the churches that contribute funding to the MRA, Book 12, Ch1 L58).
 
 ## 5. Roleplay notes
 

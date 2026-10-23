@@ -151,5 +151,5 @@ Chapter-by-chapter order of Book 1, with the in-world time wherever the text giv
 
 ## 11. Notes on the interval
 
-- The text gives an explicit "about two months" at Ch62 L5, so the field assessment ends in late January 2018 by the calendar anchors. "Summer moved into autumn" at Ch93 L5 puts the Leust contract in the southern autumn, about March 2018, so Book 1 runs for about four months, M0 to M4.
+- In his recording Jason says "It's been about two months since I arrived here" (Book 1, Ch62 L5). By the calendar anchors the field assessment therefore ends in late January 2018. "Summer moved into autumn" at Ch93 L5 puts the Leust contract in the southern autumn, about March 2018, so Book 1 runs for about four months, M0 to M4.
 - Between Ch62 and Ch93 the book gives only short intervals: eighteen days of contracts (Book 1, Ch65 L50), a week in the arena (Book 1, Ch66 L7), "more than a week" on the thefts (Book 1, Ch100 L79) and three weeks since the memorial service (Book 1, Ch101 L4). The "M2 to M3" labels in the tables are placements from those intervals, not stated dates.

@@ -49,6 +49,6 @@ Her mother's identity and fate are levels 2-3.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: Wary of kindness and silent about pain. Cues: Book 2, Ch1 L77-80; Book 2, Ch45 L69-72. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Wary of kindness and silent about pain. Cues: she asks why Jason would do so much for them (Book 2, Ch1 L77-80); she grimaces silently through the pain of a broken arm (Book 2, Ch45 L69-72). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Quick and sharp; she distrusts kindness at first and stays in the fight through pain.

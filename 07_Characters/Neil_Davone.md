@@ -48,6 +48,6 @@ His fall from the Mercers' favour is level 1.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: Tentative before committing. Cue: Book 2, Ch27 L46. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Tentative before committing. Cue: Asano's visit left Neil uncertain, since the only real attraction to joining the team was Humphrey Geller (Book 2, Ch27 L46). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Calm and humane; the healer who patches everyone up.

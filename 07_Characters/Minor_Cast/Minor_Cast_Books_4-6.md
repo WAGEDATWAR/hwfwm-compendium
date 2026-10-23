@@ -24,7 +24,7 @@ Minor Network, government and Earth figures of the Earth books that have no file
 
 ### Gordon Truffett
 
-- The government representative at the negotiations with Jason, a man with no magic (Book 4, Ch36 L139-145). He takes command on site as a government figure in Book 11 (Book 11, Ch68 L476) and needs publicity in Book 13 (Book 13, Ch950 L47).
+- The government representative at the negotiations with Jason, a man with no magic (Book 4, Ch36 L139-145). In Book 11 he snatches a phone and says he is onsite and taking command of operations (Book 11, Ch68 L476). In Book 13 he is said to need the publicity (Book 13, Ch950 L47).
 
 ### Emerson Cleary
 

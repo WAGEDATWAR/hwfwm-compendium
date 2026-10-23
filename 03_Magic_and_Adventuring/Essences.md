@@ -39,7 +39,7 @@ An essence is the most powerful and rarest of the forms in which magic condenses
 
 **Restricted essences.** The Adventure Society keeps a list of essences and combinations "that pose an inherent threat to ordinary people", with the death essence at the top of it by itself, "because it always seems to go wrong" (Book 1, Ch20 L42-44). Membership is impossible with a restricted essence (Book 1, Ch20 L44). The combinations that produce the undeath confluence almost all involve death (Book 1, Ch20 L19). The Magic Society's living document lists every known essence and combination, with restricted ones flagged, and Jason's sin essence is in "the rarest category" (Book 1, Ch20 L97-104).
 
-**Rarity.** Essences vary in how often they appear and how common they are. Sin is among the rarest (Book 1, Ch20 L104). A rune essence reaches Clive as an "epic four-star essence" (Book 2, Ch9 L21). Low-rarity essences are the ones ordinary buyers afford (Book 1, Ch108 L28). The rat essence is "not popular with anyone who could afford to be choosy" (Book 1, Ch87 L91).
+**Rarity.** Essences vary in how often they appear and how common they are. Farrah says the sin essence is in the rarest category (Book 1, Ch20 L104). A rune essence reaches Clive as an "epic four-star essence" (Book 2, Ch9 L21). Low-rarity essences are the ones ordinary buyers afford (Book 1, Ch108 L28). The rat essence is "not popular with anyone who could afford to be choosy" (Book 1, Ch87 L91).
 
 **Not all essences are simple.** An essence can seem to carry a meaning far from its name: Neil says it takes arrogance to absorb "the essence of defying the gods", and Jason replies that the sin essence is not about defying gods for him (Book 3, Ch8 L37-44).
 

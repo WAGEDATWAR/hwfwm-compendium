@@ -17,7 +17,7 @@ Book 13 is set almost entirely on Earth, and its chapters carry on the series-wi
 - **The Network**: it fragmented into four "well over a decade ago" (Book 13, Ch964 L9).
 - **The initiative**: Jason has been "pushing the Earth Defence Joint Initiative for a decade" (Book 13, Ch1001 L6), and Neil says the team has "been running around this planet for a decade" (Book 13, Ch1003 L91).
 - **Clan research**: the clan has not been experimenting on humans for "a decade and a half" (Book 13, Ch987 L37).
-- **Open note**: the chapter-summary notes mention a "two years into the renewed vampire war" line at Ch995; the lines checked here (Ch995 L57, L76) do not show it, so it is not asserted.
+- **Open note**: the chapter-summary notes mention a "two years into the renewed vampire war" line at Ch995; the lines checked here (the symposium exchange and the report of Bahrain's vanished government) do not show it, so it is not asserted.
 
 ## 2. Arrival and the first meetings (Ch950 to Ch962)
 
@@ -127,6 +127,6 @@ Book 13 is set almost entirely on Earth, and its chapters carry on the series-wi
 
 ## 8. Notes on the interval
 
-- Book 13's present is 2038 (Book 13, Ch951 L50). If Jason left Earth in autumn 2021 (Book 6, Ch47 L155) and has been gone sixteen years (Book 13, Ch972 L51), his return falls around 2037 to 2038, which agrees with the dated line. The "twenty years" lines count from the arrival or from the first events on Earth, not from his departure.
+- Book 13's present is 2038: a character asks how not knowing a kids' show in 2038 can be un-Australian (Book 13, Ch951 L50). If Jason left Earth in autumn 2021 (Book 6, Ch47 L155) and has been gone sixteen years (Book 13, Ch972 L51), his return falls around 2037 to 2038, which agrees with the dated line. The "twenty years" lines count from the arrival or from the first events on Earth, not from his departure.
 - The order inside the book is chapter order. Gaps between scenes are not stated except for "a decade" and "fifteen years" of background.
 - The old notes for this book mix up several chapter numbers (for example Nik's gold rank); the rows above cite only lines that were read.

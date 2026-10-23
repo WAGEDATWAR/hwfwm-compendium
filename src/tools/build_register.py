@@ -12,7 +12,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.abspath(os.path.join(HERE, "..", ".."))
 ST = os.path.join(BASE, "src", "Source_Text")
 EXCLUDE = {"Appendices/Source_Register.md", "Appendices/Source_Map.md", "Appendices/Change_Log.md",
-           "TODO_Verification.md", "00_Project_Structure.md"}
+           "TODO_Verification.md", "TODO_Build_Plan.md", "00_Project_Structure.md"}
 HEADER_KEYS = ("Status:", "Spoiler level:", "Valid from:", "Valid through:", "Sources:", "Related:")
 
 idx = json.load(open(os.path.join(HERE, "chapter_index.json"), encoding="utf-8"))

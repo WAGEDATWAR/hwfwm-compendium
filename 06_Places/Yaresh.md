@@ -40,7 +40,7 @@ High, shaped by the natural array's elemental magic. The array imbues elemental 
 
 ## 6. Notable people
 
-Allayeth and Charist (diamond elves), the Duke of Yaresh, Marek Nior Vargas (defecting messenger), Tera Jun Casta and Kaal (messengers), Argrave Mericulato, Prince Valdis and Sigrid Freyn (visiting Mirror Kingdom team), Rufus (in Yaresh in Book 9, Ch42 L34).
+Allayeth and Charist (diamond elves), the Duke of Yaresh, Marek Nior Vargas (defecting messenger), Tera Jun Casta and Kaal (messengers), Argrave Mericulato, Prince Valdis and Sigrid Freyn (visiting Mirror Kingdom team). Rufus is with Jason's group in Book 9: "Mostly doesn't," Rufus qualified (Book 9, Ch42 L34).
 
 ## 7. Customs and daily life
 

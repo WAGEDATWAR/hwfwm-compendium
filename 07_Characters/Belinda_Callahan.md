@@ -50,6 +50,6 @@ Her infiltration identities are levels 2-3.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: Delighted by her own cleverness, and teasing. Cues: Book 2, Ch32 L72; Book 7, Ch6 L42. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Delighted by her own cleverness, and teasing. Cues: "Charlatan," she says with glee (Book 2, Ch32 L72); she urges Jason to find an excuse to head up on deck where Sophie can see him (Book 7, Ch6 L42). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Mischievous, observant, quick to play a role.

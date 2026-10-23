@@ -51,6 +51,6 @@ The MRA's growth and Clive's part in the bridge are level 2-3.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: A lecturer who loses the thread and apologises. Cue: "Where were we?" (Book 11, Ch68 L748); eel jokes (Book 1, Ch68 L92-94). See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: A lecturer who loses the thread and apologises. Cues: "Sorry. Where were we? Right, formation interactivity" (Book 11, Ch68 L748); "Having a conversation with you is like wrestling an eel" (Book 1, Ch68 L92-94). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Speak in explanatory bursts with tangents and apologies; get animated about theory and hungry mid-lecture.

@@ -65,7 +65,7 @@ The old version of this file used wiki month counts. Where the book text gives a
 | Departure from Earth | M45 to M49 | autumn 2021 | Book 6, Ch47 L155 |
 | Battle of Yaresh | "M58, about 2022" | no later than about early 2023 | Book 10, Ch33 L76 (Jason is 29 so after 1 April 2023) with "a few weeks" (Book 10, Ch17 L52) |
 | Cardinas zone | "nine months" (wiki) | months; Gary's divine power "four to eight months" (Book 11, Ch34 L33), Nik six months old (Book 11, Ch50 L15) | Book 11 |
-| Book 12 "now" | "M-count" | Pallimustus tour late 2037 to early 2038; Earth arrival 2038 | Book 12, Ch21 L61; Book 12, Ch67 L65, L113 |
+| Book 12 "now" | "M-count" | Earth arrival 2038: "seventeen years ago" and "forty-four years ago" | Book 12, Ch67 L65, L113 |
 
 ## 5. The Pallimustus calendar
 

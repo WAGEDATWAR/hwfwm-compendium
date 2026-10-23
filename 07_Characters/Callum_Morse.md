@@ -28,8 +28,8 @@ A gold-rank stealth assassin, former teammate of Emir and of Rufus's parents, wh
 - Book 3: reports on the cultists' escape and the Purity evidence (Book 3, Ch1 L77-82).
 - Book 6: stops Sophie and Humphrey in Kurdansk (Book 6, Ch47 L521-592).
 - Books 8-10: petitions Jason to see Melody (Book 8, Ch63 L140; Book 10, Ch58 L7).
-- Book 13: part of the expedition (Book 13, Ch958 L75).
+- Book 13: part of the expedition, tracking a creature in a pipe with conjured rats (Book 13, Ch958 L75).
 
 ## 4. Roleplay notes
 
-Quiet, patient and unfazed; he lets a hard decision stand and speaks plainly ("Sensible", Book 2, Ch36 L79). His grief and fixation on Melody are the one place his calm slips.
+Quiet, patient and unfazed; he lets a hard decision stand and speaks plainly. "Sensible," Callum agrees (Book 2, Ch36 L79). His grief and fixation on Melody are the one place his calm slips.

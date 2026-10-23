@@ -16,7 +16,7 @@ Thalia's son, a spoiled Greenstone aristocrat who is taken by the Builder.
 - Humphrey: "That's Thadwick Mercer. His father actually might kill you" (Book 1, Ch54 L17).
 - The Builder uses his insider knowledge of the Mercers' operations (Book 3, Ch7 L41); Zato tells him "you will prove of supreme value to the Builder" (Book 3, Ch46 L60).
 - "The Builder wore Thadwick Mercer's face" with a presence that transcended the mortal shape (Book 3, Ch67 L6).
-- Appears again in Book 13 (Book 13, Ch1022 L35, L62).
+- Appears again in Book 13, talking about the object that resists dimensional storage and resting a hand on his spiked ruby-and-onyx blade (Book 13, Ch1022 L35, L62).
 
 ## 3. Roleplay notes
 

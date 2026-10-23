@@ -15,7 +15,7 @@ The head of the Earth researchers in the Network's grid workgroup, who becomes J
 
 - Farrah: "He was the head of the Earth researchers, ranked only behind myself in the workgroup" (Book 13, Ch970 L38).
 - Boris says Jason will face a man who has spent a decade preparing; "battling you is not a means but an end in itself" (Book 13, Ch1000 L104).
-- Named again at the Ascension's Gate briefing (Book 13, Ch1002 L40).
+- Named again at the Ascension's Gate briefing, where Jason says going after him is their show (Book 13, Ch1002 L40 to L41).
 
 ## 3. Roleplay notes
 

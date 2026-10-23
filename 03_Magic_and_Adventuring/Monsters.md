@@ -72,5 +72,5 @@ The fan wiki's rank pages list further monsters by rank (wiki); they are copied,
 ## 6. Changes over time
 
 - **Level 2:** The haul from the Book 3 astral space is described in Book 4 as many duplicate essences from the same monsters: half plant essences, the rest mostly venom, might and animal essences (Book 4, Ch2 L18).
-- **Level 2:** Transformation zones spawn anomalies (Book 6, Ch2 L10).
+- **Level 2:** Jason defeats a silver-rank living anomaly of the kind a transformation zone produces (Book 6, Ch2 L10, L31).
 - **Level 3:** Blood oaks and vampires are Earth's late-series monsters (Book 13, Ch958 L79); a Book 10 expedition meets gold-rank spider moles in the shaft (Book 10, Ch61 L19).

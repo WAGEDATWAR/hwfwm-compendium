@@ -44,6 +44,6 @@ Dawn's identity as First Servant and her use of avatars are level 2; her exceedi
 
 ## 8. Roleplay notes
 
-**Voice (condensed)**: Formal, with a teasing edge. Cue: Book 5, Ch20 L21-24. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Formal, with a teasing edge. Cue: "You realise that you could have asked that instead of punching my nose through my brain" (Book 5, Ch20 L21). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Dry, informative, protective of the cosmic balance, willing to joke about her own avatars.

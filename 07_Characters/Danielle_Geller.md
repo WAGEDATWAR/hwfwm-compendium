@@ -17,7 +17,7 @@ Silver-rank and ageless-looking: she seems about thirty and is fifty in fact (no
 
 ## 3. Personality and voice
 
-She defends the family's methods (the Geller estate trains the whole family in low-magic Greenstone, notes, Book 1), gives blunt strategic advice ("Nothing speaks louder than power", notes, Book 3; "do the opposite of every instinct", notes, Book 12), and teases her son at once when she hears a name: "Gabrielle?" (Book 1, Ch47 L89). She is shown as a diplomacy teacher: "diplomacy is war" (Book 12, Ch23 L79).
+She defends the family's methods (the Geller estate trains the whole family in low-magic Greenstone, notes, Book 1), gives blunt strategic advice ("Nothing speaks louder than power", notes, Book 3; "do the opposite of every instinct", notes, Book 12), and teases her son at once when she hears a name: "Gabrielle?", in a tone of having latched on to a weakness (Book 1, Ch47 L89). She is shown as a diplomacy teacher: "diplomacy is war" (Book 12, Ch23 L79).
 
 ## 4. Powers and skills as world facts
 
@@ -48,6 +48,6 @@ Her gold rank and the Earth adviser role are levels 2-3.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: Blunt, quick to seize a weakness. Cues: Book 1, Ch47 L89; "diplomacy is war" (Book 12, Ch23 L79). See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Blunt, quick to seize a weakness. Cues: "Gabrielle?", asked as if she has latched on to a weakness (Book 1, Ch47 L89); "I said that diplomacy is war, Jason, and wars have objectives" (Book 12, Ch23 L79). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Crisp, strategic, protective of her family, fond of aphorisms about power.

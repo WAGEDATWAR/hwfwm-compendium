@@ -21,7 +21,7 @@ Kurdansk is a river city in the People's Holy Federation of Dreisil and Sophie W
 ## 3. Society and rule
 
 - **Peoples**: celestines with dark skin and silver hair are common (Book 6, Ch47 L437, L508).
-- **Law**: the city locks criminals up for years, which a Book 12 speaker calls costly to run (Book 12, Ch49 L77).
+- **Law**: the city locks criminals up for years, and a Book 12 speaker asks about the operating costs of such places (Book 12, Ch49 L77).
 
 ## 4. History
 

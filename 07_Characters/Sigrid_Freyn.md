@@ -21,7 +21,7 @@ A celestine healer and the leader of Valdis's team, who becomes his wife.
 
 ## 3. Roleplay notes
 
-Sensible and dry; she is the grown-up on a team of enthusiasts and defends her king's dignity (Book 12, Ch15 L10).
+Sensible and dry; she is the grown-up on a team of enthusiasts. She tells Valdis to be more respectful of his father and king (Book 12, Ch15 L10).
 
 ## Open questions
 

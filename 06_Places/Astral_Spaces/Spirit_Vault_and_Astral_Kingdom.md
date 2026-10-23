@@ -30,7 +30,7 @@ After the Astral Throne and Astral Gate appear (Book 8, Ch49 L105), Jason is an 
 
 ## 6. The soul realm tour (Book 9-11)
 
-By essence: a rose garden (blood), underground mushroom caverns (dark), a rope-bridge gorge with mana creeks, a farmhouse where Tera perches, a vampire-manor estate, the flesh pit, a subterranean blood-and-flesh space tied to the Colin summoning stone (Book 10, Ch33 L109-111), and the Colin greenhouse. Mana flows in creeks. He can stabilise any physical reality he is inside.
+By essence: a rose garden (blood), underground mushroom caverns (dark), a rope-bridge gorge with mana creeks, a farmhouse where Tera perches, a vampire-manor estate, the flesh pit, and the Colin greenhouse. The flesh pit is where a sanguine horror was summoned and killed and the stone for Colin was looted, and it is now Colin's (Book 10, Ch33 L109-111). Mana flows in creeks. He can stabilise any physical reality he is inside.
 
 <!-- level:3 -->
 ## 7. Arbour, New Water and Rexion (spoilers)

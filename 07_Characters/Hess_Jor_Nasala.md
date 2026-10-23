@@ -20,4 +20,4 @@ A silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin K
 
 ## 3. Roleplay notes
 
-Deferential and careful; he speaks only when he has something worth saying (Book 9, Ch66 L41).
+Deferential and careful. He does not respond, knowing better than to talk for the sake of it (Book 9, Ch66 L41).

@@ -381,6 +381,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - `Book_13_Timeline.md`: added rows for the twenty-three chapters that had none (Ch961, 962, 965, 966, 967, 970, 976, 978, 979, 981, 983, 984, 986, 989, 990, 993, 1002, 1005, 1007, 1010, 1011, 1014, 1016), covering the planning meetings, the Pakistan manifestation, the Swiss and Network operations, the Belgrade offensive and the McKean castle.
 - Every chapter of Books 12 and 13 now has at least one cited row. Chapters with several scenes still carry one or two rows each, so a finer pass (one row per scene) is still possible; it was not forced here to avoid rows with weak line anchors.
 
+**Weak register rows cleared, build plan item 1.3 (2026-10-22)**
+- The register had 54 weak rows (the plan counted 52). All are now graded ok or near, so the weak count is zero.
+- Method: for each row the cited lines were printed (`src/tools/weak_dump.py`) and the claim was either split so that each cite sits beside the clause it supports, rewritten to quote or paraphrase the cited line (voice cues in the character files, the Tone_and_Voice facts, timeline anchors), or given better cites (Primer section 7: Old City plumbing at Book 1, Ch71 L7, the Vitesse palace plants at Book 2, Ch40 L3 and the Rimaros sky islands at Book 7, Ch7 L3). Roleplay judgements remain as plain sentences without a cite, with a quoted cue line after them.
+- `TODO_Build_Plan.md` is now excluded from the register like `TODO_Verification.md`; it is a working list, and its cites were being graded as claims (three of the weak rows).
+- No claim was strengthened beyond its cite. Where a cite did not carry the whole sentence, the unsupported part was left as an uncited sentence or marked as an inference (for example that the Old City mayor answers to the Duke).
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

@@ -140,7 +140,7 @@ The Earth chapters are the best-dated part of the book: Lenora and Jota's side o
 | The reunion | Ch67 | Emi, coming out of a bakery, meets Jason as he steps out of a black archway, and he greets her as "Moppet" (Book 12, Ch67 L146 to L149) |
 | Appendices | after Ch67 | Appendix I is Jason's character sheet as a gold-rank prime avatar (Astral Nexus), 38 percent towards diamond (Book 12, Ch67 L153 to L155). Appendix II lists the astral nexus inherent gifts (Book 12, Ch67 L194 to L200). Appendix III lists his essence abilities at gold rank (Book 12, Ch67 L201 to L203) |
 
-Ch61 closes with the visitors downstairs (Book 12, Ch61 L107), and Ch62 opens aboard the saucer before they arrive (Book 12, Ch62 L3).
+Ch61 closes with the assistant saying "They're downstairs" (Book 12, Ch61 L107), and Ch62 opens with Anna aboard the saucer, before the arrival (Book 12, Ch62 L3).
 
 ## 8. Notes on the interval
 

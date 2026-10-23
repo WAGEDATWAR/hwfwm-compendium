@@ -27,4 +27,4 @@ A zealous elf priestess of Purity from the Lasalle family who guides Rufus's par
 
 ## 4. Roleplay notes
 
-Cold, righteous and quick to anger; she treats mercy as weakness (Book 1, Ch30 L26).
+Cold, righteous and quick to anger; she treats mercy as weakness. Farrah says Anisa killed a man before he could get a word out (Book 1, Ch30 L26).

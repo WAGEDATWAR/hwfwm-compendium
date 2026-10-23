@@ -114,5 +114,5 @@ Chapter-by-chapter order of Book 4, with the day or week wherever the text gives
 
 ## 10. Notes on the interval
 
-- The text fixes the return (early June 2019), the first weeks by weekday, and the end by the month of seclusion; the "Week N" labels from week 5 onward are counted from those anchors and from the "last week" remarks (Book 4, Ch50 L84; Book 4, Ch64 L82), not from stated dates.
+- The text fixes the return (early June 2019), the first weeks by weekday, and the end by the month of seclusion; the "Week N" labels from week 5 onward are counted from those anchors and from the "last week" remarks, not from stated dates. Examples: "last week, I got mildly kidnapped" (Book 4, Ch50 L84); "They started filming us last week" (Book 4, Ch64 L82).
 - Earth time and Pallimustus time run together, so Book 4 overlaps no Pallimustus event: the team is out of the story.

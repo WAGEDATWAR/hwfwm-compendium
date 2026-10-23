@@ -51,6 +51,6 @@ His race-gift evolution is level 2. His engagement is level 3.
 
 ## 9. Roleplay notes
 
-**Voice (condensed)**: Precise, shy about romance, crisp when commanding. Cues: Book 1, Ch47 L88-89; Book 13, Ch958 L48. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Precise, shy about romance, crisp when commanding. Cues: he turns white and shakes his head when Jason asks about Gabrielle (Book 1, Ch47 L88-89); in expedition leader mode he refers to his mother by name and issues her orders (Book 13, Ch958 L48). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Formal when serious, shy in personal matters, steadfast in a fight.
