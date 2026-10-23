@@ -357,6 +357,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `src/tools/lint.py` (header fields, spoiler values, cite existence and line ranges, Related links, cite form, shorthand, folder-overview coverage). It runs at the end of `build_register.py` and writes `src/tools/lint_report.md`; a seeded test document triggered every check.
 - First run found 4 errors and 19 warnings; all fixed: 15 cites written without the comma ("Book 9 Ch29 L17") were standardised to "Book 9, Ch29 L17" in 10 files, the Master_Timeline Related line was corrected, the Peoples Overview now lists the four life-and-society files, and "mixed" is allowed as a spoiler value for the Glossary, Name_Index and Characters Overview. Result: 256 documents, 0 errors, 0 warnings.
 
+**Register deltas, build plan item 0.6 (2026-10-22)**
+- `build_register.py` now compares each run with the previous `register_new.json` (new module `src/tools/delta.py`) and prints one line: rows added, removed, edited and regraded, and newly weak or cleared weak rows. Details go to `src/tools/register_delta.md` (not committed). Tested by adding a deliberately unsupported sentence to a character file (flagged as a new weak row) and by rewording a sentence (reported as an edit), then reverting both.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

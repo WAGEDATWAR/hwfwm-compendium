@@ -296,10 +296,14 @@ def main():
         if note:
             carried += 1
         out.append(dict(r, refs=marks, check=best, tier=tier, note=note, books=tag_books(r["tags"])))
+    prev_path = os.path.join(HERE, "register_new.json")
+    prev = json.load(open(prev_path, encoding="utf-8")) if os.path.exists(prev_path) else []
     json.dump([{k: v for k, v in o.items() if k not in ("cites",)} for o in out],
-              open(os.path.join(HERE, "register_new.json"), "w", encoding="utf-8"), default=str)
+              open(prev_path, "w", encoding="utf-8"), default=str)
     cnt = collections.Counter(o["check"] for o in out)
     print(len(out), "rows;", dict(cnt), "carried notes:", carried)
+    import delta
+    print(delta.report(prev, json.load(open(prev_path, encoding="utf-8"))), "(see src/tools/register_delta.md)")
     if "--dry" in sys.argv:
         return out
     write_register(out, cnt)

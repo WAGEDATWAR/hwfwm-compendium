@@ -7,3 +7,4 @@ __pycache__/
 
 # Book text is copyrighted: keep it out of any pushed history
 src/Source_Text/
+src/tools/register_delta.md
