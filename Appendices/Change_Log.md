@@ -349,6 +349,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Made the tools path-independent (no hard-coded absolute paths or reliance on the working directory); `cc2.py` and `loc2.py` now use the new `common.py` instead of the retired `newrows.py`.
 - Verified: `build_register.py` reproduces 3,746 rows with identical grade counts, and `compose_wiki.py` changes no document.
 
+**Structure document refresh, build plan item 0.3 (2026-10-22)**
+- Rewrote sections 3, 8, 9, 10 and 11 of `00_Project_Structure.md`: the folder layout now matches the repository (including `src/tools`, `src/Chapter_Notes`, the two TODO files and the Minor_Places and Minor_Cast subfolders), "What exists now" became a state table, the build order records that every section has been built and verified, section 9 carries the narrowed Cardinas-length and Book 12 date entries, and section 10 adds version-control and tool practices. Section 11 now points to `TODO_Build_Plan.md`.
+- Corrected the spelling-variant list (Hendren/Hedron, not Herston) and pointed section 2 to the new locations of the chapter notes and the archived lorebook.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
