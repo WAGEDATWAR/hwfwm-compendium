@@ -464,6 +464,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `05_Organisations/EDJI_and_Post_Reveal_Institutions.md` (level 3): national Supernatural Affairs bodies, the UN Office (Anna Tilden, Holly Macrossan), the Asano Village taskforce under Lenora Coleman, Jason's proposal and the Saint-Étienne Summit Accords, the EDJI and the Quilido Procedure, the Joint Magitech Weapons Research Institute, and the Asano clan as an organisation (Yumi, Ketevan, Noriko). `Earth_Powers.md` points to it.
 - The Accords are cited only from Book 13 mentions; their negotiation is not narrated in the lines read.
 
+**The Order and Cult of the Reaper, build plan item 2B.5 (2026-10-23)**
+- New `05_Organisations/Order_and_Cult_of_the_Reaper.md` (header level 1, later material under tags): the old Order, the cult/order split, the Book 9 Ch27 account of the order's return (Melody Jain, Marta Fries, Callum Morse), the Reaper's own view (Book 11), and the Book 13 reveals about the joint-churches attack and Umber. `Cults_and_Orders.md` points to it.
+- Open_Questions 20 is unchanged: Umber's claim that he has been "building up their numbers" (Book 13, Ch1024 L123) is recorded, but the order's present strength is still not stated.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
