@@ -76,7 +76,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 ### 2C. Magic and adventuring (`03_Magic_and_Adventuring`)
 - **2C.1 (Done 2026-10-23) Grow `Essence_Catalogue.md` toward every essence the books name (L).** Use the existing scan (`ess_scan.py`, `wiki_lists.py`) to list essences named in chapter files, then add a line with the first book cite for each. Keep wiki-only essences in `Wiki_Reference_Lists.md`.
 - **2C.2 (Done 2026-10-23) Extend `Monsters.md` by region and rank (L).** Add apocalypse beasts, bone feasters, spider moles, fergax, hydras, rejectors, nightmare hags and the other named monsters with stated ranks (each with one cite).
-- **2C.3 Individual ability files for each main character's power set (M, suggested).** Jason's is in `Jason_Power_Set_Reference.md`; add Sophie, Humphrey, Rufus, Gary, Farrah, Clive, Belinda, Neil, Emi, Taika using the party-interface lines in the chapter files.
+- **2C.3 (Done 2026-10-23) Individual ability files for each main character's power set (M, suggested).** Jason's is in `Jason_Power_Set_Reference.md`; add Sophie, Humphrey, Rufus, Gary, Farrah, Clive, Belinda, Neil, Emi, Taika using the party-interface lines in the chapter files.
 - **2C.4 Titles and blessings (M, suggested).** Giant Slayer, Resolute, Indomitable, Godless Prophet and the title effects on auras (primer section 5).
 - **2C.5 Reconcile 09 with 03 (S).** Make sure every item type in `09_Items_and_Artefacts` is explained in a 03 topic file, and cross-link them.
 

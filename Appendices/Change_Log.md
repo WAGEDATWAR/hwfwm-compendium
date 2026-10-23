@@ -495,6 +495,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Not added because the text states no rank in the lines read: reef giant, reef kraken, mud lord, emperor ooze, belch bug, bog shambler, mangrove snatcher, margoll, pixelax, rat gorger, spotted tree cat, siege golem, grizzard and stormspire drake (wiki-only ranks stay in `Wiki_Reference_Lists.md`). "Rejector" is a title, not a monster, in the lines read.
 - New `src/tools/monster_scan.py` writes a noisy working list of "X-rank <name>" phrases; the rows above were read against the lines.
 
+**Power sets for the main characters, build plan item 2C.3 (2026-10-23)**
+- New folder `03_Magic_and_Adventuring/Power_Sets/` with ten files: Sophie Wexler, Humphrey Geller, Clive Standish, Neil Davone, Belinda Callahan, Taika, Rufus Remore, Gary, Farrah Hurin and Emi Evans-Asano. Where the System shows an ability window (Books 2, 3, 8, 9 and 10), the file gives its type, cost, cooldown, iron effect and later-rank effects with the cite. Rufus, Gary, Farrah and Emi are described from narration, because the lines read show no System windows for them.
+- The "party interface" lines in the chapter files are few (awakenings, racial gift evolutions and party-range notices); the ability windows come from the ability-review scenes (Book 2, Ch42-68; Book 3, Ch38-49; Book 8, Ch7-22; Book 9, Ch59, Ch93).
+- Observed: Spirit Reaper (Book 2, Ch64 L72-75) is introduced after a line naming Humphrey but is a magic essence ability, which Humphrey lacks; it is recorded under Clive with the discrepancy noted. Gary's essence list varies (Book 9, Ch82 L22; Book 10, Ch67 L122; Book 10, Ch79 L63); his golem is called foundry and forge golem.
+- Not done: silver and gold rewrites for abilities the text never shows; Jason's set remains in `Jason_Power_Set_Reference.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

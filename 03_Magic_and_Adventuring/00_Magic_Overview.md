@@ -105,4 +105,17 @@ Magic in the world is raw power from the astral. In a magic-rich world it conden
 - [Unusual and Unique Magic](Unusual_and_Unique_Magic.md) (spoiler level 0): Most magic in the setting follows the essence-and-rank structure described elsewhere in this folder.
 - [Wiki Reference Lists](Wiki_Reference_Lists.md) (spoiler level 3): The wiki lists the essences below by rarity, with the abilities and users it records for each.
 
+**Power_Sets/**
+
+- [Belinda Callahan's Power Set](Power_Sets/Belinda_Callahan_Power_Set.md) (spoiler level 1): Belinda is the team's trickster and utility caster: Magic, Trap and Adept, producing the Charlatan confluence (Book 2, Ch32 L67-72).
+- [Clive Standish's Power Set](Power_Sets/Clive_Standish_Power_Set.md) (spoiler level 1): Clive is the team's battlemage and ritualist: Magic, Rune, Balance and the Karmic confluence (Book 2, Ch28 L56).
+- [Emi Evans-Asano's Power Set](Power_Sets/Emi_Evans_Asano_Power_Set.md) (spoiler level 3): Emi is a ritual specialist: a teenager who masters ritual magic before she has essences, then takes Vast, Myriad and Harmonic, whose Resonant confluence...
+- [Farrah Hurin's Power Set](Power_Sets/Farrah_Hurin_Power_Set.md) (spoiler level 2): Farrah is a volcano-themed battlemage and ritualist: Earth, Fire and Potent, which form the Volcano confluence (Book 1, Ch19 L30).
+- [Gary's Power Set](Power_Sets/Gary_Power_Set.md) (spoiler level 1): Gary is a leonid smith-warrior: hammer, fire, iron and the forge confluence (Book 9, Ch82 L22).
+- [Humphrey Geller's Power Set](Power_Sets/Humphrey_Geller_Power_Set.md) (spoiler level 1): Humphrey is the team's heavy hitter: "simple, reliable power" (Book 3, Ch43 L69).
+- [Neil Davone's Power Set](Power_Sets/Neil_Davone_Power_Set.md) (spoiler level 1): Neil is the team's healer and shield-caster: Shield, Growth and Renewal, producing the Prosperity confluence (Jason's notebook, Book 2, Ch28 L44).
+- [Rufus Remore's Power Set](Power_Sets/Rufus_Remore_Power_Set.md) (spoiler level 1): Rufus is a swordsman-teleporter built on the sun and moon: a skilled fighter whose powers blend movement, teleportation, illusory after-images and attacks.
+- [Sophie Wexler's Power Set](Power_Sets/Sophie_Wexler_Power_Set.md) (spoiler level 1): Sophie is a skill-based speed fighter: a celestine whose Swift, Balance and Wind essences form the Mystic confluence.
+- [Taika's Power Set](Power_Sets/Taika_Power_Set.md) (spoiler level 3): Taika is a bird-shifter and flyer: a garuda-confluence adventurer whose set is built on speed, momentum and a giant-bird form.
+
 <!-- files:end -->
