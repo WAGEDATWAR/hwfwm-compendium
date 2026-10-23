@@ -371,7 +371,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch8 | More Plausible Than the Reality | Ketevan_Arziani L83 | 1 |
 | Ch9 | I Suggest You Be Very Polite | Shade L21; Book_04_Timeline L58, L65, L93; Earth_Powers L76; 00_Earth_Overview L76; Master_Timeline L76; Era_Selection L76; Plot_Hooks L76; Craig_Vermillion L105 | 10 |
 | Ch10 | A Leather Coat and Tight, Black Pants | Book_04_Timeline L7; Earth_Powers L116, L127; Craig_Vermillion L127 | 4 |
-| Ch11 | A Knife in Its Sheath | Earth_Magic L4, L8, L10, L14, L19-22, L21; Earth_Powers L4, L8, L19, L21, L101; Craig_Vermillion L4; Master_Timeline L4; Glossary L4-8; 00_Magic_Overview L9-10; Gods_and_Churches L16; Essences L16 … | 22 |
+| Ch11 | A Knife in Its Sheath | Earth_Magic L4, L8, L10, L14, L19-22, L21; Earth_Powers L4, L8, L19, L21, L101; Craig_Vermillion L4; Master_Timeline L4; Glossary L4-8; The_Network L8, L19; 00_Magic_Overview L9-10; Gods_and_Churches L16 … | 24 |
 | Ch12 | Underworld Bargain | Book_04_Timeline L16-17, L51 | 2 |
 | Ch13 | Time to Rip Off the Band-Aid | Book_04_Timeline L94-95, L96 | 2 |
 | Ch14 | Bullets, Bikes and Blood | Book_04_Timeline L50 | 1 |
@@ -379,7 +379,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch16 | Flavour Text | Book_04_Timeline L4, L14, L61; Earth_Magic L108 | 4 |
 | Ch17 | Time For Context | Book_04_Timeline L113, L126 | 2 |
 | Ch18 | Brown Trousers Time | Book_04_Timeline L3, L57; Monster_Cores_and_Training L36; Shade L40; Earth_Magic L122 | 5 |
-| Ch19 | The Complete Set | Book_04_Timeline L23, L78, L91; 01_World_Primer L36 | 4 |
+| Ch19 | The Complete Set | Book_04_Timeline L23, L78, L91; 01_World_Primer L36; The_Network L48, L56 | 6 |
 | Ch20 | More Valuable Than a Life | Book_04_Timeline L26, L55-56, L111 | 3 |
 | Ch21 | Uncontrolled Factor | Book_04_Timeline L3, L7; 01_World_Primer L31-33; Earth_Magic L33; Ranks_and_Advancement L33; Essence_Catalogue L135; Monsters L136 | 7 |
 | Ch22 | Agendas | Book_04_Timeline L83-85 | 1 |
@@ -395,23 +395,23 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch32 | Looking Down the Point of a Sword | Emi_Evans_Asano L4, L19; Shade L21; All_Devouring_Eye L36; Book_04_Timeline L36 | 5 |
 | Ch33 | What Your Uncle Has Been Telling You | Book_04_Timeline L43, L76-77, L77, L102 | 4 |
 | Ch34 | The Moments That Decide Who You Are | Emi_Evans_Asano L14; Book_04_Timeline L42 | 2 |
-| Ch35 | I’m Mysterious Now | Book_04_Timeline L8; Confluences L123 | 2 |
-| Ch36 | Hardline Position | Book_04_Timeline L34, L153; Anna_Tilden L35; NPC_Rosters_by_Era L37; Asya_Karadeniz L37-41; Earth_Magic L77; Monster_Cores_and_Training L77; Minor_Cast_Books_4-6 L139-145 | 8 |
-| Ch37 | Otherwise Best Avoided | Souls_Death_and_Healing L14; Astral_Spaces_Zones_and_Surges L63, L79; 00_Earth_Overview L70; Incursion_Sites L70; Earth_Magic L79; Book_04_Timeline L103 | 7 |
+| Ch35 | I’m Mysterious Now | Book_04_Timeline L8; The_Network L117; Confluences L123 | 3 |
+| Ch36 | Hardline Position | Book_04_Timeline L34, L153; Anna_Tilden L35; NPC_Rosters_by_Era L37; Asya_Karadeniz L37-41; Earth_Magic L77; Monster_Cores_and_Training L77; The_Network L77; Minor_Cast_Books_4-6 L139-145 | 9 |
+| Ch37 | Otherwise Best Avoided | Souls_Death_and_Healing L14; Astral_Spaces_Zones_and_Surges L63, L79; 00_Earth_Overview L70; Incursion_Sites L70; The_Network L78; Earth_Magic L79; Book_04_Timeline L103 | 8 |
 | Ch38 | Terms | Gordon L26; Book_04_Timeline L45 | 2 |
 | Ch39 | Section | Incursion_Sites L28; Astral_Spaces_Zones_and_Surges L55; Earth_Magic L55; Minor_Cast_Books_4-6 L76 | 4 |
-| Ch40 | Core Users | Astral_Spaces_Zones_and_Surges L33; Minor_Cast_Books_4-6 L63; Abilities_and_Attributes L72; Unusual_and_Unique_Magic L72 | 4 |
+| Ch40 | Core Users | The_Network L3-4, L9, L32; Astral_Spaces_Zones_and_Surges L33; Minor_Cast_Books_4-6 L63; Abilities_and_Attributes L72; Unusual_and_Unique_Magic L72 | 7 |
 | Ch41 | What You Call Observing | Confluences L6; Essence_Catalogue L6; Incursion_Sites L18, L32; Book_04_Timeline L19, L55; Farrah_Hurin L31; Nigel_Thornton L89-97; NPC_Rosters_by_Era L91; Earth_Powers L91-97 | 10 |
 | Ch42 | Not the Monster | Book_04_Timeline L3, L26, L66; Minor_Cast_Books_4-6 L27; Glossary L27; Abilities_and_Attributes L44; Confluences L44 | 7 |
-| Ch43 | Letting Him Run Rampant | Book_04_Timeline L3; Essences L10; Earth_Magic L33; Saint-Etienne L58; Adrien_Barbou L58; NPC_Rosters_by_Era L58 | 6 |
-| Ch44 | Old Testament Power | Book_04_Timeline L133, L143 | 2 |
+| Ch43 | Letting Him Run Rampant | The_Network L3, L58; Book_04_Timeline L3; Essences L10; Earth_Magic L33; Saint-Etienne L58; Adrien_Barbou L58; NPC_Rosters_by_Era L58 | 8 |
+| Ch44 | Old Testament Power | The_Network L82; Book_04_Timeline L133, L143 | 3 |
 | Ch45 | My Turn | Book_04_Timeline L17, L94; Cheryl_Asano L76; Shade L81 | 4 |
-| Ch46 | Visually Distinctive Henchman | Book_04_Timeline L46, L100; Shade L78; Ketevan_Arziani L82; NPC_Rosters_by_Era L82; Earth_Magic L90 | 6 |
+| Ch46 | Visually Distinctive Henchman | Book_04_Timeline L46, L100; Shade L78; The_Network L80; Ketevan_Arziani L82; NPC_Rosters_by_Era L82; Earth_Magic L90 | 7 |
 | Ch47 | Of Course It Was Him | Book_04_Timeline L12, L50; Ketevan_Arziani L28; Name_Index L37-43 | 4 |
 | Ch48 | The Price of Transgression | Book_04_Timeline L16, L21; Name_Index L83 | 3 |
 | Ch49 | The Time For Bold, Decisive Men | Book_04_Timeline L3, L5, L51, L93, L99 | 5 |
 | Ch50 | Technical Issue | Book_04_Timeline L9, L84; Emi_Evans_Asano L53-62; Shade L76 | 4 |
-| Ch51 | The Long Game | Minor_Cast_Books_4-6 L10; Book_04_Timeline L10, L30, L45, L72; Glossary L10; Saint-Etienne L28, L28-30, L60-68; Master_Timeline L30, L37; Earth_Powers L30-37; Plot_Hooks L30-37; Earth_Magic L35 … | 17 |
+| Ch51 | The Long Game | The_Network L8, L30-37, L35; Minor_Cast_Books_4-6 L10; Book_04_Timeline L10, L30, L45, L72; Glossary L10; Saint-Etienne L28, L28-30, L60-68; Master_Timeline L30, L37; Earth_Powers L30-37; Plot_Hooks L30-37 … | 20 |
 | Ch52 | A Moment For Drastic Measures | Saint-Etienne L22-23; Book_04_Timeline L37; Minor_Cast_Books_4-6 L84; Adrien_Barbou L94 | 4 |
 | Ch53 | Foiled Plans | Book_04_Timeline L3, L4, L20, L55; Minor_Cast_Books_4-6 L75 | 5 |
 | Ch54 | Quite the Year | Book_04_Timeline L39; Glossary L88 | 2 |
@@ -419,7 +419,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch56 | A Wizard Did It | Book_04_Timeline L22, L35; Emi_Evans_Asano L46 | 3 |
 | Ch57 | The King of Everyone | Spirit_Vault_and_Astral_Kingdom L3-10, L59; Emi_Evans_Asano L33-39, L34-36; Book_04_Timeline L100 | 5 |
 | Ch58 | I Came Back to Show You Wonders | Emi_Evans_Asano L75; Book_04_Timeline L95, L126 | 3 |
-| Ch59 | Mercy | Book_04_Timeline L11, L48; Ketevan_Arziani L13; Anna_Tilden L35 | 4 |
+| Ch59 | Mercy | The_Network L4, L11; Book_04_Timeline L11, L48; Ketevan_Arziani L13; Anna_Tilden L35 | 6 |
 | Ch60 | Ideal Circumstances | Incursion_Sites L18, L59-65; Book_04_Timeline L18 | 3 |
 | Ch61 | The Blood and Death Guy | Book_04_Timeline L92 | 1 |
 | Ch62 | A Lot of Anomalies | Incursion_Sites L23; Book_04_Timeline L83 | 2 |
@@ -446,7 +446,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch5 | Grand Tour | Book_05_Timeline L7, L59, L66, L104; 00_Magic_Overview L11; Earth_Magic L11; Rituals_Arrays_and_Formations L11; Emi_Evans_Asano L59-68; Ranks_and_Advancement L82; Casselton_and_Asano_Village L83-89, L106-113; Farrah_Hurin L83-89 … | 13 |
 | Ch6 | New Groove | Book_05_Timeline L48, L69 | 2 |
 | Ch7 | Get to the Chopper | Essence_Catalogue L8, L14, L16; Asya_Karadeniz L12, L21-23; Greg L12; NPC_Rosters_by_Era L12; Confluences L14, L16, L64-66; Book_05_Timeline L16; Adrien_Barbou L96 | 12 |
-| Ch8 | What’s Left of Your Principles | Book_04_Timeline L5; Book_05_Timeline L5, L35, L44, L54; Mr_North L14-15; Earth_Powers L14-18, L28, L39; NPC_Rosters_by_Era L14-18; Open_Questions L28, L39; Adrien_Barbou L35; Glossary L35 … | 16 |
+| Ch8 | What’s Left of Your Principles | Book_04_Timeline L5; Book_05_Timeline L5, L35, L44, L54; Mr_North L14-15; Earth_Powers L14-18, L28, L39; NPC_Rosters_by_Era L14-18; Open_Questions L28, L39; Adrien_Barbou L35; Glossary L35 … | 17 |
 | Ch9 | Contingencies | Book_05_Timeline L5, L23, L40, L80; Emi_Evans_Asano L23; Anna_Tilden L52; Ketevan_Arziani L67 | 7 |
 | Ch10 | Humanity | Book_05_Timeline L6, L52; NPC_Rosters_by_Era L17; Audrey_Blaine L17-33, L24 | 5 |
 | Ch11 | Media Blitz | Book_05_Timeline L12; Amy_Asano L82 | 2 |
@@ -455,7 +455,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch14 | A Very Long To-Do List | Earth_Magic L3; Book_05_Timeline L8, L77; Kaito_Asano L37; Greg L42; Confluences L61; Essence_Catalogue L61; Akari_Asano L61-66; NPC_Rosters_by_Era L61-66 | 9 |
 | Ch15 | Another Step Forward | Book_05_Timeline L50 | 1 |
 | Ch16 | Tactical Flexibility | Earth_Magic L78; Book_05_Timeline L78; Familiars L103-108; Shade L103-108 | 4 |
-| Ch17 | Broken | Incursion_Sites L3; Earth_Magic L7; Earth_Powers L7; 00_Earth_Overview L7; Era_Selection L7; Spoiler_Management L7; Book_05_Timeline L11, L28 | 8 |
+| Ch17 | Broken | Incursion_Sites L3; Earth_Magic L7; Earth_Powers L7; The_Network L7, L8-9; 00_Earth_Overview L7; Era_Selection L7; Spoiler_Management L7; Book_05_Timeline L11, L28 | 10 |
 | Ch18 | Never Enough | Book_05_Timeline L22, L41, L78; Incursion_Sites L82, L83 | 5 |
 | Ch19 | Media Landscape | Minor_Cast_Books_10-13 L10; Glossary L10; Book_05_Timeline L26, L99; Open_Questions L76 | 5 |
 | Ch20 | Instability | Dawn L21, L21-24, L22, L40-41, L65-67; NPC_Rosters_by_Era L21-24; Book_05_Timeline L24, L25-26, L26, L41, L117; Master_Timeline L24, L24-26; Tone_and_Voice L24, L25; Jason_Asano L24-26, L25; The_Reaper L41; World_Phoenix L52 … | 20 |
@@ -486,10 +486,10 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch45 | You Shouldn’t Lie to Your Wife | Book_05_Timeline L3, L38; Consumables_and_Trial_Rewards L9-11; Plot_Hooks L9-11 | 4 |
 | Ch46 | The Decision Has Been Made | Book_05_Timeline L63, L91; Minor_Cast_Books_4-6 L86 | 3 |
 | Ch47 | First Priority | Book_05_Timeline L9; Minor_Cast_Books_4-6 L102 | 2 |
-| Ch48 | Node Space | Book_05_Timeline L43, L90, L103 | 3 |
+| Ch48 | Node Space | The_Network L18, L50, L57; Book_05_Timeline L43, L90, L103 | 6 |
 | Ch49 | Loaded For Battle | Gordon L43; Book_05_Timeline L45 | 2 |
 | Ch50 | Going For Gold | Book_05_Timeline L30, L84 | 2 |
-| Ch51 | Prepare For The Rematch | Minor_Cast_Books_4-6 L8; Book_05_Timeline L28, L127; Emi_Evans_Asano L33; Asya_Karadeniz L40, L52; Greg L40; NPC_Rosters_by_Era L40, L48, L52 | 10 |
+| Ch51 | Prepare For The Rematch | Minor_Cast_Books_4-6 L8; Book_05_Timeline L28, L127; Emi_Evans_Asano L33; Asya_Karadeniz L40, L52; Greg L40; NPC_Rosters_by_Era L40, L48, L52; The_Network L60 | 11 |
 | Ch52 | Finish the Job | Book_05_Timeline L3, L68; Master_Timeline L3; Kaito_Asano L20; Noriko_Asano L68 | 5 |
 | Ch53 | Inevitability | Book_05_Timeline L13, L67, L80; Kaito_Asano L67; Emi_Evans_Asano L79, L80, L80-85, L82, L86 | 9 |
 | Ch54 | The Edge of Madness | Emi_Evans_Asano L8, L13; Rituals_Arrays_and_Formations L11; Book_05_Timeline L45, L50; 00_Peoples_Overview L52; Goblins_and_Fairies L52, L55 | 8 |
@@ -512,7 +512,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
-| Ch1 | Looting a House as it Burns Down Around You | Book_06_Timeline L3, L4, L32, L72, L85; Anna_Tilden L4, L27; NPC_Rosters_by_Era L4; Glossary L16-21; 00_Cosmology_Overview L20; Consumables_and_Trial_Rewards L20; Earth_Powers L22-30; Transformation_Zones L83 | 13 |
+| Ch1 | Looting a House as it Burns Down Around You | Book_06_Timeline L3, L4, L32, L72, L85; Anna_Tilden L4, L27; NPC_Rosters_by_Era L4; The_Network L15-16, L25, L25-27; Glossary L16-21; 00_Cosmology_Overview L20; Consumables_and_Trial_Rewards L20; Earth_Powers L22-30 … | 16 |
 | Ch2 | Domain | Monsters L10, L31; Book_06_Timeline L12, L34; Astral_Spaces_Zones_and_Surges L15; Spirit_Vault_and_Astral_Kingdom L15; Transformation_Zones L15 | 7 |
 | Ch3 | Needs of the Moment | Transformation_Zones L5, L39; Book_06_Timeline L39, L67 | 4 |
 | Ch4 | A Beautiful Woman and a Sack of Cash | Soul_Bound_Items_and_Regalia L6-8, L29-39, L34-37, L35-38, L40, L42-50 …; Glossary L6-8, L26-38; Jason_Asano L29-36; Book_06_Timeline L30, L40, L68; 00_Items_Overview L33; Cloud_Constructs_and_Palaces L42-50, L53; Emi_Evans_Asano L65 | 20 |
@@ -1067,13 +1067,13 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch961 | The Scary Demigod Side | Book_13_Timeline L3, L6, L58; Natalie_Park L8; NPC_Rosters_by_Era L8; Minor_Cast_Books_10-13 L59; Glossary L73 | 7 |
 | Ch962 | I Know What You Are | Book_13_Timeline L5, L6, L44, L62 | 4 |
 | Ch963 | Minimum Collateral Damage | Hannah_and_Claire_Adeah L24; Glossary L24; Book_13_Timeline L56, L96; The_Reaper L57; Gary L63-68 | 6 |
-| Ch964 | Expanding His Influence | NPC_Rosters_by_Era L3; Marie_Finnegan L3-6, L36; Book_13_Timeline L9; Master_Timeline L41 | 5 |
+| Ch964 | Expanding His Influence | NPC_Rosters_by_Era L3; Marie_Finnegan L3-6, L36; The_Network L9; Book_13_Timeline L9; Master_Timeline L41 | 6 |
 | Ch965 | This Is Kind of How Team Biscuit Operates | Book_13_Timeline L3, L42, L50, L71; Zara_Rimaros L86 | 5 |
 | Ch966 | A Cultural Experience | Onslow L3; Book_13_Timeline L3, L4, L41, L55; Nik_Asano L71 | 6 |
 | Ch967 | What I Present to the World | Book_13_Timeline L3, L10, L32; Minor_Cast_Books_10-13 L18-57 | 4 |
 | Ch968 | A Brief but Firm Reminder | Book_13_Timeline L4; Adrien_Barbou L34-38, L45-54, L47-54, L54 | 5 |
 | Ch969 | Good Lord | Book_13_Timeline L3; Zara_Rimaros L56-63; Natalie_Park L88 | 3 |
-| Ch970 | The Wisdom These Situations Demand | Book_13_Timeline L3, L29; Simon_McKean L38; Natalie_Park L52 | 4 |
+| Ch970 | The Wisdom These Situations Demand | The_Network L3, L5-13, L7; Book_13_Timeline L3, L29; Simon_McKean L38; Natalie_Park L52 | 7 |
 | Ch971 | All the Fuel It Needed | NPC_Rosters_by_Era L3, L49; Vincent_Baudrillard L3-28, L50, L52, L55, L56; Emi_Evans_Asano L30, L49; Ian_Evans L49; Book_13_Timeline L66 | 11 |
 | Ch972 | Little Umbrellas | Book_13_Timeline L51; Master_Timeline L51; Open_Questions L51; Emi_Evans_Asano L78, L78-82 | 5 |
 | Ch973 | A Cruelty or a Mercy | Book_13_Timeline L24; Marie_Finnegan L49 | 2 |

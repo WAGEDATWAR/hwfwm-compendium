@@ -13,6 +13,8 @@ Earth has three old magical powers and, from Book 5 on, a fourth. The **Network*
 
 ## 2. The Network
 
+The full account is in `The_Network.md`; the notes below are the short form.
+
 - **Origins** (Craig Vermillion, Book 4, Ch11 L4): "some five centuries ago, a new kind of magic appeared." People with no connection to the old ways could wield easy-to-use powers; they were collected into secret societies that hoarded their knowledge, and their strength seemed to be limited in growth. Book 13 calls the Network's founder Jason's "outworlder predecessor", whose schemes continue to play out unseen; his familiar was Mr North, a rune spider (North says in Book 5 that he "was a rune spider, originally", Book 5, Ch40 L79), and Boris worked with that familiar to betray the founder to the early magic societies that became the Network. Jason's account in Book 13 adds that the founder, an outworlder brought into the fake Purity's church, returned to Earth with magic Knowledge had bargained from the messengers, built the web of secret societies and the Grid as a pressure-release valve for the rising magic (Book 13, Ch1017 L19-23), and was betrayed by his familiar Noreth, born on Pallimustus, who handed him to the US secret societies at a time Jason guesses was around the War of Independence (Book 13, Ch1017 L24); Noreth is Mr North, leader of the Engineers of Ascension (Book 13, Ch1017 L39); the wiki calls him the original creator of the Grid and the Network's founder (wiki).
 - **Ranks**: tiers or categories zero to five match the ranks on Pallimustus (Vermillion, Book 4, Ch11 L8, L19).
 - **Going public** (Book 5, Ch17 L7): known to the public as the **Global Defense Network** (GDN) in the weeks after the monster waves began.

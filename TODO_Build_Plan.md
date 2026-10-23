@@ -63,7 +63,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2A.7 (Done 2026-10-23) Great astral beings, one file each (M, suggested).** World-Phoenix, Builder (original and new), Reaper, Celestial Book, Legion, All-Devouring Eye, Keeper of Moments, Seeker of Songs, Whisper in Corners, Word in the Silence; at least stubs with their known vessels.
 
 ### 2B. Organisations (`05_Organisations`, only 6 files)
-- **2B.1 Network (M).** Founding (Book 13, Ch1017), the Grid, categories, committees (Mr North, Mrs West, Mr/Mrs East and South in Book 5), branches (Sydney, Lyon, Berlin, Zurich), public name GDN.
+- **2B.1 (Done 2026-10-23) Network (M).** Founding (Book 13, Ch1017), the Grid, categories, committees (Mr North, Mrs West, Mr/Mrs East and South in Book 5), branches (Sydney, Lyon, Berlin, Zurich), public name GDN.
 - **2B.2 Cabal (M).** Its leaders, vampire lords (Elizabeth, Wassily, Klaus, Magdalyn), old founders and the messenger link (Book 13, Ch954 L3-6).
 - **2B.3 Engineers of Ascension (M).** Noreth's leadership (Book 13, Ch1017 L39-40), Plan A and B, Gerling, Barbou.
 - **2B.4 EDJI and the post-reveal institutions (M).** The multinational taskforce, the UN Office of Supernatural Affairs (Anna, Holly Macrossan), the Joint Magitech Weapons Research Institute, the Asano clan's organisation (Yumi, Ketevan, Noriko's old clan).

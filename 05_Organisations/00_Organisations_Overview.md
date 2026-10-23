@@ -42,5 +42,6 @@ Churches and gods are in `02_Cosmology_and_Powers/Gods_and_Churches.md`; messeng
 - [Earth's Powers: the Network, the Cabal, the EOA and the Asano Clan](Earth_Powers.md) (spoiler level 1): Earth has three old magical powers and, from Book 5 on, a fourth.
 - [Guilds, Houses and Local Powers](Guilds_and_Houses.md) (spoiler level 0): A guild is an adventuring organisation that recruits, trains and backs its members and takes on a share of the Adventure Society's work.
 - [The Magic Society, the Associations and the MRA](Magic_Society_and_Associations.md) (spoiler level 0): The Magic Society records and regulates magic: it keeps the register of essences and their combinations, oversees spirit coin farms, runs communication...
+- [The Network](The_Network.md) (spoiler level 2): The Network is Earth's largest magical organisation: a federation of old secret societies, now national and city branches, that uses essence magic, controls...
 
 <!-- files:end -->
