@@ -468,6 +468,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `05_Organisations/Order_and_Cult_of_the_Reaper.md` (header level 1, later material under tags): the old Order, the cult/order split, the Book 9 Ch27 account of the order's return (Melody Jain, Marta Fries, Callum Morse), the Reaper's own view (Book 11), and the Book 13 reveals about the joint-churches attack and Umber. `Cults_and_Orders.md` points to it.
 - Open_Questions 20 is unchanged: Umber's claim that he has been "building up their numbers" (Book 13, Ch1024 L123) is recorded, but the order's present strength is still not stated.
 
+**Alchemy, Mirage Chamber and Magical Research Associations, build plan item 2B.6 (2026-10-23)**
+- New `05_Organisations/Alchemy_Association.md`, `Mirage_Chamber_Association.md` and `Magical_Research_Association.md`, each line-cited and short. `Magic_Society_and_Associations.md` points to them.
+- The Mirage Chamber Association is named only in Book 2, Ch73 (Jayapura); the Geller chamber in Greenstone is a family facility. The Artifice Association has no file because the text gives it almost nothing; its mentions are recorded in the Alchemy file.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

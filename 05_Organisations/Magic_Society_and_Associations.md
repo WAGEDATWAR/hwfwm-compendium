@@ -22,6 +22,8 @@ The Magic Society records and regulates magic: it keeps the register of essences
 
 ## 3. The Alchemy and Artifice Associations
 
+See [Alchemy_Association.md](Alchemy_Association.md), [Mirage_Chamber_Association.md](Mirage_Chamber_Association.md) and [Magical_Research_Association.md](Magical_Research_Association.md) for the separate accounts.
+
 Both are guilds. The Alchemy Association has been hounding Neil for the miracle potion recipe (Book 3, Ch16 L80); Jason jokes about complaining to the Artifice Association about shoddy standards (Book 3, Ch17 L60). Their internal structure is unchecked. In Greenstone's guild district the Forge Society and the Alchemist Association are "clearly second to the Adventure and Magic Societies, but still occupied impressive chunks of real estate" (Book 1, Ch38 L52).
 
 <!-- level:3 -->
