@@ -346,7 +346,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch56 | Faith and Glory | Book_03_Timeline L14, L18; Nicolas_Hendren L57, L71 | 4 |
 | Ch57 | Thadwick | Great_Astral_Beings L4; Book_03_Timeline L13; Knowledge L87; Jason_Asano L87; Tone_and_Voice L87; Calendar_Holidays_and_Naming_Customs L121-122 | 6 |
 | Ch58 | The True Danger | Nicolas_Hendren L3, L47; Book_03_Timeline L3, L4, L15, L16, L19; Humphrey_Geller_Power_Set L20; Anisa_Lasalle L30; Shimmer L60 | 10 |
-| Ch59 | Forsaken Place | Afflictions_Boons_and_Damage L38; Purity_and_Disguise L45; Belinda_Callahan_Power_Set L91, L105; Neil_Davone_Power_Set L101; Nicolas_Hendren L112; Book_03_Timeline L118, L123, L126 | 9 |
+| Ch59 | Forsaken Place | Afflictions_Boons_and_Damage L38; Purity_and_Disguise L45; Belinda_Callahan_Power_Set L91, L105; Neil_Davone_Power_Set L101; Nicolas_Hendren L103; Book_03_Timeline L118, L123, L126 | 9 |
 | Ch60 | Being What he Needs to Be | Anisa_Lasalle L5; Shade L8; Nicolas_Hendren L12, L32; Book_03_Timeline L12, L47; Zato L37; Cults_and_Orders L38 | 8 |
 | Ch61 | A Significantly More Dangerous Entity | Cults_and_Orders L3; Book_03_Timeline L8; Gods_and_Churches L11; Essences L11; Glossary L23-26 | 5 |
 | Ch62 | Losing the Battle to Win the War | Era_Selection L23; Great_Astral_Beings L33; Spoiler_Management L33; Book_03_Timeline L96; Master_Timeline L96 | 5 |
@@ -1102,7 +1102,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch995 | Symposium | EDJI_and_Post_Reveal_Institutions L14, L15-16, L57, L84; Miriam_Vance L14; Travis_Noble L14; Glossary L14; Book_13_Timeline L57, L69, L76; Minor_Cast_Books_4-6 L64; Natalie_Park L69; Master_Timeline L69 … | 14 |
 | Ch996 | The More I Listen, The More I Hear | NPC_Rosters_by_Era L3; Nik_Asano L5-9, L181; Book_13_Timeline L71 | 4 |
 | Ch997 | The Man Who Fought the Monsters | Emi_Evans_Asano L11; Nik_Asano L11, L23; Sophie_Wexler L28-31; Clive_Standish L32; NPC_Rosters_by_Era L32; Neil_Davone L37-38; Essence_Catalogue L38; Taika_Power_Set L38 … | 10 |
-| Ch998 | Sitting on a Volcano | Emi_Evans_Asano L3-4, L4; Emi_Evans_Asano_Power_Set L4; Nik_Asano L4; Book_13_Timeline L4, L99; Master_Timeline L4; Natalie_Park L105; Plot_Hooks L105; Audrey_Blaine L109 | 10 |
+| Ch998 | Sitting on a Volcano | Emi_Evans_Asano L3-4, L4; Emi_Evans_Asano_Power_Set L4; Nik_Asano L4; Book_13_Timeline L4, L99; Master_Timeline L4; Natalie_Park L105; Plot_Hooks L105 | 9 |
 | Ch999 | An Interesting Message | Thalia_Mercer L3; Book_13_Timeline L3; The_Council_of_Kings L77 | 3 |
 | Ch1000 | Cosmic Tyrant Warlord Cult Leader | Boris_Ket_Lundi L3-7; The_Council_of_Kings L34-36, L36, L38, L40, L74; The_Unorthodoxy L36, L65-74, L65-76; Book_13_Timeline L37; The_Rules_of_Intrusion L72; Simon_McKean L104 | 12 |
 | Ch1001 | It’s All Quite Australian | Michael_Mills L3, L4, L6, L7, L91, L91-94 …; Book_13_Timeline L6; Master_Timeline L6; EDJI_and_Post_Reveal_Institutions L6-7, L8, L9, L44, L45, L46 …; Rufus_Remore L8; NPC_Rosters_by_Era L8; Earth_Magic L8-9, L9; Monster_Cores_and_Training L9, L10 … | 34 |

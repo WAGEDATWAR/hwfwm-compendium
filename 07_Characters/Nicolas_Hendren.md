@@ -16,7 +16,7 @@ The archbishop of the Church of Purity, a silver-rank barrier-and-force speciali
 - Introduced as Nicolas Hendren, archbishop of the Church of Purity, at a Greenstone meeting (Book 2, Ch19 L73). One Book 3 line spells the name Hedron (Book 3, Ch1 L106).
 - After Purity's involvement with the cult is revealed he vanishes with other key members on "previously scheduled sabbaticals" (Book 3, Ch31 L57).
 - He is summoned to the cult camp, disgruntled, and refuses to taint the church for "short-term power" (Book 3, Ch54 L21; Book 3, Ch56 L57). His god's voice is absent, making him the highest moral authority in the realm he stands in (Book 3, Ch56 L71).
-- In the battle his barrier shields his group from a falling building (Book 3, Ch58 L3); he is an experienced silver-rank fighter, "always the true danger" (Book 3, Ch58 L47) with a force wave power (Book 3, Ch59 L112).
+- In the battle his barrier shields his group from a falling building (Book 3, Ch58 L3); he is an experienced silver-rank fighter, "always the true danger" (Book 3, Ch58 L47) with a force wave power (Book 3, Ch59 L103).
 - He is killed; his storage shows he took a large part of Purity's funds with him (Book 3, Ch60 L12) and the Builder says losing Hendren's power is a blow though he was a reluctant ally (Book 3, Ch60 L32).
 
 ## 3. Roleplay notes

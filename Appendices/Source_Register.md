@@ -21,7 +21,7 @@ Every claim in the compendium that carries a line citation (`Book N, ChX LY`), a
 
 Each reference in the Cited lines column shows its own grade in brackets. The overlap grade is a heuristic: a high grade does not prove the claim, and a low one does not disprove it.
 
-**Totals**: ok 5338, near 333, reviewed 21, notes 1, wiki 17 (5710 rows in 357 documents).
+**Totals**: ok 5339, near 332, reviewed 21, notes 1, wiki 17 (5710 rows in 357 documents).
 
 ## 01_World_Primer.md
 
@@ -4073,7 +4073,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R3139 | She wakes in a new body that had been in stasis for more than a dozen years, the last remnant of a secret programme whose progenitors she had killed. | B5 Ch10 L17-33 (ok) | B5 Ch10 Humanity | ok |  |
 | R3140 | The new body was cloned from her own DNA with Cabal biological material. | B5 Ch10 L24 (ok) | B5 Ch10 Humanity | ok |  |
 | R3141 | In Book 13 Jason introduces Audrey Blaine to Team Biscuit as having run a sketchy joint programme between the magical factions decades ago, the source of her current state, which she has learned to manage; she has lived in a magic city for a decade among vampires. | B13 Ch959 L60 (ok); B13 Ch959 L50 (near) | B13 Ch959 Without Consequences | ok |  |
-| R3142 | The Asano clan snatched her from the Network as a coup and she is the clan's energy-vampire research director. | B13 Ch987 L10 (ok); B13 Ch992 L116 (ok); B13 Ch998 L109 (near) | B13 Ch987 Consistent Agent of Chaos; B13 Ch992 Battle of the Plants; B13 Ch998 Sitting on a Volcano | ok |  |
+| R3142 | The Asano clan snatched her from the Network as a coup and she is the clan's energy-vampire research director. | B13 Ch987 L10 (ok); B13 Ch992 L116 (ok) | B13 Ch987 Consistent Agent of Chaos; B13 Ch992 Battle of the Plants | ok |  |
 
 ## 07_Characters/Baseph_and_the_Rimaros_Children.md
 
@@ -5232,7 +5232,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R3838 | After Purity's involvement with the cult is revealed he vanishes with other key members on "previously scheduled sabbaticals". | B3 Ch31 L57 (ok) | B3 Ch31 Evil Detector | ok |  |
 | R3839 | He is summoned to the cult camp, disgruntled, and refuses to taint the church for "short-term power". | B3 Ch54 L21 (ok); B3 Ch56 L57 (ok) | B3 Ch54 A Valiant Death; B3 Ch56 Faith and Glory | ok |  |
 | R3840 | His god's voice is absent, making him the highest moral authority in the realm he stands in. | B3 Ch56 L71 (ok) | B3 Ch56 Faith and Glory | ok |  |
-| R3841 | In the battle his barrier shields his group from a falling building; he is an experienced silver-rank fighter, "always the true danger" with a force wave power. | B3 Ch58 L3 (near); B3 Ch58 L47 (near); B3 Ch59 L112 (near) | B3 Ch58 The True Danger; B3 Ch59 Forsaken Place | near |  |
+| R3841 | In the battle his barrier shields his group from a falling building; he is an experienced silver-rank fighter, "always the true danger" with a force wave power. | B3 Ch58 L3 (near); B3 Ch58 L47 (near); B3 Ch59 L103 (ok) | B3 Ch58 The True Danger; B3 Ch59 Forsaken Place | ok |  |
 | R3842 | He is killed; his storage shows he took a large part of Purity's funds with him and the Builder says losing Hendren's power is a blow though he was a reluctant ally. | B3 Ch60 L12 (ok); B3 Ch60 L32 (ok) | B3 Ch60 Being What he Needs to Be | ok |  |
 
 ## 07_Characters/Nigel_Thornton.md
