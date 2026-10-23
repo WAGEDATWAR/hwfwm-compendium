@@ -99,6 +99,9 @@ The order follows first appearance in the series within each group.
 - **Same essence, different user.** The vehicle essence gives drones to Kaito (Book 5, Ch7 L8) and a conjured limousine to Wesley Asano (Book 12, Ch59 L9) and a helicopter to another (Book 11, Ch68 L1526).
 - **Wiki lists.** The fan wiki grades many essences by rarity; those grades are not used here when the text gives a different one. Where the text and the wiki conflict, the text is followed (for example renewal, above).
 
+<!-- level:3 -->
 ## 6. Later developments
 
 - **Level 3:** Gary's essences are replaced by divine versions (Divine Hammer, Divine Fire, Divine Iron) and his forge confluence by Demigod (Book 10, Ch86 L67-70). See `Confluences.md` for the end of fixed pairings.
+
+<!-- /level -->

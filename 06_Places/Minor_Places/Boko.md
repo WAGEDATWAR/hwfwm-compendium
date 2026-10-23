@@ -44,9 +44,12 @@ The Duke of Boko (Book 12, Ch32 L91; Book 12, Ch39 L80-91); Li Li Mei (Book 12, 
 
 Theatres, painting, poetry and dance draw visitors (Book 12, Ch29 L61); local dress is loose and breathable (Book 1, Ch113 L21).
 
+<!-- level:3 -->
 ## Later developments (spoilers)
 
 The destruction, evacuation and the Duke's refusal to rebuild elsewhere are Level 3 (Book 12, Ch32-39).
+
+<!-- /level -->
 
 ## Open questions
 

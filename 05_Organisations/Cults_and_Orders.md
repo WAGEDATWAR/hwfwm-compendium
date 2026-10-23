@@ -30,9 +30,12 @@ Four hidden organisations run through the books. The **Order of the Reaper** is 
 - **Operations**: massacres of isolated fortress towns disguised as monster attacks while adventurers are busy (Book 8, Ch9 L40); recruitment of volunteers; the capture of Gibson Amouz, a cousin of Liara's husband (Book 8, Ch20 L4), whom the Church of the Healer later recovers (Book 9, Ch28 L45).
 - **People** (Book 8, Ch18 L3-6): Melody Jain is the overall leader of the order's local operations, with her second Sendira and church adviser Laront (a Purity priest who never passed through the flames, so he can safely visit cities). Cell leaders are silver like their commanders, a source of constant tension; some resent Melody's use of the order for her own ends.
 
+<!-- level:3 -->
 ## 5. The Church of Undeath (Level 3)
 
 Hana Shavar says the church lies dormant for generations and, when it finally acts, it is like its god has saved up his chances to intervene; expect "dark miracles" (Book 10, Ch78 L38-41). In Cardinas its priests turn the dead into undead; its priests are led by Garth Larosse, a priest of Undeath and a zemravore (an undead that steals living hearts; Book 11, Ch29 L3: his power is the ability to kill his own aura, rendering him invisible to aura senses). Jason's allies defeat the church, and Jason sanctions the avatar of Undeath. See `Gods_and_Churches.md`.
+
+<!-- /level -->
 
 ## 6. Hooks
 

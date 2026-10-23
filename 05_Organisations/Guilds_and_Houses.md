@@ -30,9 +30,12 @@ The pre-eminent producer of defensive engineering in the Storm Kingdom (Book 7, 
 
 A school in Vitesse run by Roland Remore, the diamond arch-chancellor, who is rarely seen on campus but whose presence is felt (Book 3, Ch69 L587-591). Rufus, Farrah and others are graduates; connections only open the door to the prestigious guilds, and the Academy gives its graduates the skills to walk through it (Book 6, Ch47 L125-131).
 
+<!-- level:2 -->
 ## 6. The Aristocratic Faction of Yaresh (Level 2)
 
 Allayeth explains in Book 10 (Ch14 L33-35): a collection of wealthy aristocrats and a few very wealthy merchant barons who own most of the land in the region and provide most of the jobs. They use that influence to co-opt tenants and workers into ideologies, building a loud base that supports policies that keep it poor and ignorant. Distinctively, they have focused on power structures "completely divorced from personal power": no adventurers, no magical researchers, only money and political influence. They promote the idea that money and influence matter more than personal power and will undercut the city authorities and blame others for the consequences. Gormanston Bynes is a prominent member. In his own thoughts (Book 10, Ch47 L60-62) he has concluded that the faction is weak, foolish and oblivious to its path to self-destruction and that the ship must be drydocked and burned to ashes so a new one can be built. His niece Juniper reached silver rank at twenty-two during the surge. His son Calcifer Bynes is Director of the Office of External Affairs, insists on the style "Lord Bynes", and runs afoul of Arabelle and Jason.
+
+<!-- /level -->
 
 ## 7. Hooks
 

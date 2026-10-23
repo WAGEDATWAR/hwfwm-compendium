@@ -171,15 +171,21 @@ Great astral beings are cosmic-scale transcendents who embody aspects of the cos
 
 **Gods** are concept-based beings outside physical reality who manifest avatars, speak with Akashic Speech and give followers essences, stones and miracles. Each is bound to a world. Gods named in the books include Knowledge, Healer, Dominion, Hero, Death, Fertility, Hearth, Destruction, Discord, Undeath and Pain, with Purity (or Disguise) a special case; see `02_Cosmology_and_Powers/Gods_and_Churches.md`. Gods cannot enter another god's domain, cannot affect Jason inside his realm, and cannot sanction one another lightly. **Churches** are major institutions (the Church of the Healer provides healing; Dominion backs rulers; Knowledge has an archive and an army; Purity was a long-running fraud: its true god was replaced by a deceiver). **(Later: Book 8, 10-13)**
 
+<!-- level:3 -->
 ### 9.4 Astral kings, messengers and the Council of Kings **(Level 2-3)**
 
 An **astral king** is a being whose soul has become a small universe. Most astral kings began as **messengers**, a servant race grown on birthing trees, bound by a brand placed in the soul that enforces rank limits (Book 10, Ch4 L53-55; Book 11, Ch25 L49-51). **Messengers** are gestalt beings (body and soul fused), tall, winged, hierarchical and arrogant, who believe themselves the highest life in the cosmos. They are not essence-users; their power comes from their astral king. The **Council of Kings** is the ruling body of astral kings. The **Unorthodoxy** are free messengers hiding from the Council. Jason himself becomes a different sort of astral king, an **astral nexus**, with a **prime avatar**. **(Later: Book 8-12)**
 
+<!-- /level -->
+
+<!-- level:3 -->
 ### 9.5 Authority and sanctioning **(Level 3)**
 
 **Authority** is the fundamental power of transcendent beings (their flesh, blood and soul), and is currency in the cosmos. **Sanctioning** is a punitive or self-imposed transformation of a transcendent being's authority, for example the old Builder's replacement or Purity's self-sanctioning. The authority concept is central to the final books.
 
 ---
+
+<!-- /level -->
 
 ## 10. Souls, death and resurrection
 

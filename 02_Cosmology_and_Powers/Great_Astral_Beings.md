@@ -48,12 +48,15 @@ Sanctioning is an extreme change to a transcendent being's nature through a shif
 - **History**: the original Builder crafted twin universe seeds, Earth and Pallimustus; was sanctioned and replaced.
 - **Book 8 settlement**: the Fundamental Realm Authority Token enters Jason's inventory in Book 8, and his ability to access the fundamental realm is lost (Book 8, Ch49 L89-91); he looted it from the destroyed artefacts (Book 8, Ch50 L94-95), and Dawn tells him he will need to give it back (Book 8, Ch51 L68-70). The separate item the World-Phoenix crafted in Book 6 is for establishing the link (Book 6, Ch18 L124). The deal that ends the Builder's invasion is not checked.
 
+<!-- level:3 -->
 ## 6. The World-Phoenix (Level 2/3)
 
 - **Role**: guardian of dimensional integrity; gave Jason the World-Phoenix Token and Nirvanic Transfiguration.
 - **Identity**: formerly the Boundary; resisted by the Cosmic Throne when changing, and freed by the Sundering. She speaks of the Boundary in her own words in Book 11 (Book 11, Ch68 L1793-1795).
 - **Relationship to Jason**: sent Dawn; in the Rumble in the Jungle, the soul-space battleground where Jason's team stands against the nameless great astral beings (Book 11, Ch68 L171-175).
 - **Prime vessel**: Helsveth (Book 11, Ch68 L2527-2530).
+
+<!-- /level -->
 
 ## 7. Hierophants
 

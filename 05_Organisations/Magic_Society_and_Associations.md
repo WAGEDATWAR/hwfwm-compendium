@@ -24,12 +24,15 @@ The Magic Society records and regulates magic: it keeps the register of essences
 
 Both are guilds. The Alchemy Association has been hounding Neil for the miracle potion recipe (Book 3, Ch16 L80); Jason jokes about complaining to the Artifice Association about shoddy standards (Book 3, Ch17 L60). Their internal structure is unchecked. In Greenstone's guild district the Forge Society and the Alchemist Association are "clearly second to the Adventure and Magic Societies, but still occupied impressive chunks of real estate" (Book 1, Ch38 L52).
 
+<!-- level:3 -->
 ## 4. The Magical Research Association (Level 2-3)
 
 - **Founding and role** (Book 12, Ch1 L55-57): Clive Standish builds a rival to the Magic Society. In a handful of years it explodes into prominence. Where the Magic Society hoards its knowledge for political gain, the MRA gives open access to records and research libraries. It is a bastion for young, bold researchers.
 - **Funding and protection** (Book 12, Ch1 L58): government authorities, the Adventure Society and a variety of churches, especially the Church of Knowledge, contribute, and shield it from the Magic Society's attempts to crush it.
 - **Projects** (Book 12, Ch1 L55-59): the new sky communication network and a rumoured transportation network (the "portal network project" in Grantham's report), the result of years of study into the network Clive had tracked earlier.
 - **Leadership**: Clive is Archchancellor (Book 12, Ch1 L76). Lorelei Grantham is Vice Chancellor (Book 12, Ch56 L119): she first appears in Book 3 as a researcher assigned to work with the Adventure Society's Continental Council, and in Book 6 she is an administrator in the Magic Society's astral magic research wing in Rakesh, where Clive is held. She runs the MRA in Clive's absence and has a portal network project (Book 12, Ch5 L99). That she is sympathetic to Clive in Book 6 is from earlier notes and was not rechecked.
+
+<!-- /level -->
 
 ## 5. Hooks
 

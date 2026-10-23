@@ -24,6 +24,7 @@ The cosmos of the books has layers. Physical worlds such as Earth and Pallimustu
 - **Intrinsic-mandate magic** is high-order transcendent magic that shapes reality by decree; Gordon's orrery ritual is an example: Jason is told that Gordon can use intrinsic-mandate magic, which operates on the same scale as a great astral being (Book 10, Ch5 L80-84).
 - **Akashic Speech** is the speech of the transcendent; Jason's avatar inherits it (Book 12, Ch10 L17-22).
 
+<!-- level:3 -->
 ## 4. The Cosmic Throne and the Sundering (Level 3)
 
 - The **Cosmic Throne** was the ultimate authority that regulated the cosmic forces and the great astral beings. The great astral beings **sundered** it to escape regulation, replacing it with pacts between themselves. (Raythe and Velius's account, Book 11, Ch64 L24-27; Jason's briefing in Book 13, Ch1017 L6-8.)
@@ -31,6 +32,8 @@ The cosmos of the books has layers. Physical worlds such as Earth and Pallimustu
 - The **Sundered Throne** still exists, even broken; Jason senses it as a thread that rivals the might of the great astral beings (Book 11, Ch1 L22-24). Some **avatars of doom** remain attached to it; they belong to the All-Devouring Eye and were loaned to the Throne (Book 11, Ch34 L97, L103).
 - Raythe tells Jason (Book 11, Ch65 L55) that "only the nameless" great astral beings will stand with the World-Phoenix against him. Velius explains that the nameless "govern the functions of the cosmos. Life, death, time, matter" and are "unbound from the strictures of their duties" by the removal of the Throne's oversight (Book 11, Ch65 L57-58). Restoring the Throne requires a transcendence method plus a connection to it; Jason sits on it at the end of Book 11, and restrictions from the sundering unravel as he repairs it (for instance, fixed essence combinations stop being fixed).
 - **After the restoration** the cosmic law is "much more rigid" (Book 12, Ch63 L7): the **Rules of Intrusion**, which in Pallimustus mostly govern holy wars between faiths, also govern dimensional invasion. Invaders on a world that has not declared itself open to the cosmic community must remove the person they entered to remove; if they fail they violate the rules. Kreegle's pirates and the messengers on Earth are bound this way.
+
+<!-- /level -->
 
 ## 5. Time and its keeper
 

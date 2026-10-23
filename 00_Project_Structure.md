@@ -110,6 +110,17 @@ Because the series changes the nature of its world over thirteen books, every fa
 
 When writing, put level-2 and level-3 facts in clearly marked sections ("Later developments") rather than in the main text.
 
+**Spoiler tags.** A document's header level (the first digit of its `Spoiler level:` line) is the level of its untagged text. A section that needs a higher level is wrapped in a pair of HTML comments, which do not render:
+
+```
+<!-- level:3 -->
+## Later developments (spoilers)
+...
+<!-- /level -->
+```
+
+Rules: the level is 0-3; a tagged section may not be lower than the header level; tags may nest only when the inner level is at least the outer level; open and close tags must balance. Indexes and files whose header says "mixed" carry no tags. Use tags wherever a file mixes levels; a file whose header level already covers everything needs none. `src/tools/lint.py` checks the tags, and `src/tools/spoiler_tags.py` proposes tags for headings such as "Later developments" or "(Level N)" (the level of a "Later developments" section is taken from the latest book cited in it: Books 1-3 give 1, Books 4-9 give 2, Books 10-13 give 3). The planned export tool (build plan item 5.5) will keep a tagged section only when its level is at or below the level requested.
+
 ## 7. Style rules
 
 - Prose, present tense for how the world is; past tense for history. No note shorthand ("->", "w/", abbreviations).

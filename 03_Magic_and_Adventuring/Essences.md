@@ -61,7 +61,10 @@ The full list of essences and who holds them is in `Essence_Catalogue.md`.
 - **You can make an essence from quintessence.** Farrah calls it impossible (Book 1, Ch19 L50).
 - **A confluence can be found loose.** "You can't find a volcano essence anywhere" (Book 1, Ch19 L31).
 
+<!-- level:2 -->
 ## 6. Later developments
 
 - **Level 2:** Jason offers awakening stones to former Engineers of Ascension members, saying there are enough in his stock to send two of them off "with a full set of powers", and notes that rushing is not ideal (Book 6, Ch26 L97).
 - **Level 3:** After the Cosmic Throne is restored the confluence for a given trio stops being fixed (see `Confluences.md`).
+
+<!-- /level -->

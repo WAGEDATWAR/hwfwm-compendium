@@ -81,20 +81,35 @@ God of medicine and healing. The Greenstone temple was corrupt and had to be cor
 ### Dominion
 The god of rulership. A believer says "Dominion issues the divine right to kings and nobles" (Book 1, Ch45 L18), but Dominion tells Jason "There is no divine right of kings. Mortals choose and I try to help them not make a complete mess of things" (Book 12, Ch13 L67). His church is the most prominent outlier in keeping low-ranking essence users under its thumb (Book 3, Ch69 L859), and he tells his new clergy "There is no service in my church... you will obey or suffer" (Book 1, Ch95 L94). He tells Gary "That is where monarchs come from. I love them most of all. I'll be keeping an eye on you, Gareth Xandier" (Book 1, Ch95 L104), and a character says in Book 9 that he likes "the ones who refuse to kneel".
 
+<!-- level:3 -->
 ### Purity and Disguise (Level 2/3)
 Book 10 states that the Order of Redeeming Light was created by Disguise, a god masquerading as Purity: its Flames of Redemption are an extreme modification of lesser vampirism, and the order was founded only after Disguise took on Purity's mantle (Book 10, Ch39 L46-49, Arabelle and Carlos). Jason tells Melody Jain that her god is "an illusion. A disguise" (Book 10, Ch40 L16). In Book 8 Carlos Quilido tells Jason his theory that the gods may have sanctioned Purity long before, and that rules of interplay stopped them telling their clergy (Book 8, Ch48 L40-60). In Jason's Book 13 briefing, Purity, who embodies several contradictory meanings, was unstable about five hundred years ago and likely to sanction himself; Knowledge interfered; and a relic of Purity's divine power was left behind (Book 13, Ch1017 L14-24). Purity's most zealous worshippers carry many purgation tools (Book 7, Ch35 L39); the wiki's claim that the doctrine treats humans as the "pure" state is not used here.
 
+<!-- /level -->
+
+<!-- level:3 -->
 ### Knowledge (Level 3 for the plot)
 In Book 1 Jason meets the goddess as a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable" (Book 1, Ch46 L16); she knows everything anyone in her world knows, including Jason, so she knows "Mario Kart shortcuts" (Book 1, Ch77 L10). In Book 13 Jason tells his allies that she has been preparing to invade Earth for half a millennium and used him as a key part of the plan; the briefing says she promised the messengers' leader a chance to invade Pallimustus and claim Purity's relic, and that around a third of the priests and priestesses of Knowledge are her spies (Book 13, Ch1017 L14-20). When Gabrielle Pellin refuses to believe it, a cube leaves her chest into Knowledge's hand, Gabrielle seizes, and Travis catches her (Book 13, Ch1023 L139). Jason answers Knowledge's claim that she will be "the one true God" of his world with "The next time we meet, Goddess, will be the day you die" (Book 13, Ch1024 L153).
 
+<!-- /level -->
+
+<!-- level:3 -->
 ### Death (Level 3)
 The goddess of death appears to Jason in the Cardinas death chamber as "a stocky, middle-aged woman with a colourful dress" with the warmth of "a matronly tavern keeper" (Book 10, Ch82 L62). Her pact seals any ability to resurrect himself or another, persists through any change in his nature, and is enacted by the goddess guiding his soul to change itself, without her gaining access to it. In return he gains the title Keeper of the Cycle: abilities that apply afflictions also apply ghost fire, mana drain degrades the animating force of undead, and allies in his aura are affected by ghost fire while he suppresses undead (Book 10, Ch83 L75-78). In Book 12 Gordon suggests asking Death to return the resurrection power Jason gave away (Book 12, Ch6 L18-22), and Death does: "I will return what was taken, Jason Asano, now that it cannot be used for its original purpose" (Book 12, Ch8 L10), the reality material forming Jason's prime avatar (Book 12, Ch8 L19).
 
+<!-- /level -->
+
+<!-- level:3 -->
 ### Hero (Level 3)
 The god of heroes is "the only core deity not to have subordinate gods" (Book 1, Ch48 L92). Those who make the ultimate sacrifice are offered the Cup of Heroes (Book 10, Ch89 L54; Gary drinks it, Book 10, Ch86 L59, and says "I'm only a demigod", Book 11, Ch1 L9). Almost a year later Gary is a haggard figure kept alive by Hero's power (Book 11, Ch68 L703-708). Gwydion tells Gary that Hero has decided to sanction himself, something he has considered for longer than anyone has been alive (Book 11, Ch68 L707-709). When Gary drinks it, his hammer, fire and iron essences become divine versions and his forge confluence is replaced by a Demigod essence (Book 10, Ch86 L67-70), not a "Hero" essence.
 
+<!-- /level -->
+
+<!-- level:3 -->
 ### Undeath (Level 3)
 Hana Shavar says (Book 10, Ch78 L38) that the Church of Undeath lies dormant for generations and strikes when its god has "saved up his chances to intervene", bringing "dark miracles". Garth Larosse, a zemravore and priest of Undeath, leads the church's priests in Cardinas (Book 10, Ch88 L58-63; Book 11, Ch29 L3-5). Undeath is one of the gods with only hidden strongholds (Book 10, Ch85 L40).
+
+<!-- /level -->
 
 ## 5. Churches in practice
 

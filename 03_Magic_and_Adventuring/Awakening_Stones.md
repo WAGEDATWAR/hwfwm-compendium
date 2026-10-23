@@ -59,8 +59,11 @@ Jason's own awakening record, with the stone where the text says which:
 - **A stone saves you from needing a full set.** Rufus's advice is to take all four essences first (Book 1, Ch21 L36-37).
 - **Stones are only for abilities.** They also fuel rituals (Book 1, Ch22 L45).
 
+<!-- level:2 -->
 ## 6. Later developments
 
 - **Level 1 (Book 2):** Stones are rewards. The Adventure Society raised the bounty on Jason to a four-star stone for each person on the team that caught him, with a cap of six after people formed giant groups (Book 2, Ch9 L17-18). The Society gives out stones for exceptional service, rarely, and as rewards for contributions in open contracts (Book 1, Ch64 L81). A Geller family tradition supplies scions "with enough awakening stones to get started" (Book 1, Ch64 L80). As a rule, "we don't give out awakening stones to people for killing monsters above their rank", so that people are not tempted to jump ranks (Book 1, Ch91 L34).
 - **Level 2 (Book 9):** Stones keep their reputation for surprising results. In a joking exchange, one speaker admits to using a stone of defiance and a companion teases that they expected an ability from a chef-type essence (Book 9, Ch78 L126-129).
 - **Level 3:** After the throne is restored, stones continue to be used; the fixing of confluences, not stones, is what changes (see `Confluences.md`).
+
+<!-- /level -->

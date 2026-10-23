@@ -5,6 +5,7 @@ Checks every compendium .md (not the generated register and map, the logs, the T
   ERROR  spoiler level does not start with 0-3 or "mixed" (mixed is for indexes whose entries carry their own level)
   ERROR  a "(Book N, ChX LY)" cite names a chapter or line that does not exist in src/Source_Text/
   ERROR  a Related link does not resolve to a file
+  ERROR  a spoiler-level tag (<!-- level:N -->) is unbalanced, has an invalid level, or is lower than the header level
   ERROR  the generated file list in a folder overview is out of date (src/tools/overviews.py)
   WARN   a cite written in a non-standard form (for example "Book 9 Ch29 L17")
   WARN   leftover note shorthand ("->", " w/ ")
@@ -13,6 +14,7 @@ Writes src/tools/lint_report.md and returns (errors, warnings, files_checked).
 Usage: python3 src/tools/lint.py   (works from any directory)
 """
 import os, re, sys, io
+import spoiler_tags
 from common import base, lines as chapter_lines
 
 SKIP_FILES = {"00_Project_Structure.md", "TODO_Verification.md", "TODO_Build_Plan.md",
@@ -76,6 +78,8 @@ def run(write=True):
         for t in related_targets(head.get("Related", "")):
             if not os.path.exists(os.path.normpath(os.path.join(os.path.dirname(path), t))):
                 errors.append((rel, "Related link not found: " + t))
+        for ln, msg in spoiler_tags.parse(text)[1]:
+            errors.append((rel, "spoiler tag, line %d: %s" % (ln, msg)))
         plain = strip_code(text)
         for m in CITE.finditer(text):
             b, c = int(m.group(1)), int(m.group(2))

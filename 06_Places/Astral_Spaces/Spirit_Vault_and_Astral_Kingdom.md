@@ -32,11 +32,14 @@ After the Astral Throne and Astral Gate appear (Book 8, Ch49 L105), Jason is an 
 
 By essence: a rose garden (blood), underground mushroom caverns (dark), a rope-bridge gorge with mana creeks, a farmhouse where Tera perches, a vampire-manor estate, the flesh pit, a subterranean blood-and-flesh space tied to the Colin summoning stone (Book 10, Ch33 L109-111), and the Colin greenhouse. Mana flows in creeks. He can stabilise any physical reality he is inside.
 
+<!-- level:3 -->
 ## 7. Arbour, New Water and Rexion (spoilers)
 
 - **Arbour**: an avatar introduces itself as "Arbour" in Book 11; the notes describe it as a tree city in Jason's astral kingdom with redwood tree mansions and light rail, with its own soul and avatar, formerly the corrupted World Tree or birthing tree (notes, Book 13); in Book 13 Jason and Emi stand on a platform in a tree mansion spanning several towering redwoods in Arbour (Book 13, Ch960 L3).
 - **New Water**: the oasis city in his astral kingdom, named so that it would not be named after Boko (Book 12, Ch39 L61); the Duke of Boko is holding a management meeting in its administrative centre when Jason fetches him, and addresses him as "Lord Asano" (Book 12, Ch39 L61-65).
 - **Rexion**: a city for Cardinas's brightheart survivors, led by Lorenn (confirmed as their leader); Book 12 describes a border town dug into the walls of the shaft, managed by the brighthearts with a mostly transient population (Book 12, Ch11 L46, L110), where Jason forbids anyone to make Rexion a temple (Book 12, Ch13 L34). The array-powered citadel is unchecked.
+
+<!-- /level -->
 
 ## 8. Dangers and hooks
 

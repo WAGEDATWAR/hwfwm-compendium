@@ -64,9 +64,12 @@ Aristocrats and the wealthy live on the Island; ordinary people in the Old City.
 - Magic Society politics around the Nightingale.
 - (Level 1) Greenstone as the place Sophie's indenture ends, and the starting point for the Reaper contest.
 
+<!-- level:3 -->
 ## Later developments (spoilers)
 
 Greenstone is repeatedly touched by the Builder cult through Books 3-8. By Book 12 the third crime family's leader has been legitimised as mayor of the Old City (the Duke rules the city, Book 1, Ch36 L71; that the mayor answers to him is an inference), the Adventure Society is cleaner and, twenty years later, Elspeth Arella remains in the post she was forced into. Boko, the neighbouring academic city, is destroyed after Jason is assassinated there (Book 12, Ch32-33; Book 12, Ch33 L3); most of its ninety thousand people are evacuated first.
+
+<!-- /level -->
 
 ## Open questions
 
