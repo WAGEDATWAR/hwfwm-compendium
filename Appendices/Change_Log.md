@@ -425,6 +425,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Gordon's file notes the human "Other Gordon" of Books 4 and 5 to avoid confusion. Umber keeps his own file in `07_Characters/`.
 - The convention is recorded in `00_Project_Structure.md`: every character file lists the character's familiars.
 
+**The Cosmic Throne and the System, build plan item 2A.2 (2026-10-22)**
+- New `02_Cosmology_and_Powers/Cosmic_Throne_and_the_Sundering.md`: what the throne regulated, the pacts that replaced it, who stood aside, why the Builder and the nameless made the repair necessary, the conditions on the repair (empty throne, a candidate with a throne connection, no servants of great astral beings), the risks, the Book 11 restoration scene and the Book 12 and 13 aftermath.
+- New `02_Cosmology_and_Powers/The_System.md`: the Book 11 announcement, Jason's imprint on the throne, the default and expanding features, the System Administrator gift and its limits, the withdrawal over indenture and the diamond-rankers' position, and the Book 13 alerts.
+- Both files are level 3 throughout. Cross-links added to `00_Cosmology_Overview.md` and the Glossary.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

@@ -29,6 +29,8 @@ The full account is in `Authority_and_Sanctioning.md`; the notes below are the s
 <!-- level:3 -->
 ## 4. The Cosmic Throne and the Sundering (Level 3)
 
+Full accounts: `Cosmic_Throne_and_the_Sundering.md` and `The_System.md`. The notes below are the short form.
+
 - The **Cosmic Throne** was the ultimate authority that regulated the cosmic forces and the great astral beings. The great astral beings **sundered** it to escape regulation, replacing it with pacts between themselves. (Raythe and Velius's account, Book 11, Ch64 L24-27; Jason's briefing in Book 13, Ch1017 L6-8.)
 - Not all agreed. Book 11 (Ch64 L49; Ch65 L75): the Keeper, the All-Devouring Eye and the Word in the Silence "ever stood apart"; the Celestial Book and the Seeker of Songs were against the sundering from the start; the Reaper, Legion and the Whisper in Corners "have come around and will fight" (Raythe).
 - The **Sundered Throne** still exists, even broken; Jason senses it as a thread that rivals the might of the great astral beings (Book 11, Ch1 L22-24). Some **avatars of doom** remain attached to it; they belong to the All-Devouring Eye and were loaned to the Throne (Book 11, Ch34 L97, L103).
@@ -58,7 +60,9 @@ Gods answer prayers and send miracles; great astral beings are rarely named outs
 
 - [Astral Kings and Messengers](Astral_Kings_and_Messengers.md) (spoiler level 2): Astral kings rule their own universes.
 - [Authority and Sanctioning](Authority_and_Sanctioning.md) (spoiler level 2): Authority is what great astral beings and gods are made of, and the thing that lets them shape the cosmos.
+- [The Cosmic Throne and the Sundering](Cosmic_Throne_and_the_Sundering.md) (spoiler level 3): The Cosmic Throne was the ultimate authority that regulated the great astral beings.
 - [Gods and Churches](Gods_and_Churches.md) (spoiler level 0): Gods are transcendent beings outside physical reality, each focused on a single concept (Dominion, Healer, Knowledge, Death and more).
 - [Great Astral Beings](Great_Astral_Beings.md) (spoiler level 1): A great astral being (GAB) is a cosmic-scale transcendent: an aspect of the cosmos that embodies a concept such as construction, finality of death, time,...
+- [The System](The_System.md) (spoiler level 3): The System is the interface of windows, ranks and messages that Jason carried alone from Book 1.
 
 <!-- files:end -->

@@ -131,7 +131,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Core (monster core)**: crystallised magic from a monster; eaten to advance faster, at a long-term cost. **[0]**
 
-**Cosmic Throne**: the embodied cosmic law that governed the great astral beings; sundered by them, restored by Jason in Book 11. See also *Sundered Throne*. **[3]**
+**Cosmic Throne**: the embodied cosmic law that governed the great astral beings; sundered by them, restored by Jason in Book 11. See also *Sundered Throne*; full account in `02_Cosmology_and_Powers/Cosmic_Throne_and_the_Sundering.md`. **[3]**
 
 **Council of Kings**: the ruling body of astral kings. **[3]**
 
@@ -380,7 +380,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Sacred Phoenix**: a prime-avatar gift: turn into a ghost-fire phoenix on lethal damage. **[3]**
 
-**Sanction / sanctioning**: transformation of a transcendent being's authority. **[3]**
+**Sanction / sanctioning**: transformation of a transcendent being's authority; see `02_Cosmology_and_Powers/Authority_and_Sanctioning.md`. **[3]**
 
 **Sanguine horror**: an apocalypse beast of leeches. **[1]**
 
@@ -421,7 +421,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Suppression collar**: a device that blocks an essence-user's powers. **[0]**
 
-**System, the**: the interface now seen by all essence users. **[3]**
+**System, the**: the interface now seen by all essence users, an echo of Jason's own imprinted on the restored throne; see `02_Cosmology_and_Powers/The_System.md`. **[3]**
 
 ## T
 
