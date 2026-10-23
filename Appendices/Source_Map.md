@@ -1031,21 +1031,22 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch56 | The End of What Can Be Productively Achieved Here | Artefact_Site_One L3-4, L124; Open_Questions L3-4; 01_World_Primer L4; Book_12_Timeline L117; Magic_Society_and_Associations L119; Lorelei_Grantham L119 | 7 |
 | Ch57 | Someone Got Sucked Off | 00_Cosmology_Overview L3; 00_Astral_Overview L3; Jota_Withers L3, L7-12, L14; Era_Selection L3; NPC_Rosters_by_Era L3; Plot_Hooks L12 | 8 |
 | Ch58 | A City With No Dawn | Book_12_Timeline L41; Emi_Evans_Asano L49 | 2 |
-| Ch59 | A Clark Kent Problem | Essence_Catalogue L9 | 1 |
-| Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; Book_12_Timeline L18; 00_Places_Overview L21 | 14 |
-| Ch62 | It Sets a Tone | Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28; Artefact_Site_One L45, L53 | 6 |
-| Ch63 | We Already Know Who You Are | TODO_Build_Plan L5-7; 01_World_Primer L7; 00_Cosmology_Overview L7; Jota_Withers L16-19; Noriko_Asano L19, L30; Yumi_Asano L19; Plot_Hooks L19; Minor_Cast_Books_10-13 L43-53 | 9 |
-| Ch64 | Good Luck in Your Battle | Minor_Cast_Books_10-13 L12; Artefact_Site_One L21, L22-24; Book_12_Timeline L48, L96; Jota_Withers L76-79 | 6 |
-| Ch65 | Second Chance to Make a First Impression | Minor_Cast_Books_10-13 L4 | 1 |
-| Ch66 | The Right Move | Book_12_Timeline L62, L76 | 2 |
-| Ch67 | A Lot of Things to Do | Astral_Kings_and_Messengers L23; Artefact_Site_One L44-47; Master_Timeline L113; Emi_Evans_Asano L146-149, L149; Jason_Power_Set_Reference L153-155, L157-160, L162-167, L168-169, L170-192, L175 …; Ranks_and_Advancement L154, L154-155, L155; Abilities_and_Attributes L155-160, L169-192, L197, L224-227, L331, L335; Unusual_and_Unique_Magic L162-167, L195-200, L197 … | 76 |
+| Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Essence_Catalogue L9 | 10 |
+| Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93 | 6 |
+| Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21 | 20 |
+| Ch62 | It Sets a Tone | Book_12_Timeline L3, L4, L51, L98, L101, L117; Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28; Artefact_Site_One L45, L53 | 12 |
+| Ch63 | We Already Know Who You Are | Book_12_Timeline L3, L15, L16, L42, L61, L79 …; TODO_Build_Plan L5-7; 01_World_Primer L7; 00_Cosmology_Overview L7; Jota_Withers L16-19; Noriko_Asano L19, L30; Yumi_Asano L19; Plot_Hooks L19 … | 16 |
+| Ch64 | Good Luck in Your Battle | Minor_Cast_Books_10-13 L12; Artefact_Site_One L21, L22-24; Book_12_Timeline L21, L48, L60, L74, L87, L93 …; Jota_Withers L76-79 | 13 |
+| Ch65 | Second Chance to Make a First Impression | Minor_Cast_Books_10-13 L4; Book_12_Timeline L11, L53, L55 | 4 |
+| Ch66 | The Right Move | Book_12_Timeline L5, L13, L34, L53, L62, L63 … | 9 |
+| Ch67 | A Lot of Things to Do | Book_12_Timeline L5, L19, L22, L30, L42, L51 …; Astral_Kings_and_Messengers L23; Artefact_Site_One L44-47; Master_Timeline L65, L113; Open_Questions L65, L113; Emi_Evans_Asano L146-149, L149; Jason_Power_Set_Reference L153-155, L157-160, L162-167, L168-169, L170-192, L175 …; Ranks_and_Advancement L154, L154-155, L155 … | 98 |
 
 ### Book 13
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
 | Ch950 | A Person the Other Used to Know | Erika_Asano L1-14; Emi_Evans_Asano L27; Amy_Asano L29; Kaito_Asano L29, L33; Master_Timeline L29; Book_13_Timeline L41; Artefact_Site_One L45; Minor_Cast_Books_4-6 L47 | 9 |
-| Ch951 | Messy but Delicious | Nik_Asano L4-11, L7, L11; Book_13_Timeline L50; Master_Timeline L50; Era_Selection L50; Open_Questions L50 | 7 |
+| Ch951 | Messy but Delicious | Nik_Asano L4-11, L7, L11; Book_12_Timeline L50; Book_13_Timeline L50; Master_Timeline L50; Era_Selection L50; Open_Questions L50 | 8 |
 | Ch952 | All Your Well-Learned Politesse | Book_13_Timeline L35 | 1 |
 | Ch953 | Perfect Humanoid Specimens | Book_13_Timeline L3; Anna_Tilden L9; Sigrid_Freyn L39; Chloe_Baudrillard L84; Emi_Evans_Asano L84 | 5 |
 | Ch954 | Misgivings | Earth_Powers L3-6; TODO_Build_Plan L3-6; Astral_Kings_and_Messengers L4; Boris_Ket_Lundi L4, L5-6, L7-12, L9, L20; 00_Earth_Overview L9; Artefact_Site_One L17; Book_13_Timeline L17, L20; Dawn L19 | 13 |

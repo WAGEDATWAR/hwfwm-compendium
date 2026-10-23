@@ -19,7 +19,7 @@ Related: Book_01_Timeline.md (and Book_02 to Book_13, one per book), ../01_World
   - Book 13 is set in **2038** (Book 13, Ch951 L50), and mentions transformation-zone events "like those in 2020" (Book 13, Ch964 L41).
   - These fit one calendar: born 1 April 1994; arrival late November 2017 (age 23); return June 2019 (age 25); the age-26 birthday in April 2020, which is the year of the first transformation zones. The year numbers are inferred from the book statements, not stated in Book 1.
   - Further consequences: the departure from Earth (end of Book 6) falls in the autumn of 2021, the Earthlings vanish from Earth then, and Book 13 in 2038 is about sixteen and a half years later, which the characters round to "sixteen" or "seventeen". Jason's twenty-ninth birthday (1 April 2023, about M65) means Book 10, in which he says he is twenty-nine, begins at about M65 or later.
-  - A Book 12 speaker says the priests Jason freed were released "around twenty years ago now" (Book 12, Ch7 L78) and another says "it's been almost twenty years" (Book 12, Ch13 L36), which fits Book 2 at about M5 (April 2018) and Book 12 in late 2037 or 2038.
+  - A Book 12 speaker says the priests Jason freed were released "around twenty years ago now" (Book 12, Ch7 L78) and another says "it's been almost twenty years" (Book 12, Ch13 L36), which fits Book 2 at about M5 (April 2018) and the Pallimustus part of Book 12 in late 2037 or early 2038.
 - **Jason's age** summary: 23 at arrival; 25 on returning to Earth (derived); turns 26 on 1 April in Book 5; 29 in Book 10; 44 in Books 12-13.
 - **Ranks**: iron within the first days (notes), bronze around M15 (wiki; Book 5 says he had been bronze "for a year" when he had been back nine months, Book 5, Ch3 L170, and that iron to bronze took "about a year and a quarter", Book 5, Ch3 L212), silver in Book 5 (about M28-29), gold by Book 12 ("how you got to gold rank", notes, Book 12).
 - Events are grouped by book. Items marked **(Level N)** are spoiler-sensitive.
@@ -50,7 +50,7 @@ Each row points to a per-book file that holds the chapter-by-chapter, line-cited
 | 9 | The road to Yaresh and the battle | about April 2022 to no later than about early 2023 | Rimaros left "half a year" back (Book 9, Ch24 L44); the monsoon road of four months (Book 9, Ch26 L26) | `Book_09_Timeline.md` |
 | 10 | Yaresh, Cardinas, the Death Pact | weeks after Yaresh, then the expedition, spring to mid 2023 | Jason is 29 (Book 10, Ch33 L76); the third week of adventuring (Book 10, Ch31 L9) | `Book_10_Timeline.md` |
 | 11 | The transformation zone, then the long epilogue in the void and on Earth | from mid 2023 (zone of months), then years | Zone less than two weeks old (Book 11, Ch18 L4); Nik six months old (Book 11, Ch50 L15); Gary "almost a year later" (Book 11, Ch68 L703) | `Book_11_Timeline.md` |
-| 12 | Pallimustus tour and the Earth arrival | about fifteen years after Jason left (late 2030s) | "Fifteen years" (Book 12, Ch21 L61); "twenty years" since the arrival (Book 12, Ch7 L78) | `Book_12_Timeline.md` |
+| 12 | Pallimustus tour (late 2037 to early 2038), then the Earth arrival and the pirate battle at Dimensional Artefact Site One (2038) | about fifteen years after Jason left | "Fifteen years" (Book 12, Ch21 L61); "twenty years" since the arrival (Book 12, Ch7 L78); "seventeen years" (Book 12, Ch67 L65) | `Book_12_Timeline.md` |
 | 13 | Earth in 2038 | 2038 | "2038" (Book 13, Ch951 L50); "sixteen years" gone (Book 13, Ch972 L51) | `Book_13_Timeline.md` |
 
 ## 4. Month-count table (corrections)
@@ -65,7 +65,7 @@ The old version of this file used wiki month counts. Where the book text gives a
 | Departure from Earth | M45 to M49 | autumn 2021 | Book 6, Ch47 L155 |
 | Battle of Yaresh | "M58, about 2022" | no later than about early 2023 | Book 10, Ch33 L76 (Jason is 29 so after 1 April 2023) with "a few weeks" (Book 10, Ch17 L52) |
 | Cardinas zone | "nine months" (wiki) | months; Gary's divine power "four to eight months" (Book 11, Ch34 L33), Nik six months old (Book 11, Ch50 L15) | Book 11 |
-| Book 12 "now" | "M-count" | about fifteen years after the departure, late 2030s; Book 13 is 2038 | Book 12, Ch21 L61; Book 13, Ch951 L50 |
+| Book 12 "now" | "M-count" | Pallimustus tour late 2037 to early 2038; Earth arrival 2038 | Book 12, Ch21 L61; Book 12, Ch67 L65, L113 |
 
 ## 5. The Pallimustus calendar
 
@@ -94,7 +94,7 @@ The old version of this file used wiki month counts. Where the book text gives a
 - **Resolved - Book 5 opening**: nine months after the June 2019 return (Book 5, Ch3 L170), about March 2020.
 - **Resolved - Book 3 death and Book 5 Kaito**: see section 4.
 - **Open - Emi's age against the sword line**: Emi is "fifteen years old" when Rufus and Taika arrive (Book 11, Ch68 L782); she was thirteen in spring 2020, so fifteen fits late 2022 to early 2023. But "six years since you first gave it to me" (Book 11, Ch68 L115) and Jason's age of 29 (Book 10, Ch33 L76) place the departure in late 2023 or later, and Emi is "nineteen" later (Book 11, Ch68 L918). Not resolved here.
-- **Open - Book 12 present**: the dates imply the Book 12 events fall in late 2037 to 2038, but the book itself never gives a year before Book 13's 2038 (Book 13, Ch951 L50).
+- **Narrowed - Book 12 present**: the Pallimustus chapters fit late 2037 to early 2038 by their roundings, and the Earth arrival is best placed in 2038 because Lenora counts seventeen years from the Earthlings' vanishing (Book 12, Ch67 L65) and Jota gives Jason's age as forty-four (Book 12, Ch67 L113). Book 13 is dated 2038 (Book 13, Ch951 L50). The book never states a year or the gap between the tour and the arrival.
 - **Open - vampire war length**: Book 13 gives "decades" (Book 13, Ch1002 L69) and "a decade" for the initiative and the team's monster fighting (Book 13, Ch1001 L6; Ch1003 L91). The "two years into the renewed vampire war" line from the chapter notes was not found at Ch995 (see `Book_13_Timeline.md`).
 - **Open - clan hiding period**: "half a decade" is confirmed (Book 12, Ch1 L93); "two years" is unchecked.
 - **Open - public reveal of magic**: "Less than fifteen years ago, no one knew magic existed" (Book 12, Ch2 L107) against "twenty years ago" (Book 12, Ch22 L27); likely different counting points.

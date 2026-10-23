@@ -146,7 +146,7 @@ The cited questions live in `Appendices/Open_Questions.md` (24 entries); unconfi
 - **Zara and the Storm King** *(resolved)*: Emiliano is her brother and also her adoptive cousin; both statements are accurate.
 - **Spelling variants**: see section 7.
 - **Soul forge**: Jason's realm lacks one until the Book 11 reintegration, although Book 8 and Book 12 appendices list soul forge among the Relics of the King.
-- **Book 12 present** *(narrowed)*: the roundings of "fifteen", "seventeen" and "almost twenty" years fit a Book 12 present in 2037 and Book 13 in 2038; see Open_Questions 18 and `08_History_and_Timeline/Master_Timeline.md`, section 12.
+- **Book 12 present** *(narrowed)*: the roundings of "fifteen", "seventeen" and "almost twenty" years fit a Pallimustus tour in late 2037 to early 2038, with the Earth arrival and Book 13 in 2038 ("seventeen years" and Jason's forty-four years, Book 12, Ch67 L65, L113); see Open_Questions 18 and `08_History_and_Timeline/Master_Timeline.md`, section 12.
 - **Wiki timeline errors**: Asano Village timing (the text says about six months of building), the surge delay (five years, not fifteen), and the Book 5-6 month counts, which do not fit the seasonal cues; see the Master Timeline.
 - **Butterflies of Makassar** *(resolved)*: the name news broadcasts give to the public spectacle of Gordon's Harbinger of Doom swarm over the Makassar undead (Book 5).
 - **Greenstone's status** *(resolved)*: a colony settled from Estercost, not part of Estercost proper (Books 11-12).

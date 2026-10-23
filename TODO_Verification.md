@@ -51,7 +51,7 @@ How to use: each item is a claim removed, hedged or flagged because the three ti
 - Book 11 Part II intervals (a year, almost a year, two years, two years) are on separate clocks and have no combined total.
 - The clan hiding period ("half a decade" is confirmed; "two years" is not); "two years of renewed vampire war" (Book 13 gives "decades" of off-and-on war).
 - Book 1 and Book 3 event rows that come from chapter notes (Anisa's dismissal, the Valkyrie match, Mr Sparrow, M12/M15/M17/M18).
-- (Narrowed) Book 12's present is set in 2037 by the combined roundings (Open_Questions 18); the exact month and the date of Jason's arrival on Earth are not stated.
+- (Narrowed) The Pallimustus tour falls in late 2037 to early 2038 and the Earth arrival in 2038 ("seventeen years" and "forty-four years", Book 12, Ch67 L65, L113; Open_Questions 18); the exact month and the gap between them are not stated.
 - The wiki's "billions of years" and the 150-year siphon.
 
 ## E. Method notes
