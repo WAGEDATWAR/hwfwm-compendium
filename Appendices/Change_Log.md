@@ -509,6 +509,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - `Alchemy_Artifice_and_Magical_Materials.md` gains section 7, "Item types and where they are described", with a one-line explanation and cite for each item type in `09_Items_and_Artefacts/` (badges, bags and storage, soul-bound items, cloud constructs, desert transport, consumables, awakening stones, tokens, and the Book 5 to 8 items under a level 2 tag).
 - Every 09 file now links back to its 03 topic file in Related, and the 03 files for awakening stones, adventuring, astral spaces, Jason's set, titles and unusual magic link to their 09 files.
 
+**Culture files, build plan item 2D.1 (2026-10-23)**
+- New in `04_Peoples_and_Cultures/`: `Girlano_Culture.md`, `Sadi_Andali_Culture.md`, `Zartos_Culture.md`, `Dragon_Lands_Culture.md`, `Vitesse_Culture.md`, `Mirror_Kingdom_Culture.md`, `Dreisil_Culture.md`, `Boko_Culture.md`, `Jayapura_Culture.md` and `Ustei_Homeland_Culture.md`. Each is a culture-lens file linking to its place file; where the text says little (Girlano, Sadi Andali, Zartos, Dreisil, the Dragon Lands) the file says so and lists what is not stated.
+- Observed: the Mirror Kingdom is "small, affluent and geographically blessed" (Book 2, Ch51 L8) but a Book 13 line puts it "so far north that the ice never thaws" (Book 13, Ch1022 L51); both are recorded in the file. Dreisil is named only in Book 6, Ch47 L390 and L392.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

@@ -81,7 +81,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2C.5 (Done 2026-10-23) Reconcile 09 with 03 (S).** Make sure every item type in `09_Items_and_Artefacts` is explained in a 03 topic file, and cross-link them.
 
 ### 2D. Peoples and cultures (`04_Peoples_and_Cultures`)
-- **2D.1 Culture files still unwritten (M each):** Girlano, Sadi Andali, Zartos, the Dragon Lands (draconian homeland), Vitesse, the Mirror Kingdom, Dreisil as a nation, Boko, Jayapura (beyond the Pranay file), the Ustei homeland.
+- **2D.1 (Done 2026-10-23) Culture files still unwritten (M each):** Girlano, Sadi Andali, Zartos, the Dragon Lands (draconian homeland), Vitesse, the Mirror Kingdom, Dreisil as a nation, Boko, Jayapura (beyond the Pranay file), the Ustei homeland.
 - **2D.2 Thin people files (S-M):** Merfolk (one line only), Goblins and Fairies (Earth-side), Runics, Valash, plus a new file for the lehenik (Nik's kind, Book 11, Ch23 L42 and Book 13, Ch991 L5) and the messengers as a people (cross-link to 02).
 - **2D.3 Clothing, food, festivals and transport by region (M).** Collect every line that describes a meal, outfit or festival (the Rimaros festival of Book 9 Ch3, Yaresh, Kurdansk, Pranay, Estercost).
 - **2D.4 Education (M, suggested).** Remore Academy, the Magic Society research wing, Kazlahk University of Medicine, Jason's school in Book 13.
