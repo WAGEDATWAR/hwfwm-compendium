@@ -1,0 +1,162 @@
+## B6 Ch1 Looting a House as it Burns Down Around You
+  OPEN L3: Jack Gerling was a gold-rank essence user, what most of the world called a category-four essence magician. He was a part of the USA Network branches, who, at least internally, used the same terminology as Jason Asano had learned in the othe
+  CUE L5: ...ina to awaken the powerful individuals like Gerling they had secreted away decades ago....
+  CUE L85: ...Jason also took out his sword, Dread Salvation. It had been roughly three years since Gary made him the sword, but it felt like a lifetime ago. D...
+  REG L4 [NPC_Rosters_by_Era]: **Cabal and EOA**: Craig Vermillion, Mr North, Gerling.
+  REG L16 [Glossary]: Network : Earth's coalition of essence users .
+  REG L17 [Glossary]: Network : Earth's coalition of essence users .
+  REG L20 [00_Cosmology_Overview]: Transformation zones are the source of reality cores .
+  REG L20 [Consumables_and_Trial_Rewards]: **Reality cores**: roughly the size and shape of an ostrich egg, dark crystal glowing with transcendent light; one appears in each affected zone and t
+  REG L22 [Earth_Powers]: At the Nitra dome in Book 6 the notes list the factions as the Network (US branches and the old leadership), the True Network (ex-International Commit
+## B6 Ch2 Domain
+  OPEN L3: Jason was in a small room that was transforming from a dilapidated plaster box with peeling wallpaper to a stone room shaped by his own power. He had tried to open his spirit vault, but instead, the space around him seemed to be turning int
+## B6 Ch3 Needs of the Moment
+  OPEN L3: His silver-rank attributes placed Jason firmly in the realm of superhuman, but attributes alone was a car with a powerful engine and no wheels. If not used to their maximum potential, they were being wasted, which was what differentiated th
+## B6 Ch4 A Beautiful Woman and a Sack of Cash
+  OPEN L3: Jason needed to claim most, if not all, of the vast extradimensional space he found himself in. If he failed, a wound would appear in the side of reality, leading to the Earth’s rapid annihilation. He could bring about the transformation by
+  REG L6 [Soul_Bound_Items_and_Regalia]: **Soul-Imprinting Triune**: Jason receives it with a hoard of spirit coins in Book 5; it turns three soul-bound growth items into a set when all three
+  REG L29 [Jason_Asano]: The set Regalia of the Dark Hegemon includes the Amulet of the Dark Guardian .
+  REG L29 [Soul_Bound_Items_and_Regalia]: **Amulet of the Dark Guardian**: silver rank growth item, the last item produced by his old quest system, a reproduction of his personal crest on an o
+  REG L33 [00_Items_Overview]: **Bound items** "cannot be used by anyone else".
+  REG L34 [Soul_Bound_Items_and_Regalia]: **Amulet of the Dark Guardian**: silver rank growth item, the last item produced by his old quest system, a reproduction of his personal crest on an o
+  REG L35 [Soul_Bound_Items_and_Regalia]: **Regalia of the Dark Hegemon**: the set bonuses are Hegemon's Authority from the amulet (allies in his aura resist aura suppression, and he can spend
+## B6 Ch5 You Have to Be True to Yourself
+  OPEN L3: The mist produced by his cloud flask in amulet form swirled around Jason, mostly gathering around his feet as if only slightly heavier than air.
+## B6 Ch6 One More Secret
+  OPEN L3: Jason looked around suspiciously at what looked like a modern metropolitan street, with a few anachronistic quirks. Most of the buildings were three or four storeys high, packed close together, and the ground level filled with storefronts.
+  CUE L38: ...olours and textures of the buildings were very familiar, with lots of summer cloud white splashed with other wild colours. A large part ...
+  REG L31 [Gerling]: Works with Chen and Guo in the transformation zones in Book 6.
+## B6 Ch7 Instinct is All We Have
+  OPEN L3: Sprawled on the ground, Jason was hammered by a crowd of people-shaped anomalies with planks, pipes and cricket bats. His sword had skewered one of them right through the face, and it fell on top of him. Using the creature as a shield, he p
+## B6 Ch8 Step Back
+  OPEN L3: Standing in the middle of the street, Jason looked at the spheres Tran held, still bloody from where they had been ripped out of the anomalies. As he looked around, it wasn’t hard to spot more of the spheres, torn from the anomalies by the 
+  CUE L63: ...mate trump card against vampires, something he had been holding on to for years after winning it as a prize in the Reaper Trials. He had intended...
+## B6 Ch9 Guns & Money
+  OPEN L3: Jason, Chen, Guo and Gerling walked in the direction of the pagoda, through streets painted with dead anomalies.
+## B6 Ch10 Old Habit
+  OPEN L3: Jason expanded his spirit domain from atop a building, covered in guns and fully prepared to leap off into a superhero landing and start mowing down anomalies. His domain expanded out, adding more cityscape to Jason’s incomplete second terr
+  REG L41 [Daily_Life]: **Calendar**: "twelve months of thirty days, divided up into early, mid and late stages of each season", five extra days for the solstices, equinoxes 
+## B6 Ch11 It’s Still Not About Killing Monsters
+  OPEN L3: The Bertinelli Collection in the menswear department of the store Jason found had a very specific set of clothes. Modelled after the clothes designed for Jason by Gilbert Bertinelli in the other world, they fit like a glove. Unlike the orig
+## B6 Ch12 Open to the Unanticipated
+  OPEN L3: Jason examined the loot from the shadow giant as it dissolved into rainbow smoke behind him. It was a dark sphere, just large enough to fit in one hand. It was cool and glassy to the touch.
+## B6 Ch13 I’m Going to Bet on Myself
+  OPEN L3: After a moment of stunned surprise, the family of celestines Jason had found in the farmhouse erupted in questions, from where they were to what had happened to them. Jason delicately used aura suppression to calm them down and fix their at
+  REG L79 [Spirit_Vault_and_Astral_Kingdom]: Inventory ; the Spirit Vault, an inventory he can enter and which others can enter by trust ; a spirit domain ; a spirit realm that travels along the 
+## B6 Ch14 No Perfect Options
+  OPEN L3: Jason was resting up before moving to claim one final territory. He was not far from the house containing the family he had rescued, but he was giving them space to come to grips with their extraordinary circumstances. He was in the backyar
+  CUE L73: ...us on already extant worlds, but that was the better part of thirteen billion years ago. I know you’re old but not that old, right? Any planet woul...
+  REG L80 [Magic_and_Adventuring]: Sophie's Eternal Moment) can only go forward; the Keeper of Moments cannot affect the past .
+  REG L82 [00_Cosmology_Overview]: Shade tells Jason that, for the Keeper, "the past is inviolate" .
+## B6 Ch15 Stillness
+  OPEN L3: Jason kicked the zombie cyborg in the chest and it stumbled back off the edge of the roof, falling to the concrete below.
+  REG L45 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+## B6 Ch16 Whatever We Face
+  OPEN L3: Jason continued to extend his spirit domain over the industrial wasteland city, seeking to master the battle trance as he fought hordes of anomalies. Although he had touched upon the trance once, it was not a state that he easily found his 
+## B6 Ch17 You Really Aren’t Local
+  OPEN L3: Standing on the balcony on the pagoda’s top floor, Jason surveyed his spirit domain, stretching off into the distance. He felt his connection to the vast territory, as if it were part of him.
+  REG L41 [Shako]: Introduces himself: "I am Shako. I am a servant of the Builder"; he can enter through a window opened by the transformation event so long as he leaves
+  REG L43 [Shako]: Introduces himself: "I am Shako. I am a servant of the Builder"; he can enter through a window opened by the transformation event so long as he leaves
+## B6 Ch18 A Sliver of Hope
+  OPEN L3: Jason’s star phoenix form was impervious to almost any form of attack, but transcendent damage was a critical exception. His aura could downgrade transcendent damage, but with a diamond-ranker suppressing his aura, that would not come into 
+  REG L3 [Dawn]: Book 6 : arrives in her true body to negotiate with the Builder after Shako kills Jason .
+  REG L11 [The_Builders_Door_and_Fundament_Gate]: **Builder's view**: in Book 6 Shako says that without the Fundament Gate the Builder forged, Jason could not have remade the zone, and Dawn asks for t
+  REG L39 [The_Builders_Door_and_Fundament_Gate]: **Builder's view**: in Book 6 Shako says that without the Fundament Gate the Builder forged, Jason could not have remade the zone, and Dawn asks for t
+  REG L79 [Great_Astral_Beings]: Dawn tells Shako in Book 6 that by killing Jason he violated the compact between the Builder, the Reaper and the World-Phoenix .
+  REG L79 [Shako]: A presence takes him over and his aura rises from diamond rank to transcendent when the Builder speaks through him.
+  REG L79 [Shako]: Dawn warns him that killing Jason violated the compact between the Builder, the Reaper and the World-Phoenix.
+## B6 Ch19 End-User Licence Agreement
+  OPEN L3: Jason looked out at the swirling rainbow energy beyond the pagoda. A moment of desperation had led him to dive into it while in the star phoenix form, following his latest resurrection. The energy that had passed through him in that unusual
+## B6 Ch20 Negotiations
+  OPEN L3: Gold-rankers, silver-rankers and even a few bold bronze-rankers went storming into the dome as it broke down. Once it was entirely gone and the transformed area revealed for all to see, even more followed.
+  CUE L4: ...asn’t even the same as it had been while Gerling was inside less than two weeks earlier....
+## B6 Ch21 Another Day for Vampires
+  OPEN L3: Jason and Farrah were sitting in a cabin on the cloud boat, going over the gains from Jason’s adventures in the transformation zone. The biggest were two items he had looted from the vampirically transformed gold-ranker, Tran. The first was
+## B6 Ch22 Less Freud and More God of Healing
+  OPEN L3: Jason emerged from a node space portal, satisfied with the results. He opened a regular portal and returned to the cloud palace, still masquerading as desert ruins.
+## B6 Ch23 Little Cost in Exploring
+  OPEN L3: Jason’s spirit domain was a small city in western Slovakia. In the month since the dome around it came down, several gold-rankers had been exploring it, going in and searching, only to leave when the hostile effects applied to intruders gre
+  CUE L3: ...Jason’s spirit domain was a small city in western Slovakia. In the month since the dome around it came down, several gold-rankers had been...
+  REG L3 [Era_Selection]: **Live dangers**: the EOA has seized Perth and Melbourne; the Network is publicly known as the Global Defense Network after the monster waves begin; t
+  REG L3 [Plot_Hooks]: **A domain nobody can enter safely**: gold-rankers explore Jason's Nitra domain until the hostile effects grow dangerous.
+  REG L91 [00_Peoples_Overview]: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  REG L91 [Goblins_and_Fairies]: **Elves, goblins and fairies**: people in a magic city were "turned into elves and goblins and fairies".
+  REG L91 [Magic_and_Adventuring]: ); transformation zones change cities and their people into other races (Book 5, Ch54 L52
+## B6 Ch24 Intentions
+  OPEN L3: The transport helicopter carried eight passengers, descending into what had once been a grassy paddock, close to the Global Defence Network camp.
+## B6 Ch25 I Need That Song to Play Out
+  OPEN L3: The ute pulled up a little way from the pagoda, due to the level of destruction around it. The gold-rankers trying to dig up any treasures had focused on the pagoda itself, the area around it looking less like an urban street than a motocro
+  CUE L87: ...cted. “I believe you know, Mr Asano, about a joint research operation from decades ago, involving the Cabal, the EOA and the Network.”...
+  REG L98 [Earth_Powers]: A "former Mrs South" gave the Network information about the necromancer , so she left the EOA.
+## B6 Ch26 Wash Them First
+  OPEN L3: Jason didn’t ask any more about Mr North’s cryptic clues. Unless he was willing to try and torture the information out of him, he wouldn’t be forthcoming, and Jason wasn’t ready to take that step. In any case, Mr North seemed to know more a
+  REG L9 [Farrah_Hurin]: Books 5-6 : builds the family compound's infrastructure and the Grid repairs, helps destroy a vampire hub, leaves Earth with Jason; of her captor Adri
+  REG L9 [Tone_and_Voice]: **Farrah**: lectures on any subject and is blunt when angry.
+## B6 Ch27 The Language of Passion
+  OPEN L3: Jason had been through months of unrelenting pressure, fighting and walking the knife-edge between life and death. He’d even slipped off it, but unlike Kaito, Greg and Asya, he’d climbed back on.
+## B6 Ch28 Forthright Honesty
+  OPEN L3: The two ancient vampires watched their small army of ghouls burning and rotting at the same time. The ghouls were eerily quiet; they burned and died with only the crackle and pop of flames burning their flesh. It was the screams of the less
+  CUE L36: ...eapons engineer from California. He was also having a very bad month. The day after he arrived in Germany, his supervisor went AWOL when the ba...
+  REG L36 [Travis_Noble]: At twenty-one he is a category-two magitech weapons engineer from California who ends up in charge of the Special Munition Stockpile Division in Germa
+  REG L36 [NPC_Rosters_by_Era]: **Network and allies**: Anna Tilden, Nigel Thornton, Asya Karadeniz, Greg, Travis Noble.
+## B6 Ch29 Pertinent Factor
+  OPEN L3: “There are offices in the back of the warehouse,” Ingrid said. “We can sit down and talk there.”
+  CUE L22: ...“This comes from people we planted in the Network branches years ago and are now highly placed in the Global Defence Network,” J...
+## B6 Ch30 More of a Focus on Nipples
+  OPEN L3: Travis skittered around to Farrah’s side of the table.
+## B6 Ch31 The Job That’s in Front of You
+  OPEN L3: After arriving in France, Jason created a modest boat from his cloud flask on an isolated stretch of the river Furan. The plan was to get some proper rest and make plans before heading downriver to Saint-Étienne. It also gave Travis time to
+  CUE L60: ...was discovered that the Lyon branch had been hiding the astral space, just weeks after Jason’s return to Earth. The Network’s International Commit...
+  CUE L4: ...The three were out on a covered deck. It was a cold winter day, but that didn’t worry the essence users. Jason and Far...
+  CUE L65: ...s hadn’t bothered to remove, the old and young too weak to resist the winter....
+  REG L4 [Travis_Noble]: He works on the semi-disassembled atomic device with Jason and Farrah on a cold winter day.
+  REG L4 [Era_Selection]: **Calendar**: Jason wakes on Earth in early June, a year and a half after leaving; Book 5 opens about nine months after that; a cold winter day in Boo
+  REG L4 [Plot_Hooks]: **The atomic device**: Jason, Farrah and Travis work on a semi-disassembled device on a cold winter day.
+## B6 Ch32 Going Suspiciously Well
+  OPEN L3: The astral space was a fog-filled realm of dilapidated manors and ruined castles, rising from a sea of mist. They were connected by crumbling stone bridges that spanned between them, and Jason’s instincts told him that descending into the m
+## B6 Ch33 One of Asano’s Secrets
+  OPEN L3: By the time Jason expanded his spirit domain into a fourth territory, the enemies were growing truly dangerous. Although extremely weak for their rank, they were still gold-rank entities, and with each territory Jason claimed, the attacking
+  REG L28 [Gerling]: Tells Mr Barbou he is not going to keep giving him a hard time.
+## B6 Ch34 Swarm Against Swarm
+  OPEN L3: Jason ducked into one of Shade’s bodies and vanished, right before a huge gobbet of webbing splashed into the shadowy familiar. Despite Shade’s incorporeal form, the potent magic on the webbing sent him flying backwards and pinned his body 
+## B6 Ch35 Necessary Evil
+  OPEN L3: Mr North stepped from unclaimed territory into Jason’s spirit domain. He was in the bottom of a rocky canyon, with sulphurous vents letting out steam from the volcanic activity below. He scaled the canyon wall with the same adroitness his t
+  REG L80 [Saint-Etienne]: In Book 6 Shako and Chen place a device in the aperture of the astral space (
+## B6 Ch36 Balls
+  OPEN L3: “This is the part where we go out and save the world,” Mr North said.
+## B6 Ch37 Which One of Us is the Villain
+  OPEN L3: Jason’s latest territory finished transmuting.
+  CUE L144: ...une spider remain intact, but the additional powers I’ve developed in the years since I was a familiar are unavailable to me.”...
+## B6 Ch38 That Passion Didn’t Come From Nowhere
+  OPEN L3: Jason and Mr North were in an air-conditioned building at the edge of Jason’s territory, watching the border where it met the claimed territory of persons yet unknown. It was one of the surface buildings of Jason’s city, chosen for the seco
+## B6 Ch39 The Upstart Magician
+  OPEN L3: “The necromancer was surprisingly easy to get on board,” Jason said. “It’s likely that the powers we’ve seen are the extent of his unlocked abilities.”
+## B6 Ch40 Too Much Over Pride
+  OPEN L3: The lone female vampire was seemingly the one most feared by the other vampires. After she agreed to join Jason in his conquest of the transformation zone, the four males looked at her and went off by themselves to discuss. From their expre
+## B6 Ch41 Trust All the Way
+  OPEN L3: Jason was painted red, both from his own blood and that of his enemies. He ignored it for the moment as he pulled a clear crystal orb from his inventory.
+  CUE L79: ...es panning over the dome in the distance, as they had a hundred times every day since it appeared....
+## B6 Ch42 Time to Choose
+  OPEN L3: “This is different,” Gerling said. “I can feel it.”
+  REG L66 [Gerling]: Proposes that Jason join the coalition against the vampires.
+## B6 Ch43 Four-Score Men
+  OPEN L3: “Well,” Jason said. “This is awkward.”
+  CUE L38: ...xactly,” Jason said. “Broadly speaking, what I’ve been doing over the last year is trying to prevent what is happening in this place from h...
+## B6 Ch44 The Very Opposite of Fantastical
+  OPEN L3: The sky was bleak, grey and sunless, reflecting the architecture of the city. The territory was another city, but the very opposite of fantastical. Uniform concrete buildings were set out in plain, hard lines, like a distillation of Soviet 
+## B6 Ch45 Small Mercies
+  OPEN L3: Jason had made a tradition of triggering the territory transfigurations alone on his balcony, but he changed his pattern this time because he was unsure of what would come next. Shade’s VTOL plane form hovered just outside the pagoda entran
+  REG L39 [Elizabeth]: In the Saint-Etienne zone Mr North and Elizabeth "teamed up to use their unique ritual magic variations to set up defensive rituals"; her five ritual 
+## B6 Ch46 Salus Mundi Suprema Lex Esto
+  OPEN L3: “Do you have any idea how hard it was to get the materials for a category four suppression device?” Gerling asked, jerking the spear again. “I’m impressed that it takes something this strong to shut your powers down.”
+## B6 Ch47 Something Other Than Human
+  OPEN L3: Like the region in Slovakia, the former city of Saint-Étienne had been reshaped after emerging from the transformation zone as it became a spirit domain for Jason. This one was larger, encompassing most of the city aside from a few ruined r
+  CUE L7: ...etting us set up the interim government here. Best estimates are over a year before Paris will be restored to the point of initiating full repo...
+  CUE L41: ...face. She remembered the wild, animated man she had met just a couple of years ago. He seemed much older despite, if anything, looking younger...
+  CUE L137: ...ening stones. The good stuff too; no cheapies. I could have done this a year ago if you’d told me she moved to Switzerland a quarter of a ce...
+  REG L3 [01_World_Primer]: Astral spaces and zones : the City of Fallen Echoes , the desert astral space , Cardinas and the natural array , transformation zones .
+  REG L16 [Anna_Tilden]: UN Liaison to the Asano clan in Book 6 ;
+  REG L53 [Hiro_Asano]: By Book 6 he manages the relocation programme for the clan.
+  REG L58 [Yumi_Asano]: Pushes Jason to formalise the clan.
+  REG L121 [Gary]: Farrah describes him as "as much a craftsman as an adventurer" and "around the bottom of guild level" (
+  REG L125 [Guilds_and_Houses]: Relationship to the Academy : after Rufus's grandfather became guild leader it became more associated with the Remore Academy .

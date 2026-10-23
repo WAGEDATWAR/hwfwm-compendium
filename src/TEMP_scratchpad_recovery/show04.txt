@@ -1,0 +1,426 @@
+[0] 00_Peoples_Overview B1 Ch86 L40-40 (0.60)
+  CLAIM: **Civilisation-building peoples**: Jason's team finds bodies of "every civilisation-building species: humans, elves and leonids, celestines, runic, sm
+  TEXT: They continued exploring, finding more bodies that offered no more clues than the others. They came from every civilisation-building species: humans, elves and leonids, celestines, runic, smoulder and draconians.
+[1] 00_Peoples_Overview B1 Ch15 L56-56 (0.67)
+  CLAIM: **Where they live**: the Greenstone region is human-dominated, while a port city shows "all kinds of people".
+  TEXT: “We have elves,” Rufus said. “Leonids like Gary, obviously. We’ll eventually be heading for a port city, so while this region is human-dominated, you’ll see all kinds of people.”
+[2] 00_Peoples_Overview B1 Ch85 L35-35 (0.32)
+  CLAIM: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  TEXT: “Well,” Humphrey said, “every race has six racial gifts. For humans like Clive and myself, that is an affinity for special attacks and our essences advance more rapidly than others. Then there are the latent powers, that adapt to our essences.”
+[3] 00_Peoples_Overview B1 Ch85 L39-39 (0.26)
+  CLAIM: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  TEXT: “Racial power evolution is where a racial gift changes,” Humphrey said. “Any racial gift can change. The latent human abilities are essentially blank slates that are guaranteed to do so.”
+[4] 00_Peoples_Overview B1 Ch85 L41-41 (0.16)
+  CLAIM: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  TEXT: “They could,” Humphrey said. “Usually, there's some kind of trigger, often a traumatic event. Big monster fights where you barely make it out alive would be the one you see the most. Sometimes it just happens over time, though. You do something enough that it 
+[5] 00_Peoples_Overview B1 Ch85 L48-48 (0.05)
+  CLAIM: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  TEXT: “Great astral beings,” Jason mused, remembering something he heard months earlier. “Hey, Clive.”
+[6] 00_Peoples_Overview B1 Ch85 L22-26 (0.24)
+  CLAIM: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  TEXT: “I venerate the Celestial Book,” Clive said. “I received a blessing that triggered a racial gift evolution. It changed the human special attack affinity to a spell affinity, like the elves.” / “Nice,” Humphrey said. / “I didn’t understand any of that,” Jason s
+[7] 00_Peoples_Overview B1 Ch38 L72-72 (0.71)
+  CLAIM: **Sharing gifts**: the Magic Society prizes the details of racial gifts, and Humphrey advises Jason to keep his to himself and trade them for favours.
+  TEXT: “If you’ve awakened any of your racial gifts, though, keep those to yourself,” Humphrey advised. “They’re very big on those at the Magic Society and you can trade the details in exchange for favours down the line.”
+[8] 00_Peoples_Overview B3 Ch69 L509-509 (0.12)
+  CLAIM: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  TEXT: “Merfolk are not fish,” Emir said. “They happen to be very sensual people.”
+[9] 00_Peoples_Overview B5 Ch54 L52-52 (0.24)
+  CLAIM: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  TEXT: More common were cases like West Canfield, Detroit. The people were turned into goblins and their homes into underground warrens, which rapidly devolved into a lawless combat zone into which the National Guard was sent to restore order. After the first hideous
+[10] 00_Peoples_Overview B6 Ch23 L91-91 (0.12)
+  CLAIM: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  TEXT: “Yeah,” Emi said. “They were all turned into elves and goblins and fairies, so why not let them live in a magic city?”
+[11] 00_Peoples_Overview B9 Ch45 L57-57 (0.24)
+  CLAIM: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  TEXT: Jason froze, startled as he sensed something extremely unusual: an aura belonging to a species called the valash, who were not native to Pallimustus. Jason had only seen them when humans had been turned into them by transformation zones on Earth. He had needed
+[12] 00_Peoples_Overview B12 Ch8 L100-102 (0.76)
+  CLAIM: **From race to nature**: in Book 12 Jason's character screen says "nature" instead of "race" and calls him a "prime avatar of an astral nexus"; Shade 
+  TEXT: The biggest change was that he had left the identity of an outworlder behind. Originally, his character screen had listed his race as a formerly human outworlder. It now said ‘nature’ instead of ‘race,’ calling him a ‘prime avatar of an astral nexus.’ He wasn’
+[13] 00_Peoples_Overview B12 Ch8 L103-103 (0.28)
+  CLAIM: **From race to nature**: in Book 12 Jason's character screen says "nature" instead of "race" and calls him a "prime avatar of an astral nexus"; Shade 
+  TEXT: “That makes sense. I’ve still got the six powers that used to be racial gifts. They seem a bit OP, if I’m being entirely honest.”
+[14] Celestines B1 Ch43 L18-18 (0.68)
+  CLAIM: **Appearance**: Sophie has chocolate skin and shining silver hair, her eyes matching it exactly, "the matching metallics a giveaway trait of the celes
+  TEXT: Her skin was chocolate, her hair shining silver. Her sharp eyes reflected the colour of her hair exactly, the matching metallics a giveaway trait of the celestine race. Normally shoulder length, her shimmering hair was tied back in a simple and practical ponyt
+[15] Celestines B6 Ch47 L508-508 (0.42)
+  CLAIM: **Appearance**: Sophie has chocolate skin and shining silver hair, her eyes matching it exactly, "the matching metallics a giveaway trait of the celes
+  TEXT: To all appearances, Marta Fries was an unremarkable resident of the city of Kurdansk. Like many of Kurdansk’s celestines, she had dark skin and silver hair. Her small row house was no different to the others wedged together on the narrow street where she lived
+[16] Celestines B1 Ch15 L76-80 (0.30)
+  CLAIM: **Astral affinity**: astral affinity is a celestine racial gift; celestines are similar to elves and humans. The rare Child of the Celestial Wind appe
+  TEXT: “I have a half-dozen already,” he said. “I think these might all be outworlder abilities. Do humans normally get astral affinity?” / “Definitely not,” Farrah said. “That’s something celestines get.” / “Celestines?” Jason said. “That’s not something we have whe
+[17] Celestines B1 Ch15 L78-78 (0.20)
+  CLAIM: **Astral affinity**: astral affinity is a celestine racial gift; celestines are similar to elves and humans. The rare Child of the Celestial Wind appe
+  TEXT: “Celestines?” Jason said. “That’s not something we have where I’m from.”
+[18] Celestines B8 Ch21 L40-40 (0.65)
+  CLAIM: **Astral affinity**: astral affinity is a celestine racial gift; celestines are similar to elves and humans. The rare Child of the Celestial Wind appe
+  TEXT: Even that had not been the end of the powers stacking up to enhance her movement. Her Avatar of Speed power enhanced her movement abilities while reducing their mana and stamina costs. Child of the Celestial Wind was the rarest essence ability in her power set
+[19] Celestines B5 Ch44 L72-72 (0.64)
+  CLAIM: **Origin**: Dawn says two outworlders who have a child produce a celestine, and celestines propagate with their own kind; she is herself a child of tw
+  TEXT: “A little ironic, given that if the two of you were to breed, a celestine would be the result. An outworlder breeding with another species will produce offspring of that species. Should two outworlders have a child, the result is a celestine. Of course, celest
+[20] Celestines B2 Ch61 L146-146 (0.33)
+  CLAIM: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+  TEXT: Party member [Sophie Wexler]’s celestine racial ability [Mana Integrity] has evolved to [Mana Wellspring].
+[21] Celestines B3 Ch68 L14-14 (0.27)
+  CLAIM: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+  TEXT: Celestine racial ability [Astral Affinity] has evolved to [Boundary Breaker].
+[22] Celestines B8 Ch22 L37-37 (0.33)
+  CLAIM: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+  TEXT: Ability: [Princess of the Firmament]
+[23] Celestines B7 Ch2 L75-75 (0.86)
+  CLAIM: **Communities**: Zartos is a subterranean city largely populated by celestines.
+  TEXT: Zartos was a subterranean city built around an underground river, largely populated by celestines. While Gary and Virid worked, the others enjoyed their reunion. None of them had felt entirely whole as a team since Jason’s death. As with Rufus and Gary, the lo
+[24] Celestines B9 Ch55 L9-9 (0.55)
+  CLAIM: **Messengers**: messengers are about half again as tall as a celestine, and their servants take care never to imply the resemblance.
+  TEXT: Amongst the non-messengers like Benella, who had chosen to serve them, the best guess was that the messengers did not want to resemble celestines so closely. There was little chance of that, even discounting the wings, as the messengers were around half again 
+[25] Celestines B7 Ch54 L87-87 (1.00)
+  CLAIM: **Dawn's true form**: a celestine with ruby eyes and hair.
+  TEXT: Dawn was standing in front of Jason, although her aura was completely invisible to him. She was in her true celestine form, with ruby eyes and matching hair that glimmered like gemstones in the moonlight. It seemed that all celestines looked good under the moo
+[26] Daily_Life B1 Ch22 L19-19 (0.85)
+  CLAIM: **Calendar**: "twelve months of thirty days, divided up into early, mid and late stages of each season", five extra days for the solstices, equinoxes 
+  TEXT: The local calendar, as it turned out, was similar, but not the same. although not as close as the time. There were twelve months of thirty days, divided up into early, mid and late stages of each season. There were five additional days that didn’t count as day
+[27] Daily_Life B6 Ch10 L41-41 (0.05)
+  CLAIM: **Calendar**: "twelve months of thirty days, divided up into early, mid and late stages of each season", five extra days for the solstices, equinoxes 
+  TEXT: “I’m saving the world, so I’d best get back to it. As you can see, I’m standing in my underwear in the middle of the street, covered in blood, next to a building I just blew up. The street is in an extradimensional city I’m taking over so a hole doesn’t get bl
+[28] Daily_Life B1 Ch59 L30-30 (0.75)
+  CLAIM: **Clothing**: "Most people, whether in Greenstone or the delta, wore loose-fitting, breathable clothes because of the heat"; adventurers on a job wear
+  TEXT: A bedraggled driver glanced back into the wagon before dropping down, looking over Vincent. Most people, whether in Greenstone or the delta, wore loose-fitting, breathable clothes because of the heat. Adventurers, at least while on the job, wore more fitted ou
+[29] Daily_Life B9 Ch46 L5-5 (0.33)
+  CLAIM: **Clothing**: "Most people, whether in Greenstone or the delta, wore loose-fitting, breathable clothes because of the heat"; adventurers on a job wear
+  TEXT: Jason’s attention was drawn to a valash, a skinny sapient species not native to Pallimustus. The male was not just lean but downright skinny, even shorter than Jason and with a chihuahua-like head. He wore a pristine white suit, not in the local style but more
+[30] Daily_Life B1 Ch45 L8-8 (0.62)
+  CLAIM: **Food**: preparation is often familiar, with bread, soup, sandwiches and cake, but the ingredients are mostly different because farms raise different
+  TEXT: Jason bought a sandwich from a street vendor, some kind of meat with cheese and a spicy sauce. Food was one of the ways in which Jason was most reminded he was on a different world. While the preparation was often similar, like bread, soup, sandwiches or cake,
+[31] Daily_Life B1 Ch25 L13-13 (0.17)
+  CLAIM: **Food**: preparation is often familiar, with bread, soup, sandwiches and cake, but the ingredients are mostly different because farms raise different
+  TEXT: “Now,” Jason said, turning back to Dan. “Give me those sauce ingredients again. I haven’t heard of any of them, so I’ll have to write them all down. Which means I’m going to need some paper…”
+[32] Daily_Life B1 Ch93 L5-5 (0.73)
+  CLAIM: **Housing**: Leust, one of the delta's largest towns, has paved roads and stone buildings "instead of mud-brick"; in the Island, green stone appears e
+  TEXT: The days were growing shorter as summer moved into autumn, and the sun had just set as Jason arrived in the town of Leust. It was one of the largest and richest towns in the delta, with paved roads and stone instead of mud-brick for the buildings. Mostly it wa
+[33] Daily_Life B1 Ch45 L5-5 (0.27)
+  CLAIM: **Housing**: Leust, one of the delta's largest towns, has paved roads and stone buildings "instead of mud-brick"; in the Island, green stone appears e
+  TEXT: Soon the street opened up onto the square itself. It was a huge, crowded space. Green stone was prominent everywhere in the Island, but in the Divine Square even the flagstones were made from high-grade material. The square was filled with booths and tents, mo
+[34] Daily_Life B1 Ch17 L106-106 (0.40)
+  CLAIM: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+  TEXT: Jason had his first encounter with a heidel when they found the stables. They were the size and shape of a horse, but with scales instead of hair and two heads, each of which had a horn sticking out of the forehead. To Jason’s eyes it looked like someone had p
+[35] Daily_Life B1 Ch43 L5-5 (0.36)
+  CLAIM: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+  TEXT: The Island was divided in various districts, all connected by the subterranean, submarine transit line. The locals called it the loop line, or the loop, but Jason thought it deserved something more impressive. His thinking had gone as far as naming it the sub-
+[36] Daily_Life B1 Ch37 L83-83 (0.16)
+  CLAIM: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+  TEXT: The shopping area was dominated by a large building with a sign declaring it the NORTH MARINA TRANSIT TERMINAL. He went inside, finding it to be set out like a train station. He found a large sign that showed the routes; a pair of loop lines going in opposite 
+[37] Daily_Life B1 Ch80 L40-40 (0.67)
+  CLAIM: **Devices**: lamps, showers and most household magic run on lesser spirit coins.
+  TEXT: “And higher-ranked coins aren’t very useful for everyday life,” Gabrielle said. “Almost all the magic devices in a home or business run on lesser coins. Lamps, showers. Higher-rank ones would burn them out.”
+[38] Daily_Life B1 Ch49 L27-27 (0.20)
+  CLAIM: **Communication**: the Magic Society's water link projects a lifelike image of a speaker; by Book 12 Travis Noble's sky link service carries calls.
+  TEXT: Pochard hadn’t been overstating the quality of the connection. The image of Rufus’s father, Gabriel Remore, was startlingly lifelike. When the image shifted from water statue to animation, it replicated his expressions and body language with amazing accuracy.
+[39] Daily_Life B12 Ch53 L32-32 (0.27)
+  CLAIM: **Communication**: the Magic Society's water link projects a lifelike image of a speaker; by Book 12 Travis Noble's sky link service carries calls.
+  TEXT: “Percy, you don’t know this, it being a day-to-day operations matter, but I’ve been trying to get a personal sky link call with Travis Noble for several months. To discuss a special rate on sky link services, given how large and early a customer we’ve been. An
+[40] Draconians B2 Ch38 L29-29 (0.60)
+  CLAIM: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  TEXT: “He’s the one Rufus has been training?” Maximilian asked. He was a member of the rare draconian race, larger even than male leonids and covered in glossy scales. His were the colour of dark leaves, green moving into purple.
+[41] Draconians B2 Ch39 L15-15 (0.60)
+  CLAIM: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  TEXT: Standing with him was the tallest person currently in Greenstone, the only member of the draconian people present. Maximilian was an imposing figure with his size and long, hairless head. Instead of skin, his scales in dark shades of green and purple were glos
+[42] Draconians B1 Ch86 L31-31 (0.07)
+  CLAIM: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  TEXT: “The short, broad skeleton is a runic,” he said. “You can still see faint traces of the natural runes on their bones. The big one is a draconian, from the skull shape.”
+[43] Draconians B2 Ch39 L34-34 (0.92)
+  CLAIM: **Pride in descent**: draconians "took pride in their claimed dragon ancestry and often had issues with other races wielding the dragon essence".
+  TEXT: “False dragon,” he complained. Draconians took pride in their claimed dragon ancestry and often had issues with other races wielding the dragon essence. Maximilian had the dragon essence himself.
+[44] Draconians B12 Ch26 L5-6 (0.91)
+  CLAIM: **Homeland**: the Dragon Lands, Pallimustus's version of Antarctica, "the native land of the large, scaled humanoids known as draconians", with active
+  TEXT: The Pallimustus version of Antarctica was not the icy wasteland it was on Earth. Known as the Dragon Lands, it was the native land of the large, scaled humanoids known as draconians. Rather than the populace, however, the island continent was named for its sig
+[45] Draconians B2 Ch39 L15-15 (0.44)
+  CLAIM: **Rarity**: draconians are rare in Greenstone, where Maximilian is the only one present at a gathering.
+  TEXT: Standing with him was the tallest person currently in Greenstone, the only member of the draconian people present. Maximilian was an imposing figure with his size and long, hairless head. Instead of skin, his scales in dark shades of green and purple were glos
+[46] Economy_and_Money B1 Ch61 L65-65 (0.96)
+  CLAIM: **Denominations**: "The basic coin of the realm was the lesser spirit coin. Iron spirit coins were worth a hundred lesser coins, used by bulk traders,
+  TEXT: The basic coin of the realm was the lesser spirit coin. Iron spirit coins were worth a hundred lesser coins, used by bulk traders, adventurers and other members of the wealthy elite. After that, it was ten iron to the bronze, ten bronze to the silver and ten s
+[47] Economy_and_Money B1 Ch80 L36-37 (0.23)
+  CLAIM: **Why the lesser coin is the basic unit**: higher-rank coins are "not very useful for everyday life"; almost all home and business magic devices, such
+  TEXT: “No,” Jason said. “No, it isn't. Why is so much of the spirit coin farming done in this region? Wouldn't it be easier to have more localised production?” / “It’s because of the low magic,” Gabrielle said. “Most areas in the world have too high a magical densit
+[48] Economy_and_Money B1 Ch15 L92-92 (0.65)
+  CLAIM: **Sustenance**: ranked people can live on spirit coins; Rufus says a bronze coin will sustain bronze-rank adventurers without stressing their bodies, 
+  TEXT: “It’s about not going over your limit,” Rufus said. “We’re bronze-rank adventurers, so a bronze coin will sustain us without stressing our bodies.”
+[49] Economy_and_Money B1 Ch80 L21-21 (0.79)
+  CLAIM: **Farms**: spirit coins are made on farms using special moulds that cause magic to crystallise, in delicate, very stable ambient magic.
+  TEXT: “They make them out here in the farms,” Humphrey said. “They have these special moulds that cause magic to crystallise. It's a delicate process, though. Changes in the ambient magic can ruin whole batches, which is why they have the farms out here. No activity
+[50] Economy_and_Money B1 Ch80 L37-37 (0.59)
+  CLAIM: **Why Greenstone**: most areas have too high a magical density to make lesser coins; the smallest denomination they can manage is usually iron or even
+  TEXT: “It’s because of the low magic,” Gabrielle said. “Most areas in the world have too high a magical density to produce lesser coins. The smallest denomination they can manage is usually iron rank, or even bronze rank in highly magical areas.”
+[51] Economy_and_Money B1 Ch80 L39-39 (0.34)
+  CLAIM: **Why Greenstone**: most areas have too high a magical density to make lesser coins; the smallest denomination they can manage is usually iron or even
+  TEXT: “They're too valuable,” Humphrey said. “The values of spirit coins aren't arbitrary. If a farm can produce a thousand lesser coins at a time, the same size farm could only produce ten iron coins or one bronze coin.”
+[52] Economy_and_Money B1 Ch80 L24-25 (0.05)
+  CLAIM: **Volume**: spirit coins are Greenstone's largest export, and the desert farms produce almost three percent of the lesser coins used worldwide; most f
+  TEXT: “Like the Adventure Society,” Jason said pointedly. / “Yes,” Humphrey said. “It doesn’t always work out that way.”
+[53] Economy_and_Money B1 Ch80 L43-43 (0.57)
+  CLAIM: **Hazards**: volatile weather, a monster spawning nearby or an adventurer using abilities can ruin a batch, so adventurers wait outside the walls; the
+  TEXT: “Even then, there are no guarantees,” Humphrey said. “Volatile weather can affect the ambient magic enough to ruin whole batches. Same if a monster spawns nearby, or some adventurer runs around using abilities. That’s why we won’t be allowed near the spirit co
+[54] Economy_and_Money B1 Ch80 L44-45 (0.19)
+  CLAIM: **Hazards**: volatile weather, a monster spawning nearby or an adventurer using abilities can ruin a batch, so adventurers wait outside the walls; the
+  TEXT: “How do they stop monster spawns?” Jason asked. / “They don’t,” Humphrey said. “If one appears too close to a farm, you just have to eat the loss.”
+[55] Economy_and_Money B1 Ch80 L23-23 (0.50)
+  CLAIM: **Control**: "The Magic Society manages all of that"; coin production is the main source of its political power and the reason it must stay politicall
+  TEXT: “The Magic Society manages all of that,” Humphrey explained. “It’s the main source of their political power, and the reason it’s important the Magic Society stays politically neutral.”
+[56] Economy_and_Money B1 Ch42 L64-64 (0.30)
+  CLAIM: **Control**: "The Magic Society manages all of that"; coin production is the main source of its political power and the reason it must stay politicall
+  TEXT: “If it’s an ability, then it’s perfectly legal,” Clive said. “Fascinating, but insignificant on an economic scale. That’s just conjecture, however. If it does turn out to be an unregistered spirit coin farm, then it obviously needs to be found and shut down.”
+[57] Economy_and_Money B1 Ch77 L51-51 (0.50)
+  CLAIM: **Escorts**: adventurers escort shipments of coins from a farm back to the city.
+  TEXT: “Everyone, listen up,” Vincent told them. “Your task today is to head out to spirit coin farm Geller-Seven. There you will meet with a bronze rank adventurer and assist him in escorting a shipment of spirit coins back to the city.”
+[58] Economy_and_Money B1 Ch61 L114-114 (0.67)
+  CLAIM: **Prices**: armour for an iron-rank adventurer is priced in bronze coins, which is unusual.
+  TEXT: Gary took on the job of haggling the price down, both he and Gilbert seeming satisfied with where the number landed. The price was in bronze coins, unusual for iron-rank equipment, but Jason had no issue for the quality of the product. He had only seen a handf
+[59] Economy_and_Money B1 Ch61 L63-65 (0.45)
+  CLAIM: **Wealth and rank**: Jason's three gold coins are enough to fund Jory's alchemy facility.
+  TEXT: Jason held up a hand, three gold coins stacked between his thumb and forefinger. / “Something like this get you started?” / The basic coin of the realm was the lesser spirit coin. Iron spirit coins were worth a hundred lesser coins, used by bulk traders, adven
+[60] Economy_and_Money B3 Ch16 L81-81 (0.36)
+  CLAIM: **Wealth and rank**: Jason's three gold coins are enough to fund Jory's alchemy facility.
+  TEXT: On their return, Jory had gifted the team with the first batch of lesser miracle potions his alchemy facility produced. It was a thank you for Jason giving him the funding to build the facility in the first place.
+[61] Economy_and_Money B1 Ch36 L71-71 (0.91)
+  CLAIM: **Permits and trade**: trade and work permits get a person into the Island's trade lanes; aristocrats, adventurers and residents use the wide lane.
+  TEXT: Jory had been kind enough to explain the basics to Jason. Travel to the Island was restricted without a valid reason for entry. Trade and work permits would get someone into the trade lanes. Aristocrats, adventurers and residents were free to come and go using
+[62] Economy_and_Money B7 Ch12 L15-21 (0.79)
+  CLAIM: **Guild rewards**: during a surge the contribution board adds incentive rewards above the action quota, and guilds earn the biggest rewards.
+  TEXT: “Action quotas are the minimum requirements every adventurer has to fulfil during the monster surge,” Rufus said. “The contribution board is an incentive system to keep us going beyond our quotas. All the contracts you take over and above your quota are assign
+[63] Economy_and_Money B1 Ch92 L32-32 (0.78)
+  CLAIM: **Indenture as income**: criminals' indentures are sold or auctioned to recoup the cost of their crimes.
+  TEXT: “We don’t have slaves,” Beth said. “We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is sold or auctioned to recoup the cost of their crimes.”
+[64] Economy_and_Money B12 Ch53 L32-32 (0.70)
+  CLAIM: **The Sky Link Company**: in Book 12 Travis Noble's sky link service is sold by negotiated special rate.
+  TEXT: “Percy, you don’t know this, it being a day-to-day operations matter, but I’ve been trying to get a personal sky link call with Travis Noble for several months. To discuss a special rate on sky link services, given how large and early a customer we’ve been. An
+[65] Elves B1 Ch15 L50-50 (0.89)
+  CLAIM: **Reputation**: "Elves are powerful spell casters and their skill with healing magic is unparalleled".
+  TEXT: “Outworlders like you might have their advantages,” Farrah said, “but we natives have advantages of our own. Take Gary, here. Members of his leonid race are stronger and faster than us, and that’s only the beginning of what leonids can do. Elves are powerful s
+[66] Elves B3 Ch1 L90-90 (0.88)
+  CLAIM: **Aptitude**: the elven aptitude is for spells rather than the special attacks humans favour.
+  TEXT: Lance, Padma’s team leader, was an elf. His essences, which were sword, myriad and adept, also produced the master confluence. He possessed the elven aptitude for spells, rather than the special attacks in which humans specialised, resulting in a wholly differ
+[67] Elves B2 Ch61 L145-145 (0.75)
+  CLAIM: **Racial gift**: Neil's elf racial ability, Life Affinity, evolves into Life Guard.
+  TEXT: Party member [Neil Davone]’s elf racial ability [Life Affinity] has evolved to [Life Guard].
+[68] Elves B1 Ch42 L25-30 (1.00)
+  CLAIM: **Local families**: Greenstone has local elf families; Lucian Lamprey is an elf banished there who is not one of them, and Pochard Finn is an elf and 
+  TEXT: Among the seating arrangements at the fighting pits were a number of enclosed viewing rooms with glass fronts. These were more recent additions to the centuries-old building. Some were available to anyone with the coin, but four were permanently reserved. The 
+[69] Elves B1 Ch42 L30-30 (0.62)
+  CLAIM: **Local families**: Greenstone has local elf families; Lucian Lamprey is an elf banished there who is not one of them, and Pochard Finn is an elf and 
+  TEXT: Lucian’s ability to use the Fortress as his office was largely due to his deputy director. Pochard Finn maintained things at the city campus while frequently travelling to the Fortress himself. He was also an elf and a local. Both elves enjoyed the relationshi
+[70] Elves B9 Ch46 L5-5 (1.00)
+  CLAIM: **Elf fashion**: "flowing, tapered lines".
+  TEXT: Jason’s attention was drawn to a valash, a skinny sapient species not native to Pallimustus. The male was not just lean but downright skinny, even shorter than Jason and with a chihuahua-like head. He wore a pristine white suit, not in the local style but more
+[71] Elves B9 Ch98 L4-4 (0.22)
+  CLAIM: **Notable elves**: Allayeth and Charist, Yaresh's two diamond-rank elves; Hana Shavar, High Priestess of the Healer; Elspeth Arella, director of the G
+  TEXT: The diamond-rankers were both elves, a man and a woman. Her name was Allayeth and his was Charist. They found Schaat’s corpse, dissolving into rainbow smoke. A sharp-featured silver-ranker was extracting and devouring the remnant life-force. As he drained the 
+[72] Elves B10 Ch3 L29-29 (0.33)
+  CLAIM: **Notable elves**: Allayeth and Charist, Yaresh's two diamond-rank elves; Hana Shavar, High Priestess of the Healer; Elspeth Arella, director of the G
+  TEXT: The elf was Hana Shavar, High Priestess of the Healer and the person in charge of operations using Jason’s cloud palace as a base. Those operations had gradually moved the cloud palace from a triage hospital in the wake of the messenger attack to a processing 
+[73] Elves B1 Ch83 L45-45 (0.28)
+  CLAIM: **Notable elves**: Allayeth and Charist, Yaresh's two diamond-rank elves; Hana Shavar, High Priestess of the Healer; Elspeth Arella, director of the G
+  TEXT: Three people were already sitting behind the bench. In the middle was the director of the Adventure Society, the elf, Elspeth Arella. Jason had only spoken with her the once, although he had spotted her from time to time at social events. To her left was Vince
+[74] Elves B1 Ch3 L43-43 (0.17)
+  CLAIM: **Predation**: cannibals in Book 1 discuss elves as food.
+  TEXT: “I wanted to try some of that elf girl, but the mistress said we’re keeping them all for the sacrifice. Bloody waste, if you ask me.”
+[75] Elves B1 Ch15 L51-51 (0.17)
+  CLAIM: **Predation**: cannibals in Book 1 discuss elves as food.
+  TEXT: “I forgot there were elves,” Jason said. “Some guy said he wanted to eat one.”
+[76] Humans B1 Ch85 L35-35 (0.65)
+  CLAIM: **Racial gifts**: an affinity for special attacks, essences that advance more rapidly than others', and latent powers that adapt to the essences. The 
+  TEXT: “Well,” Humphrey said, “every race has six racial gifts. For humans like Clive and myself, that is an affinity for special attacks and our essences advance more rapidly than others. Then there are the latent powers, that adapt to our essences.”
+[77] Humans B1 Ch38 L73-73 (0.40)
+  CLAIM: **Racial gifts**: an affinity for special attacks, essences that advance more rapidly than others', and latent powers that adapt to the essences. The 
+  TEXT: Jason recalled Farrah telling him that humans all had dormant racial gifts that awakened unique powers based on their essences. He assumed the same advice would hold true for his outworlder abilities. More so, if anything.
+[78] Humans B1 Ch85 L22-26 (0.46)
+  CLAIM: **Evolution**: Clive's blessing from the Celestial Book changes his human special attack affinity into a spell affinity; his Human Ambition becomes Th
+  TEXT: “I venerate the Celestial Book,” Clive said. “I received a blessing that triggered a racial gift evolution. It changed the human special attack affinity to a spell affinity, like the elves.” / “Nice,” Humphrey said. / “I didn’t understand any of that,” Jason s
+[79] Humans B2 Ch61 L144-144 (0.25)
+  CLAIM: **Evolution**: Clive's blessing from the Celestial Book changes his human special attack affinity into a spell affinity; his Human Ambition becomes Th
+  TEXT: Party member [Clive Standish]’s human racial ability [Human Ambition] has evolved to [Thirst For Knowledge].
+[80] Humans B9 Ch33 L15-15 (0.42)
+  CLAIM: **Evolution**: Clive's blessing from the Celestial Book changes his human special attack affinity into a spell affinity; his Human Ambition becomes Th
+  TEXT: Taika’s human abilities had been replaced with outworlder ones, but Jason had never sat down and taken a good look. He’d shared his party interface and let Rufus and Farrah manage his training and advancement, as they were both better teachers than Jason. Taik
+[81] Humans B1 Ch15 L56-56 (0.60)
+  CLAIM: **Distribution**: the Greenstone region is human-dominated.
+  TEXT: “We have elves,” Rufus said. “Leonids like Gary, obviously. We’ll eventually be heading for a port city, so while this region is human-dominated, you’ll see all kinds of people.”
+[82] Humans B5 Ch44 L72-72 (0.67)
+  CLAIM: **Humans and outworlders**: an outworlder who has a child with another species produces offspring of that species, so a human and an outworlder have a
+  TEXT: “A little ironic, given that if the two of you were to breed, a celestine would be the result. An outworlder breeding with another species will produce offspring of that species. Should two outworlders have a child, the result is a celestine. Of course, celest
+[83] Humans B1 Ch22 L58-58 (0.93)
+  CLAIM: **Lifespan**: essence users age slower; bronze-rankers can live well past a hundred, silvers double that and gold-rankers live for centuries.
+  TEXT: “All essence users age slower,” Rufus said. “At iron rank you wouldn’t notice the difference, but bronze rankers can live well past a hundred. Silvers can double that; reach silver rank young enough and you’ll look young for decades. Gold rankers live for cent
+[84] Law_and_Indenture B1 Ch92 L32-32 (0.50)
+  CLAIM: **Indenture, not slavery**: "We don't have slaves. We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is
+  TEXT: “We don’t have slaves,” Beth said. “We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is sold or auctioned to recoup the cost of their crimes.”
+[85] Law_and_Indenture B1 Ch92 L33-34 (0.27)
+  CLAIM: **Indenture, not slavery**: "We don't have slaves. We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is
+  TEXT: “You sell criminals?” / “What do they do with them where you come from?”
+[86] Law_and_Indenture B1 Ch92 L36-36 (0.80)
+  CLAIM: **Captured enemies**: the Ustei do not accept slavery; "their culture doesn't allow warriors to be made slaves. For them, capture means release or dea
+  TEXT: “You don’t need to worry about taking the Ustei as slaves, at least,” Beth said. “The idea died completely when someone pointed out that the Ustei wouldn’t accept it. Their culture doesn’t allow warriors to be made slaves. For them, capture means release or de
+[87] Law_and_Indenture B1 Ch105 L66-66 (0.79)
+  CLAIM: **The Adventure Society agreement**: a clause in the Adventure Society's agreement with Greenstone gives anyone who completes a contract the right of 
+  TEXT: “That’s where I intervene,” he said. “I can’t stop the indenture, but I’ve recently been reading the agreement between the city and the Adventure Society. One of the rules tucked away in the small print is that anyone who completes the contract gets right of r
+[88] Law_and_Indenture B2 Ch1 L77-77 (0.18)
+  CLAIM: **Hearings**: indenture hearings are a normal legal event; the Greenstone court "was less like an American legal p[roceeding]".
+  TEXT: “Why?” Sophie asked. “Essences, indenture hearings. Why would you do any of that for us? Are you trying to tell me that Jory is such a good friend to you that you’d go this far over some girl he likes?”
+[89] Law_and_Indenture B2 Ch3 L43-43 (0.55)
+  CLAIM: **Hearings**: indenture hearings are a normal legal event; the Greenstone court "was less like an American legal p[roceeding]".
+  TEXT: They chatted until the proceeding was about to start. Rupert had to go inside and Jason, Vincent and Rufus went upstairs to the viewing gallery. They took seats to await proceedings to begin. Jason’s knowledge of courtrooms was sourced heavily on television. T
+[90] Law_and_Indenture B12 Ch48 L53-53 (1.00)
+  CLAIM: **House guards**: in Cyrion, house guards are "technically a form of indentured servitude" and the laws "were very much built to favour the aristocrat
+  TEXT: Cyrion’s laws were very much built to favour the aristocratic families, and house guards were technically a form of indentured servitude. Very well-paid servitude, but if the noble houses wanted to make an issue of it, they held all the power. Many of those ho
+[91] Law_and_Indenture B1 Ch80 L78-78 (0.62)
+  CLAIM: **Jason's argument**: if a family used "draconian measures" to hold people to cheap work, nothing would stop them.
+  TEXT: “That’s the rub, isn’t it?” Jason asked. “If your family decided to screw these people over and leverage them into working for cheap while using draconian measures to keep them in line, what would stop you?”
+[92] Law_and_Indenture B12 Ch50 L28-28 (0.64)
+  CLAIM: **The System's withdrawal**: the System will withdraw access "in regions of Pallimustus currently operating with slavery, indentured servitude or simi
+  TEXT: [System Administrator] will shortly withdraw System access in regions of Pallimustus currently operating with slavery, indentured servitude or similar legal systems. No one within those regions will be able to access any System functions. Abilities that integr
+[93] Law_and_Indenture B12 Ch51 L13-13 (0.36)
+  CLAIM: **The System's withdrawal**: the System will withdraw access "in regions of Pallimustus currently operating with slavery, indentured servitude or simi
+  TEXT: “The Queen of Estercost and several other interested parties have asked me to arbitrate over your withdrawal of the System.”
+[94] Law_and_Indenture B12 Ch52 L35-41 (0.75)
+  CLAIM: **Slave markets**: Sadi Andali's slave markets are named as the price of Jason's cooperation.
+  TEXT: “I honestly don’t have your people,” Jason said. “I did hear something that may be relevant, though. A friend of mine popped over to Sadi Andali recently. She’s very fast, even without portals, and she had a few things to sell off. She heard that some unusual 
+[95] Leonids B1 Ch15 L50-50 (0.47)
+  CLAIM: **Strength and stamina**: "Members of his leonid race are stronger and faster than us, and that's only the beginning of what leonids can do"; a leonid
+  TEXT: “Outworlders like you might have their advantages,” Farrah said, “but we natives have advantages of our own. Take Gary, here. Members of his leonid race are stronger and faster than us, and that’s only the beginning of what leonids can do. Elves are powerful s
+[96] Leonids B1 Ch15 L84-84 (0.21)
+  CLAIM: **Strength and stamina**: "Members of his leonid race are stronger and faster than us, and that's only the beginning of what leonids can do"; a leonid
+  TEXT: “Gary’s people require a lot more exertion than the rest of us to get tired,” Rufus said. “Another one of his racial gifts.”
+[97] Leonids B1 Ch9 L131-131 (0.43)
+  CLAIM: **Appearance**: a huge "lion man" whose voice is growly by default; Gary is "so huge he made bodybuilders look like they w[ere small]". He is covered 
+  TEXT: Gary the lion-man’s voice seemed to be growly as a default.
+[98] Leonids B1 Ch14 L14-14 (0.50)
+  CLAIM: **Appearance**: a huge "lion man" whose voice is growly by default; Gary is "so huge he made bodybuilders look like they w[ere small]". He is covered 
+  TEXT: Jason glanced surreptitiously at the three of them. Rufus and Farrah had the bodies of Olympic athletes—lean muscle filled with the power of coiled springs. Gary was so huge he made bodybuilders look like they were still under construction. His wild mane and l
+[99] Leonids B1 Ch15 L84-84 (0.07)
+  CLAIM: **Appearance**: a huge "lion man" whose voice is growly by default; Gary is "so huge he made bodybuilders look like they w[ere small]". He is covered 
+  TEXT: “Gary’s people require a lot more exertion than the rest of us to get tired,” Rufus said. “Another one of his racial gifts.”
+[100] Leonids B2 Ch38 L29-29 (0.67)
+  CLAIM: **Size**: draconians are larger even than male leonids.
+  TEXT: “He’s the one Rufus has been training?” Maximilian asked. He was a member of the rare draconian race, larger even than male leonids and covered in glossy scales. His were the colour of dark leaves, green moving into purple.
+[101] Leonids B7 Ch52 L66-66 (0.55)
+  CLAIM: **Mixed company**: a leonid, an elf and a celestine are among the eleven people who emerge from Dawn's cottage in Book 7.
+  TEXT: Dawn turned to look at the cottage and eleven people emerged, looking around. A half-dozen were silver rank, along with four bronze-rankers and one gold. Most were human, but there was a leonid, an elf and a celestine amongst them. Two of the outworlders were 
+[102] Leonids B1 Ch30 L47-47 (0.22)
+  CLAIM: **Notable leonids**: Gary Xandier, a Vitesse adventurer, and the young Gary Sharpton in Book 12.
+  TEXT: “That’s right,” Gary said. “Vitesse.”
+[103] Leonids B12 Ch62 L4-9 (0.33)
+  CLAIM: **Notable leonids**: Gary Xandier, a Vitesse adventurer, and the young Gary Sharpton in Book 12.
+  TEXT: Their vehicle looked like a flying saucer, flat and round, with smooth lines and a sleek white exterior that tapered at the edges. What propelled it through the air, however, was not alien science, magic or magitech. On the top were a pair of recessed handles 
+[104] Outworlders B2 Ch25 L57-57 (0.59)
+  CLAIM: **Definition**: Clive: "An outworlder is someone whose soul has re-entered a physical reality, reflexively manifesting a body for itself"; the body is
+  TEXT: “An outworlder is someone whose soul has re-entered a physical reality, reflexively manifesting a body for itself,” Clive explained.
+[105] Outworlders B2 Ch25 L59-59 (0.59)
+  CLAIM: **Definition**: Clive: "An outworlder is someone whose soul has re-entered a physical reality, reflexively manifesting a body for itself"; the body is
+  TEXT: “Yes,” Clive said. “An outworlder’s body is akin to that of a monster, or a summoned familiar. It is physical substance forged out of raw magic. An in-between existence of the astral and the physical.”
+[106] Outworlders B2 Ch25 L61-61 (0.86)
+  CLAIM: **How it happens**: natural magical phenomena connecting two realities drag someone through; their body is annihilated in the astral and their soul re
+  TEXT: “I did,” Clive said. “The analogy is apt. The point, however, is that an outworlder is a soul that has been pushed, by whatever means, from the astral and into a physical reality. This normally happens when natural, magical phenomena connect one physical reali
+[107] Outworlders B1 Ch15 L50-50 (0.45)
+  CLAIM: **Advantages**: Farrah says outworlders "might have their advantages", and Jason's abilities (map, interface, astral affinity) are outworlder abilitie
+  TEXT: “Outworlders like you might have their advantages,” Farrah said, “but we natives have advantages of our own. Take Gary, here. Members of his leonid race are stronger and faster than us, and that’s only the beginning of what leonids can do. Elves are powerful s
+[108] Outworlders B5 Ch44 L72-72 (0.89)
+  CLAIM: **Children**: an outworlder with another species produces offspring of that species; two outworlders produce a celestine.
+  TEXT: “A little ironic, given that if the two of you were to breed, a celestine would be the result. An outworlder breeding with another species will produce offspring of that species. Should two outworlders have a child, the result is a celestine. Of course, celest
+[109] Outworlders B7 Ch36 L86-86 (0.21)
+  CLAIM: **Arrivals**: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders among the eleven people in Dawn's cottage are bronze rank.
+  TEXT: “Yes, and yes,” Miles said. “The who is outworlders. A hundred and nineteen outworlders, all arrived at the same time. As for the where they’re from, that’s what you’re here for.”
+[110] Outworlders B7 Ch52 L66-66 (0.50)
+  CLAIM: **Arrivals**: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders among the eleven people in Dawn's cottage are bronze rank.
+  TEXT: Dawn turned to look at the cottage and eleven people emerged, looking around. A half-dozen were silver rank, along with four bronze-rankers and one gold. Most were human, but there was a leonid, an elf and a celestine amongst them. Two of the outworlders were 
+[111] Outworlders B12 Ch8 L100-100 (0.67)
+  CLAIM: **Jason**: his character screen lists him as a formerly human outworlder until Book 12.
+  TEXT: The biggest change was that he had left the identity of an outworlder behind. Originally, his character screen had listed his race as a formerly human outworlder. It now said ‘nature’ instead of ‘race,’ calling him a ‘prime avatar of an astral nexus.’ He wasn’
+[112] Religion_in_Practice B1 Ch45 L4-4 (0.73)
+  CLAIM: **Temple districts**: temples line the road to the Island's Divine Square and "gods had hierarchies of their own": the Temple of Roads sits behind the
+  TEXT: Walking out of the loop terminal, he immediately saw a sign with directions to the Divine Square. Following it, he walked down a street where temples lined both sides of the road. Looking at the prominent signs and banners, Jason quickly gained a sense that go
+[113] Religion_in_Practice B1 Ch45 L5-5 (0.32)
+  CLAIM: **Temple districts**: temples line the road to the Island's Divine Square and "gods had hierarchies of their own": the Temple of Roads sits behind the
+  TEXT: Soon the street opened up onto the square itself. It was a huge, crowded space. Green stone was prominent everywhere in the Island, but in the Divine Square even the flagstones were made from high-grade material. The square was filled with booths and tents, mo
+[114] Religion_in_Practice B1 Ch45 L18-18 (1.00)
+  CLAIM: **Dominion**: "Dominion issues the divine right to kings and nobles. It is he who determines who rules, and who serves".
+  TEXT: “Over everything,” the man said. “Dominion issues the divine right to kings and nobles. It is he who determines who rules, and who serves.”
+[115] Religion_in_Practice B1 Ch94 L3-3 (0.24)
+  CLAIM: **The Healer**: Neil makes a stand in the Temple of the Healer; the Healer strips the essences from clergy who offend him, and ex-clergy stripped of d
+  TEXT: The Temple of the Healer in Greenstone was one of the central temples on the Divine Square. Inside, a man named Neil Davone was making a stand.
+[116] Religion_in_Practice B4 Ch11 L16-16 (0.53)
+  CLAIM: **The Healer**: Neil makes a stand in the Temple of the Healer; the Healer strips the essences from clergy who offend him, and ex-clergy stripped of d
+  TEXT: Jason had heard about the side effects of ex-clergy who had offended their gods and been stripped of divinely gifted essences. This caused a debilitating imbalance in the body and soul.
+[117] Religion_in_Practice B7 Ch9 L4-4 (0.68)
+  CLAIM: **Knowledge's temple**: in Rimaros it is "an important resource for the many magical researchers" with a symbiotic relationship with the Magic Society
+  TEXT: In a major city like Rimaros, the Temple of Knowledge was an important resource for the many magical researchers and had a symbiotic relationship with the Magic Society branch. Within the temple was a chamber specifically for incoming portals. A portal appeare
+[118] Religion_in_Practice B7 Ch9 L9-9 (0.37)
+  CLAIM: **Knowledge's temple**: in Rimaros it is "an important resource for the many magical researchers" with a symbiotic relationship with the Magic Society
+  TEXT: She led Rufus forward, out of the chamber and into the larger temple. It was mostly comprised of a vast library covering multiple wings, each with multiple storeys.
+[119] Religion_in_Practice B12 Ch1 L58-58 (0.62)
+  CLAIM: **Churches and research**: churches, especially Knowledge's, help fund the Magical Research Association.
+  TEXT: The openness of the research association plundered patronage that once would have gone to the Magic Society. Compared to the society hoarding their knowledge for political gain, organisations funded the MRA knowing the results would be freely available. Govern
+[120] Religion_in_Practice B7 Ch17 L104-104 (0.56)
+  CLAIM: **Death's paperwork**: the Church of Death issues certification of how many times a person has died.
+  TEXT: “No, but I saw his certification from the Church of Death and it said he's died four times. So far. It actually said ‘so far’ on the certification. I've never seen that before.”
+[121] Religion_in_Practice B8 Ch43 L48-53 (0.17)
+  CLAIM: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  TEXT: “Are you or your god going to intervene in events here?” / “No. You know that those with my god’s favour are expected to forge their own path. In any case, my god cannot see inside the building, let alone meddle. Even the platform open to the sky is hidden fro
+[122] Religion_in_Practice B10 Ch31 L69-75 (0.39)
+  CLAIM: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  TEXT: “Nothing at all,” she said. “My goddess has only told me that you have them. That you have a habit of deciding the way things should be and then moving the land and the sky to make it so, whatever anyone else might think. Or how they might be affected.” / “Tha
+[123] Religion_in_Practice B8 Ch48 L22-26 (0.28)
+  CLAIM: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  TEXT: “That is correct. The gods, even those antagonistic to one another, are all part of a complex interplay. They have rules, governing not just themselves and their areas of influence but how they relate to one another. If the god of disguises chooses to take on 
+[124] Religion_in_Practice B7 Ch60 L27-27 (0.75)
+  CLAIM: **The Hierophant**: the Hierophant of the World-Phoenix is allowed to intervene in Pallimustus a single time.
+  TEXT: “The Hierophant is allowed to intervene in our world a single time,” Soramir said. “Even if we call in aid, we can, at most, eliminate a single one of the two cities bearing down on our kingdom. I believe Mr Asano wants her to use her one intervention to deal 
+[125] Runics B1 Ch45 L14-14 (0.83)
+  CLAIM: **Appearance**: "short and stocky, with skin of such a deep blue it was almost black", no hair and covered in faintly glowing, tattoo-like markings th
+  TEXT: With all the people around it was easy to ask a passer-by about the unusual temple. The man Jason talked to was short and stocky, with skin of such a deep blue it was almost black. He had no hair at all and was covered in what looked like tattoos of various co
+[126] Runics B1 Ch45 L14-14 (0.58)
+  CLAIM: **Rarity**: they are "a rarity in Greenstone"; a runic barman in Old City is stocky and hairless with blue-black skin and glowing runes.
+  TEXT: With all the people around it was easy to ask a passer-by about the unusual temple. The man Jason talked to was short and stocky, with skin of such a deep blue it was almost black. He had no hair at all and was covered in what looked like tattoos of various co
+[127] Runics B1 Ch71 L40-40 (0.83)
+  CLAIM: **Rarity**: they are "a rarity in Greenstone"; a runic barman in Old City is stocky and hairless with blue-black skin and glowing runes.
+  TEXT: The patrons were few in the early morning, just a few people quietly enjoying meals alone or in pairs. They were better dressed than the average Old City resident, as was the man behind the bar. He was a member of the runic race, stocky and hairless, with blue
+[128] Runics B1 Ch86 L31-31 (0.50)
+  CLAIM: **Bones**: the runes show faintly on their bones; a short, broad skeleton in the desert astral space is identified as a runic by them.
+  TEXT: “The short, broad skeleton is a runic,” he said. “You can still see faint traces of the natural runes on their bones. The big one is a draconian, from the skull shape.”
+[130] Smoulder_and_Brighthearts B1 Ch85 L45-45 (0.55)
+  CLAIM: **Smoulder**: "They have natural affinities for earth and fire"; a smoulder friend of Humphrey's parents has the wind essence and his earth affinity e
+  TEXT: “Well, they have natural affinities for earth and fire,” Humphrey said. “There's a guy on an adventuring team with my parents; he's a smoulder. He has the wind essence and, eventually, his earth affinity evolved to an air affinity.”
+[131] Smoulder_and_Brighthearts B1 Ch89 L63-63 (0.68)
+  CLAIM: **Smoulder**: "They have natural affinities for earth and fire"; a smoulder friend of Humphrey's parents has the wind essence and his earth affinity e
+  TEXT: “Finding out would probably cost you more than you’re willing to pay,” said Niko, another member of Beth’s team. Niko was a smoulder, a race Jason had only met a few of. They had dark skin, glowing red eyes and jet-black hair. All he really knew about them was
+[132] Smoulder_and_Brighthearts B10 Ch65 L6-6 (0.33)
+  CLAIM: **Brighthearts**: in Book 10 fewer than ten thousand of the brightheart smoulder survive, crammed in the citadel cavern. Marla is a fire aspect with s
+  TEXT: The other cities were lost, as was most of Cardinas. Fewer than ten thousand of the brightheart smoulder had survived, yet that fraction felt so large crammed together in the citadel cavern, especially with the cultists taking up their own space.
+[133] Smoulder_and_Brighthearts B10 Ch65 L9-9 (0.62)
+  CLAIM: **Brighthearts**: in Book 10 fewer than ten thousand of the brightheart smoulder survive, crammed in the citadel cavern. Marla is a fire aspect with s
+  TEXT: One side of the double doors swung open to admit Marla. Marla was a fire aspect, her skin markings, eyes and even hair the yellow-orange of steel in a forge. With the bold glow against her dark skin, she was extraordinarily beautiful. Lorenn had always been je
+[134] Smoulder_and_Brighthearts B10 Ch69 L4-4 (0.62)
+  CLAIM: **War form**: Beaufort prefers his fifteen-foot metal skeleton "war form" but must meet the brightheart smoulders in a form they will accept.
+  TEXT: If he was allowed his preference, Beaufort would have remained in his war form at all times. This was not possible—or, at least, very ill-advised—because of the need for diplomacy. They needed the brightheart smoulders to work with them, and they would not tak
+[135] Smoulder_and_Brighthearts B10 Ch71 L52-52 (0.88)
+  CLAIM: **Home**: the largest chamber of the underground realm was home to most brightheart smoulders.
+  TEXT: “This is the largest chamber of this underground realm,” Beaufort explained as he led the group on. “It was the home to the vast majority of the brightheart smoulders. Now there is nothing but the echoes of the dead. The messengers avoid this place, even withd
+[136] Valash B9 Ch45 L57-57 (0.87)
+  CLAIM: **Origin**: Jason had only seen valash when Earth's transformation zones turned humans into them; they are "a skinny sapient species not native to Pal
+  TEXT: Jason froze, startled as he sensed something extremely unusual: an aura belonging to a species called the valash, who were not native to Pallimustus. Jason had only seen them when humans had been turned into them by transformation zones on Earth. He had needed
+[137] Valash B9 Ch46 L5-5 (0.47)
+  CLAIM: **Origin**: Jason had only seen valash when Earth's transformation zones turned humans into them; they are "a skinny sapient species not native to Pal
+  TEXT: Jason’s attention was drawn to a valash, a skinny sapient species not native to Pallimustus. The male was not just lean but downright skinny, even shorter than Jason and with a chihuahua-like head. He wore a pristine white suit, not in the local style but more
+[138] Valash B9 Ch45 L58-58 (0.75)
+  CLAIM: **Appearance**: "skinny bodies and Chihuahua-like heads", shorter than Jason.
+  TEXT: They were a comical-looking species to human sensibilities, with skinny bodies and Chihuahua-like heads. Jason sensed the valash navigating the crowd in his direction, wondering if he had somehow seen through Jason’s aura mask. What truly startled Jason about 
+[139] Valash B9 Ch46 L5-5 (0.62)
+  CLAIM: **Appearance**: "skinny bodies and Chihuahua-like heads", shorter than Jason.
+  TEXT: Jason’s attention was drawn to a valash, a skinny sapient species not native to Pallimustus. The male was not just lean but downright skinny, even shorter than Jason and with a chihuahua-like head. He wore a pristine white suit, not in the local style but more
+[140] Valash B9 Ch45 L58-58 (0.36)
+  CLAIM: **Outworlders**: the valash Jason meets in Yaresh is an outworlder with a silver-rank aura and no sign of core use.
+  TEXT: They were a comical-looking species to human sensibilities, with skinny bodies and Chihuahua-like heads. Jason sensed the valash navigating the crowd in his direction, wondering if he had somehow seen through Jason’s aura mask. What truly startled Jason about 
+[141] Valash B9 Ch46 L6-6 (0.55)
+  CLAIM: **Outworlders**: the valash Jason meets in Yaresh is an outworlder with a silver-rank aura and no sign of core use.
+  TEXT: The valash slipped through the crowd with practised ease. He was obviously familiar with the environment and making the most of his small stature. Despite being diminutive, he was not pushed, shoved, or disrespected by the people around him. His silver-rank au
+[142] Valash B9 Ch46 L5-5 (1.00)
+  CLAIM: **Fashion**: his fitted white suit is not in the local style and "would have been more at home in a Miami nightclub in the eighties".
+  TEXT: Jason’s attention was drawn to a valash, a skinny sapient species not native to Pallimustus. The male was not just lean but downright skinny, even shorter than Jason and with a chihuahua-like head. He wore a pristine white suit, not in the local style but more

@@ -1,0 +1,9 @@
+# Large or regenerable working data
+src/TEMP_scratchpad_recovery/wiki/
+src/TEMP_scratchpad_recovery/*.pkl
+src/TEMP_scratchpad_recovery/__pycache__/
+__pycache__/
+*.pyc
+
+# Book text is copyrighted: keep it out of any pushed history
+src/Source_Text/

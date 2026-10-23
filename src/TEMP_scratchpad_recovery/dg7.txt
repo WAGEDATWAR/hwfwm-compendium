@@ -1,0 +1,277 @@
+## B7 Ch1 Of Course He Doesn’t Have Pants
+  OPEN L3: In outback Australia, there was an empty town left abandoned after the monster waves. No wave had come through, but the town was falling apart anyway, most of the buildings having been empty long before the evacuation. Upriver cotton farmin
+  REG L5 [Era_Selection]: **Calendar**: Book 7 opens at the standing stones; the surge is "some five years overdue".
+  REG L16 [Farrah_Hurin]: Physically small but "prodigiously strong": she hauls the standing stones into place in Book 7 .
+  REG L18 [Spirit_Vault_and_Astral_Kingdom]: Inventory ; the Spirit Vault, an inventory he can enter and which others can enter by trust ; a spirit domain ; a spirit realm that travels along the 
+  REG L56 [01_World_Primer]: The series' major surge begins in Book 7, about five years overdue , which the books connect to a magical link to Earth that had been bleeding Pallimu
+  REG L56 [Era_Selection]: **Calendar**: Book 7 opens at the standing stones; the surge is "some five years overdue".
+## B7 Ch2 Connotations
+  OPEN L3: A bird fluttered out of Humphrey’s jacket, then transformed into a puppy as it landed on the table and pawed at the projector. Humphrey scooped him up and petted him gently.
+  CUE L76: ...Gary and Virid were sealed away in Virid’s smithy for nineteen days before they finally emerged. The sword Gary showed the team was wh...
+  REG L75 [00_Places_Overview]: Zartos : a desert city with a subterranean river; half of it is underground and it has a large celestine community ; it is the home of the diamond-ran
+  REG L75 [Celestines]: **Communities**: Zartos is a subterranean city largely populated by celestines.
+## B7 Ch3 What a Monster Surge Feels Like
+  OPEN L3: Gary, Jory and Jason’s team—minus Jason himself—were on the open deck of a skyship headed for Vitesse, the city of flowers.
+  REG L44 [Rimaros]: the Caribbean analogue (
+  REG L47 [Storm_Kingdom_Culture]: **Extent**: "It rules the Sea of Storms, all the islands on it and all the coastal regions that surround it"; the capital is Rimaros.
+  REG L82 [Storm_Kingdom_Culture]: **Extent**: "It rules the Sea of Storms, all the islands on it and all the coastal regions that surround it"; the capital is Rimaros.
+## B7 Ch4 Strategic Doctrine
+  OPEN L3: “Clive,” Humphrey said. “Is that a kind of skyship you’re familiar with?”
+## B7 Ch5 I’ve Seen Your Best
+  OPEN L3: Once the cloud ship cleared the storm, Farrah paused from her explanation of what Jason could expect from their destination. In only a few moments, they went from blasting horizontal rain and mountainous wave crests to calm seas and blue sk
+  REG L65 [Storm_Kingdom_Culture]: **Sky islands**: reserved for "the cream of society": big-name adventurers, long-standing adventuring families and aristocrats; a family known for pro
+  REG L65 [Era_Selection]: **Scale**: silver rank in the Storm Kingdom, where sky islands house the cream of society.
+  REG L67 [Storm_Kingdom_Culture]: **Monarchy**: the Storm King is a gold-ranker, which one must be to take the throne; royals are not raised on cores as in most nations, since that dis
+  REG L67 [Rimaros]: Its monarch, the Storm King, must be gold-rank (and, per
+  REG L68 [Zara_Rimaros]: Firstborn daughter of the Storm King, called the Hurricane Princess (
+  REG L69 [Storm_Kingdom_Culture]: **Titles**: the firstborn daughter of the Storm King, if competing, is the Hurricane Princess and the firstborn son the Storm Prince; many royals bow 
+## B7 Ch6 Responsible Dad
+  OPEN L3: Two skyships moved side by side through the air. One was a traditional vessel crafted from wood with floatation crystals set into the hull. The other was a monstrosity of rough iron and heavy bolts. Despite their differences, both were runn
+  CUE L70: ...“You didn’t just hear yourself,” Clive said. “If I hadn’t spent the last year watching you and Sophie dance around each other like awkwar...
+  REG L42 [Belinda_Callahan]: She teases Jason about Sophie .
+  REG L42 [Tone_and_Voice]: **Belinda**: delighted by her own power and teasing.
+## B7 Ch7 Surge Protocols
+  OPEN L3: From the deck of the cloud yacht, Jason and Farrah stood with drinks in hand looking at the islands floating in the sky as they drew closer to the city of Rimaros. One of the three main natural islands had come into view, but since Farrah h
+  REG L53 [Guilds_and_Houses]: Farrah introduces herself in Rimaros as Burning Violet out of Vitesse .
+  REG L53 [Farrah_Hurin]: Daughter of Amelia and William Hurin of Vitesse; a member of the Burning Violet guild (Book 2, Ch38 L69
+  REG L70 [Storm_Kingdom_Culture]: **Public islands**: Livaros, Arnote and Provo lie in an east-west line. Arnote is mostly residential, home to successful merchants and retired adventu
+  REG L70 [Storm_Kingdom_Culture]: **Public islands**: Livaros, Arnote and Provo lie in an east-west line. Arnote is mostly residential, home to successful merchants and retired adventu
+  REG L78 [Storm_Kingdom_Culture]: **Public islands**: Livaros, Arnote and Provo lie in an east-west line. Arnote is mostly residential, home to successful merchants and retired adventu
+## B7 Ch8 Disappointed or Relieved
+  OPEN L3: Dawn’s cottage bubble flying vessel floated over the deck of the skyship. She emerged from the cottage, walked down the short garden path to the bubble surrounding it, and stepped through, like passing through a waterfall. She dropped light
+  CUE L20: ...“Yeah, and then he passed out for three days,” Neil said. “What kind of idiot uses the last of his energ...
+  REG L3 [Dawn]: In Book 7 her vessel is a snow-globe cottage that carries her ; in Book 9 a recording projects her face .
+## B7 Ch9 More Paperwork
+  OPEN L3: Unlike most of the temples in Rimaros, the city’s main Temple of Knowledge was not to be found in the temple district on the island of Livaros. Instead, it could be found on the second-largest of the city’s sky islands, one of the few which
+  REG L4 [Religion_in_Practice]: **Knowledge's temple**: in Rimaros it is "an important resource for the many magical researchers" with a symbiotic relationship with the Magic Society
+  REG L7 [Gabrielle_Pellin]: By Book 7 she is a priestess of the Goddess of Knowledge who has grown into "dangerous beauty, with olive skin, chocolate hair and graceful poise".
+  REG L7 [NPC_Rosters_by_Era]: **Church and order**: Gabrielle Pellin as priestess of Knowledge, Melody Jain and the Order of Redeeming Light.
+  REG L9 [Religion_in_Practice]: **Knowledge's temple**: in Rimaros it is "an important resource for the many magical researchers" with a symbiotic relationship with the Magic Society
+  REG L18 [Tone_and_Voice]: Titles for officials: "Instructor Trenslow" and "Instructor Spalding" during an assessment; "Priestess Pellin".
+  REG L18 [Tone_and_Voice]: **Rufus**: courteous and formal, apologising for discourtesy to a priestess, gesturing with a sausage on a stick while explaining guild quotas.
+## B7 Ch10 Multi-Talented
+  OPEN L3: Rimaros was a city of well-trained and powerful essence users, which meant many strong auras and powerful senses. With the number of essence users present in the city, and more pouring in for the monster surge, it was a disorienting cacopho
+  REG L124 [Adventure_Society]: Builder-response team  : an official refers Jason to this team for assessment as a potential threat before assigning a quota.
+## B7 Ch11 Don’t Say You Weren’t Warned
+  OPEN L3: Jason stepped out of the assessment office to find a stern-looking man and woman waiting for him. They each had a rigidly controlled silver-rank aura.
+## B7 Ch12 Contribution
+  OPEN L3: Late into the night, the space outside of the Adventure Society's central admin complex was still crowded with people. To Jason's delight, some enterprising local vendors had wheeled carts into the Adventure Society campus that magically ex
+  REG L14 [Adventure_Society]: Orders and quotas  : during a monster surge every adventurer has an  action quota  assigned at the jobs hall.
+  REG L15 [Economy_and_Money]: **Guild rewards**: during a surge the contribution board adds incentive rewards above the action quota, and guilds earn the biggest rewards.
+  REG L22 [Tone_and_Voice]: **Rufus**: courteous and formal, apologising for discourtesy to a priestess, gesturing with a sausage on a stick while explaining guild quotas.
+  REG L23 [Plot_Hooks]: **Guild quotas**: guilds receive sixty percent of the surge quotas though few adventurers belong to them.
+  REG L23 [Adventure_Society]: Guilds receive about **sixty percent** of the quotas; in a city like Livaros about three in ten adventurers are in a guild and one in ten in a high-en
+## B7 Ch13 Small-Town Lifestyle
+  OPEN L3: Jason’s yacht arrived at the narrow reef passage to a lagoon on the island of Arnote. Normally inaccessible to large water vehicles, the cloud vessel had no problem skimming over obstructions that would ground vessels with all but the shall
+  CUE L62: ...s nice as yours, but I had the chance to go back for a while a couple of years ago. It was a nice few months, before life came calling again. ...
+  REG L18 [Argy]: "Emmett Dillivan, but folks just call me Argy", after the fruit he is eating, which looks like a large tangerine.
+  REG L18 [NPC_Rosters_by_Era]: **Storm Kingdom**: Soramir, Zara Rimaros, Liara Rimaros, Pelli, Argy, Kasper Irios.
+  REG L20 [Argy]: His family has grown the fruit "longer than most can remember".
+  REG L24 [Argy]: Jason calls the place "a genuine paradise".
+  REG L28 [Argy]: He tells Jason to talk to Pelli and offers to take him.
+  REG L28 [Pelli]: Argy tells Jason "You'll want to talk to Pelli"; she insists "The name's Pelli and I'll thank you to use it".
+## B7 Ch14 I Don’t Need to Invent Ice Cream
+  OPEN L3: The kids playing in the river spotted Farrah disabling the magical barrier around the hole in the ground and came ashore to watch her uproot the fence.
+## B7 Ch15 Remaining Unremarkable
+  OPEN L3: While Farrah could slip into the role of a specialist with her offensive brawler role, Jason could not do so as easily. No amount of items would turn him into the plague cannon the locals wanted in their affliction specialists, able to blan
+  CUE L77: ...“You know, Zara missed out on winning a cloud flask a few years ago. It went to some fool boy who got himself killed and it was...
+## B7 Ch16 A Damn Fine Way to Start Off a War
+  OPEN L3: The Vitesse branch of the Adventure Society was bustling with activity. Miles Cotezee walked down a hallway towards one of the large briefing rooms with an unusual adventurer at his side. The man was an elf with reddish skin, stark white ha
+  CUE L45: ...“Roughly three and a half years ago, we first discovered the presence of the Builder cult and t...
+  CUE L73: ...“Several years ago, the Magic Society cracked the portal network that the cult...
+  CUE L4: ...th an easy, languid grace. Nonetheless, Miles got the impression of a spring ready to launch. There was a quiet intensity to the man tha...
+## B7 Ch17 It Will Not Be Fine
+  OPEN L3: Liara Rimaros made her way back to the royal sky island, half-asleep in the back of a flying carriage. She'd been working without rest as the city was overrun with adventurers that had to be filtered through for potential Builder cultists. 
+  CUE L106: ...believe me. Especially since they announced that it would be harder a few years ago.”...
+  REG L3 [Liara_Rimaros]: Works without rest as the city is overrun with adventurers to be filtered for potential cultists, and is a gold-ranker.
+  REG L104 [Gods_and_Churches]: Death certification : the Church of Death certifies deaths; in Book 7 an official is shown a certification that Jason has died four times "so far", an
+  REG L104 [Jason_Asano]: Level 2 : he has died four times by Book 6 (the Church of Death's certificate, Book 7; the card in Book 10); he is an astral king .
+  REG L104 [Shako]: The Church of Death's certification says Jason has died four times so far; the Master Timeline counts Shako's killing as the fourth.
+  REG L104 [Religion_in_Practice]: **Death's paperwork**: the Church of Death issues certification of how many times a person has died.
+  REG L104 [Spoiler_Management]: **Jason's deaths**: the Church of Death's certificate reads "died four times. So far.". Level 2.
+## B7 Ch18 A Story of War
+  OPEN L3: Jason’s barbecue was in full swing, with people crowded along the clifftop and kids splashing in the river, letting it carry them into the magic barrier that stopped them from going over the waterfall and bounced them back. Jason held a ste
+  CUE L48: ...ir said, suddenly next to Jason. “I sensed your arrival in this world several days ago. I’ve seen the things lurking inside you and even I don’t k...
+  REG L41 [Soramir]: Meets Jason in Book 7; palindromic first and last names "were assigned in adulthood rather than at birth and denoted important members of a given fami
+  REG L42 [Storm_Kingdom_Culture]: **Palindromic names**: first and last names that are palindromes are assigned in adulthood and mark important family members; the more prominent the f
+  REG L42 [NPC_Rosters_by_Era]: **Storm Kingdom**: Soramir, Zara Rimaros, Liara Rimaros, Pelli, Argy, Kasper Irios.
+  REG L43 [Pelli]: She asks Jason whether Soramir should have told him something.
+  REG L66 [Zara_Rimaros]: Book 7 : claims publicly that Jason proposed, to escape an arranged match with a member of House Irios; the royal family reacts .
+  REG L66 [NPC_Rosters_by_Era]: **Storm Kingdom**: Soramir, Zara Rimaros, Liara Rimaros, Pelli, Argy, Kasper Irios.
+## B7 Ch19 Any Help They Can Get
+  OPEN L3: Farrah looked at Jason with concern as they sat around a table with Rufus, eating the breakfast Jason had just cooked. After leaving his own world, Jason had immediately undergone a shift in temperament. The dark clouds that had accumulated
+  CUE L54: ...le swarming it as had surrounded the administration building a couple of days before....
+## B7 Ch20 Little Man Problems
+  OPEN L3: Supply depot number three was in the same warehouse district where Jason had carried out his big trade, not far from the main markets of Livaros. He portalled to the destination square in the market and made his way on a black horse with gl
+  CUE L16: ...kled skin. Her hair was cut short and practical, showing off a mix of autumn leaf colours. Like Jason, the beautification of silver rank...
+  CUE L21: ...“Autumn Leal,” she introduced herself. Jason’s eyes flicked back to...
+  CUE L25: ...Autumn had the typical load-out of a spellcaster. Her clothes were...
+## B7 Ch21 Enemies Even I Would Fear
+  OPEN L3: Jason left through the main doors of the Temple of Fertility, his storage space freshly loaded with supplies. He was motivated, having discovered how critical the temple’s delivery was during the monster surge. Fortress towns were of paramo
+  REG L11 [Guilds_and_Houses]: The royal family's guild in Rimaros .
+  REG L11 [Storm_Kingdom_Culture]: **Royal guard**: the Sapphire Crown is one of the most powerful guilds, backed by the royal family, and its non-royal members must periodically serve 
+## B7 Ch22 True Elites
+  OPEN L3: On the island of Livaros, the sky port was the busiest part of the skyline. Looming towers had skyships docked up and down their exteriors while more ships drifted in and out of the port air space. It was busy enough that Jason wondered how
+  CUE L94: ...to a crash. There had been a near-miss for that exact reason a couple of years ago, incurring expensive repairs and even more expensive port d...
+  CUE L8: ...es assembled in front of them as quickly as they could. Jason spotted Autumn, the elf he had met the other day, in one of the queues as ...
+  CUE L23: ...“Same here,” Autumn said. “Is something wrong?”...
+## B7 Ch23 Diligent and Considerate
+  OPEN L3: The Zila’s Promise departed Rimaros airspace, heading west. It ascended to an altitude where only the most exotic or dedicated monsters would encounter them. Trenchant Moore ordered the adventurers to stay out of the way of the crew and mos
+  CUE L5: ...onal porters, either part-time adventurers or not adventurers at all. Autumn was counted in that number and joined them below decks wher...
+## B7 Ch24 That Doesn’t Make the Pebble Important
+  OPEN L3: Each of the famous garden towers of Vitesse was a soaring edifice, draped in flowering vines that dangled from the roof gardens and balconies on each floor. The result was that the Vitesse skyline was filled with towers of green, speckled i
+  CUE L58: ...Jason wandered over to where Autumn was standing next to her frog, currently ballooned up to be...
+  CUE L79: ...He turned around to where Autumn was leaning against a bulkhead, Neil the frog perched on he...
+  CUE L88: ...“Sure,” Autumn said. “That doesn't make it important to the royal family, ...
+## B7 Ch25 They Don’t Send Their Best People
+  OPEN L3: On an island off the coast of Vitesse, there was an Adventure Society way station where various magical vehicles were stored. In Greenstone, with its weak ambient magic, only people with the right power could operate magical vehicles. In hi
+  CUE L90: ...t a local, having come down from north of the Sea of Storms. That had been decades ago, yet his signature drawl was as strong as ever....
+  CUE L43: ...h is really your mess. Or the mess of the people who sent you anyway. Autumn was scared of me and she wasn’t wrong to be.”...
+## B7 Ch26 An Old Friend That He Had No Time For
+  OPEN L3: The bottom of the gorge had a small river running through it, with a wide road running alongside it. The road was stone-paved and well-maintained; its purpose was to bring people into the fort from the surrounding towns and villages, along 
+## B7 Ch27 Never Underestimate Adventurers
+  OPEN L3: Despite his mana-efficient abilities, Jason’s reserves depleted as the fight dragged on. He and Colin had tainted dozens upon dozens of the monsters carpeting the bottom of the gorge, pushing Jason’s mana towards empty.
+## B7 Ch28 Better Strange Than Scary
+  OPEN L3: The fortress town of Arcazitlan favoured defence over comfort, with its stone chambers and claustrophobic corridors dug right into the stone wall of the gorge. This was worst in the spaces set aside for the civilians sheltering from the mon
+  CUE L6: ...f safety was extreme discomfort throughout a monster surge that would last weeks, possibly even months. People were crammed together almost...
+## B7 Ch29 Going Overland
+  OPEN L3: Outside of the rocky gorge, the coastal landscape was filled with greenery, white sand and blue water. Jason stood on a hilltop, looking out at a gorgeous beach and the sea stretching beyond it. Next to him stood his familiars. Shade had on
+## B7 Ch30 Small
+  OPEN L3: The lobby of the Adventure Society office was not large, even though it served double duty as the public face of the society and the jobs hall. About a dozen adventurers were standing around inside; even this small branch was made busy by t
+## B7 Ch31 Uneasy Allies
+  OPEN L3: “So much for drawing away the defenders,” Neil said as the heavy land skimmer threaded a swift and dangerous path through the trees. In the driver's seat next to him, Belinda was concentrating on controlling the skimmer. The heavy combat sk
+## B7 Ch32 Supply Chain Problems
+  OPEN L3: The next fortress town Jason visited wasn’t under active attack, which allowed him to get in and out quickly. Situated on the coast, it was connected to several storm accumulators. The offshore, windmill-like devices collected power from ma
+  CUE L5: ...supply run was deeply overdue. The fort’s defences had expired almost a week earlier, and if not for a visiting essence user, either of the prev...
+## B7 Ch33 The Hitting-It-a-Bunch Plan
+  OPEN L3: The original plan had been to sneak into the dam quickly and quietly in two small groups while the defences had been pulled away by the attack on the valley. From the outset, it was clear that the defences had been massively increased since
+## B7 Ch34 I Liked the Fighting Better
+  OPEN L3: Jason was once more riding a land skimmer along the road network that wove through the Pallimustus equivalent of Central America. Each side of the broad thoroughfare was lined with dense jungle. According to his map, Jason was less than an 
+## B7 Ch35 That Usually is My Day
+  OPEN L3: The gold-rankers secretly trailing Jason watched with surprise as three people appeared out of nowhere.
+## B7 Ch36 Unyielding Faith
+  OPEN L3: What had once been an idyllic, mist-shrouded valley was now a bombed-out wasteland of craters, broken buildings and broken bodies. The mist had faded away, the air now filled with an ozone tingle of lingering magic and the iron taste of blo
+  REG L86 [Outworlders]: **Arrivals**: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders among the eleven people in Dawn's cottage are bronze rank.
+  REG L86 [Era_Selection]: **Live dangers**: a hundred and nineteen outworlders appear at once; the One Day War, after which "It had been a month"; the Order of Redeeming Light 
+  REG L86 [Plot_Hooks]: **The outworlders**: a hundred and nineteen appear at once and must be placed.
+## B7 Ch37 Something He Could Never Get Back
+  OPEN L3: What looked like a refugee camp with rows of tents had been set up in a forest clearing. Adventure Society and Magic Society officials were managing a group of people variously panicked, nervous or demanding. Miles led Humphrey, Gary and th
+## B7 Ch38 Dignified Young Adventurer
+  OPEN L3: While still a bustle of activity, the Adventure Society campus wasn't the shoulder-to-shoulder throng it had been in the opening days of the surge. The queues no longer reached outside the jobs hall building and Jason could go straight in. 
+  CUE L76: ...what we've found, we believe they may be doing what they failed to do several years ago.”...
+  CUE L92: ...d one another. She was largely unchanged from their previous meeting, three years earlier. She had the same gracefully restrained aura, brimming with...
+## B7 Ch39 I Can Do Sleazy
+  OPEN L3: “Why are you willing to toss Zara’s reputation into the fire?” Jason asked. “How does that help you with House Irios?”
+  CUE L48: ...e, giving Zara the chance to show that she’s more mature than she was three years ago. She rebuffs the would-be Lothario, demonstrating that she’...
+  CUE L66: ..., so I’d say they knew each other pretty well. Childhood friends, put together years ago with this marriage in mind?”...
+## B7 Ch40 An Object Lesson in Foolish Risks
+  OPEN L3: While Rimaros was considered a single city, the islands that comprised it were spread over hundreds of kilometres. With three main islands and many sky islands that were themselves often sizeable, it was a city of many flavours, with each i
+## B7 Ch41 Murky Waters
+  OPEN L3: Jason felt the emotions play out in the auras around him. At the centre was the man on the other side of the tailor shop’s glass, Kasper Irios. A peak-level bronze-ranker, he stood frozen, gripping the handle of the almost-closed door. His 
+  CUE L31: ...m suddenly the dead paramour of some princess I met a couple of times three years ago. Plus, the Builder’s trying to assassinate me again, but th...
+  REG L3 [Kasper_Irios]: Jason meets him at a tailor's shop: "a peak-level bronze-ranker"; he is shocked when Jason names himself the dead man.
+  REG L3 [NPC_Rosters_by_Era]: **Storm Kingdom**: Soramir, Zara Rimaros, Liara Rimaros, Pelli, Argy, Kasper Irios.
+  REG L11 [Kasper_Irios]: Jason meets him at a tailor's shop: "a peak-level bronze-ranker"; he is shocked when Jason names himself the dead man.
+  REG L26 [Kasper_Irios]: Jason walks him along the street and locals glance at the House Irios crest on his arm; a trio of young bronze-ranker friends greet him.
+  REG L40 [Kasper_Irios]: Jason walks him along the street and locals glance at the House Irios crest on his arm; a trio of young bronze-ranker friends greet him.
+## B7 Ch42 Integrity is Forever
+  OPEN L3: Gil picked up his fruit from the floor, lamenting that he'd been too startled to catch it when, normally, his gold-rank reflexes would have no trouble doing so. Then he realised that Soramir could also have caught them even more easily but 
+  CUE L33: ...rs, both of whom were listed as having died fighting the Builder cult several years ago.”...
+  CUE L29: ...“One of the things I discovered was that several months ago, the Builder cult undertook some kind of infrastructure pro...
+## B7 Ch43 How Deep a Hole
+  OPEN L3: Jason went into the waterfall cave beneath his cloud house. The natural stone was hidden behind walls, floor and ceiling made from cloud stuff, leaving only the cave mouth with the water rushing past. Sunshine sparkled through it like a spr
+  CUE L4: ...ral magic theory lagged. It had made great leaps, especially over the last year, but it was still not at the level required to finalise his...
+  REG L58 [Danielle_Geller]: Book 7 : takes the 119 outworlders to the Geller estate in Cyrion .
+  REG L58 [Estercost_Culture]: **Capital and councils**: Cyrion is the capital, yet the Adventure Society's continental council sits in Vitesse, where the royal family keeps a tower
+  REG L61 [Danielle_Geller]: In Book 7 she is gold-rank with dark olive skin and black hair .
+## B7 Ch44 The Part That Knows How to Quit
+  OPEN L3: On the Adventure Society campus, Princesses Vesper and Liara were in a conference room with Trenchant Moore and Liara’s teammates, Jana and Ledev. The room’s privacy magic was active.
+  REG L61 [Travis_Noble]: In Book 7 he waits at a Geller country estate with Taika, complaining that most magitech is "heavy on the tech and light on the magic".
+## B7 Ch45 Bad Apples
+  OPEN L3: Jason made his way through the basement levels of the Adventure Society complex until he reached the restricted areas. From there, he was escorted to the Builder-response unit’s area, a series of securely sealed rooms surrounded by powerful
+  REG L54 [NPC_Rosters_by_Era]: **Storm Kingdom**: Soramir, Zara Rimaros, Liara Rimaros, Pelli, Argy, Kasper Irios.
+## B7 Ch46 Idiot Plan
+  OPEN L3: Farrah and Rufus watched Jason slump into the cloud house like a beaten dog. He didn't even use the doors, the walls opening in front of him and closing behind as he trudged in a straight line. They shared a look and got up, using the actua
+## B7 Ch47 The Days They Sing Songs About
+  OPEN L3: Trenchant returned to Soramir’s balcony lounge after escorting Farrah away and found the diamond-ranker mid-conversation with Princess Liara. He stood at attention, remaining quiet.
+  REG L54 [Korinne_Pescos]: Leader of the guild team in the mixed-force expedition: "The leader of the guild team, Korinne, moved to them". She tells her angry team member Kalif 
+  REG L54 [NPC_Rosters_by_Era]: **Adventurers**: Korinne Pescos, Estella Warnock.
+  REG L59 [Korinne_Pescos]: Leader of the guild team in the mixed-force expedition: "The leader of the guild team, Korinne, moved to them". She tells her angry team member Kalif 
+## B7 Ch48 The Source of the Madness
+  OPEN L3: Jason knew from his map that the expedition had been portalled to somewhere in the north of Colombia, which in this world was in the southwest of the Storm Kingdom. They headed south, on the same wide, well-maintained roads Jason had travel
+  CUE L7: ...team were in the earliest part of silver rank, but Jason had met Orin just days earlier when he’d been at the peak of bronze. Orin was one of Kaspe...
+  REG L16 [Korinne_Pescos]: She relays orders efficiently once her training kicks in, with no sign of the unruliness she had shown earlier.
+## B7 Ch49 A Fair Fight
+  OPEN L3: Jason looked at the vessels of the Builder arrayed in front of him. Yet again, the Builder was pushing the boundaries of his agreement with the other great astral beings, reinforcing their unreliability. It reminded him all over again that 
+## B7 Ch50 Put the Mask Back On
+  OPEN L3: Inside the magma tunnels of the astral space, Jason was facing off with five cultists, four of whom had suppression collars courtesy of Jason and Shade’s surprise attack. The lack of powers rendered them effectively non-threats, but Jason w
+  REG L8 [The_Builders_Door_and_Fundament_Gate]: **Consequences**: Jason used the Builder's door when he flooded himself with magic and later "accidentally trashed it for parts"; "the magic of the Bu
+  REG L51 [Korinne_Pescos]: She defends Jason to others: "he's our asshole, and we don't turn on our own assholes".
+## B7 Ch51 I Don’t Think You’re Angry
+  OPEN L3: “I still say we should have fished whatever that thing was out of that fire lake,” one of the guild team members said.
+  CUE L76: ...“When you came stumbling into my tent, those years ago,” Zara said finally, “I never imagined we’d end up here.”...
+  CUE L90: ...“This isn’t three years ago, Asano,” she said coldly, “and this isn’t some provincial b...
+  CUE L16: ...r. “They capture prey and carry it around with them, keeping it alive for days before eating it. Never seen a black one before.”...
+## B7 Ch52 Staying with Friends
+  OPEN L3: Autumn Leal was tired. In the course of what she had thought was an ordinary delivery run, she had been ambushed by a team of Purity loyalists. Outnumbered and outmatched, she had thought she was done for until the guild team she hadn’t kno
+  CUE L3: ...Autumn Leal was tired. In the course of what she had thought was a...
+  CUE L51: ...the cool, sapphire blue of the three Rimaros royals. She wore a white summer dress with embellishments of yellow and orange. The dress s...
+  REG L66 [Leonids]: **Mixed company**: a leonid, an elf and a celestine are among the eleven people who emerge from Dawn's cottage in Book 7.
+  REG L66 [Outworlders]: **Arrivals**: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders among the eleven people in Dawn's cottage are bronze rank.
+## B7 Ch53 Meanwhile, Two Weeks Ago in Vitesse
+  OPEN L3: Jason was disembarking from the airship that had just returned his expedition to Rimaros. He was moving with the group across the open-sided walkway stretching from the docking cradle to the port tower when he froze on the spot.
+  CUE L75: ...rts. “I see you’ve been enjoying your time in the tropics. Meanwhile, two weeks ago in Vitesse, we were working our butts off to get you back w...
+## B7 Ch54 Hegemon’s Will
+  OPEN L3: As Belinda left Jason on the balcony of the cloud house, Humphrey came out to take her place, leaning against the railing next to Jason. Jason flashed him a smile before turning his gaze back out over the lagoon, shimmering with the light o
+  REG L87 [Dawn]: Her true body is a celestine with ruby eyes and hair .
+  REG L87 [Celestines]: **Dawn's true form**: a celestine with ruby eyes and hair.
+  REG L87 [Spoiler_Management]: **Dawn's role**: the World-Phoenix's First Servant is its primary vessel; her true body is a celestine with ruby eyes. Level 1-2.
+## B7 Ch55 A Story About a Magic Trowel
+  OPEN L3: Jason and Farrah sat on the balcony of his cloud house in the morning sun. As Taika and Travis came from inside, chairs made of cloud stuff rose from the floor.
+  CUE L28: ...for a long time,” Jason said. “I am going to open a path, but it will be years before it’s ready to use. I’m sorry, Taika. I know you didn’t want...
+  REG L64 [Landemere_Vane]: Clive explains in Book 7 that Landemere's summoning went wrong, possibly because he reached beyond his ability or a dimensional event interfered.
+## B7 Ch56 What It Sent Us
+  OPEN L3: Happy with his service to date, Soramir had Trenchant Moore assigned full-time to assist Liara and himself. While Trenchant could and would also assist Vesper, she remained a silver-ranker and could not be given authority over a gold, even 
+  CUE L71: ...onster surge duty. Neil and Belinda grumbled about going back to work the day after they arrived, but Humphrey gave a speech. He talked on and ...
+## B7 Ch57 I Am Not Jason Asano
+  OPEN L3: Jason and his team arrived back at the cloud house, exhausted in ways no stamina potion could fix after two weeks on the road. There were some kinds of tired only rest could fix, however potent your potion supply was. The monster surge was 
+  CUE L10: ...Only Jason had been through anything like that intensity in the years since. Even the diligent Humphrey was showing his weariness. Desp...
+## B7 Ch58 That Powerful and That Old
+  OPEN L3: Liara, Vesper and the thus-far silent Trenchant Moore were sitting across from Jason and his team in an Adventure Society conference room. Liara tapped a folder on the table in front of her.
+  REG L38 [Sophie_Wexler]: Book 7 : Jason learns that her mother leads the Order of Redeeming Light in Rimaros .
+  REG L38 [Melody_Jain]: "The leader of the enclave" of the Order with Sendira as second in command; she wants to lure her daughter to Rimaros.
+## B7 Ch59 One Battle at a Time
+  OPEN L3: Jason took the sound recording crystal out of the projector, stopping the music. He then returned the projector to his inventory. Vesper stood on the other side of the large, wooden-floored room, looking slightly flushed. She had her back t
+  CUE L124: ...system. You should have received reports when it started moving south several weeks ago.”...
+  CUE L129: ...fallen,” the king said, his earlier joviality gone. “We received word several days ago.”...
+  REG L81 [Tone_and_Voice]: **Humour does not cancel stakes**: Jason jokes about kneeling to the Storm King and then answers a threat of execution flatly: "Die on my feet".
+## B7 Ch60 No One Telling Me I Can’t
+  OPEN L3: Jason and Dawn walked towards each other until they were face to face.
+  REG L26 [Great_Astral_Beings]: Soramir tells Jason that the Hierophant is allowed to intervene in the world a single time.
+  REG L27 [Dawn]: One intervention : the Hierophant is allowed to intervene in Pallimustus a single time (Soramir to Jason, Book 7); in Book 7 she says she will use one
+  REG L27 [Dawn]: One intervention : the Hierophant is allowed to intervene in Pallimustus a single time (Soramir to Jason, Book 7); in Book 7 she says she will use one
+  REG L27 [Soramir]: Explains that the Hierophant is allowed to intervene in the world a single time.
+  REG L27 [Religion_in_Practice]: **The Hierophant**: the Hierophant of the World-Phoenix is allowed to intervene in Pallimustus a single time.
+  REG L27 [Great_Astral_Beings]: Dawn is the World-Phoenix's hierophant; Soramir tells Jason (
+## B7 Ch61 A Lot More Steps
+  OPEN L3: “Travis is supervising the construction now,” Clive said, shortly after arriving at the cloud house with Gary. They joined the rest of their teams, minus Jason, in getting ready to head for the Adventure Society. Farrah, Gary and Rufus woul
+## B7 Ch62 A Normal Man
+  OPEN L3: The office door of Havi Estos burst open to admit Havi’s stumbling, flustered great-nephew. Havi looked up unhappily from the accounting papers he had been concentrating on.
+  CUE L41: ...the city is preparing for war with the Builder cult who were around a few years ago.”...
+  CUE L43: ...“A few weeks ago, Havi Estos hired me to poke around Asano’s aura.”...
+  REG L41 [Estella_Warnock]: In Book 7 she waits on a roof in a small town, failing to concentrate on a book while a monster manifestation is expected; she tells a contact she wou
+  REG L79 [Estella_Warnock]: In Book 7 she waits on a roof in a small town, failing to concentrate on a book while a monster manifestation is expected; she tells a contact she wou
+  REG L79 [NPC_Rosters_by_Era]: **Adventurers**: Korinne Pescos, Estella Warnock.
+## B7 Ch63 This One Time
+  OPEN L3: The lumbering figure was only passingly humanoid, its massive body embedded with coral that jutted from its flesh like spiked armour. It was still some way offshore, yet the sea only reached up to the giant's thighs. What was above the surf
+## B7 Ch64 Between Mortal and Something Else
+  OPEN L3: Battle raged over the waters of the Storm Kingdom's northwestern reaches. The Builder’s underwater city had surfaced for battle, disgorging airships to meet those from Rimaros in the skies above. Many adventurers were not even in airships, 
+  CUE L39: ...o the origin of infinity. From the fires of creation were you born in the days before days, and from the fire shall you come again. The birth of ...
+## B7 Ch65 Stand at the Front
+  OPEN L3: The royal family of the Storm Kingdom was extensive. Every combat-trained member of silver-rank or above was gathered in a ballroom in the royal palace, one of the few rooms large enough to hold them all. From Zara and Vesper to Soramir and
+  CUE L56: ... and shrank as he used it to protect Farrah, the way he had failed to do years ago when she died. He let out all his pent-up rage, his leonid ...
+## B7 Ch66 The End of the World
+  OPEN L3: Some of the neighbourhood kids watched from across the river as Rufus and Jason sparred. Stripped down to plain pants, they matched their swordsmanship furiously until even their silver-rank endurance was spent. The children observed with f
+  CUE L27: ...It had been a month since what was variously being called the War of Four Cities or t...
+  CUE L55: ...A month after the Builder’s cities in the Storm Kingdom were destroyed, t...
+  REG L27 [Era_Selection]: **Live dangers**: a hundred and nineteen outworlders appear at once; the One Day War, after which "It had been a month"; the Order of Redeeming Light 

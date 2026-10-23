@@ -1,0 +1,111 @@
+R0103 [Book 1] verified B1 Ch20 L42-42
+   CL: ...The Adventure Society keeps a list of  restricted  essences that pose an inherent threat to ordinary people, with Death at the top ;
+   SRC: “On top of everything else,” Rufus said, “the Adventure Society has a list of restricted essences that pose an inherent threat to ordinary people.”
+R0104 [notes, Book 1] verified B1 Ch20 L19-23
+   CL: ...Undeath (Blood + Death + anything) and Succubus are restricted combinations .
+   SRC: “That’s right,” Rufus said. “More or less. Some confluence essences are produced by a wide variety of combinations. The death essence has a nasty habit of producing the confluence essence undeath. There are many combinations that produce it, almost all of whic | �
+R0105 [Book 2] verified B2 Ch65 L96-96
+   CL: ...Society representatives offer good trades for restricted essences to take them off the market: Sophie trades a death essence for two epic awakening stones .
+   SRC: Aside from the legendary awakening stones, her strongest acquisitions were a pair of epic awakening stones of the moment. Adventure Society representatives were offering good trades for restricted essences to take them out of the market and Sophie had traded a
+R0106 [Book 9] verified B9 Ch33 L15-15
+   CL: ...Dragon  (Humphrey, Book 1): Humphrey and Taika share the Might and Wing essences, which lead to a confluence based on a mythical creature ;
+   SRC: Taika’s human abilities had been replaced with outworlder ones, but Jason had never sat down and taken a good look. He’d shared his party interface and let Rufus and Farrah manage his training and advancement, as they were both better teachers than Jason. Taik
+R0107 [Book 2] verified B2 Ch5 L82-87
+   CL: ...Emir's is Staff + Might + Magic, and Sophie's is Swift + Balance + Wind: Rufus asks what that combination produces and Clive answers "Mystic" .
+   SRC: “What confluence essence does the swift, balance and wind combination produce?” Rufus asked. | “Mystic,” Clive said, not bothering to look it up. “If you wanted something more aggressive, you could swap out balance for a might essence it would produce the onslau
+R0108 [Book 2] verified B2 Ch5 L83-84
+   CL: ...Clive adds that swapping Balance for Might gives Onslaught .
+   SRC: “Mystic,” Clive said, not bothering to look it up. “If you wanted something more aggressive, you could swap out balance for a might essence it would produce the onslaught confluence.” | “Not a good idea,” Rufus said. “Onslaught is best for humans with all th
+R0109 [Book 2] partial B2 Ch71 L49-54
+   CL: ...Belinda's three essences are Magic, Trap and Adept .
+   SRC: As they awakened Belinda’s powers one by one, her abilities fell broadly into three categories. As expected, her trap essence produced area control powers. One was an ability Clive had from the rune essence, called rune trap. Another conjured a dimensional-spa | From th
+R0110 [Book 2: "Clive has the magic, rune, balance and karmic essences"] verified B2 Ch28 L56-56
+   CL: ...Clive's Karmic confluence comes from Magic, Rune and Balance .
+   SRC: “Clive has the magic, rune, balance and karmic essences. Unlike most humans, his focus is on spells. He can use magical weapons like staves and wands and works with his familiar to output reliable ranged damage. He also has some utility powers, trap magic and 
+R0111 [Book 2] verified B2 Ch5 L83-84
+   CL: ...Onslaught : Clive notes that swapping Balance for Might in a Mystic combination produces it ;
+   SRC: “Mystic,” Clive said, not bothering to look it up. “If you wanted something more aggressive, you could swap out balance for a might essence it would produce the onslaught confluence.” | “Not a good idea,” Rufus said. “Onslaught is best for humans with all th
+R0112 [Book 13] verified B13 Ch999 L3-5
+   CL: ...Thalia Mercer's Onslaught essence informs both her powers and her inclinations .
+   SRC: Stealth didn’t come naturally to Thalia Mercer. Her Onslaught essence informed not just her power set but her inclinations in life, although her life had been strange for a long time. She hadn’t seen her daughter in years. Or, more precisely, Cassandra hadn’t  | “
+R0113 [Book 3] verified B3 Ch1 L90-90
+   CL: ...Master : Valdis's sword, swift and adept ;
+   SRC: Lance, Padma’s team leader, was an elf. His essences, which were sword, myriad and adept, also produced the master confluence. He possessed the elven aptitude for spells, rather than the special attacks in which humans specialised, resulting in a wholly differ
+R0114 [notes, Book 5] verified B5 Ch14 L61-66
+   CL: ...Akari's sword, adept and magic ;
+   SRC: Akari was a swordmaster, in the vein Jason was familiar with from the other world. She had the ubiquitous combination amongst such essence users of the sword and adept essences, in her case matching it with the magic essence to produce the master confluence. F | The advan
+R0115 [Book 4] verified B4 Ch41 L6-8
+   CL: ...Woolzy's swift foot and knife .
+   SRC: The last scout, Woolzy, was a fast-moving melee striker with the swift foot and knife essences combining to form the master confluence. Of all the team, he was the most adventurer-like in his tactics, using bursts of staccato movement to set up assassination-s | Woolzy’
+R0116 [Book 10] verified B10 Ch86 L59-59
+   CL: ...Spoilers: the  Cup of Heroes  is a miracle of Hero that someone drinks when pushed to the brink;
+   SRC: You have drunk from the Cup of Heroes.
+R0117 [Book 5] verified B5 Ch25 L26-27
+   CL: ...A person cannot advance further until all attributes have reached the next rank .
+   SRC: Ability [Cloak of Night] (Dark) cannot advance further until all attributes have reached silver rank. | Looking over his upgraded ability, Jason noted that the wording had changed from earlier iterations of the ability. Partly that was due to mana costs for lower-rank eff
+R0118 [Book 1] partial B1 Ch31 L98-105
+   CL: ...Some core users still reach gold (the gold-rank director Musin Heath is one, notes Book 10), but most do not .
+   SRC: “No,” Rufus said. “I said there were two ways of raising your abilities. Every time you use a monster core to raise your abilities, it makes the other method a little less effective. The impact is minimal, at first, but every core you use eats into your potent | “
+R0119 [Book 1] verified B1 Ch22 L55-60
+   CL: ...Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laughable .
+   SRC: “Diamond rank essence users are the peak of mortal power,” Rufus explained. “The Adventure Society likes to keep two or three in the biggest cities, in case a diamond rank monster shows up. That rarely happens, though, so they largely go unseen. When you’re th | �
+R0120 [Book 1] verified B1 Ch22 L55-60
+   CL: ...Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laughable .
+   SRC: “Diamond rank essence users are the peak of mortal power,” Rufus explained. “The Adventure Society likes to keep two or three in the biggest cities, in case a diamond rank monster shows up. That rarely happens, though, so they largely go unseen. When you’re th | �
+R0121 [Book 5] verified B5 Ch25 L26-27
+   CL: ...To rank up a person must have all attributes at the next rank .
+   SRC: Ability [Cloak of Night] (Dark) cannot advance further until all attributes have reached silver rank. | Looking over his upgraded ability, Jason noted that the wording had changed from earlier iterations of the ability. Partly that was due to mana costs for lower-rank eff
+R0122 [Book 1] partial B13 Ch1001 L9-9
+   CL: ...Core-users stall by silver , and the Quilido Procedure, which removes the taint of monster cores, is said to unlock silver-stuck veterans on Earth .
+   SRC: Another clan asset that changed the way Earth handled essence users was the Quilido Procedure, a means of eliminating the taint of monster cores from an essence user. It was a slow and resource-intensive process, but it could unlock the potential of an essence
+R0123 [notes, Book 13] verified B13 Ch1001 L9-9
+   CL: ...Core-users stall by silver , and the Quilido Procedure, which removes the taint of monster cores, is said to unlock silver-stuck veterans on Earth .
+   SRC: Another clan asset that changed the way Earth handled essence users was the Quilido Procedure, a means of eliminating the taint of monster cores from an essence user. It was a slow and resource-intensive process, but it could unlock the potential of an essence
+R0124 [Book 13] partial B13 Ch1001 L8-10
+   CL: ...Cure : the Quilido Procedure removes the taint of monster cores from an essence user; it is slow and resource-intensive .
+   SRC: It was the threat of military obsolescence that ultimately convinced the major powers to participate in the EDJI. It began with Asano Clan domination of the essence user landscape. They had a whole generation trained by Rufus Remore, bolstered by the arrival o | Another c
+R0125 [Book 13] partial B13 Ch952 L74-74
+   CL: ...Jason also mentions a relic fought over on Pallimustus that could purge residual monster cores .
+   SRC: “That’s a tough one, I’ll grant you. But as I said, nothing is impossible. Right now, there’s a war going on in the other world. It’s over a relic that I’m told can, amongst many other things, purge the residual monster cores from people. Give them a fresh cha
+R0126 [Book 1's assessment involves trap weavers] partial B1 Ch61 L22-22
+   CL: ...Field assessments : a candidate joining the Society is tested in the field by an adventurer .
+   SRC: “But they had to pass the field assessment, right?”
+R0127 [notes, Book 2] verified B2 Ch25 L53-53
+   CL: ...n hour and a gold-rank healer can reverse death in that grace period ; by Book 9 Neil says it has been harder for a few years and, even at gold rank, allows only minutes.
+   SRC: "It's about how death works," Clive said. "When the soul dies, it only lingers with the body for a small time. Usually minutes, but an annihilated body might have the soul depart in seconds, while freezing to death might have it linger for an hour or even long
+R0128 [Book 2] verified B2 Ch70 L34-42
+   CL: ...Crests : a soul crest is a magical tattoo printed on the soul, which appears on the body ; it lets a person be identified without relying on the aura .
+   SRC: An object that allows the soul to mark the body (consumable, tattoo). | Effect: When applied by a mystical tattooist, this item will draw out a soul crest. This item can only be used on an iron rank essence user.
+R0129 [notes, Book 3] partial B3 Ch29 L86-86
+   CL: ...Crests : a soul crest is a magical tattoo printed on the soul, which appears on the body ; it lets a person be identified without relying on the aura .
+   SRC: “Yes, your soul is almost unrecognisable from when we first met. Actual, aura-changing events are rare and you’ve had three in a series of months. It’s probably for the best that you have that personal crest, because between the changes and your anti-tracking 
+R0130 [Book 6] verified B6 Ch14 L80-82
+   CL: ...Sophie's Eternal Moment) can only go forward; the Keeper of Moments cannot affect the past .
+   SRC: “Only forwards,” Shade said. “Time can be sped up or slowed down. One can move forwards, vanishing and then reappearing at some point in the future. Affecting the past, however, is impossible. Even the Keeper of Moments, the great astral being that governs tim | “
+R0131 [Books 5-6] partial B5 Ch54 L43-47
+   CL: ...Earth's magic did not support monsters until the Grid failed ; transformation zones change cities and their people into other races .
+   SRC: The first node Jason successfully identified and repaired, right before fighting the gold-ranker, turned out to be one of the ones they needed to find. The process wasn’t always reliable. The nodes in the USA and Myanmar were false positives that didn’t need r | As th
+R0132 [Books 5-6] partial B6 Ch47 L3-5
+   CL: ...Earth's magic did not support monsters until the Grid failed ; transformation zones change cities and their people into other races .
+   SRC: Like the region in Slovakia, the former city of Saint-Étienne had been reshaped after emerging from the transformation zone as it became a spirit domain for Jason. This one was larger, encompassing most of the city aside from a few ruined remnants on the outsk | Jason’
+R0133 [Books 5, 6, 11] partial B5 Ch54 L43-47
+   CL: ...Earth's magic did not support monsters until the Grid failed ; transformation zones change cities and their people into other races .
+   SRC: The first node Jason successfully identified and repaired, right before fighting the gold-ranker, turned out to be one of the ones they needed to find. The process wasn’t always reliable. The nodes in the USA and Myanmar were false positives that didn’t need r | As th
+R0134 [Books 5, 6, 11] partial B6 Ch1 L20-20
+   CL: ...Earth's magic did not support monsters until the Grid failed ; transformation zones change cities and their people into other races .
+   SRC: Jason was not the only one changed by node space. The level of magic rose as Earth grew more unstable, and with it, the node space leaked dimensional energy, creating the transformation zones. This was the source of the reality cores, which were common in node
+R0135 [Books 5, 6, 11] partial B11 Ch1 L16-21
+   CL: ...Earth's magic did not support monsters until the Grid failed ; transformation zones change cities and their people into other races .
+   SRC: In the second transformation zone, Jason possessed the power to reshape it from the beginning. In doing so, he had caused a fundamental change on Earth. The base level of magic had risen; magic no longer manifested in proto-astral spaces before spilling into t | The third
+R0136 [Book 11] partial B11 Ch1 L45-45
+   CL: ...The System arrives and spreads Jason's interface to all essence-users.
+   SRC: The influence of the [Nascent ??? Intervention] on the special transformation zone has established an interface available to all inhabitants.
+R0137 [Book 9] partial B9 Ch77 L3-6
+   CL: ...Messengers appear in force at Yaresh .
+   SRC: One building on the Adventure Society campus of Yaresh was older than all of the others. It had been the entire headquarters for the Adventure Society in the early days of the city, and the defensive measures built into it were formidable. As Yaresh grew, and  | Zolit was
+R0138 [Book 13] verified B13 Ch1001 L9-9
+   CL: ...Earth's advancement research (the Quilido Procedure) offers a way to clear core taint ;
+   SRC: Another clan asset that changed the way Earth handled essence users was the Quilido Procedure, a means of eliminating the taint of monster cores from an essence user. It was a slow and resource-intensive process, but it could unlock the potential of an essence
+R0139 [notes, Book 13] verified B13 Ch980 L93-93
+   CL: ...Bussinger's Tribulation Lightning purges her own afflictions by harming her .
+   SRC: “That power of yours. Tribulation Lightning. It hurts you, but it also purges anything affecting you, right?”

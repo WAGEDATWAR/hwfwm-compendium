@@ -1,0 +1,28 @@
+from repl import rep
+E_="05_Organisations/Earth_Powers.md"
+rep(E_,[
+("**Origins** (Craig Vermillion, Book 4, confirmed)","**Origins** (Craig Vermillion, Book 4, Ch11 L4)"),
+("\"was a rune spider, originally\")","\"was a rune spider, originally\", Book 5, Ch40 L79-83)") if False else ("(North says in Book 5 that he \"was a rune spider, originally\")","(North says in Book 5 that he \"was a rune spider, originally\", Book 5, Ch40 L79)"),
+("zero to five match the ranks on Pallimustus (Vermillion, Book 4, confirmed)","zero to five match the ranks on Pallimustus (Vermillion, Book 4, Ch11 L8, L19)"),
+("**Going public** (Book 5, confirmed)","**Going public** (Book 5, Ch17 L7)"),
+("**Fracture** (Books 11-13)","**Fracture** (Book 11, Ch36 L7; Book 12, Ch3 L3-8)"),
+("stays together through the upheavals (Book 12, confirmed)","stays together through the upheavals (Book 12, Ch3 L3-8)"),
+("holds seven reality cores (Book 13, confirmed)","holds seven reality cores (Book 13, Ch975 L8)"),
+("critical to the plan (Book 13)","critical to the plan (Book 13, Ch975 L19-24)"),
+("learned partly from Jason (Book 4)","learned partly from Jason (Book 4, Ch41 L91-97)"),
+("by faking the Grid (Book 4, confirmed)","by faking the Grid (Book 4, Ch51 L30-37)"),
+("since the invention of money\" (Book 4)","since the invention of money\" (Book 4, Ch10 L127)"),
+("entered hibernation (Book 4)","entered hibernation (Book 4, Ch11 L21)"),
+("angelic founders of their collective a myth\" (Book 13)","angelic founders of their collective a myth\" (Book 13, Ch954 L3-6)"),
+("to the second tier (Book 4, confirmed)","to the second tier (Book 4, Ch11 L19; the seventy years is not yet located)"),
+("Sulawesi and Papua (Books 11, confirmed in part)","Sulawesi and Papua (Book 11, Ch42 L59-65)"),
+("**Structure** (Book 5, confirmed)","**Structure** (Book 5, Ch8 L14-18)"),
+("about the necromancer (Book 6, confirmed)","about the necromancer (Book 6, Ch25 L98-99)"),
+("North reports (Book 5)","North reports (Book 5, Ch3 L8-12)"),
+("took up and perfected (Book 13, confirmed)","took up and perfected (Book 13, Ch1017 L39-43)"),
+("then moved on Sydney (Book 4, confirmed)","then moved on Sydney (Book 4, Ch9 L76)"),
+("the Founder's familiar (Books 5, 13, confirmed)","the Founder's familiar (Book 5, Ch40 L79-83; Book 13, Ch1017 L39-40)"),
+("through flesh-shaping essences (Book 11, confirmed)","through flesh-shaping essences (Book 11, Ch36 L8)"),
+("Supernatural Response Taskforce led by Lenora Coleman (Book 13, confirmed)","Supernatural Response Taskforce, in which Lenora Coleman is the designated liaison to Jason (Book 13, Ch989 L48)"),
+("in Book 4 (confirmed)","in Book 4 (Ch10 L116)"),
+])

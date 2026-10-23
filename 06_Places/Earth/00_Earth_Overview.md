@@ -1,0 +1,41 @@
+# Earth Overview
+
+Status: Draft (book text, chapter notes and wiki; tiers marked: "Book N" = checked in the book text, "notes" = chapter notes, "wiki" = fan wiki)
+Spoiler level: 1 for Book 4 material; 2 for Books 5-6; 3 for Books 11-13
+Valid from: Book 4
+Valid through: Book 13 (Earth in 2038)
+Sources: Books 4-6, 11-13
+Related: ../00_Places_Overview.md, ../../01_World_Primer.md, ../../03_Magic_and_Adventuring/Earth_Magic.md, ../../08_History_and_Timeline/Master_Timeline.md
+
+## 1. Summary
+
+Earth is the low-magic twin of Pallimustus. Jason comes from here, returns in Book 4 and again in Books 12-13. The Earth files describe the places where the story happens and the state of the world around them at each stage.
+
+| File | Place | Spoiler level |
+|---|---|---|
+| Casselton_and_Asano_Village.md | Jason's hometown and the family compound | 1 (some Level 3 notes) |
+| Incursion_Sites.md | Dorrigo, Makassar, Broken Hill and other incursion sites | 2 |
+| Nitra.md | Slovakia: the Network's centre and Jason's steampunk domain | 2 (some Level 3 notes) |
+| Saint-Etienne.md | France: the Dimensional Fortress and Jason's cloud city | 2 (some Level 3 notes) |
+| Artefact_Site_One.md | The Australian standing-stone site and the Earth end of the bridge | 3 |
+
+## 2. Earth's condition over the series
+
+- **Book 4 (about eighteen months after Jason left)**: Earth has so little magic that Jason relies on spirit coins to keep his recovery normal (Book 4, Ch3 L87). The Network has by now moved from hiding to scaling up in public view (a Book 4 explanation from Craig Vermillion, Book 4, Ch11 L56: the rising rate of threats forced it to expand beyond a hidden organisation). Monsters appear as incursions in proto-astral spaces, ranked by category (zero to five). A proto-astral space lasts "forty-three hours, as a baseline. Slightly longer with a more powerful ADE, but fifty-one is the record" (Book 4, Ch37 L70).
+- **Book 5**: the Network becomes known to the public as the Global Defense Network in the weeks after the monster waves begin; the Grid fails; transformation events begin (see `../../03_Magic_and_Adventuring/Earth_Magic.md`); Makassar and Broken Hill happen.
+- **Book 6**: transformation zones at Nitra and Saint-Étienne; the vampire war; Jason leaves.
+- **Book 11**: Europe is mostly held by vampires, the Cabal holds some of the UK and Scandinavia and the Network has set up in Greenland (Book 11, Ch42 L40), and Cabal-backed groups have openly joined or ousted governments in Scandinavia, parts of Russia and Africa, Sulawesi and Papua (Book 11, Ch42 L63). The Asano clan lives inside Jason's domains.
+- **Books 12-13 (2038)**: the dimensional artefact site is a fortress-city; Australia has seized Asano Village; the Network is fractured; the bridge to Pallimustus is the central matter.
+
+## 3. The powers on Earth
+
+- **The Network** (known to the public as the Global Defense Network from the early weeks of the monster waves, Book 5, Ch17 L7): a coalition of local organisations using essences, founded about five centuries ago by a gold-rank outworlder, "the Founder", who struck a deal with a Pallimustus god and returned. The founder's familiar Noreth was born on Pallimustus, loved the Earth and worked against Knowledge's plans (Book 13, Ch1017 L24); Boris worked with the familiar to betray the founder to the early magic societies that became the Network (Book 13, Ch954 L9). The claim that the founder and Noreth built the Grid is from earlier notes.
+- **The Cabal**: older vampire-aligned power; Craig Vermillion is its front man in Book 4.
+- **The Engineers of Ascension (EOA)**: a group described in Book 4 as taking over Perth "maybe two years ago", Melbourne "a year after that", and now turning to Sydney (Book 4, Ch6 L78; Book 4, Ch9 L76); its League of Heroes appears at Broken Hill.
+- **Governments**: multinational coalitions fund the artefact site; the Australian government seizes Asano Village in Book 12 (Gordon Truffett, the first to hold the artefact site's director post, is the Australian Prime Minister by Book 12, Book 12, Ch61 L17) and in Book 13 declares it, like the standing stones, a special-interest territory under a multinational organisation.
+- **The Asano clan**: Jason's family on Earth, under matriarch Yumi, living in his domains from Book 11.
+
+## 4. Open questions
+
+- Whether Earth place descriptions should carry real-world coordinates (the books give regional placements only).
+- How Earth's magic levels compare site by site in Books 5-13.

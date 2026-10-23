@@ -1,0 +1,97 @@
+wake || 1 || woke up naked
+hedge || 1 || hedge maze
+phoenix tok || 1-3 || World-Phoenix Token
+two moons || 1-3 || two moons
+landemere || 5-7 || tasted an outworlder|Landemere
+first kill || 6-7 || killed (him|a man|someone)|you have defeated \[Builder
+snake dies || 5-6 || snake.{0,60}(crush|dead|died|buried)
+dark essence abs || 8 || absorbed \[Dark
+midnight eyes || 8 || Midnight Eyes
+captured || 9 || Dougall
+cages || 10-12 || Rufus|Gary|Farrah
+cressida || 11-12 || Cressida
+sanguine rise || 13 || sanguine horror
+horror dead || 16-17 || (killed|defeated|destroyed).{0,40}(sanguine|horror)
+anisa || 16-17 || Anisa
+adv soc rules || 18-19 || Adventure Society
+iron rank || 21-22 || iron rank
+colin summoned || 23 || Colin
+path of shadows ab || 23 || Path of Shadows
+manor left || 24 || left the manor
+quarry village || 25-26 || Quarry Village
+shabs || 26-27 || shab
+colin named || 29-30 || Colin
+anisa fired || 30 || (fire|fired|leave|leaving).{0,50}(Anisa|team)|Anisa.{0,50}(leave|go)
+surge due || 31 || surge
+cores || 31 || monster cores
+notices || 32 || notice
+mistrun || 33 || Mistrun River
+delta || 34 || delta
+feast absolution use || 34 || Feast of Absolution
+greenstone arrive || 35 || Greenstone
+island permit || 36 || permit
+geller est || 37 || Geller
+humphrey || 37-38 || Humphrey
+register ess || 38 || essence
+field assess next || 38 || field (test|assessment)
+hegemony || 39 || Hegemony
+training || 40 || training
+path works || 41 || Path of Shadows
+fortress || 42 || Fortress
+lamprey || 42 || Lamprey
+clive spirit coins || 42 || spirit coin
+sophie nightingale || 43-44 || Nightingale
+temple dist || 45 || temple district
+hero appears || 45 || Hero
+knowledge speaks || 46 || Knowledge
+world-phoenix explained || 46 || Phoenix
+skill book || 49-50 || Way of the Reaper
+magic soc || 49 || Magic Society
+reaper trained || 50 || Reaper
+sophie backstory || 51 || Sophie
+symphony || 53 || symphony
+field assess begins || 54 || (field|assessment)
+rune tortoise || 55-57 || rune tortoise
+two months || 58 || Less than two months
+bark lurker || 57-58 || bark lurker
+trap weavers || 58-59 || trap weaver
+margoll || 59-60 || margoll
+dread salvation || 55-56 || Dread Salvation
+assessment passes || 61 || (passed|pass)
+robe || 62-63 || Trap Weaver Battle Robe|robe
+badge || 62-63 || badge
+geller mirage || 65-67 || mirage chamber
+cassandra met || 66-67 || Cassandra
+clive airboat || 68 || airboat
+dumpling soup || 69-70 || soup
+rat infest || 72 || rat
+humphrey confront || 74 || Humphrey
+dimensional bag || 76 || dimensional bag|Dimensional Bag
+escort || 77-78 || Geller-Seven|Geller Seven
+ustei raid || 80-82 || Ustei|skimmer
+promotion || 83-84 || (two|2) stars?|promot
+fallen comrade || 85 || Fallen Comrade|marsh
+hydra || 87-88 || hydra
+ustei exped || 89-90 || Ustei
+fergax || 92 || fergax
+lumber || 93 || Leust|lumber
+summer || 93 || summer|autumn
+healer judgement || 94-95 || Healer
+dominion || 95-96 || Dominion
+dorgan arcade || 96 || Dorgan|arcade
+exped danielle || 97 || expedition
+three stars || 97 || three stars|third star
+emir mention || 99 || Emir
+troll || 99-100 || tidal troll
+verdict || 100 || Verdict
+emir arrives || 101 || Emir
+sophie ambush || 102-103 || Sophie
+dorgan father || 104-105 || father
+hearing || 107 || (sentenc|hearing|indenture)
+palace hide || 108-109 || palace
+automaton || 110 || (automaton|construct|golem)
+farrah dies || 110 || Farrah
+henry dies || 110 || Henry
+found five || 111 || (Jonah|Thadwick)
+boko || 112-113 || Boko
+farrah died cov || 113 || Farrah died

@@ -1,0 +1,18 @@
+R0158|12|44|98|98|verified|Corruption enquiry at Greenstone; blanket demotion of two- and three-star members; bumped back up afterwards. Book 1 corruption hint at B1 Ch54 L33.
+R0170|0|0|0|0|notes|Landemere's summoning attempt is described in Book 7 as a failed ritual with support; the Clockwork King goal is notes only.
+R0176|9|28|45|45|verified|Gibson Amouz in a containment tank; Carlos prevented his degradation.
+R0184|0|0|0|0|n/a|Duplicate of the Book 12 Ch3 row.
+R0188|13|975|19|24|verified|Using Elizabeth called "the smart choice"; claim reworded in the document.
+R0189|4|41|91|97|verified|Jason tells Nigel the hammer-blow tactics will not hold against the really powerful monsters; claim reworded.
+R0191|4|11|101|101|verified|Vermillion: the Cabal has had a tight grip on old money since the invention of money; three forces at B4 Ch10 L127.
+R0192|4|10|127|127|verified|Three dominant forces in the magical world.
+R0194|0|0|0|0|notes|Elizabeth as leader of ancient vampires is notes only.
+R0195|0|0|0|0|notes|The seventy years is notes only; B4 Ch11 L19 gives tier two.
+R0205|13|982|30|30|verified|Holly Macrossan succeeded Annabeth Tilden at the UN Office of Supernatural Affairs.
+R0214|6|47|125|131|verified|Connections open the door; the Academy gives the skills to walk through it; claim reworded.
+R0218|11|68|1214|1214|verified|"I haven't been deputy director for several years."
+R0222|3|17|60|60|verified|Jason's joke about complaining to the Artifice Association.
+R0228|12|5|99|99|verified|Vice Chancellor Grantham stands in during Clive's absence and has a portal network project.
+R0293|12|40|69|69|verified|Anna: "my brief tenure as liaison here"; Asano clan liaison also B6 Ch47 L16-18.
+R0295|13|988|53|54|verified|Anna recommended Holly as her UN successor.
+R0227|3|69|455|455|verified|Lorelei Grantham introduced as a researcher assigned to the Continental Council; the Book 6 Rakesh part is still unlocated.

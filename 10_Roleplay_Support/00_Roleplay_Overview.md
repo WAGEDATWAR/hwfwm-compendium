@@ -1,0 +1,25 @@
+# Roleplay Support: Overview
+
+Status: Draft (book text; facts carry a reference "Book N, ChX LY" to Source_Text; "notes" marks chapter-summary-only facts)
+Spoiler level: 0
+Valid from: Book 1
+Valid through: Book 13
+Sources: Books 1-13 (chapter files); this folder uses the compendium's own documents for detail
+Related: Era_Selection.md, Spoiler_Management.md, Plot_Hooks.md, NPC_Rosters_by_Era.md, Tone_and_Voice.md, ../01_World_Primer.md, ../08_History_and_Timeline/Master_Timeline.md, ../00_Project_Structure.md
+
+## 1. Summary
+
+How to pick a period to play in and how to keep later-book knowledge out of earlier scenes.
+
+## 2. Facts
+
+- **Pick the era first** (`Era_Selection.md`): it fixes the calendar, the rank scale, who is present and what dangers are live. The calendar anchors are in `../08_History_and_Timeline/Master_Timeline.md`.
+- **Then pick the spoiler level** (`Spoiler_Management.md`): level 0 for public setting, 1 for Books 1-3, 2 for Books 4-9, 3 for Books 10-13 and the ending (`../00_Project_Structure.md`, section 6).
+- **Use the character and place files**, each of which states when a fact starts being true and cites chapter lines; do not give a character knowledge from a later level.
+- **Treat the books as the authority**: where a document says "notes" or "wiki", that fact is not yet confirmed in the book text.
+- **Hooks and rosters**: `Plot_Hooks.md` lists cited open situations by era; `NPC_Rosters_by_Era.md` lists who can appear in each era.
+- **Voice**: `Tone_and_Voice.md` gives the register, forms of address and a cued voice note for each main speaker; the main character files carry a condensed "Voice" line.
+
+## 3. Using this in a story
+
+Start from the era table, then check each character's "valid from" book before you let them appear.

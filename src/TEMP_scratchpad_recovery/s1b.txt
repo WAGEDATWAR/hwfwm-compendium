@@ -1,0 +1,124 @@
+landemere dead || 6-7 || Landemere.{0,80}(dead|corpse|body)
+well collapse || 5 || (collapse|crumbled)
+horror killed || 15-17 || You have defeated \[Sanguine
+iron reached || 21-22 || (advance|reached|ascend).{0,30}iron|iron rank\b.{0,20}(reached|achieved)|Rank up
+summon colin || 23 || Sanguine Horror\]
+calendar || 22 || equinoxes
+shab 17 || 26-27 || seventeen|17 shab
+village name || 25 || Quarry Village
+mayor ask || 31 || astral space
+delta mist || 33 || Mistrun
+ch33 sky river || 33 || aqueduct
+duke || 36 || Duke
+coins rate || 35-36 || hundred lesser|100 lesser
+jory || 35 || Jory
+danielle thirty || 37 || Danielle
+reg essences || 38 || (restricted|affliction specialist)
+cure cancer || 39-40 || cancer
+fortress big three || 42 || (Ventress|Silva|Dorgan)
+unreg coins || 42 || (unregistered|embossed|embossing|PRODUCT)
+sophie one essence || 43-44 || Sophie
+hero || 45 || kneel
+knowledge voice || 45 || first
+return home || 46 || (return|go home)
+gabriel remore || 49 || (father|Gabriel)
+skill book found || 49 || book
+ch50 keanu || 50 || (Keanu|text|words)
+field assessment 17 || 54 || (seventeen|17)
+vincent || 54 || Vincent
+phoenix keep || 58-61 || (token|Phoenix)
+trade hall || 61 || Trade Hall|trade hall
+jory invest || 61-62 || (gold coin|investment|invest)
+berts || 62-63 || Bert
+robe buy || 63-64 || (Battle Robe|robe)
+recording family || 63-64 || (family|record)
+kaito girlfriend || 63-64 || (girlfriend|brother)
+badge star || 62 || star
+elspeth || 65 || Elspeth
+cassandra || 65 || Cassandra
+rick geller || 66 || Rick
+clive eel || 68 || eel
+cosmos || 69 || (dumpling|astral)
+snatcher || 69-70 || snatcher
+thief contract || 70-71 || thie(f|ves)
+stone-chewer || 71-72 || stone-chewer
+rat gorger || 72-73 || gorger
+wrath stone || 73 || Wrath
+colin lore || 75 || (Colin|bond)
+dimensional bag buy || 76 || Dimensional Bag
+sand-cutter || 76 || sand-cutter|Sand-Cutter
+mario kart || 77 || Mario
+escort assigned || 77 || escort
+thadwick storms || 77-78 || Thadwick
+punition || 79 || Punition
+sand shab || 78-79 || shab
+ustei attack || 80-82 || (sand skimmers|Ustei)
+barge || 82-83 || barge
+hearing panel || 83 || (panel|Genevieve)
+two stars || 84 || (two stars|second star)
+heist trap || 85 || (Vordis|trap)
+fallen comrade contract || 85 || (comrade|remains)
+complex found || 85-86 || (complex|green stone|brick)
+dummies || 86 || dumm
+hydra heads || 87 || (five|heads)
+clive racial || 88 || (Celestial Book|racial)
+transfigur || 88 || (transfigur|Hero's Drive)
+reaper boxes || 88-90 || (Form|boxes)
+humphrey spartoi || 89-90 || Spartoi
+blade of doom || 89-90 || Blade of Doom
+cassandra night || 89 || (breakfast|night)
+expedition 40 || 89 || (forty|teams)
+ephraim || 90-92 || Ephraim
+ustei surrender || 90-91 || surrender
+picnic || 91 || picnic
+ustei north || 92 || (north|east)
+lindover || 92-93 || Lindover
+dean || 93 || Dean
+jerrick || 94 || Jerrick
+healer appears || 94 || (Healer appeared|appeared)
+neil davone || 94 || Neil
+dominion takes || 95 || (belong to me|power-seekers)
+healer seals || 95 || seal
+arcade fight || 96 || (Dink|fight)
+danielle expedition || 97 || (Danielle|expedition)
+thalia || 97 || Thalia
+duke brother || 97 || brother
+barbecue || 97-98 || barbecue
+three star promo || 98 || (three|third)
+judgement stone || 98 || Judgement
+emir mentor || 99 || Emir
+troll fight || 100 || troll
+troll loot || 100 || (Gauntlet|Necklace)
+astral exped || 100 || lagoon
+service contract || 100 || contract
+thefts 17 || 100 || (seventeen|17)
+sump coil || 100 || sump
+exped boko || 101 || (Boko|Hester)
+cloud ship || 101 || (cloud|palace)
+constance || 101 || Constance
+vault || 101 || vault
+fake shipment || 102 || (shipment|tilting)
+sophie fight || 103 || (fight|style)
+sophie cured || 105 || (cured|Jory)
+belinda caught || 104 || Belinda
+dorgan arella || 104 || Arella
+silva || 105 || Silva
+guy spalding || 105 || Spalding
+exped network || 105 || (column|node)
+hearing today || 107 || hearing
+albert release || 107 || (bracelet|release)
+sham court || 108 || (court|advocate)
+palace hide2 || 108 || (Sophie|Belinda)
+emir favour || 108-109 || (Vitesse|favour)
+arella vincent || 109 || (fire|fired)
+ambush || 110 || (ambush|puppets)
+rufus arm || 110 || arm
+gary ribs || 110 || ribs
+thadwick flees || 110 || (flee|fled)
+rescue 19 || 111 || (nineteen|19)
+star spikes || 111 || (spike|crystal)
+phael || 111-112 || Phael
+gary ritual || 112 || (ritual|circle)
+rufus guilt || 112 || guilt
+council inquiry || 113 || (Council|inquiry)
+emir event || 113 || (event|iron-rank)

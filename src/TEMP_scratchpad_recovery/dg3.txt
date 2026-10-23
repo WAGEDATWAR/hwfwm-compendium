@@ -1,0 +1,263 @@
+## B3 Ch1 A Question You Don’t Yet Know to Ask
+  OPEN L3: Jason Asano and his team of fellow adventurers were living in a houseboat literally made of clouds. At a marina in the city of Greenstone, it was moored amidst the pleasure craft of Greenstone’s wealthy and aristocratic elite. The cloud hou
+  CUE L14: ...ooking over the meticulous notes he had taken on the team’s training. Winter was pleasant in Greenstone, with mild temperatures and less...
+  REG L14 [Era_Selection]: **Calendar**: the book opens in a mild Greenstone winter.
+  REG L89 [Magic_and_Adventuring]: Valdis's sword, swift and adept (
+  REG L90 [Magic_and_Adventuring]: Master : Valdis's sword, swift and adept ;
+  REG L90 [Elves]: **Aptitude**: the elven aptitude is for spells rather than the special attacks humans favour.
+  REG L105 [Era_Selection]: **Live dangers**: the church of Purity under an ecumenical inquiry; star seeds, implanted through the cult; energy ghouls.
+  REG L105 [Plot_Hooks]: **Purity under inquiry**: an ecumenical council investigates the church of Purity.
+## B3 Ch2 Looking Forward
+  OPEN L3: In the clinic waiting room, Jason chatted with Jory’s assistant, Janice, until Jory emerged with a patient from the treatment rooms in the back.
+  CUE L62: ...y went and did it,” Gilbert said. “All my cloth essence abilities hit bronze years ago but I was resistant to more essences for a long time. Never...
+  CUE L105: ...l and it falls to more powerful people than us to stop it. About half a year ago, however, I ran across one of those cultists and he tried t...
+  CUE L17: ...e a long way,” Jory said, following Jason’s gaze. “It was only in the summer that you were hopelessly lost, madly training in a dirty ba...
+  REG L59 [Gilbert_Bertinelli]: In Book 3 he has reached iron rank late, having kept all his cloth essence abilities at bronze, and shows Jason a winter wardrobe "largely in the Vite
+  REG L59 [Jason_Asano]: from Book 3 he buys a Vitesse-style wardrobe from the tailor Gilbert Bertinelli (
+  REG L64 [Jason_Asano]: Clothing : from Book 3 he buys a Vitesse-style wardrobe from the tailor Gilbert Bertinelli .
+  REG L64 [Gilbert_Bertinelli]: In Book 3 he has reached iron rank late, having kept all his cloth essence abilities at bronze, and shows Jason a winter wardrobe "largely in the Vite
+## B3 Ch3 Adventurers Are People Too
+  OPEN L3: Jason rode the elevating platform up through the Adventure Society administration building, arriving on the fifth floor. There was a new reception desk, installed as part of the changes implemented by the inquiry team. Behind the desk was a
+## B3 Ch4 Valkyrie
+  OPEN L3: Valdis wildly fended off Humphrey’s attacks. Behind him, Sigrid desperately healed their team members. Even using his smaller sword, Humphrey couldn’t match Valdis’s speed but his strength was overwhelming. Valdis was more of a highly mobil
+  REG L28 [Familiars]: A disembodied dark cloak with a nebula in the shape of an eye in the chest, with blue and orange orbs "drifting around" .
+  REG L29 [Neil_Davone]: Summon : a chrysalis golem "like an ogre carved out of diamond" with runes appearing on its facets as it is hit .
+## B3 Ch5 Departures
+  OPEN L3: In the mirage chamber control room, Danielle Geller played the recording of the mirage chamber fight for the most prestigious guest ever to visit it. Together they watched the battle between Jason’s team and that of Prince Valdis play out.
+  CUE L8: ...er Jason’s warnings. He didn’t remember anything between that and the following morning waking up with a pounding headache and his father seated at...
+  CUE L9: ...ked big entrances, as evidenced by the grandiose arrival of his cloud ship days after Hester had quietly portalled him to the city....
+  REG L9 [Tone_and_Voice]: **Emir**: smooth and showy, fond of grand entrances and a polished aside.
+  REG L9 [Emir_Bahadir]: 
+## B3 Ch6 No Pot of Gold
+  OPEN L3: The people of Old City were reacting in one of two ways to the rainbow light shining in the air. Many were fleeing as fast as they could, rushing past Jason and his team as they rode towards the source of the commotion. Other members of the
+  REG L18 [Henrietta_Geller]: Fights the giant rain elemental alongside other bronze-rankers and briefs the ranking adventurer on it.
+  REG L18 [Plot_Hooks]: **A rain elemental over the Old City**: it appears in the city and bronze-rankers gear up to confront it.
+## B3 Ch7 The Glory of Success or the Price of Failure
+  OPEN L3: Bertrand was the ranking adventurer, which made reporting the elemental manifestation to the Adventure Society his responsibility. As he was a latecomer to the incident, Henrietta diligently filled in the blanks in his knowledge. The team w
+  CUE L63: ...“Clive,” Jason said. “A year ago I didn’t know magic was real. The moment that I accepted th...
+  REG L41 [Thadwick_Mercer]: The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+  REG L86 [Magic_and_Adventuring]: His **Path of Shadows** teleports through a shadow at iron, creates regional portals at bronze (
+  REG L88 [Zato]: "The last silver-ranker left in the Builder cult's local forces", he leads the evacuation of their island stronghold and escapes with many of their pe
+  REG L89 [Cults_and_Orders]: Cult leaders : Zato, the last silver-ranker left in the cult's local forces , leads the evacuation of the island stronghold and decamps to the Vane Es
+  REG L89 [NPC_Rosters_by_Era]: **Builder cult**: Zato, Timos.
+## B3 Ch8 Adequate
+  OPEN L3: The low, blocky building of desert stone contained little more than hard cots. Jason took one look at the spartan dormitory of the Magic Society outpost and marched back outside. There was plenty of flat, if rather rocky, open space and he 
+  CUE L8: ... expect to have a lot of work,” Henrietta said after they set off the next morning. Their planned route was to move north, checking in on the ...
+  REG L25 [Hester_Maharala]: Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+## B3 Ch9 Trash Bonanza
+  OPEN L3: Jason set up the cloud house after they cleared out the adventure notices of the third village of the day. Henrietta gathered the team together to talk about their performance in the day’s combat.
+  CUE L53: ...es with the speed of the skimmer, but not oppressively so with milder winter temperatures....
+## B3 Ch10 Strangeness
+  OPEN L3: As the team went from town to town, clearing off huge stacks of adventure notices, not everything went as planned. Henrietta continued breaking the team into inefficient combinations, which was only the start of things going wrong.
+## B3 Ch11 Full Circle
+  OPEN L3: The six-legged lizards were not especially dangerous individually. They were no bigger than medium-sized dogs and posed little threat. What made them troublesome was that they were extraordinary in both their hardiness and their number. A g
+## B3 Ch12 Regretting it Later
+  OPEN L3: Jason looked around the skimmer as it sailed smoothly over the rocky ground. It was an unremarkable patch of desert, but the walk between the mountain with its hidden sacrifice chamber and the Vane Estate had been an important time for Jaso
+  CUE L87: ...venture notice board. “You were here for what? A couple of days, half a year ago?”...
+  CUE L13: ...When Jason had first spotted the Vane Estate those months ago, it had been an incongruous stretch of green. Rufus had rem...
+  CUE L95: ...“Three days, six months ago,” Neil said again. “How do you have old friends?”...
+## B3 Ch13 Swat
+  OPEN L3: Jason extended his shadow arm to the roof of Hiram’s house as his shadow cloak appeared around him. He reduced his weight and retracted the arm, pulling himself lightly onto the roof. He looked around the village and saw people scrambling t
+## B3 Ch14 The Purpose of the Adventure Society
+  OPEN L3: Jason returned to consciousness to find a small face looking down at him.
+## B3 Ch15 Elven Storage Solutions
+  OPEN L3: The cloud house had taken the form of a large two-storey building of desert stone. Jason found Clive and Belinda out front, working on the scattered collection of parts that used to be the skimmer. After getting Jason’s cry for help over vo
+  CUE L66: ... “Probably not a big deal for the person who got their first power to bronze years ago. So, are you talking to me again now? Counting when I was u...
+## B3 Ch16 Disbanded
+  OPEN L3: The criminal culture in Greenstone was in a state of extreme flux. The Builder cult purge had turned over every rock in Old City, exposing many criminal enterprises. That the cult had attached themselves to many such clandestine operations 
+  CUE L66: ...amprey said. “These manifestations are just precursor signs. It could be months before the surge hits in full force.”...
+  CUE L7: ...r organisation quietly managed their existing affairs until just over a week ago, when word spread that Ventress was dead. The circumstances...
+  CUE L6: ...issa Ventress had been extremely quiet, even before the purge. In the summer she had been pushing into Cole Silva’s territory, trying to...
+  REG L80 [Magic_Society_and_Associations]: The Alchemy Association has been hounding Neil for the miracle potion recipe ;
+  REG L81 [Jory_Tillman]: Jason funds his alchemy facility, which produces the first lesser miracle potions.
+  REG L81 [Economy_and_Money]: **Wealth and rank**: Jason's three gold coins are enough to fund Jory's alchemy facility.
+## B3 Ch17 The Man Behind the Mouth
+  OPEN L3: The room was almost entirely bare of features, a dark stone box with no windows. There was a heavy steel door, a recessed glow stone in the ceiling and a metal chain staked into the hard floor. The other end of the chain was affixed to a po
+  CUE L11: ...of years, the small outpost was both secure and isolated. It had been abandoned decades ago as more coin farms went into operation, changing the transp...
+  REG L56 [Cole_Silva]: Jason calls an elf who matches the description "the Palpatine to his Vader".
+  REG L60 [Magic_Society_and_Associations]: Jason jokes about complaining to the Artifice Association about shoddy standards .
+## B3 Ch18 Search
+  OPEN L3: Killian began the elaborate preparations to use the star seed. He started by conjuring up skeletal arms that he used to hammer a spike into the ceiling, which he then hung a pair of manacles from. He unlatched the chain from Jason’s suppres
+  CUE L69: ...“No?” Lamprey asked. “I didn’t see you in court last year when I claimed my previous one.”...
+  CUE L111: ...“No one knows how long, but word got out around a week ago. That bodyguard of hers, Darnell stepped in.”...
+## B3 Ch19 Defiance
+  OPEN L3: The pain of the tiny objects digging into his flesh Jason could endure well enough. In the last six months he had undergone enough suffering, both mental and physical, that he could take the peppering of wounds in stride, even as he dangled
+  CUE L17: ...p jokes about my mother are the best you can manage. My mother died a dozen years ago; her ashes are interred in the family mausoleum.”...
+  CUE L107: ... you did, you’d wonder why so many of them had gone missing from your own months ago.”...
+## B3 Ch20 Hanging Around
+  OPEN L3: “Where the hell are the bad guys?”
+  REG L25 [Roland_Remore]: "The famous, diamond-rank sword master, Roland Remore"; Rufus often repeats advice from him.
+## B3 Ch21 What Doesn’t Kill You
+  OPEN L3: The rest of Jason’s team arrived in the three skimmers. Clive drove one and a somewhat shaky Jory and Belinda drove the others, both for the first time. Everyone poured off the vehicles before they had even fully stopped, clamouring around 
+  CUE L97: ...lling asleep. He was still shaky but somewhat purged. His reaction of the day before had worked something out of his system. He reconsidered tha...
+  CUE L102: ...It was a mild winter day, actually rather pleasant with clear blue skies. With a...
+  REG L60 [Gary]: "almost silver" by Book 3 ; silver after using a core .
+  REG L60 [Gary]: "almost silver" by Book 3 ; silver after using a core .
+  REG L149 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+## B3 Ch22 Lingering Doubts
+  OPEN L3: A group of people made their way along to the marina towards the houseboat. It was led by Danielle Geller, along with Rufus, his mother, Arabelle, plus Clive and Vincent Trenslow, the Adventure Society official with the grandiose moustache.
+  CUE L4: ...“How is he?” Danielle asked. It had been a little more than a week since Jason had been returned home....
+  CUE L13: ...at for days,” Rufus said. “He got up, had breakfast and went up there three days ago. I don’t think he’s come back down since. He’s just been up...
+## B3 Ch23 Scars
+  OPEN L3: Carlos worked with Clive, directing him to draw out a ritual circle on the rooftop.
+  CUE L18: ...“We could have used that ritual a few months ago,” Danielle said....
+## B3 Ch24 I Won’t Let Them Turn Me Into That
+  OPEN L3: Jason didn’t go straight back to adventuring after his ordeal with the star seed. Instead he spent his time in training and recovery. His team spent their days participating in the hunt for Killian Laurent, whose possession and use of the s
+  CUE L48: ...It had been almost two months since Jason last set foot on the Adventure Society campus. He gla...
+  CUE L77: ...“Of course I do,” Jason said. “If you’d asked me what to do with them three weeks ago, I’d have said hang them from a tree and beat them until fa...
+  REG L3 [Plot_Hooks]: **Hunting Killian Laurent**: Jason's team spends days in the hunt for the man who possessed a star seed.
+  REG L23 [Danielle_Geller]: Time : a time confluence, with only forward time travel possible ; she defeats Lucian Lamprey with her time powers .
+  REG L23 [Danielle_Geller]: Time : a time confluence, with only forward time travel possible ; she defeats Lucian Lamprey with her time powers .
+  REG L23 [Lucian_Lamprey]: Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+  REG L48 [Cole_Silva]: Is held in the prison tower with Lamprey.
+  REG L48 [Lucian_Lamprey]: Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+## B3 Ch25 Putting the Band Back Together
+  OPEN L3: In the wake of Cole Silva’s arrest, his organisation fell into chaos as Silva’s cousins fought to seize control. At first it was restricted to carefully feeling out key people and quietly garnering loyalty. As days passed into weeks without
+## B3 Ch26 Nothing Speaks Louder Than Power
+  OPEN L3: The return of Jason’s familiars went a long way to helping him feel better. With his improved soul sense he could feel their comforting presence within him much more strongly than before. He even retained a sense of connection when they wer
+  CUE L16: ...ps out, including making use of the Musical Society membership he had purchased months ago, only to be too busy to use. Making use of his own private ...
+## B3 Ch27 My Name is Jason Asano
+  OPEN L3: Elizabeth Silva stirred when she felt something press down on her large, canopy bed. There was a young, bearded man in a dark suit sitting on the other side, cross-legged. She opened her mouth to call for her guards, before stopping herself
+  CUE L25: ...Months later he was still troubled by how quickly and easily he had turn...
+  CUE L36: ... sure I’m qualified to teach anyone anything,” Jason said. “This time last year I didn’t even believe in magic.”...
+  CUE L62: ...As the mild desert winter moved almost imperceptibly into spring, the team took an un...
+  REG L62 [Plot_Hooks]: **The veldt contract**: an unconventional contract east of Greenstone beyond the desert astral space.
+## B3 Ch28 While They Watch Me Kill You
+  OPEN L3: The town was little more than a cluster of stone and clay buildings along a single main street. It was not the better for its new residents, with signs of essence abilities being thrown about destructively. Walls were cracked with impact ri
+## B3 Ch29 Inherently Corrupting
+  OPEN L3: The ordinary people left in the town weren’t inclined to come out after Jason’s display. From their perspective, the shadowy figure with the monstrous companions was demonstrably more dangerous than the bandits. Jason left, leaving the hero
+  REG L22 [Jason_Asano]: Path of Shadows (a shadow-to-shadow teleport at iron, Book 1, Ch22 L120; at bronze a conjured shadow gate on a regional scale to a place already visit
+  REG L23 [Era_Selection]: **Scale**: Path of Shadows reaches bronze; the Reaper-trial astral space has twelve towers about eight kilometres apart.
+  REG L35 [Jason_Asano]: Abilities seen in the text : Path of Shadows (a teleport whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and
+  REG L86 [Magic_and_Adventuring]: Crests : a soul crest is a magical tattoo printed on the soul, which appears on the body ; it lets a person be identified without relying on the aura 
+## B3 Ch30 Beholden to No One
+  OPEN L3: One of the ways Jason had made positive use of his recovery time was to get himself back into a training pattern. Rufus, Gary and Farrah had worked to instil good habits during his initial training, but the eventful life of an adventurer in
+  CUE L21: ...f the houseboat, where Jason had put on an impressive lunch spread of spring salads and ingredients to build sandwich wraps. They were s...
+  REG L21 [Hester_Maharala]: Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+## B3 Ch31 Evil Detector
+  OPEN L3: Jason sat on the roof of his houseboat, cross-legged, with the rest of his team sitting around him. They all had their eyes closed, concentrating on forcefully projecting their auras. His team all pushed against Jason, while he pushed back 
+  REG L25 [Cults_and_Orders]: What it was  : an ancient cult of assassins who venerated the Reaper, "the finality of death".
+## B3 Ch32 The World Needs People Like You
+  OPEN L3: Jason and his team made preparations for their entry into the astral space, though some preparations were more important than others.
+  CUE L94: ...“Still better odds than what we were looking at a year ago,” Sophie told her. “We’d just come under Ventress’s protect...
+## B3 Ch33 I’m Very Big on Cowardice
+  OPEN L3: As Emir’s team came closer to opening the portal, the decision was made to move Jason’s team to the site under the lake. Jason’s ongoing availability would be useful for the final push to open the portal and the team needed to be ready to g
+  CUE L4: ...gated the dangers and returned safely from the astral space, it would be months before they saw family and friends again. There was a large barbec...
+  CUE L5: ...and chatting with the friends he had made over the better part of the last year. Danielle Geller told him to look after her son, but also h...
+  CUE L4: ... friends again. There was a large barbecue party in the park district the day before. Friends and family arrived to make big farewells before th...
+## B3 Ch34 More Powerful Than We Anticipated
+  OPEN L3: In their hidden lair in the ruins of the Vane Estate, the leader of the local Builder cult, Zato, was fuming. One of the cultists had used a stone-shaping power to construct rooms in the subterranean cavern, of which Zato’s personal quarter
+  CUE L10: ...It was fortunate that Timos, who had facilitated most of those insertions years ago, had been fastidious in his precautions. He ran cult operat...
+  CUE L17: ...“It doesn’t matter; their task is done. The beacon was placed months ago and the astral tunnel is well on its way to formation. Our ...
+  REG L10 [Timos]: Facilitated most of the cult's insertions years earlier and ran operatives in compartmentalised groups.
+  REG L60 [00_Places_Overview]: Clive rates Greenstone's density as about mid-iron, "which is very low" .
+## B3 Ch35 Fate Can’t Wait to Kill Us All
+  OPEN L3: The astral space was an island city of ancient stone buildings, reclaimed by jungle. Broad boulevards were covered in vines, grass growing up between displaced pavers. Buildings that were three, four, even five storeys tall, ranging from ne
+## B3 Ch36 Running Towards Something
+  OPEN L3: Clive tossed out some glow stones that floated up into the darkness, illuminating the huge figure that occupied the interior of the tower.
+  CUE L75: ...The next morning, Humphrey rousted the team not to press on immediately, but...
+  REG L36 [Era_Selection]: **Scale**: Path of Shadows reaches bronze; the Reaper-trial astral space has twelve towers about eight kilometres apart.
+## B3 Ch37 Greenhouse Flowers
+  OPEN L3: As they anticipated, they reached all twelve towers without encountering the cultists.
+## B3 Ch38 A Man Transformed
+  OPEN L3: The team congratulated Jason as another of his abilities reached bronze rank during his evening meditation. As they were all perpetually using the party interface, they had shared the notification.
+## B3 Ch39 The Worst Possible Option
+  OPEN L3: With a fully-fledged bronze ranker in their number, the team felt more secure as they made their way to the city’s interior. They progressed more swiftly than any of them had during the Reaper trials, for two main reasons. The first was con
+  CUE L27: ...’s shadow. “That being said, this space has undergone many changes in the months since my tenure here. We have made a number of disconcerting reve...
+## B3 Ch40 Brave Little Tailor
+  OPEN L3: Clive stood up from where he had been crouching to examine one of the empty web sacks. The clearing was only the beginning, with empty web sacks hanging from trees or fallen to the ground, extending well back into the jungle. Clive had gone
+## B3 Ch41 Terms of the Pact
+  OPEN L3: “Those vampiric monsters were a bit disappointing,” Jason said. “They didn’t seem so much vampiric as hung over. A bit peaky, bloodshot eyes. They didn’t even summon any bats.”
+## B3 Ch42 Trading Safety Today For Death Tomorrow
+  OPEN L3: The team had been aware going in that there were locations within the city that were more than just empty ruins. A number of trial-goers had reported such locations to the Magic Society and Emir’s people, who had undertaken a large-scale de
+## B3 Ch43 Stalwart
+  OPEN L3: The spider constructs had appeared from holes that had opened in the walls and ceiling. This time, it was the floor that opened up, six large, evenly-spaced but much larger holes, appearing in a straight line down the length of the cell blo
+  CUE L118: ...Having spent week after week of almost hourly battles, the team was quick to pick u...
+## B3 Ch44 I’m Sick of Fighting Magic Rocks
+  OPEN L3: The now-familiar sound of grinding stone echoed through the cell block. The first time, it had been small holes in the walls and ceiling. The second, large holes in the floor. The group looked around for the new source of the grating noise.
+## B3 Ch45 Crossing the Threshold
+  OPEN L3: The team waited for the sound of grinding stone that would signal another wave of combat, but the room was as silent as Neil, under Jason’s baleful glare.
+## B3 Ch46 Anyone Can Be Useful
+  OPEN L3: “I actually got the materials pretty cheap,” Jason said. “Gary made it from local materials in the first place, so I just needed higher-grade versions of the same stuff.”
+  REG L60 [Thadwick_Mercer]: The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+  REG L60 [Zato]: Recruits Thadwick: "I see your true potential".
+## B3 Ch47 A Series of Familiar Powers
+  OPEN L3: Shade was not visibly changed in his new, bronze rank vessel; he remained a shadowy figure in a cloak of darkness. The only visible difference was an increase in his number of bodies, from three to seven. He also gained the ability to exert
+## B3 Ch48 It’s Not About Killing Monsters
+  OPEN L3: They heard the monsters before they saw them. It began with the sound of something moving loudly through the thick jungle, pushing its way roughly through the undergrowth. Humphrey had the team turn around and go back the way they came, mak
+  CUE L34: ... was that three of the faces on the die had changed. It had only been the day before when he used the die and one of the new faces rolled up. Af...
+## B3 Ch49 Sin Eater
+  OPEN L3: Sophie and Humphrey were waiting for the monsters to get closer, while Neil cast a spell, conjuring two sets of three stone reels above his head. There were pictures of the various monsters present on the reels, like a giant, archaic slot m
+  REG L15 [Sophie_Wexler]: Abilities : Eternal Moment, a massive acceleration power in which "time seemed to freeze" as she produced wind blades ;
+## B3 Ch50 The Most Dangerous Thing in the Dark
+  OPEN L3: Behind his front-line team members, Jason injuries swiftly started healing over. The recovery power he gained from devouring vampiric curses combined with the healing Colin provided to close his wounds without requiring intervention from Ne
+## B3 Ch51 The Boss Comes to Town
+  OPEN L3: Humphrey swung his arms inward, brutally clapping his hands into either side of the cultist vampire’s head. It relinquished its bite on Neil’s neck, rearing back to let out an alien screech from its inhuman mouth. Its jaw unhinged in macabr
+  CUE L51: ...“You seem very confident for someone who didn’t believe in gods a year ago,” Humphrey said....
+  REG L91 [Cults_and_Orders]: The Builder possesses Dougall's body, which breaks down if it uses more than silver-rank power , and later Thadwick Mercer's .
+## B3 Ch52 It’s Very Complicated and You All Need to Go Away
+  OPEN L3: The five-storey mass of webbing was stretched between two buildings, completely blocking the street.
+## B3 Ch53 Strong Foundations
+  OPEN L3: By the time the team had spent almost a week in the camp of the former cultists, Belinda and Jason were assisting Clive almost full-time in the basement, in the room with the large magical plate set into the floor. They were digging through
+  CUE L23: ...at he had this thing finished before I killed him,” Jason said. “That was months before Emir arrived here in Greenstone, let alone revealed the ast...
+  CUE L5: ...t I’ve learned more than I thought possible about astral magic in the last week, but what you’re looking at is way past my comprehension le...
+## B3 Ch54 A Valiant Death
+  OPEN L3: “I could feel the power he was throwing off like heat,” Thadwick said, full of enthusiasm. “I want that power.”
+## B3 Ch55 Ambitions
+  OPEN L3: Over the last week, the ambient magic in the astral space had taken on a strange cadence. Like ripples on still water at the footfalls of a great beast, the very space around them was agitated. It grew stronger day by day, until even Sophie
+  CUE L3: ...Over the last week, the ambient magic in the astral space had taken on a stran...
+## B3 Ch56 Faith and Glory
+  OPEN L3: The power of the ring gate let the cultists drift down from the sky in safety, but they descended into trouble. The cultists drew more than a little attention on their way down, the blue light slowing their fall making them stand out both v
+  CUE L40: ...lists made an error in the tunnel formation. Sadly, it was all set in motion months before the Lord Builder was on hand to guide us. They were unable ...
+  CUE L18: ... will not pose any impediment to the process. This vessel still has a few days before it becomes unusable, so prepare accordingly.”...
+## B3 Ch57 Thadwick
+  OPEN L3: Shade’s passage through the cultist camp had been easier than anticipated. The camp was divided into three parts; the section with tents, which was his access point, was the largest. It was where the bulk of both groups of the iron-rankers 
+  REG L4 [Great_Astral_Beings]: Clive notes it is possible, if far from ethical .
+  REG L87 [Jason_Asano]: He tells the Builder it and Knowledge "should get together and play Mario Kart" ; he compares a projected face to Emperor Palpatine .
+  REG L87 [Tone_and_Voice]: **Modern references in a fantasy world**: he suggests the Builder and Knowledge "play Mario Kart" and likens a projected face to Emperor Palpatine.
+## B3 Ch58 The True Danger
+  OPEN L3: Archbishop Hendren had put his barrier up in time to completely shield the three, who were barely even dirty after having had a building dropped on them. The dome flickered out of existence; anyone with magic senses could detect that huge a
+  CUE L10: ...what we get in life,” Jason said, “a meteor would have landed on your head years ago. You’ve had it out for me from the day we met and I’m think...
+## B3 Ch59 Forsaken Place
+  OPEN L3: Humphrey lied on the ground, barely conscious, his life spilling from the savage wound in his chest. The rest of the team’s circumstances were not much more promising, with the summons destroyed and the seemingly indestructible enemy too da
+## B3 Ch60 Being What he Needs to Be
+  OPEN L3: Jason could barely stand in the wake of Neil’s spell wearing off, but he determinedly pushed himself to his feet.
+  REG L37 [Zato]: Asks what to do with the bronze-rankers when the cult cannot convert them with clockwork cores.
+## B3 Ch61 A Significantly More Dangerous Entity
+  OPEN L3: The Builder was now wearing Thadwick’s face, but those that knew him would spot the difference immediately. There was a very different beast inside Thadwick’s body and the change was startling. It began in the eyes, hard and unyielding. Thi
+## B3 Ch62 Losing the Battle to Win the War
+  OPEN L3: Jason dashed forward, his sword flicking out.
+  CUE L96: ...ck at the Vane Estate. It had only been a just a few months more than a year ago, but Jason was literally and figuratively transformed. Then...
+  REG L23 [Era_Selection]: **Live dangers**: the church of Purity under an ecumenical inquiry; star seeds, implanted through the cult; energy ghouls.
+  REG L33 [Great_Astral_Beings]: No fear of gods : Clive says a GAB is one of the few beings that need not fear a god's retribution, since the gods of Pallimustus cannot see into an a
+  REG L33 [Spoiler_Management]: A great astral being need not fear a god's retribution because gods cannot see into an astral space outside their world.
+## B3 Ch63 War of Adaptation
+  OPEN L3: The enemy force only had a few cultists, being mostly made up of constructs and the converted. The hadn’t even engaged Jason’s team before being thrown into confusion as Belinda used her unexpected allies spell. The team were masked in illu
+## B3 Ch64 The Hero of This Story
+  OPEN L3: “Should we be getting out?” Sophie asked as the cloud house continued to shake. “What if the church collapses on top of the cloud house?”
+## B3 Ch65 Good News, Bad News
+  OPEN L3: “This whole system originally belonged to the Builder,” Clive said. “There’s a good chance he has at least some sense of what is happening with it. Probably only to a limited degree, though. Otherwise he wouldn’t need to send out teams to a
+## B3 Ch66 Here We Are
+  OPEN L3: “This a bad plan,” Sophie yelled at Jason as they ran side by side. He was pouring on every bit of speed he could muster, while she was running backwards and still had to ameliorate her speed to match his.
+## B3 Ch67 Outmatched
+  OPEN L3: The walls of the encampment had become a prison to the monsters driven to panic by the Builder’s aura. They were stampeding with nowhere to stampede to, a wild crush that was catching up the cultists and the construct and converted that ser
+  CUE L71: ...nly trick. By plunging his hands into the ground he could make spikes spring up at range, then explode them into splinters. That attack ...
+  REG L6 [Thadwick_Mercer]: "The Builder wore Thadwick Mercer's face" with a presence that transcended the mortal shape.
+## B3 Ch68 The Power of Friendship
+  OPEN L3: Once again, the team’s pinpoint timing salvaged a very poor situation from what would otherwise have been a total disaster. Sophie used the last of her strength to throw out a bloody fist, though barely able to lift an arm from which half t
+  REG L14 [Sophie_Wexler]: Racial gifts  (celestine): Mana Integrity evolves into Mana Wellspring , Astral Affinity into Boundary Breaker, which removes the damage reduction fro
+  REG L14 [Celestines]: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+  REG L14 [Magic_and_Adventuring]: Humphrey's Hero's Drive and Hero's Sacrifice, Sophie's Boundary Breaker (from Astral Affinity,
+  REG L59 [Zato]: Humphrey faces him in the climax, throwing his dragon sword.
+  REG L61 [Humphrey_Geller]: For hundreds of years we have done one thing, and one thing only: protect our world from people like you" .
+## B3 Ch69 A War of Stolen Moments
+  OPEN L3: Sophie was dashing through the camp like a spectre, swift, ghostly and untouchable. She ended up running along the inside of the wall and onto the top, sprinting along it to reach her maximum speed. With a double-enhanced hero’s moment empo
+  CUE L492: ...said. “In fact, it was the very last job our team did together, about eight years ago.”...
+  CUE L866: ...“It’s still quite early into the program,” Jory said. “It took me years before I started seeing results. The idea is for others to do what...
+  CUE L183: ... Training Annex. The last member of their old team, Cal, had departed Greenstone months earlier....
+  REG L108 [Tokens_Stones_and_Relics]: **World-Phoenix Token**: Jason finds it in his starting inventory, "transcendent rank, legendary", "Uses remaining: 1/1" with unreadable effects. It i
+  REG L186 [Hester_Maharala]: Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+  REG L219 [00_Astral_Overview]: The notes for Book 3 describe Interstice as the oldest and largest city-world, a flat plane, with an island region called Glim (rainbow ice) and distr
+  REG L233 [Velius]: "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes"; Shako greets him warmly in the dome chamber.
+  REG L233 [NPC_Rosters_by_Era]: All of Era 1 except Farrah. Dawn appears in person, with Shako and Velius in the dome chamber.
+  REG L238 [Velius]: "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes"; Shako greets him warmly in the dome chamber.

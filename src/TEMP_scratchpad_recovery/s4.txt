@@ -1,0 +1,38 @@
+explosion || 46-47 || (explo|blast|detonat)
+keith dies || 47 || Keith
+yacht || 47-48 || yacht
+number one || 48 || (Number One|Number Two|Number Three)
+kakadu || 49 || (Kakadu|Miranda)
+farrah escape || 49-51 || (hammer|chisel|elevator shaft)
+abreo confess || 51 || (1948|Saint-Étienne|Saint-Etienne)
+fortress || 51 || (fortress|aperture)
+accept || 52 || (accept|Nirvanic)
+transform || 52-53 || (silver|skeleton|translucent|eyes)
+enter aperture || 53 || (aperture|fog|manor)
+farrah hug || 53-54 || (Farrah|hug)
+old testament || 43 || Old Testament
+kylie terrified || 43 || (terrif|godly|judgement)
+dorrigo || 40-41 || Dorrigo
+hydra kill || 42-43 || hydra
+yarranabbe || 44 || Yarranabbe
+farrah photo || 44-45 || (shaved|photo|Farrah)
+vermillion vampire || 9 || vampire
+kissling || 12 || Kissling
+blood riders attack || 13-14 || (Blood Riders|bikers|motorbike)
+starlight || 15 || Starlight
+gallery painting || 16 || (painting|Dawn)
+rooftop attack || 18 || (assassin|tether|rooftop)
+boot || 19 || boot
+french dead || 20 || (Luc|Paul|Nicolas)
+anna kitchen || 21 || Anna
+coins left || 22 || (coins|Product of Jason)
+houseboat winter || 24 || houseboat
+erika party || 26 || (Riddler|costume)
+hello eri || 26 || Eri
+emi hug || 28 || Emi
+castle bluff || 29 || Castle Bluff
+nanna || 31 || Nanna
+glenda || 31-32 || (Glenda|Pottsworth)
+negotiation || 36-38 || (Keith|Gordon)
+terms || 38 || (outworlder|coins|release)
+asya || 36 || Asya

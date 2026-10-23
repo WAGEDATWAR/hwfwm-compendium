@@ -1,0 +1,326 @@
+## Ch1 Strange Business (139 lines)
+  L3: Jason woke up naked, face down in the grass. That was not how he expected to wake up, since he had gone to sleep in his own bed and his own Darth Vader boxer shorts. From the feel of cool grass on his unmentionables, he 
+  L4: The grass he woke up on was weirdly comfortable; a dense bed of lush green softness. It wasn’t like any grass he had encountered before, which was a little unusual. His father was a landscape architect, and Jason had gro
+  L137: Jason rocked back, hands clutching his bald head. His fingers found his wound and he yelped in pain.
+  L138: “What the hell is going on?”
+## Ch2 Of Course Magic is a Thing (77 lines)
+  L3: Jason read the screen again.
+  L4: Would you like to loot [Potent Hamster]?
+  L75: Taking the footwear out of his inventory he discovered it was a pair of sandals. Although the thick grass was pleasant underfoot, Jason still put them on. That left him standing naked except of a pair of sandals.
+  L76: “I think I might hate this place.”
+## Ch3 Local Cuisine (64 lines)
+  L3: Jason frowned at the object in his hand. The carnivorous mandrake proved to be the most generous monster thus far with its loot, producing not only an extra tin of the precious healing unguent, but also something new.
+  L4: Item: [Trowel of the Blood Cult] (iron rank, uncommon)
+  L62: “Sod off.”
+  L63: Jason looked up again at the bright circle of sky, then the dark circle of the tunnel. With a groan, he started probing the pitch-black hole with his hands.
+## Ch4 Cannibals and Spelunking (53 lines)
+  L3: Jason slowly crawled his way into the dank tunnel, a circular pipe of wet and slimy brickwork. It was wide enough to push himself along, but tight enough that he was pressed against the clammy sides. The darkness engulfe
+  L4: “This is not what I planned to do with my day.”
+  L51: Searching through the mess by the light of the lamp, he found an overturned couch in the middle of the room. Under it was a man unconscious. Heaving the couch off of him revealed that he was sprawled in the middle of an 
+  L52: Jason set down the lamp to examine the man. He had a strong pulse and regular breathing, but was showing early signs of extensive bruising and his body temperature felt way too high. As Jason was examining the stranger, 
+## Ch5 Wizard (56 lines)
+  L3: “G’day mate,” Jason said. “Looks like you’ve had a spill. Need a hand up?”
+  L4: Jason offered his hand and helped the wizard-looking man to his feet. Despite a frame as slender as Jason’s own, the wizard was surprisingly heavy. Standing unsteadily of his feet, the wizard looked around at the room in
+  L54: The final rung was set into the brickwork that sat above ground, but just as Jason’s hand gripped it, he felt something slip around his leg. The snake was as thick as Jason’s thigh and he hadn’t even seen the full length
+  L55: He couldn’t pull himself any further up but he clenched onto the top rung. Hands clammy and quickly tiring, his fingers threatened to give out at any moment. But in the end, it wasn’t his fingers that crumbled. The morta
+## Ch6 Potent Potable (65 lines)
+  L3: Jason, as a rule, enjoyed waking up. He loved the brief hazy moment between dream and reality, shrouded in warm, soft bedding. Even awaking in the soft grass of the hedge maze hadn’t been a wholly unpleasant experience. 
+  L4: His left arm was pinned under some rubble, a chunk of fallen masonry from the well wall above. He didn’t feel any pain from it, which was good, then realised he didn’t feel anything at all from it, which was bad. When he
+  L63: Would you like to loot [Builder Cultist]?
+  L64: “What’s a builder cultist?”
+## Ch7 Spoils (98 lines)
+  L3: Would you like to loot [Builder Cultist]?
+  L4: The idea of rifling through the pockets of a corpse filled Jason with disgust. Would the system just loot the body like it did with monsters? Corpse-robbing was a nasty business, but Jason had no idea what kind of place 
+  L96: Absorb Y/N?
+  L97: “Are you what I need to get those magic powers?”
+## Ch8 Dark Magic (102 lines)
+  L3: Jason frowned at the description of the black cube in his hands.
+  L4: “Dark essence abilities. Sounds a bit sinister. How does that work, exactly?”
+  L100: The pair scowled; the one with the shovel moved forwards and hoisted it menacingly. Jason scrambled to pull the curved dagger from his inventory. He used all his knife fighting expertise, which was none, and the shovel s
+  L101: Jason dropped the dagger, staggering back with his hands over his nose, blooding spilling between his fingers. The shovel came down a second time and everything went black.
+## Ch9 Escape (136 lines)
+  L3: The circumstances in which Jason regained consciousness were unpleasant. He was cramped up in some kind of tight space, forced into a foetal position. His head was spinning; there seemed to be a little man inside it, try
+  L4: “I am getting knocked out way too much.”
+  L134: “Cheeky little sod,” Dougall said.
+  L135: Jason tried to think quick, but his head was far from in its best state. Shoving the key ring back into his inventory, he got up from his crouch, but was hit by a dizzy spell and stumbled. The shovel came down and everyt
+## Ch10 The Evil Pit of Evil (57 lines)
+  L3: Jason was jerked back into consciousness as his body choked out more vomit. His throat seared as his empty stomach tried to cast out what wasn’t there, almost gagging him. His head was filled with stabbing pain and when 
+  L4: Slowly, he came to something approximating his senses. There was a light source somewhere up ahead, but the light it put out was blood red. Otherwise, the tunnel was dark, but his new power allowed him to see through it.
+  L55: Well done, idiot. Now you’re going to be tossed into a pit of blood by cannibals and then probably eaten. Good job.
+  L56: Cultists came rushing through the door, sprinting up the tunnel as fast as their bulky ceremonial robes would allow. None of them so much as glanced back at Jason’s hiding spot. Jason stayed stock still and cowered behin
+## Ch11 Dashing Heroics (93 lines)
+  L3: Once the footsteps had died down, Jason cautiously stuck his head around the door but didn’t see any more cultists. Even returning to the chamber he didn’t see anyone. Whoever hadn’t chased up the tunnel were most likely
+  L4: He dismissed the cloak as he approached the lion man’s cage. It had the same heavy bars and large space as Jason’s cage, but where Jason had been able to stretch out, the lion-man barely fit.
+  L91: You have defeated [Blood Cult Leader]
+  L92: You have defeated [Blood Cult Leader]
+## Ch12 Sanguine Horror (117 lines)
+  L3: “That was amazing!” Gary said, coming up to slap Jason on the back.
+  L4: Jason staggered forwards to support himself on the altar at the end of the platform.
+  L115: Farrah watched them vanish down the steep staircase, then turned to the back of the book. Jason narrowed his eyes as he watched her.
+  L116: “Are you checking for an index?”
+## Ch13 This is the Part Where We Step Back (124 lines)
+  L3: The three former captives pounded down the stairs as Jason followed unsteadily behind. As they went down the steep staircase, the smothering heat rose up to engulf them. The air became wetter and heavier until even breat
+  L4: Jason touched a finger to the body as they passed.
+  L122: Jason looked at the listed awakening stone. Apocalypse.
+  L123: That didn’t sound wildly positive.
+## Ch14 Worlds Apart (98 lines)
+  L3: Jason sat on the bottom stair of the chamber while Farrah removed the collars from Rufus and Gary. His whole body was wracked in pain after using the last of his mana to conjure the cloak and float down from the top of t
+  L4: “Explain something to me,” Jason said. “If you can do…”
+  L96: “Alternate realities maybe,” Jason said. “Some things are the same, others different. If that’s what this is, then this world diverged from mine a very long time ago. The continents are different, but not completely. The
+  L97: “Your world only has one moon?” Gary asked. “That’s weird.”
+## Ch15 Outworlder (129 lines)
+  L3: They continued walking through the stony desert. There was a rough trail to follow back to the manor, and Jason’s map ability had apparently been plotting locations, even when he was unconscious. The hard ground was unev
+  L4: There was a stash of water bottles in Jason’s inventory, provided from Farrah’s own magical storage space. The pounding heat was not helping Jason’s condition and he emptied one bottle after another.
+  L127: The others turned to look at him and he looked down at himself. The filthy skin and clothes; the stains from blood, muck and sweat. The ridiculous shirt. Then there was the smell that all the sweating had turned from bad
+  L128: “Never mind,” he said.
+## Ch16 Rescue Party (97 lines)
+  L3: Rufus, Farrah and Gary raced across the desert, feet pounding into the dry earth. Rufus had told Jason they would be running at a sustainable pace. Their unflagging momentum confirmed his words, but they were moving at a
+  L4: Jason had little time to think about such things as they stormed over the rough ground at ten metres a second. He was draped over Gary’s back like a cloak, legs flailing as he desperately clenched his arms around the tre
+  L95: Anisa was slender, almost frail-looking, with platinum-blonde hair and pale skin. She was wearing a practical outfit of fitted pants and top, all in spotless white. Sturdy-looking cloth covered her from neck to boots, wi
+  L96: “You got free as well,” she said, as if expecting no less. “Why is there a vagrant following you around?”
+## Ch17 A Conservative Pillage (119 lines)
+  L3: “Aren’t you the person that tried to get us out of the cages but got hit upside the head?” Anisa asked, giving Jason a second glance.
+  L4: “That’s me,” Jason said.
+  L117: Jason ran a hand over his face, the energy draining out of him.
+  L118: “Oh, damn it.”
+## Ch18 One of Us (85 lines)
+  L3: With their sweep through the manor house, the group completed their mission. The cultists were dead or running and they found plenty of documentation pointing them to the main cult.
+  L4: “So, these people were only a local branch?” Jason asked as he rifled through a closet.
+  L83: “If I decide to become an adventurer, what do I need to do?”
+  L84: “We can teach you,” he said, “but you start by absorbing more essences. Before everything else, adventurers are strong.”
+## Ch19 I Want a Lava Cannon (79 lines)
+  L3: “I’m not sure I’m comfortable doing it with everyone watching,” Jason said.
+  L4: It was a clear-skied morning, but the magic affecting the manor’s climate dulled the scathing desert heat to a pleasant warmth. Jason, Rufus, Gary and Farrah had gathered on a terrace, sitting on some patio furniture. Mo
+  L77: “Sadly no,” Farrah said with a chuckle.
+  L78: “But I want a lava cannon.”
+## Ch20 By the Power of Grayskull (155 lines)
+  L3: “You probably want your essence abilities to be more well-rounded than Farrah’s,” Gary said.
+  L4: “Hey,” Farrah complained.
+  L153: Jason lowered his arm back down.
+  L154: “I’m starting to suspect that it isn’t just that you’re an outworlder,” Rufus said. “I think you might be strange in any world.”
+## Ch21 I Have the Power (95 lines)
+  L3: When Jason had used the dark essence, it had turned into smoke, painfully invading his body until he passed out. The blood essence instead melted over his hand, becoming a viscous liquid that crawled up his arm and start
+  L4: You have absorbed [Blood Essence]. You have absorbed 2 of 4 essences.
+  L93: Rufus looked over at Jason, splayed out in the stinking puddle.
+  L94: “I’m sure he’ll be fine.”
+## Ch22 Apocalypse Stone (159 lines)
+  L3: “I need a shower,” Jason said.
+  L4: “You just had a shower,” Rufus said.
+  cue L19: ..e equinoxes and the new year, which was at the beginning of spring...
+  L157: “No, Rufus,” Gary said. “He’s right. He needs all the power he can get, and you know it.”
+  L158: “There’s no point arguing about what’s done,” Farrah said. “Jason, you might as well tell us what power you got.”
+## Ch23 I May have Made a Huge Mistake (113 lines)
+  L3: “Uh-oh,” Jason said.
+  L4: “Uh-oh?” Farrah repeated. “What power did you get exactly?”
+  cue L59: ..prey teeth emerged from the pool, mirroring the scenario of the day before...
+  L111: “I said you could ask,” Jason said. “Didn’t say I’d tell you.”
+  L112: Gary burst out laughing from the front, Farrah stifling a chortle behind her hand. Anisa schooled her fury into a look of blank disdain and turned away, staring out at the desert horizon.
+## Ch24 Astral Space (69 lines)
+  L3: “So how long are we going to be trekking through the desert?” Jason asked. “I’m not saying there isn’t a stark beauty to it, but I’d like to go someplace where even the sunshine isn’t actively trying to kill me.”
+  L4: They’d left the manor at noon while Jason was still unconscious after his summoning ritual. By the time they stopped for the evening, he was feeling battered by half a day of riding in the wagon over rocky desert terrain
+  L67: “What’s the exchange rate between coins?” Jason asked. “Actually, I’ll figure it out myself. That’s part of the fun in coming to a new place, right?”
+  L68: “That’s the spirit,” Gary said.
+## Ch25 Blasphemy is Kind of My Thing (89 lines)
+  L3: After handling the string of heidels, Rufus made his way into the village. He knew from their previous visit that the inns were all clustered together, so he had no concerns about finding the rest of the group. The sky w
+  L4: “Jason?”
+  L87: Rufus skewered his fork into another halved egg.
+  L88: “After breakfast.”
+## Ch26 Waterfall (72 lines)
+  L3: Jason was only an occasional bushwalker, so as he climbed the steep mountain trail, he appreciated his new iron-rank attributes. He hadn’t become a sculpture of perfection like Farrah and Rufus, but it was still a solid 
+  L4: Jason’s guide on the waterfall track was a man of late-middle years named Hiram. Hiram’s job was to watch over the aperture that was the source of the waterfall. Jason had met him the night before, with Hiram agreeing to
+  L70: “You any good with that?” Hiram asked.
+  L71: “No,” Jason said. “No, I’m not.”
+## Ch27 Water, Fall (110 lines)
+  L3: “It’s pretty slow,” Jason said. “If we get back behind the fence, is it strong enough to hold it?”
+  L4: “Not sure,” Hiram said. “It’s mostly to keep out people. The magic is just to stop the water from ruining it, not make it any stronger.”
+  L108: “I think,” Hiram said, “it might be time to get out of—”
+  L109: He was cut off by a wall of water erupting through the aperture and down on top of them. It smashed them together in a tangle of arms and legs. Both were blasted down the tunnel and hurled into the air, hundreds of metre
+## Ch28 How Did You All Fit In There? (110 lines)
+  L3: Water crashed into Jason like a derailed train, ploughing him straight into Hiram and blasting them both out the end of the tunnel. Sensations came faster than he could process: pain, wet, disorientation. He couldn’t bre
+  L4: Jason and Hiram had clutched onto each other reflexively, their limbs tangled together. Landscape blurred past as they span through the air, tumbling like the now-resumed waterfall. Jason’s first coherent thought was Hir
+  L108: The pile said nothing.
+  L109: “We’ll have to work out a system.”
+## Ch29 That’s What Adventurers Do (98 lines)
+  L3: The shabs were finally drawing close.
+  L4: “Din-dins, Leechy,” Jason told the pile. It undulated slowly in the direction of the shabs. “I’ve got to come up with a better name.”
+  L96: “I’m sure it would have been fine,” he said. “If they made it to the village my adventurer friends would have seen it and stepped in. That’s what adventurers do, right?”
+  L97: “That’s right,” Hiram said, putting a hand on Jason’s shoulder. “That’s what adventurers do.”
+## Ch30 Closing the Door Too Hard (101 lines)
+  L3: In the garden courtyard of the inn, Jason sat comfortably in the late afternoon shade, looking down at a single leech on the ground.
+  L4: “So you’ve got it, right?” he asked. “Left for yes, right for no. That’s my left and right, so your right and left. You have that?”
+  L99: She turned, marched away, and they heard the door slam as she departed the inn. Rufus was stewing on the spot, Jason, Farrah and Gary sharing wary looks.
+  L100: “I think we may be paying for a new door,” Gary said.
+## Ch31 Taming the Beast (170 lines)
+  L3: “Mr Mayor,” Rufus said, “are you certain you don’t want us to investigate the astral space?”
+  L4: “We considered it,” the mayor said, “but we are only one of many places with an aperture leading to that astral space. We have no idea if the other locations are having similar issues and the cost of a mistake could be c
+  L168: Looking over his abilities he saw they had barely increased. Some he hadn’t even used yet.
+  L169: “I have to try out that shadow teleport.”
+## Ch32 Monster Hunting For Beginners (145 lines)
+  L3: An hour after they left the walled town, Rufus stopped walking. He took a piece of paper from his pocket, looked it over, then turned his gaze to the desert landscape around them.
+  L4: “This is it,” he said and walked off, leaving the road behind.
+  cue L110: ..ary, but it was still improved over what it had been just a few days ago. With a wild roar of effort, he strained to strai..
+  L143: “There’s a myth from my world,” Jason said hoarsely. “There was a guy who was invincible while he was touching the ground, so the guy who killed him did it by lifting him into the air. I thought maybe the elemental was h
+  L144: “You know,” Gary said, “once we train you up a bit, you might actually be good at this.”
+## Ch33 Mistrun River (81 lines)
+  L3: Back on the road, Rufus explained the local geography to Jason as they travelled. To the east was the inland veldt, a flat, sprawling scrubland. The desert they were passing through was similar to parts of the Australian
+  L4: “Is everywhere in your homeland a dry, desolate waste?” Gary asked.
+  cue L8: ..e,” Gary said. “He was studying everything about this place for weeks before we left.”..
+  cue L74: ..“In moderation,” Farrah said. “This time last week he didn’t know magic existed, let alone adventure..
+  L79: He ran and leapt into the air, the starlight cloak manifesting around him. He landed on the surface of the river, turned around and gave the adventurers a goodbye wave.
+  L80: “See you in a few days!”
+## Ch34 Waving the Flag For Secular Morality (69 lines)
+  L3: As best as Jason could tell, the delta was a mixture of natural wetlands and farmland that made the most of the ample water supply. There was a much greater abundance of trees compared to the desert, but they were mangro
+  L4: Jason wandered along paved roads that were set atop artificial embankments that divided the delta into segments. Lush shrubbery and staggered brickwork ran down the sides to guard against erosion, while small bridges all
+  L67: “Friend, the gods are real everywhere.”
+  L68: “That’s what people keep telling me.”
+## Ch35 Greenstone (82 lines)
+  L3: “Anything?” Rufus asked as Gary walked in.
+  L4: They were renting a three-bedroom suite for their stay in Greenstone. Rufus and Farrah had been waiting for Jason in the sprawling lounge with the huge glass windows overlooking the ocean. The doors to the balcony outsid
+  L80: “You guys kicked the crap out of me pretty good,” Jason groaned. “I don’t suppose you can point me to a church of the Healer?”
+  L81: The man covered in paint lit up with fury, his face almost matching the red paint splashed on him. Sprinting back with thundering steps, he brought a fist down on Jason’s head. Barely able to stand, Jason’s only defence 
+## Ch36 The Island (106 lines)
+  L3: Jason regained consciousness on a cushioned table, like an examination table in a doctor’s office. He’d been stripped down to his boxer shorts and his skin was covered in healing unguent.
+  L4: “I think I’m weirdly getting used to this.”
+  cue L14: ..“Harsh,” Jason said. “I’ve been knocked out a lot this last week.”..
+  L104: Although the guard looked casual, he took his time to check the permit thoroughly. As he did, Jason took a deep satisfying breath. The air was clean and fresh, without the wet mugginess of the delta, the dry aridity of t
+  L105: “I think I’m going to enjoy wealth inequality.”
+## Ch37 A Good Adventurer and a Great One (117 lines)
+  L3: After leaving the walls of the city on the back of a heidel, Rufus rode at a casual pace along the embankment roads that divided up the delta. They were busy with traffic, mostly carts and wagons shuttling back and forth
+  L4: He approached the open gate, and was let in by a pair of guards who took his mount. Rufus could sense the iron-rank auras of both men. That might have been normal in his home city, but locally was the exception. To his k
+  L115: “He’s been coming in and asking after you for the last couple of days,” Albert said. “Is it alright to tell him you’ve registered?”
+  L116: “Sure,” Jason said, “although I’d rather tell him myself. Do you know where he’s staying?”
+## Ch38 Just Another Adventurer (173 lines)
+  L3: The guild district was the region of the Island that contained the Adventure Society campus, along with many other guilds and societies. Occupying the north-west region of the Island, the guild district also contained th
+  L4: Having returned from the Geller Estate, Rufus ran into Farrah outside their lodgings as she returned from her own business.
+  cue L117: ..meness of a guy who had a supporting role on a teen drama a few years ago, but didn’t break out and is really bitter about ..
+  cue L41: ..h. The next one is in nine days, but you can take yours the following month.”..
+  L171: “Will that be a problem for his membership?” Gabrielle asked.
+  L172: “No,” Guy said. “If we banned that kind of thing, we’d have to kick out half the alchemists.”
+## Ch39 Training (155 lines)
+  L3: “As you hopefully recall,” Rufus said, “there are three elements to improving your abilities.”
+  L4: “I'm pretty sure the middle step was to eat a delicious sandwich,” Jason said.
+  L153: “Well, we can’t have that,” Jason said. The stone sank into his hand.
+  L154: You have awakened the sin essence ability [Hegemony]. You have awakened 4 of 5 sin essence abilities.
+## Ch40 Eyebeams and the Ethics of Adventuring (110 lines)
+  L3: After finding out Jory had an unused courtyard behind his clinic, Rufus moved the daily training there. It was really just a walled-in dirt yard, but was sufficient for their needs. The day would begin with Gary, who wou
+  L4: The approach to physical training was startling in its familiarity. Farrah had left a set of barbells from her magical chest in Jory’s yard, covered with a tarp. Gary would alternate between strength training with weight
+  L108: She marched out of the yard through the gate in the wall, leaving Jason sitting alone.
+  L109: “That turned heavy, fast,” he told himself. “Good job, idiot.”
+## Ch41 Vulnerable and Exposed (101 lines)
+  L3: Jason apologised to Farrah the next day when she arrived at Jory’s clinic for his training.
+  L4: “I’m sorry,” he said. “I didn’t realise until afterwards that I was accusing you of being callous. I can sometimes let my mouth run off on me without thinking it through or considering the other person’s perspective.”
+  cue L81: ..,” Rufus said. “I’ll be administering the field testing for next month’s Adventure Society intake. I’ll need to start pr..
+  cue L28: ..n in ways his other abilities couldn’t match, yet it eluded him day after day. Every afternoon he would sit under the awnin..
+  L99: He felt a call from the shadow, to something that existed inside him. The power he had tried so hard to use, yet never could. He quieted his excited mind, resisting the urge to push. He relaxed, letting the substance of 
+  L100: As if dragged by a giant vacuum cleaner, Jason felt himself get sucked through the shadow. As he did, he had the flashing realisation that in all the time he’d been working on the ability, he’s never given much thought t
+## Ch42 This is the Pits (74 lines)
+  L3: As Farrah and Gary walked along, Jason would step into a shadow on one side of the street and reappear on the other.
+  L4: “He seems to like that ability quite a lot,” Farrah said.
+  L72: “Ah, no, sir. Thank you. I’d best get back.”
+  L73: “You’d better shove off, then,” Lucian said. “Anyone staying here has to drink.”
+## Ch43 Nightingale (73 lines)
+  L3: “This is nice,” Jason said.
+  L4: “Certainly better than meditating in a dirty back-lot,” Farrah said.
+  L71: “I’m not sure, Mr Lamprey. I’ll find out.”
+  L72: “See that you do.”
+## Ch44 Complimentary Ointment (111 lines)
+  L3: “I always wanted to fight you,” Fire Fist said to Sophie as they faced one another in the cage. “I was just starting out when you left. You were a legend.”
+  L4: Sophie knew what he was doing. The audience like some banter before a match. Not the crowds who couldn’t really hear, but the big names in the viewing rooms would. They were the ones he wanted to impress.
+  L109: “Soph, wait…” Belinda said. “And she’s gone. Bye, Jory. Thanks, person I don’t know.”
+  L110: “Bye, Belinda!” Jory called out with a wave as the door closed behind them.
+## Ch45 So Much For Atheism (87 lines)
+  L3: Jason had not explored many of the Island’s districts. He took the loop to one he had never visited before: the temple district. His new world had no shortage of gods, which as a long-time atheist was more than a little 
+  L4: Walking out of the loop terminal, he immediately saw a sign with directions to the Divine Square. Following it, he walked down a street where temples lined both sides of the road. Looking at the prominent signs and banne
+  L85: She led Jason to a set of double doors. They were larger than the ones that were the entrance to the temple, but just as plain. They were carved from wood, aged and unadorned but for a simple handle on each. Jason had th
+  L86: “This is as far as I take you,” she said, gesturing for Jason to continue on. He passed through the doors and she pushed them closed behind him.
+## Ch46 Blatant Manipulation (159 lines)
+  L3: The chamber was large and circular, a single room rising up five storeys to a glass ceiling. Light spilled in from above, reflecting from crystal mosaics that lined the walls to bathe the room in rainbow colours. This in
+  L4: “That is certainly impressive.”
+  cue L33: ..“A month ago I still thought auras were made up,” Jason said. ..
+  cue L31: ..ound. It gave Jason the sense of a country stream on a warm summer’s day...
+  L157: “He never seemed that way,” Gabrielle said.
+  L158: “It isn’t his powers or his appetites that make him dangerous,” the goddess said. “It’s his ideas. He’ll have you question your faith, just because it’s faith. He’ll have you question everything, if you let him.”
+## Ch47 Mirage Chamber (127 lines)
+  L3: Rufus looked up as Gary emerged from his room, stretching his long arms and yawning.
+  L4: “You’re not breakfast,” Gary said.
+  cue L109: ..“Didn’t you say that they’d just wave everyone through next month?” Jason asked Rufus...
+  cue L11: ..“He went to see the goddess of knowledge few days ago,” she said. “Since then he’s been like a monster...
+  L125: She turned to Rufus.
+  L126: “So what do you have for us?”
+## Ch48 An Endless, Inescapable Nightmare (125 lines)
+  L3: In the control room of the mirage chamber, all eyes were on Rufus. He walked over to the stone block under the window, which had a dizzying array of runes, sigils and intricate magical diagrams carved into it. He spent a
+  L4: “Standard arrangement,” he observed. “Jason, hand me that crystal.”
+  L123: “No, our family has trainers enough with the stomach for it,” Danielle said. “When you bring Jason by, we can have them spar a little.”
+  L124: “I will,” Rufus said. “But first, I need to have a talk with my father.”
+## Ch49 A Voice From Home (142 lines)
+  L3: The Adventure Society offered a limited, if valuable, array of services. The Magic Society, by contrast, provided all manner of magical amenities to anyone with the money to pay for them. The main lobby of the Magic Soci
+  L4: An elven man in expensive clothes approached. Rufus noted his brooch in the shape of hand inside a circle, the Magic Society emblem.
+  cue L86: ..“Give my love to Mum. See you next week, Dad.”..
+  L140: “And when will that be?” Jason asked.
+  L141: “I told you when we started,” Rufus said. “There’s going to be a test.”
+## Ch50 The Full Keanu (106 lines)
+  L3: Rufus swung the staff horizontally, Jason swaying back so it passed in front of him. Rufus kept the momentum, bringing the staff up and over into a downward strike. Jason kept control of his balance, shifting to the side
+  L4: “Why am I happy?” Rufus asked, neither looking nor sounding happy.
+  L104: Outside Lamprey’s viewing box, Cassowary Finn hesitated before knocking on the door. As the son of Lucian’s friend and deputy, Pochard, Cassowary had been installed as Lucian’s dogsbody and normally enjoyed the man’s fav
+  L105: “Enter!” Lucian’s voice barked from inside.
+## Ch51 Song of the Nightingale (74 lines)
+  L3: “Enter!” Lucian's voice bellowed, and Cassowary opened the door. Following him in was a nervous-looking, middle-aged man with a balding head and noticeable paunch.
+  L4: “Cassowary,” Lucian said, his forehead creasing into a frown. Elven features weren’t well-suited to malevolence, but Lucian made it work.
+  cue L37: ..“No, he didn’t,” Hubert agreed. “Couple of months ago, the old man went in his sleep. There were rumour..
+  L72: “Oh, you wouldn't think so if you got to know him,” Janice said. “It’s also good that Mr Tillman has a friend. He used to spend all his time upstairs with his little experiments.”
+  L73: “Still, keep an eye on him,” Belinda said. “You should never trust people who say they just want to help.”
+## Ch52 Pain (73 lines)
+  L3: “I’m taking it up to five.”
+  L4: Rufus’s voice echoed through the mirage chamber. Jason stood waiting in his illusionary body. He was under the dome, but it was hidden by the false landscape. His senses told him he was standing on a desert hillside, anc
+  L71: “I do believe I could,” Lucian said thoughtfully. “But can you get her there?”
+  L72: “It will require me to take some pains,” Clarissa said. “But what’s a little pain in service to a man such as yourself?”
+## Ch53 Nightlife (130 lines)
+  L3: With Jason’s Adventure Society field assessment looming closer by the day, Rufus, Gary and Farrah pushed him harder than ever. As a release, they would spend their evenings exploring the nighttime entertainments offered 
+  L4: The symphony was a revelation to Jason. The concert hall was situated in the guild district, conveniently close to their lodgings, and they enjoyed the view from the Geller’s private viewing box.
+  L128: “Things just keep getting worse,” she said softly.
+  L129: “I know.”
+## Ch54 Field Assessment (87 lines)
+  L3: The layout of the Adventure Society campus reminded Jason of a university. One of the nice ones, with expanses of lawn, gardens and tiled pathways leading through impressive stone arches. The marshalling yard was like a 
+  L4: “Here he is,” the young man said. “The pride of the Geller family. But that out-of-town prick failed you, just like the rest of us.”
+  cue L38: ..“Last month there were problems finding enough postings for e..
+  cue L39: ..“There weren’t enough monsters last month?” Jason whispered at Humphrey...
+  L85: “I thought the farmer would rather lose some harvest now than family later,” Humphrey said. “I made a choice.”
+  L86: “Yes you did,” Vincent said, putting a hand on Humphrey’s shoulder. “Good job.”
+## Ch55 Rune Tortoise (92 lines)
+  L3: The routine for the field assessment was to stop in a town or village each night. In the morning they would collect monster notices from the adventuring board and set out to deal with them. Vincent took an approach where
+  L4: On the third morning, they were delayed in one of the towns Jason had passed through on his original journey to Greenstone. Vincent wasn't willing to turn away the quickly growing crowd of earnest sick people, so the tow
+  cue L48: ..“Rufus came out of last month’s assessment with a pretty high opinion of the in..
+  L90: Jason set off towards the tortoise at a casual stroll, which still outpaced the tortoise at full flight.
+  L91: “I’ll muddle through,” he said.
+## Ch56 Gary’s Gift (82 lines)
+  L3: Jason and Mobley passed each other as Jason walked in the direction of the rune tortoise.
+  L4: “Sorry, mate,” Jason commiserated. The burned and blackened would-be adventurer just shot him a contemptuous look and kept walking. Jason wasn’t sure if it was the immediate circumstances that drew the man’s ire, or just
+  L80: Jason stabbed out again and again. With each strike the sword became more powerful, until the first gouge appeared in monster’s side. A section of flesh chipped off like stone under the monster’s protection ability.
+  L81: “I’m an affliction specialist,” Jason told Vincent as he continued to chip away. “We don’t do speed. We do inevitability.”
+## Ch57 Rainbow Smoke (75 lines)
+  L3: Jason looked at the dead rune tortoise.
+  L4: “Sorry, mate,” he told it. “Can’t have you going berserk and wandering into town shooting lightning bolts at people.”
+  cue L22: ..“One of the candidates from last month had a looting power,” Vincent said as he glanced ..
+  cue L58: ..he took out a slab of meat, something looted from a monster several days ago. He wedged it in between the mangrove roots, just..
+  L73: Jason led the creature along the edge of the mangroves, back in the direction of the road bridge. The creature continued its furious pursuit, slow wading interspersed with rushing bursts. Jason strolled casually over the
+  L74: The candidates gathered on the bridge watched Jason, cloak of stars swirling around him on a breeze no one else could feel. He walked lightly over the water as a patch of swamp roiled behind him, disgorging rainbow smoke
+## Ch58 A Man of Malevolent Intellect (121 lines)
+  L3: With the bark lurker dealt with, the group completed the crossing of Bridge Road and mangroves gave way to marshland. Once again they were riding atop the embankment roads that were the main thoroughfares of the delta. S
+  L4: Jason took out a red marble tablet from his inventory, the image of a bird etched into it in gold.
+  cue L85: ..“Is that so?” Jason asked. “Less than two months ago, I walked into Greenstone with no name and no bac..
+  cue L85: ..o, I walked into Greenstone with no name and no background. Two weeks ago, I watched the symphony from the private viewing ..
+  L119: Shock and disappointment crossed Jason’s face.
+  L120: “Is that true, Instructor?” he asked, turning on Vincent. “Is something that devious even ethical?”
+## Ch59 Falling Short (62 lines)
+  L3: The adventurer accommodation had a dozen bedrooms, with three bathrooms shared between them. Jason found the bathrooms strange in their familiarity, tiled surfaces and magical plumbing. Jason was fresh out of the shower,
+  L4: “Stash!” Humphrey’s voice yelled from the hall outside. It was followed by the door handle turning, and the bathroom door opened from the other side by some kind of chimp-like creature. It then turned into a bird that fl
+  cue L13: ..ring why you didn’t have eyebrows when we met, but a couple of days later you did.”..
+  L60: Jason neared the farm’s largest building, a big, square barn. As he did, a margoll came wandering out, chewing on the remains of what, to Jason, looked like the family dog. Somehow, the idea of a dog-headed monster eatin
+  L61: Jason had never been this close to a margoll before. It had the face of a pit bull and the body of a power lifter, with sickle-claw hands. Its arms were drenched up to the elbows in blood, as was its wide mouth. It threw
+## Ch60 Making Music (73 lines)
+  L3: Jason and the margoll faced off outside the mud-brick barn. The margoll’s howl called out more, who emerged from in and around the building to join it. As they assembled, Jason and the first one remained where they stood
+  L4: That first step was like a starter’s pistol, the monsters lunging into a sprint. Jason kept walking casually as the creatures closed the distance, pounding over the dirt. When they were almost upon him, he dropped into t
+  cue L34: ..on feeling like a different man than the one who climbed on a week earlier. He had a sense of power about him, of control ov..
+  cue L39: .. be smug, childish, and a little too impressed with myself. Last week, I subjected you to all three.”..
+  L71: “Sometimes I think you and your sister are a little too much your father’s children. Come along, everyone; I have a carriage waiting and dinner prepared. You will join us, won't you, Mr Trenslow?”
+  L72: “It would be my honour, Lady Geller.”

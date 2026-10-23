@@ -1,0 +1,28 @@
+from repl import rep
+D="02_Cosmology_and_Powers/Astral_Kings_and_Messengers.md"
+rep(D,[
+("\"what amounts to sentient miniature universes\" (Jason's lecture, Book 8)","\"what amounts to sentient miniature universes\" (Dawn to Jason, Book 8, Ch67 L53)"),
+("(Book 9, confirmed: a healer observes that he \"was not a dual-entity comprised of body and soul, but a gestalt physical and spiritual being\", like messengers)","(Book 9, Ch62 L30: a healer observes that he \"was not a dual-entity comprised of body and soul, but a gestalt physical and spiritual being\", like messengers)"),
+("Boris explains (Book 11, confirmed) that back then","Boris explains (Book 11, Ch25 L51) that back then"),
+("Jason is told (Book 9, confirmed)","Jason is told (Book 9, Ch23 L44)"),
+("hold the source end of that power (Book 9, confirmed)","hold the source end of that power (Book 9, Ch62 L30-34)"),
+("awaken as a Voice of the Will after hibernation (Book 9, confirmed)","awaken as a Voice of the Will after hibernation (Book 9, Ch69 L55-59)"),
+("Astral Gate appear (Book 8), Jason","Astral Gate appear (Book 8, Ch49 L105), Jason"),
+("He tells Dawn that being an astral king puts him on a different path from anyone he cares about (Book 9, confirmed)","He tells Arabelle that being an astral king puts him on a different path from anyone he cares about (Book 9, Ch41 L81)"),
+("Jason explains (Book 9, confirmed)","Jason explains (Book 9, Ch52 L60)"),
+("diminish their beauty (Book 13, confirmed)","diminish their beauty (Book 13, Ch954 L4)"),
+("rule through them rather than invading in person (notes, Book 8)","rule through them rather than invading in person (Book 8, Ch64 L72-80)"),
+("in which Hess confesses to feeling it;","in which Hess confesses to feeling it (Book 10, Ch16 L48);"),
+("(Boris, Book 11)","(Boris, Book 11, Ch25 L51)"),
+("a gold-rank Voice of the Will (Book 9)","a gold-rank Voice of the Will (Book 9, Ch56 L5-8)"),
+("is mentioned in Book 9 (Vesta Carmis Zell \"feels her silver seal vanish\" when Jason frees Tera; notes, Book 9)","is mentioned in Book 9 (Vesta Carmis Zell \"felt one of her seals disappear\", a silver-rank seal, when Jason frees Tera; Book 9, Ch102 L66-67)"),
+("begin to resist the brand (notes, Book 11)","begin to resist the brand (Book 11, Ch25 L53)"),
+("impinge on other messengers (Book 9, confirmed)","impinge on other messengers (Book 9, Ch56 L5)"),
+("Boris Ket Lundi tells Jason (Book 11, confirmed)","Boris Ket Lundi tells Jason (Book 11, Ch24 L86)"),
+("whose brand Jason removes (Book 10, confirmed: it was","whose brand Jason removes (Book 10, Ch42 L7: it was"),
+("in Book 10 (confirmed), \"the closest thing","in Book 10 (Ch15 L3), \"the closest thing"),
+("stand outside it (Book 11, confirmed)","stand outside it (Book 11, Ch24 L86)"),
+("absorbed into his body (Book 10)","absorbed into his body (Book 10, Ch15 L6)"),
+("Council of Kings\" (Book 12)","Council of Kings\" (Book 12, Ch33 L51-55)"),
+("fulfilled his debt to them (Book 10, confirmed)","fulfilled his debt to them (Book 10, Ch15 L9)"),
+])

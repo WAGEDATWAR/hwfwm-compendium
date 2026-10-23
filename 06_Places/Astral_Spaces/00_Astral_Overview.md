@@ -1,0 +1,46 @@
+# Astral Spaces Overview
+
+Status: Draft (book text, chapter notes and wiki; tiers marked: "Book N" = checked in the book text, "notes" = chapter notes, "wiki" = fan wiki)
+Spoiler level: 0 for sections 1-3; 1-2 for the sites; 3 for astral kings
+Valid from: Book 1
+Valid through: Book 13
+Sources: Books 1-3, 6, 8, 11
+Related: ../00_Places_Overview.md, ../../03_Magic_and_Adventuring/Rituals_Arrays_and_Formations.md, ../../03_Magic_and_Adventuring/Astral_Spaces_Zones_and_Surges.md, ../../01_World_Primer.md
+
+## 1. Summary
+
+An astral space is a pocket dimension attached to a world through one or more apertures. The astral itself is the source of all magic. Astral spaces hold monsters and treasure, are farmed for spirit coins, and are among the most important adventuring sites. This overview explains the idea; the other files describe particular spaces.
+
+| File | Place | Spoiler level |
+|---|---|---|
+| Desert_Astral_Space.md | The Book 1 expedition site near Greenstone | 0 |
+| City_of_Fallen_Echoes.md | The trial city of Book 2 | 1 |
+| Reaper_Trials_Boarding_Vessel.md | The artificial astral space of Book 3 | 1 (some Level 3 notes) |
+| Spirit_Vault_and_Astral_Kingdom.md | Jason's vault, domains and kingdom, including Arbour, New Water and Rexion | 2 (some Level 3 notes) |
+| Transformation_Zones.md | Sealed zones and genesis space | 2 (some Level 3 notes) |
+
+## 2. How astral spaces work
+
+- **The dumpling-soup model**: in Clive's analogy (Book 1, Ch69 L85-107, "Dumpling Soup") worlds are dumplings and the astral is the soup, "the source of all magic" (Book 1, Ch69 L97-99); astral spaces form attached to worlds and break down without them (Book 2, Ch21 L110). The deep astral is pure magic where physical bodies cannot survive.
+- **Apertures** are the doorways: waterfalls, caves, submerged openings, gates or portals. Entry is by walking or swimming through an aperture.
+- **Contents**: monsters, treasure, ruins, and sometimes complete landscapes (rainforests, desert islands, ancient cities, forges).
+- **Spirit coin farms**: Greenstone "was founded because it was such a perfect place for low-end spirit coin farms" (Book 1, Ch80 L42).
+- **Artificial spaces**: not all are natural. The Order of the Reaper trial space in Book 3 turns out to be a Builder boarding vessel.
+- **Proto-astral spaces** (called dimensional incursions on Earth) form briefly with an anchor monster; killing the anchor ends the space, and failing to do so lets monsters into the world. See the Earth files for category ratings and durations.
+
+## 3. Dangers
+
+Constructs and ambushes in the Book 1 desert space (Book 1, Ch109 L33), trial hazards in the Reaper's ground (Book 2, Ch57 L68), and golems and Builder agents in the Book 3 vessel (Book 3, Ch37 L9). Expeditions bring healers, tracking stones for every member and a camp outside the aperture (Book 1, Ch110 L3; Book 1, Ch111 L28).
+
+## 4. Astral kings (spoilers)
+
+An astral king rules a miniature universe forged from the king's own soul: "the astral throne" and "astral gate" are "the tools of astral kings, who forged their very souls into physical universes, creating domains where their power was unassailable and all-but-unlimited" (Book 9, Ch95 L15). The messengers' view is that "you're an astral king because you have an astral kingdom... because you possess an astral throne and an astral gate" (Book 8, Ch65 L88). Marek notes Jason lacked "the third part of the astral throne, astral gate and soul forge trifecta" (Book 10, Ch1 L52). The wiki's longer list of prerequisites is not used here. Astral kings can bestow powers through a bond (Book 9, Ch64 L88), and a messenger voice "needed to be sworn to an astral king, lest he wither and die" (Book 9, Ch90 L4). Jason is an astral king from Book 8 or Book 9 (Book 9, Ch64 L69).
+
+## 5. Interstice (Level 3)
+
+Interstice is a "city world" on a single flat plane with no sun or stars, "both the oldest and largest metropolis in existence", with "administrators in Interstice, but no rulers" and the physical reality the great astral beings use for their business (Book 3, Ch69 L219-222). One city-region is the island Glim, made almost entirely of rainbow-stained ice that does not chill or melt (Book 3, Ch69 L223). Book 12 describes it from Jota Withers's view (Book 12, Ch57 L3). That the Builder meets the Reaper and the World-Phoenix there is a wiki claim, not confirmed here.
+
+## 6. Open questions
+
+- How far the dumpling model is meant to be literal.
+- The exact relationship between astral spaces, transformation zones and reality cores (see Transformation_Zones.md).

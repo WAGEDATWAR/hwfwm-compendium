@@ -1,0 +1,301 @@
+## B10 Ch1 Aftermath
+  OPEN L3: Messengers didn’t dream. They understood the concept, but it wasn’t something they experienced for themselves. Dreaming was a trait of lesser beings. Of the weak. This was what the messenger Tera Jun Casta had been told her entire life, whi
+  CUE L57: ...e with startling speed, so the city being little more than rubble two full weeks after the battle told a bleak story. Only tiny pockets of reconst...
+  CUE L51: ...inevitably, found her first, delivering her to Marek to look after. A few days later, Asano gave her mouth, arms, legs and wings back to her....
+  REG L53 [Vesta_Carmis_Zell]: Marek served her until recently; she was known for her fascination with soul engineering. Jason removes the brand of "her astral king master, Vesta Ca
+  REG L53 [NPC_Rosters_by_Era]: **Messengers**: Jes Fin Kaal, Fal Vin Garath, Benella, Marek Nior Vargas, Tera Jun Casta; their astral king is Vesta Carmis Zell.
+## B10 Ch2 Harder Than They Have to Be
+  OPEN L3: “He said no,” Taika told the Fertility priestess firmly.
+  REG L19 [Vesta_Carmis_Zell]: Marek served her until recently; she was known for her fascination with soul engineering. Jason removes the brand of "her astral king master, Vesta Ca
+  REG L19 [NPC_Rosters_by_Era]: **Messengers**: Jes Fin Kaal, Fal Vin Garath, Benella, Marek Nior Vargas, Tera Jun Casta; their astral king is Vesta Carmis Zell.
+  REG L19 [Plot_Hooks]: **A branded messenger**: Tera Jun Casta's brand was her astral king's tool for keeping her at silver.
+  REG L40 [Vesta_Carmis_Zell]: Marek served her until recently; she was known for her fascination with soul engineering. Jason removes the brand of "her astral king master, Vesta Ca
+## B10 Ch3 Developing Any Skill Takes Practise
+  OPEN L3: “No,” Amos said, looking at the portal to Jason’s soul realm atop the roof of the cloud palace.
+  CUE L11: ...Jason had little to do in the weeks since the Battle of Yaresh. Hiding out in his soul realm from the...
+  CUE L12: ...training and coming to terms with his messenger prisoners. Throughout the weeks since the raid, Jason had been having lengthy daily discussions w...
+  REG L29 [Gods_and_Churches]: Hana Shavar, an elf and High Priestess of the Healer, runs relief from Jason's cloud palace after the messenger attack ;
+  REG L29 [Hana_Shavar]: Runs operations that use Jason's cloud palace as a base.
+  REG L29 [Elves]: **Notable elves**: Allayeth and Charist, Yaresh's two diamond-rank elves; Hana Shavar, High Priestess of the Healer; Elspeth Arella, director of the G
+  REG L29 [Cloud_Constructs_and_Palaces]: **Uses later**: Hana Shavar runs relief operations from Jason's cloud palace after the messenger attack; in Cyrion he sits meditating in his cloud pal
+  REG L29 [NPC_Rosters_by_Era]: **Yaresh officials and clergy**: Musin Heath, Hana Shavar, Carlos Quilido.
+  REG L29 [NPC_Rosters_by_Era]: **Yaresh officials and clergy**: Musin Heath, Hana Shavar, Carlos Quilido.
+## B10 Ch4 War Guilt Clause
+  OPEN L3: Marek Nior Vargas stood before the portal leading out of Asano’s astral kingdom. In the weeks since he first entered, his life and future had been entirely transformed, but he found himself nervous as he looked at the way out. The world out
+  CUE L3: ...gas stood before the portal leading out of Asano’s astral kingdom. In the weeks since he first entered, his life and future had been entirely tra...
+  REG L53 [01_World_Primer]: Most astral kings began as  messengers , a servant race grown on birthing trees, bound by a brand placed in the soul that enforces rank limits .
+## B10 Ch5 Primary Purpose
+  OPEN L3: Jason and Gary were standing outside the forge Jason had conjured up in his soul space for Gary to practise his craft. In this space, Jason could conjure countless materials, including exceedingly rare ones, for Gary to consume. Gary had ev
+  REG L80 [00_Cosmology_Overview]: Gordon's orrery ritual is an example: Jason is told that Gordon can use intrinsic-mandate magic, which operates on the same scale as a great astral be
+  REG L80 [00_Cosmology_Overview]: Gordon's orrery ritual is an example: Jason is told that Gordon can use intrinsic-mandate magic, which operates on the same scale as a great astral be
+## B10 Ch6 Everyone Has a Price
+  OPEN L3: “Whatever you may be thinking, Mr Asano,” Vidal said, “the diamond-rankers aren’t spending their days plotting ways to snatch away your secrets.”
+## B10 Ch7 Trust
+  OPEN L3: Jason didn’t notice the diamond-ranker until she set foot in his cloud palace and blended in with a stream of civilians making their way to the cafeteria. Even then, he almost missed her as that section was not a part of the cloud palace cu
+## B10 Ch8 Original Design Parameters
+  OPEN L3: While Jason’s cloud palace was still largely occupied with servicing the displaced population of Yaresh, Jason maintained an area for himself and his companions. Part of it was a living area, with Sophie and Belinda in one room and the boys
+## B10 Ch9 Unstable
+  OPEN L3: Jason and his team, including new member Taika, headed to Emir’s palace for a meeting. With them were Farrah, Gary and Travis; Gabrielle had long gone off to find members of her own clergy. She would arrive at the meeting with them.
+  REG L38 [Musin_Heath]: "Musin Heath, director of the Adventure Society's Yaresh branch".
+  REG L38 [NPC_Rosters_by_Era]: **Yaresh officials and clergy**: Musin Heath, Hana Shavar, Carlos Quilido.
+  REG L49 [Jes_Fin_Kaal]: In Book 10 she is the messengers' leadership at Yaresh, a Voice of the Will; Jason says she has played things mostly straight but kept things from the
+## B10 Ch10 Dark Bargain
+  OPEN L3: Auras erupted in consternation after Musin Heath, the Adventure Society director, announced a potential alliance with the messenger leader. The gold-rankers kept their equanimity, but many of the silver-rankers were spiritually up in arms. 
+  CUE L72: ...mption and a level of optimism I can only describe as ill-founded. We have months before this disaster, yes? Yaresh is already little more than an a...
+  REG L3 [Musin_Heath]: Announces a potential alliance with the messenger leader and shows his equanimity; presents the messenger-delivered device with distrust.
+  REG L64 [Plot_Hooks]: **An alliance that will betray**: Emir calls the plan to ally with Jes Fin Kaal one in which she will betray them.
+## B10 Ch11 Decorum
+  OPEN L3: A large group of mostly very serious people were having a meeting in a room with a bouncy house floor. The attendees were looking at a blue orb sitting on a table.
+  CUE L18: ...his city too. He turned out to be some magic snake egg planted by the messengers decades ago. There are still naga hiding in the ruins of the city that ...
+  REG L4 [Musin_Heath]: Announces a potential alliance with the messenger leader and shows his equanimity; presents the messenger-delivered device with distrust.
+## B10 Ch12 A Man of Principle
+  OPEN L3: In a room full of shocked faces, Arabelle stood up and moved over to Jason, the bouncy floor making it slightly awkward.
+## B10 Ch13 Experiment
+  OPEN L3: Jason went to the door of the meeting room and looked out, but Lord Bynes was already gone. Being a monster core user didn’t hurt his gold-rank speed and he had shot out like a rocket.
+## B10 Ch14 Spanked
+  OPEN L3: “Gormanston Bynes,” Allayeth explained, “is one of the most prominent members of a powerful political faction here in Yaresh. It was his son, Calcifer, that you sent running off in a panic, but the father is the true threat.”
+  REG L28 [Yaresh_Culture]: **Government**: "In Yaresh, the civic administration is considerably weaker than the churches and the major societies", because one group undermines t
+  REG L28 [Era_Selection]: **Live dangers**: a messenger camp and Knowledge's army outside the city; world-taker worms; the Aristocratic Faction undermining the Duke; the Church
+  REG L28 [Plot_Hooks]: **The Aristocratic Faction**: landowners with no adventurers behind them undermine the Duke.
+  REG L33 [00_Organisations_Overview]: Power versus money : the Aristocratic Faction of Yaresh is described as having "focused on power structures completely divorced from personal power" :
+  REG L33 [Yaresh]: The Aristocratic Faction, a bloc of wealthy aristocrats and merchant barons who own most of the land and provide most of the jobs, is the dominant pol
+  REG L33 [Yaresh_Culture]: **The Aristocratic Faction**: wealthy aristocrats and a few merchant barons who own most of the land and provide most of the jobs, and who use that po
+## B10 Ch15 Better Ambitions
+  OPEN L3: In the empty void of a dying universe, one lush green and blue planet remained. Shielded from entropy by magic older than the ancient universe itself, some of the Builder’s most powerful agents prepared to move it to a fresh, young reality.
+  REG L5 [Great_Astral_Beings]: Vessels have included Shako and Erigo Fin Desca (prime vessel after Shako was taken by the Sundered Throne
+  REG L6 [Astral_Kings_and_Messengers]: Jamis Fran Muskar is an astral king whose avatar attends the Book 10 scene; his avatar stands out because its wings have been completely absorbed into
+  REG L6 [Astral_Kings_and_Messengers]: In a scene with Vesta Carmis Zell he says that when a certain task is complete the price is paid and Zithis Carrow Vayel, the Builder, will have fulfi
+  REG L6 [Jamis_Fran_Muskar]: His avatar is the only one whose wings are completely absorbed into his body.
+  REG L6 [NPC_Rosters_by_Era]: **Council of Kings**: Jamis Fran Muskar.
+  REG L8 [Vesta_Carmis_Zell]: At the Council of Kings her prime avatar scolds Jamis; he says she chose a separate goal from the rest of the group and is young.
+## B10 Ch16 The Instinct to Kneel
+  OPEN L3: Inside Jason’s soul realm, he and his team were sorting through all the loot they had picked up during the Battle of Yaresh. With multiple loot powers and storage spaces between them, the sum total formed a small hillock of magical treasure
+  CUE L63: ...way he sat in a chair, Gormanston Bynes looked like a coil waiting to spring....
+## B10 Ch17 Acceptable Terms
+  OPEN L3: Jason looked around the room, then focused on the gently strobing blue orb.
+  CUE L52: ...d about what happens if I walk away. There will be a price because, a few weeks ago, your people came in here and trashed the place, and you do...
+## B10 Ch18 Actual Adventurers
+  OPEN L3: Jason and Allayeth watched the cloud palace break down into thick fog that obscured the area and replaced the smell of ash and wet mud with a fresh, clean scent. It was slowly drawn into the cloud flask like a massive genie returning to its
+  CUE L20: ...“Calcifer Bynes came out of my portal on his feet. A year ago, he would have come out in a bucket.”...
+  CUE L115: ... nudge them slightly in a direction that won’t leave you spending the next month cleaning up after them. Once it was clear that Lord Charist...
+## B10 Ch19 Bad Influence
+  OPEN L3: Like Jason, Emir had reclaimed his cloud palace as new buildings were swiftly fabricated in their place. As the area once used to hold visiting adventurer vehicles was being reclaimed by the city while they expanded their refugee and rehous
+  CUE L100: ...“And a year ago, he’d have been tearing through one of my churches by now. ...
+## B10 Ch20 Not Like the Ones We Know
+  OPEN L3: In a section of rainforest characterised by tall but intermittent trees rising above the canopy, Jason’s cloud palace had taken the form of treehouses connected by rope bridges. The balcony of the largest treehouse had a sequence of hammock
+## B10 Ch21 A Juice Newton Situation
+  OPEN L3: For essence users, summoned familiars occupied parts of their summoner when not manifested. Colin occupied Jason’s blood, Shade his shadow and Gordon his aura. Clive’s familiar, Onslow, became a magical tattoo on Clive’s abdomen that he cou
+  REG L19 [Rufus_Remore]: The family joke, repeated by Arabelle and Rufus in Book 10, is "my family runs a school" .
+## B10 Ch22 A More Practical Purpose
+  OPEN L3: The mushroom cloud of dust and ash covered a huge area, and all around it, teams of adventurers were clashing with the messengers altered by elemental power. One of the first things Jason had done upon coming into contact with one was to to
+## B10 Ch23 Explicitly Antagonistic
+  OPEN L3: Jason and his team were not the only ones to capture some of the elemental messengers, although they were the ones to catch the most. Clive and Farrah’s ritual cages were able to contain almost fifty of them, although the constructs would n
+## B10 Ch24 Leap of Faith
+  OPEN L3: Jason and his companions were sitting at a large round table in a garden courtyard of Jason’s soul realm, nibbling at refreshments.
+## B10 Ch25 Garden-Variety Arrogance
+  OPEN L3: Jason’s team was preparing to leave his soul realm when Jason went dead still.
+  CUE L25: ...long into a wall of molasses. The world felt heavy, like the air on a summer day so humid that it was hard to breathe....
+## B10 Ch26 How to Reach Gold Rank in Three Easy Steps
+  OPEN L3: Jason and Allayeth continued to meander through the garden of Jason’s spiritual estate.
+  REG L55 [Spoiler_Management]: **The Builder's identity**: the new Builder is the mortal messenger Zithis Carrow Vayel. Level 3.
+  REG L55 [Great_Astral_Beings]: The Builder | Construction, forging reality | Original Builder sanctioned; new Builder is the mortal messenger Zithis Carrow Vayel (sixteen-year-old d
+## B10 Ch27 Nigh-Impossible Goal
+  OPEN L3: As Jason and Allayeth continued to meander through his garden estate, Allayeth had the chance to see much more of it. In the manicured gardens that didn’t tower over them, she could see the looming pagoda at the centre of the estate. A netw
+  CUE L36: ... he read that from their auras, something she was not used to. It had been years since someone else could read her emotions while theirs were clos...
+## B10 Ch28 We Should Probably Get You Out of Here
+  OPEN L3: “We need to talk with my team,” Jason said to Allayeth. They were walking through an underground cavern lit by glowing fungus too bright and too convenient to be natural phosphorescence.
+## B10 Ch29 The Questions You’re Asking Don’t Matter
+  OPEN L3: Allayeth went through the portal arch, leaving Jason’s soul realm. Jason and his companions all looked at one another.
+## B10 Ch30 Political Price
+  OPEN L3: On the balcony of Jason’s treehouse, Vidal Ladiv was looking warily at the spherical device at the end of the pole he was holding.
+  CUE L35: ...’s arms popped off and went sailing over the rail with the thrum of a spring being violently unsprung....
+## B10 Ch31 Ordinary Everyday Adventuring
+  OPEN L3: Jason’s team had been expecting the emergence of elemental-infused messengers to accelerate the plans of Jes Fin Kaal. Instead, they heard nothing as they continued taking and fulfilling contracts, Shade picking up new ones as he delivered 
+  CUE L9: ...p contracts, Jason’s perception ability finally crossed the line just two days before Humphrey’s....
+  REG L69 [Gods_and_Churches]: In Book 10 a goddess says she cannot see into the astral space Jason is holding prisoners in; in Book 8 a priest says his god cannot see inside a buil
+  REG L69 [Religion_in_Practice]: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  REG L69 [Spoiler_Management]: Gods are limited: a goddess cannot see into an astral space Jason holds, and a priest says his god cannot see into a hidden building. Characters often
+## B10 Ch32 Drunken Lies and Mythic Legends
+  OPEN L3: In a ghost town largely reclaimed by jungle, Jason and Allayeth watched Raelia open a portal and leave through it.
+## B10 Ch33 Stash Wakes Up From a Nap
+  OPEN L3: Sophie and Humphrey made their way through the building affixed to the side of a cliff, arriving at a window wall with a gorgeous view of the rainforest below, stretching out to the distant coast. In front of the window was a huge mound of 
+  REG L76 [Era_Selection]: **Calendar**: Jason says he is twenty-nine.
+  REG L109 [Familiars]: He is summoned using an awakening stone looted from a sanguine horror and lives in Jason's blood: Jason pricks his finger and lets him "melt back into
+## B10 Ch34 Welcome Back, Colin
+  OPEN L3: The giant, fleshy mass splashed into the roiling red pool at the bottom of the shaft. Jason winced at the sound, which, even through the echo effect of the shaft, reminded him of messing up a dive and doing a painful belly flop.
+## B10 Ch35 Optimism
+  OPEN L3: Every building in the village was damaged, but at least the damage was minor. They had suffered an unusual sequence of attacks, starting with hundreds of lesser monsters that the locals had fought off themselves with shovels, pitchforks and
+  CUE L51: ...ough to make for a small hamlet. Rather than being dismal, the bright summer sun reflected off the water and brought out the colours of ...
+## B10 Ch36 Mothers
+  OPEN L3: Both vehicles from Earth and those from Pallimustus had their advantages. Magical vehicles could accomplish things that nothing from Earth could match, especially at the high end. No rock star’s private jet or presidential aeroplane could c
+  CUE L13: ...It had been months since Melody’s capture by Jason’s team. She had spent that time i...
+  REG L14 [Cults_and_Orders]: Origin and nature  : created by Disguise, masquerading as Purity; the Flames of Redemption are an extreme modification of lesser vampirism.
+  REG L14 [Spoiler_Management]: **Purity, Disguise and the Order of Redeeming Light**: the gods may already have sanctioned Purity; Disguise created the order. Level 2-3.
+## B10 Ch37 The Whims of People Like Me
+  OPEN L3: They were seated on benches in a corner of a crowded city square, a sea of people flowing from building to building and street to street. The temples were abustle, Jason recognising the closest as churches for Trader and Healer. The buildin
+  CUE L27: ...ficial from the Continental Council was expected to arrive within the next day or two and the messengers had reached out to say they would...
+## B10 Ch38 What’s Wrong With Simple
+  OPEN L3: Bellory watched as the plant essence user restored the old tree that had once formed the bones of her tavern. She could rebuild it, but it wouldn’t be the same, especially not with the directions from the city officials. It would be bigger 
+  CUE L75: ...He was closer now and she could smell him. That enticing fresh spring aroma, strange set against the earthy, acrid stench of the ...
+  REG L73 [Gods_and_Churches]: Death certification : the Church of Death certifies deaths; in Book 7 an official is shown a certification that Jason has died four times "so far", an
+## B10 Ch39 Faith is the Bane of Intellect
+  OPEN L3: Jason joined his team as they passed by a worship square. The temples surrounding it were in better condition than most of the city’s buildings, but not through any respect for the gods. The messengers had no compunction about defiling temp
+  REG L46 [Gods_and_Churches]: Book 10 states that the Order of Redeeming Light was created by Disguise, a god masquerading as Purity: its Flames of Redemption are an extreme modifi
+## B10 Ch40 Listing Off Animals
+  OPEN L3: Sophie, Jason and Melody were in a blank room in Emir’s cloud palace. Carlos, Arabelle and Emir were watching through a wall only transparent from the outside. Even knowing that her mother was more unstable than ever, Sophie was astounded a
+## B10 Ch41 I’m Going to Change the Laws of Reality
+  OPEN L3: As soon as she entered Jason’s soul realm, Sophie was blasted with heat. They were in some kind of industrial facility with a massive foundry pit of molten iron and her mother dangling over it from a chain. Sophie’s ire rose as she watched 
+  CUE L31: ...me. I tried absorbing too much at once and it left me unconscious for three days, and loopy in the head for weeks. Plus, the information did...
+## B10 Ch42 Exactly Where I Want to Be
+  OPEN L3: Although his body was sitting with Emir and Carlos, Jason’s attention was on other places within his soul realm. There was only so much privacy Jason could offer Sophie and her mother, but he forcibly moved his attention away from where she
+  CUE L41: ...nfirmed. “They’re hard to spot, but I saw one on a messenger agent in the weeks before the attack. Estella’s fourfold senses make her even better ...
+  CUE L45: ...and present her findings in full, we can be ready to move as early as the day after tomorrow.”...
+  REG L4 [Marek_Nior_Vargas]: Leads Jason's messenger prisoners and plans their uprising.
+  REG L7 [Astral_Kings_and_Messengers]: Tera Jun Casta is a branded messenger whose brand Jason removes .
+  REG L7 [Tera_Jun_Casta]: Her soul is branded and she was raised on lies.
+  REG L39 [Estella_Warnock]: Jason says her "fourfold senses make her even better than I am" at spotting messenger agents, and that she is an experienced spy; she maps the messeng
+  REG L41 [Estella_Warnock]: Jason says her "fourfold senses make her even better than I am" at spotting messenger agents, and that she is an experienced spy; she maps the messeng
+## B10 Ch43 An Impossible Act of Forgiveness
+  OPEN L3: The messenger envoy group was set up not too far from where the adventurers were camped outside the city. There were no messengers amongst them, being comprised entirely of what they called the servant races. They had travelled along the ne
+## B10 Ch44 The Manner of Person One Will Be Dealing With
+  OPEN L3: The team moved towards the messenger servants where the gold-rank Magic Society official was already barking orders, both to his own people and the messenger servants.
+## B10 Ch45 Because It’s Hard
+  OPEN L3: Jason was using his cloud-flask to produce what was essentially a combat recreational vehicle. The size of a large tour bus, it was comprised of cloud-substance encased in panels of various magical materials. The blue and green metal panels
+  CUE L47: ... set up somewhere more remote, like when we were on the road contract last month.”...
+## B10 Ch46 Everything Adventurers Should Be
+  OPEN L3: Jason took his cloud vehicle a significant distance from Yaresh, away from the messenger strongholds and towards the eastern coastline. He set up a cloud palace atop a massive plateau cliff that offered spectacular views that stretched out 
+  CUE L64: ...“Five years ago. We’ve kind of moved on since then. Pay an auxiliary advent...
+## B10 Ch47 What is the Adventure Society
+  OPEN L3: Rufus emerged from a shadow portal in Jason’s cloud palace, in front of the open metal sphere. A moment later, Jason emerged from the opening and walked down the ramp.
+  REG L60 [Guilds_and_Houses]: In his own thoughts he has concluded that the faction is weak, foolish and oblivious to its path to self-destruction and that the ship must be drydock
+  REG L78 [Familiars]: The team's name was picked by a familiar: "Did they let one of their familiars pick the name?" "Actually, yes, they did" ; the wiki says Stash submitt
+## B10 Ch48 Tradition and Decency
+  OPEN L3: The gathered elites looked at Marcus like he was a madman who had somehow invaded the Adventure Society campus. Gormanston Bynes masked his contempt for their muttered outrage, carefully moderated not to draw the leonid’s ire.
+## B10 Ch49 Destiny
+  OPEN L3: Marcus made his way through the Adventure Society campus after meeting with the carefully selected nobility. It was fun going full bombast and pushing around some aristocratic slackers, but it was also exhausting to ham it up like that. For
+  CUE L20: ...“A year ago, I would have said no. But just as the world started going ...
+  CUE L102: ...nvincing if the Magic Society hadn’t tried to grip my huge magic ball two days ago.”...
+## B10 Ch50 The Nightmares Never Really Go
+  OPEN L3: In the cloud palace, Jason had an almost empty room where the walls were magic whiteboards made of cloud stuff. He and Clive had spent the better part of a week using the space to try and decipher the basics of the messenger astral magic, b
+## B10 Ch51 Unmistakeable
+  OPEN L3: Marcus was in a command tent set up in Marshalling Yard One, the largest on the Adventure Society campus. From there, he was organising the round-up of messenger-servant infiltrators, as well as the impending expedition underground. He stoo
+## B10 Ch52 Money or the Box
+  OPEN L3: Jason swept a couple of metres over the highway in a flying device that was little more than a seat in a roll cage with drone rotors. It was something he’d seen on the internet on Earth, with some sleek Shade modifications and, of course, f
+## B10 Ch53 The Task You Can’t Seem to Manage
+  OPEN L3: It wasn’t hard to get the messenger servants in line and Jason was soon frog-marching them into his soul realm. These were people already broken by the messengers, so obedience in the face of power came easy. That Jason had clearly been in 
+## B10 Ch54 Worth Saving
+  OPEN L3: Messengers rarely touched the ground. It was the reason Marek Nior Vargas had stood out to Jali; he often stood on the ground, walking instead of floating. This act had drawn a lot of negative attention, leaving many wondering, as she had, 
+## B10 Ch55 Not Yet
+  OPEN L3: Jason stood alone on one of several towers of a castle. Under a bright blue sky, rolling hills, woodlands and vast plains of grass stretched out to the horizon, all in the colours of early autumn. The air was clean, a breeze taking just the
+  CUE L3: ...ns of grass stretched out to the horizon, all in the colours of early autumn. The air was clean, a breeze taking just the right edge fro...
+## B10 Ch56 Sometimes, Violence is the Answer
+  OPEN L3: Jason turned to look at Vesta Carmis Zell. She was extremely tall, even for a messenger, filling the doorway that had easily accommodated Jali. The astral king didn’t look different from other messengers, height aside. She had the usual exq
+  CUE L13: ...that up with your Voice as well. She was meant to have that device to me weeks ago.”...
+## B10 Ch57 Welcome Aboard
+  OPEN L3: The messenger device was an ovoid crystal held suspended in a rectangular frame of metal. The frame was some kind of magical brass variant, based on the colour and the magic Jason sensed from it. The crystal was very dark blue and perfectly
+  CUE L71: ... won’t let me forget about the time I took his slice of pie. That was three years ago.”...
+## B10 Ch58 Quick and Clean
+  OPEN L3: Yaresh was no longer lit up at night. The tree buildings were toppled, lanterns no longer draped from the branches. The metal and glass ziggurats no longer shined in the city centre, having been annihilated in the fight between the garuda a
+## B10 Ch59 What We’re Walking Into
+  OPEN L3: The expedition members, along with Allayeth and Marcus, were in a briefing room aboard an airship owned by the Adventure Society. This included Jason’s team, Rick’s team and Korinne Pescos’ team as the silver-rank combat contingent, along w
+  CUE L43: ...s an underground city down there and the native smoulders were, as of several months ago, largely unaffected by the unstable natural array. They’ve ...
+  REG L38 [Jes_Fin_Kaal]: In Book 10 she is the messengers' leadership at Yaresh, a Voice of the Will; Jason says she has played things mostly straight but kept things from the
+## B10 Ch60 What Kind of Adventurer
+  OPEN L3: The expedition team was standing on a platform that hung over one side of the hole. A strong wind blew through the town and over the aperture, creating a low, ominous roar. No one could resist going to the edge and looking down into the rou
+## B10 Ch61 Gary’s Old Team
+  OPEN L3: “You were being optimistic,” Jason told Humphrey. “If you kill a whole parcel of monsters in front of some elite adventurers, the result won’t be an awed crowd. It’ll be a cluster of wildly self-confident people explaining how they would ha
+## B10 Ch62 Hit Points
+  OPEN L3: The massive vertical shaft was thick with battle. The gold-rank adventurers were doing their best to keep the fight with the spider moles away from the crawlers and the lower-rank adventurers. The silver-rank adventurers had even more to de
+## B10 Ch63 Surplus to Requirements
+  OPEN L3: Jason lay spread across a rock like deeply unpleasant jam. Colin, in an incomplete apocalypse beast form, continued battling the gold-rank spider mole. Leeches had crawled onto the monster’s body, moving between the stiff, venomous bristles
+## B10 Ch64 Pride
+  OPEN L3: It was no longer possible to see the forest of worms down the shaft. The butterflies filling the space had turned it into a lake of glowing blue and orange. The expedition group were above it all in stone-shaped alcoves or on conjured platf
+  CUE L85: ...work since the nineties, was on drugs for a while but kicked it about ten years ago and is now super wholesome and in a Christian rock group.”...
+## B10 Ch65 The Greatest Enemy of All
+  OPEN L3: The underground city of Cardinas was ruled from the Citadel of Pillars, if ruled was even the right word. It had been a harmonious place for centuries before the cultists and then the messengers burrowed down from the surface world. They ha
+  REG L3 [Plot_Hooks]: **A buried city**: Cardinas lies under the mountains, ruled from the Citadel of Pillars, where fewer than ten thousand brighthearts survive.
+  REG L6 [Smoulder_and_Brighthearts]: **Brighthearts**: in Book 10 fewer than ten thousand of the brightheart smoulder survive, crammed in the citadel cavern. Marla is a fire aspect with s
+  REG L9 [Smoulder_and_Brighthearts]: **Brighthearts**: in Book 10 fewer than ten thousand of the brightheart smoulder survive, crammed in the citadel cavern. Marla is a fire aspect with s
+## B10 Ch66 Taking the Position of a God
+  OPEN L3: The expedition was waiting on the return of Amos Pensinata and the other gold-rankers that had taken off down the shaft. Jason and his companions sat around a pair of tables playing board games while they waited, discussing advancement to g
+  CUE L39: ...ged. Swiftly and drastically, without me even noticing. It was only a few months later that the barge full of sand pirates came along, you remembe...
+  CUE L23: ...e. I was building up to another proper breakdown. But first thing the next morning, I absorbed the rest of my essence set.”...
+## B10 Ch67 Confident Guesses
+  OPEN L3: The expedition’s gold-rankers, plus Clive and Jason, were having a strategy meeting before resuming their descent down the shaft.
+  CUE L56: ...The goddess’ smile was the first light on a warm spring morning....
+  REG L71 [01_World_Primer]: Astral spaces and zones : the City of Fallen Echoes , the desert astral space , Cardinas and the natural array , transformation zones .
+## B10 Ch68 You Don’t Do it Blindly
+  OPEN L3: Jason and Miriam stood surrounded by others at the edge of a platform. Leaning out to look down they saw the seething mass of elemental messengers coming up the shaft.
+## B10 Ch69 Of a Mind to Kill You
+  OPEN L3: Beaufort’s body contained far too much metal to fit within his elven frame. When not in his war form, most of it was contained in a dimensional space created by his star seed. In almost every instance, that was a convenience, the star seed 
+  REG L4 [Smoulder_and_Brighthearts]: **War form**: Beaufort prefers his fifteen-foot metal skeleton "war form" but must meet the brightheart smoulders in a form they will accept.
+## B10 Ch70 Humungous Hairy Hands
+  OPEN L3: Jason stepped out of a Shade body that was standing on the expedition’s main defensive platform. Ranged attackers were arrayed along the barricaded edge or firing through holes in the platform itself. Stone-shapers were repairing damage as 
+## B10 Ch71 Echoes of the Dead
+  OPEN L3: While many of the adventurers excelled using familiars, summons and flight powers as platforms from which to battle the messengers, not all fared as well. The most vulnerable were those relying on external flight devices. Some were fine, us
+  REG L52 [Smoulder_and_Brighthearts]: **Home**: the largest chamber of the underground realm was home to most brightheart smoulders.
+## B10 Ch72 Citadel
+  OPEN L3: The sense of death from the previous chamber vanished the moment the expedition passed through the double doors set into the giant gate. The pervasive elemental influence on the ambient magic snapped back into place so sharply that Jason do
+  REG L31 [Era_Selection]: **Setting**: the underground city of Cardinas and its natural array; a third transformation zone that Jason reshapes.
+  REG L31 [01_World_Primer]: the City of Fallen Echoes , the desert astral space , Cardinas and the natural array (
+## B10 Ch73 The Impossible
+  OPEN L3: Jason, Clive and Miriam sat in the council chamber with Beaufort and the two brighthearts, Lorenn and Marla. The adventurers explained the Builder invasion, the messenger invasion and the expedition. Some of it Lorenn had already learned fr
+## B10 Ch74 Everything in My Power
+  OPEN L3: Despite being deep underground, the growth chamber was filled with light. Level after level of stone lattices and catwalks were overgrown with luminescent flora creating a glorious light show. Jason’s soul realm had underground areas with g
+## B10 Ch75 Control the Pot
+  OPEN L3: Jason watched the brightheart population migrate towards the ground level in preparation for moving through his portal. The base of the chamber was little more than rock carved flat for the most part, aside from the roads moving between the
+## B10 Ch76 It Happens Because I Want It To
+  OPEN L3: The meeting room in the citadel was more or less rectangular. Jason and Miriam were already waiting when Farrah arrived. She found the two commanders in the middle of a contentious conversation, their voices escalating in volume as they arg
+## B10 Ch77 More Urgent With Your Warning
+  OPEN L3: Jason and Lorenn were the last to return to the citadel chamber through the soul realm portal. Everyone left inside was staying for the duration. The portal closed and Jason nodded at Clive.
+## B10 Ch78 A Little Bit Odd
+  OPEN L3: The silver-rankers in the group immediately saw the concern on the faces of Jason and the gold-rankers. Jason stepped right into Clive’s personal space, arresting his attention.
+  REG L38 [Gods_and_Churches]: Hana Shavar says that the Church of Undeath lies dormant for generations and strikes when its god has "saved up his chances to intervene", bringing "d
+  REG L38 [Cults_and_Orders]: Hana Shavar says the church lies dormant for generations and, when it finally acts, it is like its god has saved up his chances to intervene; expect "
+  REG L38 [Hana_Shavar]: Explains that the Church of Undeath acts rarely.
+  REG L38 [Era_Selection]: **Live dangers**: a messenger camp and Knowledge's army outside the city; world-taker worms; the Aristocratic Faction undermining the Duke; the Church
+  REG L38 [Plot_Hooks]: **Undeath's patience**: the church lies dormant and then acts all at once.
+  REG L52 [Arabelle_Remore]: Is with Gabriel at the death-chamber gate in Cardinas.
+## B10 Ch79 Dubious Alliance
+  OPEN L3: Onslow’s shell was stuffed full of adventurers and brighthearts as the expedition moved through an empty tunnel. The cultists could propel themselves, but, even if they couldn’t, Clive wouldn’t allow them on anyway. Clive was on top of the 
+## B10 Ch80 Come Like a Tsunami
+  OPEN L3: The expedition moved forward with extreme wariness. The elemental messengers ranged ahead of them while scouts were left behind to monitor the approach of the undead. Miriam and Jason were atop Onslow’s shell in the middle of the formation.
+## B10 Ch81 Put Up or Shut Up
+  OPEN L3: The first major breach of the wall was on the fifth floor. It began as a minor breach, the wall blasting out in a cloud of stone dust and rubble. Gary’s team was the first to respond, with the leonid once more moving in to block the gap. Th
+  REG L36 [Jes_Fin_Kaal]: Boris says she believed Destruction wanted a massive explosion once the messengers claimed the soul forge.
+## B10 Ch82 Miracle
+  OPEN L3: The wall between the citadel chamber and the death chamber was leaking like a sieve. Gary moved from breach to breach in a rush now, as did the other teams, yet a half dozen gaps were spilling undead into the chamber. The undead that made i
+  REG L62 [Gods_and_Churches]: The goddess of death appears to Jason in the Cardinas death chamber as "a stocky, middle-aged woman with a colourful dress" with the warmth of "a matr
+## B10 Ch83 Death Knows How to Wait
+  OPEN L3: “Two resurrections aren’t enough?” Jason asked the goddess Death. “Even as justification for doing something you must want to do anyway?”
+  REG L71 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+  REG L75 [Gods_and_Churches]: In return he gains the title Keeper of the Cycle: abilities that apply afflictions also apply ghost fire, mana drain degrades the animating force of u
+## B10 Ch84 Sometimes They Do
+  OPEN L3: “A miracle?” Emir asked. “That’s why you met the goddess of death?”
+  CUE L53: ...ons from you. I have no intention of secretly pining after Miriam for a decade before finally growing the balls to propose.”...
+  CUE L85: ...ewhere in your mind is the idea that you’re still that lost kid I met six years ago. That you’re a normal person in extraordinary circumstances...
+## B10 Ch85 Fighting Alone
+  OPEN L3: Jason hadn’t yet used the ghost fire power he had gained on the undead. Now he was watching the divinely enhanced version engulf the undead like a wildfire, spreading from the defenders as if they were holy arsonists. Any time a weapon, arm
+  CUE L25: ...“Then I shall thank you again for retrieving my clergy those years ago. Allowing them to be snatched away and locked in stasis, ou...
+## B10 Ch86 Insufficient Vessel
+  OPEN L3: The death chamber side of the wall was an unrecognisable ruin from its days as a vertical stack of buildings. The outer walls had been staved in by the invading undead, exposing the insides the defenders had barricaded. Gary stood between t
+  REG L59 [Magic_and_Adventuring]: Spoilers: the  Cup of Heroes  is a miracle of Hero that someone drinks when pushed to the brink;
+  REG L59 [Tokens_Stones_and_Relics]: **Cup of Heroes**: the god of heroes' offer of divine power; Gary "has drunk from the Cup of Heroes" and the window warns the divine power will work t
+  REG L59 [NPC_Rosters_by_Era]: **Expedition**: Gary, Gwydion Remore and Danielle, Boris Ket Lundi.
+  REG L59 [Plot_Hooks]: **A hero's price**: Gary drinks from the Cup of Heroes and the divine power will try to leave him.
+  REG L59 [Gods_and_Churches]: Those who make the ultimate sacrifice are offered the Cup of Heroes (Book 10, Ch89 L54; Gary drinks it,
+## B10 Ch87 Twin Flames
+  OPEN L3: The brightheart city had once been a subterranean wonder. Sustaining a population in the hundreds of thousands in an enclosed ecology, far from the air and light, was anything but easy. Even with magic, every choice came with compromise, so
+## B10 Ch88 Naught But Faith
+  OPEN L3: While the divine ghost fire continued to burn, it was fading in strength. What had once annihilated the lesser undead, swiftly burned through the silvers and strongly impeded the golds was now far less efficacious. Miriam adjusted tactics a
+  CUE L32: ... with that of Sophie, rank-ups having little improvement to make. The five years before they met again felt like twice that and changed them both, ...
+  REG L58 [Gods_and_Churches]: Garth Larosse, a zemravore and priest of Undeath, leads the church's priests in Cardinas .
+## B10 Ch89 Thinking Like an Adventurer
+  OPEN L3: Miriam and Jason watched as the elemental messengers chased the retreating undead.
+## B10 Ch90 Dread and Crushing Despair
+  OPEN L3: The reinforcement group made up of Jason, Emir, Constance and Team Storm Shredder paused at the massive entrance that led into the former brightheart city. The tunnels and chambers they had passed through to get there had all been abandoned
+  CUE L14: ...“A couple of years ago.”...
+## B10 Ch91 Avatar and Demigod
+  OPEN L3: The battle for the wall was being fought in the mouths of the various breaches. The intercession of Gary and his demigod power had given the defenders breathing room to hold breaches long enough for barricades to be put back in place, but t
+## B10 Ch92 What He Wants For Himself
+  OPEN L3: Gabriel swept his sword in a horizontal arc and a wave of flame washed over the undead. This left the lesser undead falling apart as their flesh turned to ash and their bones to dust, but the greater ones continued unabated. A massive claw 

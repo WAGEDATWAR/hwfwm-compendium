@@ -1,0 +1,314 @@
+## B13 Ch950 A Person the Other Used to Know
+  OPEN L3: Jason hugged his sister. They were alone on the rooftop garden of her family home.
+  REG L1 [Erika_Asano]: In Book 13 Jason returns to her rooftop garden and they hug; she is blunt about how he left things.
+  REG L29 [Amy_Asano]: Her daughters with Kaito are Hana and Jace; in 2038 Hana is twenty-three and Jace nineteen.
+  REG L29 [Kaito_Asano]: His daughters are Hana and Jace. Jason sees a Kaito-like face in the mirror after ranking up.
+## B13 Ch951 Messy but Delicious
+  OPEN L3: Jason placed a comforting hand on Nik’s shoulder as they walked down a corridor in the cloud ship.
+  CUE L11: ...“I wanted to talk to you about it. But year after year, you didn’t come back.”...
+  CUE L50: ...“Josh,” Sue said, “it’s a kids’ TV show from sixty years ago, made in Japan and translated by the British. How is not kn...
+  CUE L52: ...ugh a retrospective documentary from a box set they released a couple of months ago. The sixtieth anniversary edition, Josh.”...
+  REG L50 [Era_Selection]: **Calendar**: "almost twenty years" since the Reaper's priests were freed; Book 13 is set in 2038.
+## B13 Ch952 All Your Well-Learned Politesse
+  OPEN L3: The new and extremely popular new member of the Asano family was looking rather shell-shocked. Jason extracted Nik from the clutches of Hana and Jace, taking him to a quiet corner of the balcony.
+  REG L74 [Magic_and_Adventuring]: Jason also mentions a relic fought over on Pallimustus that could purge residual monster cores .
+## B13 Ch953 Perfect Humanoid Specimens
+  OPEN L3: The Australian security team returned through the portal to report on what they had found. Jason sent Lu Yan through a separate portal, to join with the government officials eating frozen desserts. Lu would join their tour, led by the Conci
+  CUE L86: ...raiding the buffet table as if they needed to store food away for the winter. Belinda was interrogating an uncertain-looking Itsuki Tiwa...
+## B13 Ch954 Misgivings
+  OPEN L3: Members of the Cabal had been hiding themselves for longer than humans — at least the ones from Earth — had been recording history. Some were reclusive, their glamours not holding up to close scrutiny. Others were capable shape-shifters, bl
+  CUE L15: ...fter Noreth’s actions. The dimensional bridge had needed to be put in place decades before previously necessary....
+  REG L3 [Earth_Powers]: Messengers hid among its leaders: "even many amongst the Cabal had considered the angelic founders of their collective a myth" .
+  REG L4 [Astral_Kings_and_Messengers]: Messengers can hide their wings, reduce their size and diminish their beauty , and have hidden on Earth for millennia.
+  REG L5 [Boris_Ket_Lundi]: Boris has long been comfortable with human proportions and once spent several millennia as a celestine research assistant .
+  REG L7 [Boris_Ket_Lundi]: Earth was chosen because of the Builder sanction scandal; the Council of Kings avoids it .
+  REG L9 [Boris_Ket_Lundi]: He worked with the founder's familiar to betray the Network's founder to the early societies .
+  REG L19 [Dawn]: Book 13 : Boris says "Dawn exceeded mandate" .
+## B13 Ch955 The Unadulterated Jason
+  OPEN L3: The diplomatic contingent from the Storm Kingdom had set up their area of Jason’s cloud ship like an embassy. Jason provided the space, tailored it to their requests, and left them to it. Like an actual embassy, any sovereignty the Storm Ki
+  CUE L30: ... her attire was incongruous with the imposing lobby. She wore a light summer dress, sandals and wide-brimmed sunhat. The print of her dr...
+## B13 Ch956 Emergent Situation
+  OPEN L3: Jason couldn’t stop grinning. Walking along the promenade deck, his fingers were intertwined with Zara’s as she walked beside him.
+  CUE L41: ...first met?” Jason said, in response to a question from Ken. “That was twenty years ago. She was a fancy princess from a foreign land, and I was bu...
+  REG L40 [Zara_Rimaros]: Book 13 : kisses Jason on the promenade deck ; meets Erika, Emi and Ken.
+## B13 Ch957 When the Screaming Began
+  OPEN L3: Ilyin, Gusev and Orlova moved through the dark concrete tunnels of the abandoned bunker complex. Designed to shelter tens of thousands for as much as a week, it was a sprawling warren, crawling under the city. The exposed construction site 
+  CUE L28: ...“It’s a movie from about forty years ago,” Ilyin said....
+  CUE L52: ...“I’ve been hearing chatter, over the last year,” Ilyin said. “People talking about him coming back. Things...
+## B13 Ch958 A Lot Harder Than Anticipated
+  OPEN L3: Ilyin found his passage up the elevator shaft discomforting, lifted as if by a disembodied hand. It didn’t help that, to grab him, Asano had suppressed Ilyin’s aura first. Reaching the surface, he passed through the hole his team had jackha
+  CUE L50: ...Callum was far more stable than when Jason had known him years earlier, during his obsessive searching for Sophie’s mother. The ab...
+  REG L48 [Humphrey_Geller]: Rank : iron in Book 1; a gold-rank expedition leader by Book 13 .
+  REG L48 [Tone_and_Voice]: **Humphrey**: precise and a little shy about romance, then crisp in command.
+## B13 Ch959 Without Consequences
+  OPEN L3: In the vampire laboratory, Clive and Lorelei were cataloguing the overtly magical tools and materials. Travis was doing the same with the technological tools, while also checking in on an IT specialist from the Cabal who was working on the 
+  CUE L60: ... Audrey Blaine, may I introduce Team Biscuit. Team, this is Audrey. A few decades ago, she ran an extremely sketchy joint project between the ext...
+  CUE L74: ...ging Ms Blaine to the lab, Clive. My grandmother pinched her from the Network years ago, and she’s been running clandestine experiments ever since....
+  CUE L96: ...ion that EoA actively worked to turn you into an urban legend, in the last days before magic went public. They were using you to pave the way for ...
+## B13 Ch960 What It Will Do to Itself
+  OPEN L3: Under a night sky, Jason and Emi stood on a wooden platform, high in a tree house. They were in the city of Arbour, in what was more a tree mansion than a tree house, spanning across several towering redwoods. Even the living trunks were pa
+  CUE L23: ...’s interests at heart is only good for China. When you and I met him, twenty years ago, we were looking at him as a potential asset for what I und...
+  CUE L35: ... things I have seen him do with my own eyes. He is not the man we met two decades ago.”...
+  REG L14 [Glossary]: Special-interest territory : the Australian government's status for the standing stones and for Asano Village, managed by a multinational organisation
+## B13 Ch961 The Scary Demigod Side
+  OPEN L3: Asano Village had an auditorium for large meetings. Jason sat quietly at the back, watching a presentation by Clive, Audrey and a pair of biologists from the Cabal and the Network. With them were officers from the CIA and their Australian c
+  CUE L29: ...“He hit silver rank a couple of months ago,” the technician said....
+  REG L8 [Natalie_Park]: An ASIS agent and silver-ranker, she was a young girl at Jason's last visit and was trained on Farrah's and Rufus's methods.
+  REG L8 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+## B13 Ch962 I Know What You Are
+  OPEN L3: The first people from Earth to visit Jason’s astral kingdom had been a trio of government officials and the security team that came looking for them. After their experiences, they had been subject to every test that could be devised, be it 
+  CUE L14: ...world, and this city, especially. Growing, like a garden. Only in the last year or so has it really settled down.”...
+  CUE L90: ...agoon. Gary recognised Jason, Rufus and many others he had met in the last week. His eyes, however, were drawn to a towering leonid in fron...
+## B13 Ch963 Minimum Collateral Damage
+  OPEN L3: Jason and Gary sat, side by side, on a porch swing. Mist wetted the trees growing from the sides of the gorge, filling the air with the scent of the leaves. Jason was still, gathering his thoughts, while Gary shifted in anticipation of long
+  REG L63 [Gary]: And you aren't him." The Reaper "just passed it on" .
+## B13 Ch964 Expanding His Influence
+  OPEN L3: In Zermatt, Switzerland, it was the early hours of the morning. In a chalet of largely glass walls, Marie Finnegan sipped at a mug of hot chocolate. On the coffee table, her phone beeped a notification. She picked it up and saw a text messa
+  CUE L9: ...The Network had fragmented itself into four, well over a decade ago. The Chinese and US governments had absorbed, or been absor...
+  REG L3 [Earth_Powers]: Marie Finnegan, the recently expelled director of the Zurich Network branch, lives in a chalet in Zermatt, Switzerland, and is allied with the vampire
+## B13 Ch965 This Is Kind of How Team Biscuit Operates
+  OPEN L3: The massive torrent of transcendent light continued to gush from the giant portal, inundating the rainbow glow of the manifestation. The adventurers surrounding the phenomenon looked on as monsters swarmed out, thick as insects, despite the
+  CUE L15: ...“It would have been a transformation zone, probably. It’ll still be a few years before the astral bridge stabilises the dimensional membrane enoug...
+  CUE L125: ...As a reminder, I'll be off cavorting with other litRPG authors next week, and no chapters will be released....
+## B13 Ch966 A Cultural Experience
+  OPEN L3: Onslow’s shell had expanded to the size of a house. It was serving as combination command centre, rest area and triage tent, always hosting one or two healers. As powerful as the adventurers were, no gold-rank monster was to be dismissed, a
+  REG L71 [Emi_and_Nik]: By Book 13 he has mapping powers more precise than Jason's tactical map and can relay powers and devices remotely; he wears a straw hat with ear holes
+  REG L71 [Emi_and_Nik]: By Book 13 he has mapping powers more precise than Jason's tactical map and can relay powers and devices remotely; he wears a straw hat with ear holes
+## B13 Ch967 What I Present to the World
+  OPEN L3: Spiritual damage lingered, beyond the capacity of healing magic to repair. This was something Jason was intimately familiar with, but his latest spiritual injury was mild. Holding shut the rip in the universe had strained his prime avatar, 
+  CUE L39: ...centuries of essence user training in a few years. Essence users from ten years ago are stronger than those with decades of experience. This ti...
+## B13 Ch968 A Brief but Firm Reminder
+  OPEN L3: “Are there any kind of warning signs I should be aware of?” Anna asked. “Some kind of indication that you or your familiars are about to go off like a powder keg?”
+  CUE L89: ... if for anyone. The stockpiles from the old transformation zones were depleted years ago. Maybe there are a few still stashed around, but they haven...
+## B13 Ch969 Good Lord
+  OPEN L3: Moisture from the nearby waterfall took the edge off the bright sunlight, beaming into the gorge from high overhead. Trees and wildflowers grew around the houses carved out of the rocky walls, wooden decks jutting into the gorge. Clean, nat
+  CUE L36: ...“It was twenty years ago, who can remember?”...
+  CUE L86: ...ver the last few decades. He’d worked in multiple Network branches in the days before magic went public. After, he’d worked for the United Nation...
+  REG L56 [Zara_Rimaros]: In Book 13 she advises Jason to keep a consistent persona: "a good lord, not a good leader" .
+  REG L88 [Natalie_Park]: The junior ASIS officer with "the unenviable position of personal liaison to Jason Asano" in the Asano Village briefing room.
+## B13 Ch970 The Wisdom These Situations Demand
+  OPEN L3: “Magic was revealed on Earth,” Farrah began, “when the Engineers of Ascension sabotaged the grid in what was ultimately the action that spelled the end of their organisation. Without the ability to detect and resolve proto-astral spaces acr
+  CUE L29: ...e site of a transformation zone in the western Pyrenees, no more than eleven months old.”...
+  REG L38 [Simon_McKean]: Farrah: "He was the head of the Earth researchers, ranked only behind myself in the workgroup".
+  REG L52 [Natalie_Park]: Manages the video feeds in the briefing room; Jason startles her by rising from her shadow.
+## B13 Ch971 All the Fuel It Needed
+  OPEN L3: In Saint-Étienne, Vincent Baudrillard was pacing around a rooftop garden courtyard. There was a wrought iron outdoor table setting, at which Emi Asano sat. She was eating a large half sandwich while she watched his back-and-forth march. He 
+  REG L49 [Emi_and_Nik]: Book 13 : she is the "Princess of the Asano clan" , works on the bridge with Clive, helps with Carlos's research and disseminates a magical-theory cou
+  REG L49 [Emi_and_Nik]: Book 13 : she is the "Princess of the Asano clan" , works on the bridge with Clive, helps with Carlos's research and disseminates a magical-theory cou
+  REG L49 [Ian_Evans]: Vincent Baudrillard is Emi's boyfriend in Book 13; Ian's place in that family is as Emi's father.
+  REG L49 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+## B13 Ch972 Little Umbrellas
+  OPEN L3: “Thank you,” Jason said as he shook Velius’ hand. “You helped my family at a dangerous time, when the clan was being established and I couldn’t be there. You have my gratitude.”
+  CUE L35: ...leonids, stood out most of all. None of this was unheard of, however, twenty years after the transformation crisis. Humans being changed into other ...
+## B13 Ch973 A Cruelty or a Mercy
+  OPEN L3: Jason stepped through the portal into the long savannah grass around Tera Jun Casta’s remote villa. Tera looked at him from the porch, taking him in as he did the same. The wings she had been so proud of as a messenger were nowhere to be se
+  CUE L4: ...e’d always been guarded and ready to strike, as if waiting for him to spring some trap. Now there was an uncertainty to her, as if unsur...
+## B13 Ch974 Most Practical Purposes
+  OPEN L3: Tera Jun Casta looked through the transparent floor of the dirigible as it drifted across the sky. Over the course of the day, they had floated over canyons deeper than most mountains, forests painted white with snow, and deserts filled wit
+  CUE L20: ...t was a beautiful place. After I was assigned elsewhere, I returned a few years later. People from another world had arrived and violently stripp...
+  CUE L77: ...“I could have told people that twenty years ago. In fact, I did.”...
+  REG L31 [Natalie_Park]: Manages the video feeds in the briefing room; Jason startles her by rising from her shadow.
+## B13 Ch975 Your Terms Are Acceptable
+  OPEN L3: In the heart of the mountain was the recently looted reality core depository. The individual containment vessels were themselves miniature vaults, and some the most sophisticated magitech ever produced on Earth. As the farming program had b
+  REG L8 [Earth_Powers]: Marie Finnegan, the recently expelled director of the Zurich Network branch, lives in a chalet in Zermatt, Switzerland, and is allied with the vampire
+  REG L19 [Earth_Powers]: Book 13 also says Finnegan's contacts with Elizabeth and McKean were critical to the plan .
+  REG L19 [Plot_Hooks]: **Finnegan, Elizabeth and McKean**: Finnegan's backers called using Elizabeth "the smart choice", and there has been no confirmed trace of McKean for 
+## B13 Ch976 How Much Punishment They Could Live Through
+  OPEN L3: Jason rested his hand on the grip of his sword, but didn’t draw it.
+  CUE L51: ...y bodies, sprouting twisted arms made of darkness. Like trees under a winter midnight, their warped limbs were shrouded in clouds of sha...
+## B13 Ch977 Getting Complicated Fast
+  OPEN L3: Bussinger looked down at the gold-rank essence users. Not long ago, she would have said that group, acting together, could have accomplished anything. Killed anyone, no matter how protected. Taken down the civic infrastructure of a nation. 
+  CUE L18: ...onster cores, as soon as I was old enough. I reached silver rank only a weeks before your return to Earth. It was crushing to know that I’d miss...
+## B13 Ch978 Implications For Your Work
+  OPEN L3: “Asano, the Network won’t just let you barge into their facilities and do as you please,” Geneva said.
+## B13 Ch979 Unequivocally My Thing
+  OPEN L3: Both of Jason’s territories on Earth had a central tower at the heart of them. The two buildings loomed over the cities they sat within, incongruous with their surroundings. Administrative centres for the clan, they also served as portal hu
+## B13 Ch980 The Only Cure is Death
+  OPEN L3: The ritual room was a large and empty space. The walls and ceiling were plain, smooth plaster, while the floor was polished concrete. The lighting was non-magical fluorescent. Narrow, vertical slots were set at various points around the wal
+  REG L93 [Magic_and_Adventuring]: Bussinger's Tribulation Lightning purges her own afflictions by harming her .
+## B13 Ch981 What Forever Means
+  OPEN L3: Jason found himself at a loose end. Bussinger was now with Carlos, at the beginning of what would be years of research. Jason’s political advisors were working with the factions of Earth, digging out just how dirty the Network branches farm
+## B13 Ch982 The Stuff of Faith and Madness
+  OPEN L3: The magitech submarine containing Simon McKean’s laboratory was divided into a lab section, a living area and the operational sections like propulsion and the bridge. The corpses of the crew were piled up on the bridge, and those of the res
+  CUE L40: ...ire approval, would be the source of every headache Holly had for the next year....
+  REG L30 [Earth_Powers]: Governments run the artefact site, create the Multinational Supernatural Response Taskforce led by Lenora Coleman , and employ officials such as Holly
+  REG L30 [Holly_Macrossan]: Succeeded Annabeth Tilden as Under-Secretary-General of the United Nations Office of Supernatural Affairs.
+  REG L30 [Holly_Macrossan]: She maintains a sceptical mindset despite two decades of magic.
+  REG L30 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L30 [Anna_Tilden]: arranges diplomacy; her UN successor is Holly Macrossan (
+## B13 Ch983 Something Worse
+  OPEN L3: The submarine’s testing room was the single most secure space on the vessel. Mishaps were best avoided while in a metal tube, deep beneath the ocean surface, and the testing room was designed to contain any that cropped up. At Elizabeth’s d
+## B13 Ch984 What Slumbers Under the Mountain
+  OPEN L3: “The slab I put over the door is reinforced with my magic,” Marie said. “It would take a significant force to—”
+## B13 Ch985 Better Natures
+  OPEN L3: The moment they entered Asano’s astral space, the people guarding Marie, Elizabeth and Remy relaxed. Apparently no longer wary of any threats, all but one left entirely, leaving only the man named Trenchant.
+  CUE L87: ...s of cunning and betrayal with a creature who mastered them thousands of years before I was born. Of course you got the better of me. And, as alw...
+## B13 Ch986 The Deaths We Failed to Prevent
+  OPEN L3: The bistro, like the rest of the city, felt like something out of a black-and-white movie. The food was the exception, the vibrant colours making the look of it pop as much as the flavour. Zara had a trio of pie slices in front of her, peac
+## B13 Ch987 Consistent Agent of Chaos
+  OPEN L3: “Jason,” Anna said. “While there is no question that you and your friends are powerful, you make the taskforce members nervous. Things have gone smoothly over the last few weeks with the hands-off approach you’ve been taking. There have bee
+## B13 Ch988 If You Can’t Keep Up
+  OPEN L3: Elizabeth’s current accommodation was a cell with a glass wall. There was a wall cot and a bookshelf. A large table was bifurcated by the glass, half in the room and half in the wide hall outside. The hall looked like it belonged to an old 
+  CUE L26: ...ntified or even some of their major strongholds in the big cities. In the years since the last open conflicts, human essence users have been grow...
+  REG L26 [Era_Selection]: **Live dangers**: Boko destroyed; the System withdrawn from regions that keep indenture; a pirate dimension ship led by Jota Withers; a back-in-full-s
+  REG L26 [Plot_Hooks]: **A vampire war nearing its end**: it is "back in full swing" and Europe is largely liberated but vampires hold a few cities.
+  REG L52 [Holly_Macrossan]: Anna recommended her as successor, having kept an eye on her while Anna ran the Sydney branch.
+  REG L53 [Anna_Tilden]: Book 13 : arranges diplomacy; her UN successor is Holly Macrossan .
+## B13 Ch989 A Man Fought Monsters
+  OPEN L3: As a girl, Delia DeWitt had watched on television as a man fought monsters. People ran and screamed and died. There were heroes in brightly coloured costumes, but they were performers, there for show. They weren’t there to fight monsters bu
+  CUE L19: ... manifestations had first appeared during Jason’s last trip to Earth, and years later were reported like the weather. Only when they occurred nea...
+  REG L48 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L48 [Earth_Powers]: Governments run the artefact site, create the Multinational Supernatural Response Taskforce, in which Lenora Coleman is the designated liaison to Jaso
+## B13 Ch990 Monstrous on the Inside
+  OPEN L3: Delia looked up at the alien eyes looking down at her from within the dark hood. He held his hand out to her as his uncanny cloak vanished to reveal his face. His eyes dimmed, turning from strange nebulae to dark brown. She clasped his hand
+  CUE L102: ...There will be no chapters released next week. Chapters will resume March 16 - 17, timezone depending....
+## B13 Ch991 This Offer Kind of Sucks
+  OPEN L3: Raythe looked at home, wandering through the tree city of Arbour beside Jason. She was an elf with dark brown skin and light brown hair, flecked with green. The city was empty of people, the hard-packed dirt roads lined with fallen leaves. 
+## B13 Ch992 Battle of the Plants
+  OPEN L3: A woman floated out of the fire-wreathed spaceship. She was also aflame, with fire burning atop her head in place of hair. Her eyes were burning orbs, and her graceful yellow dress had a shifting pattern of dancing flames. Jason smiled and 
+  CUE L113: ...ic that’s been Frankensteined together and we only found out about it a month ago. Figuring it out could take years, if ever.”...
+  CUE L112: ... from Elizabeth, but that’s the only good news. Those first attacks a few weeks ago were clearly a test, and they’ve been escalating their coun...
+## B13 Ch993 True to Yourself
+  OPEN L3: In his astral kingdom, Jason was on the deck of his house in the waterfall gorge. The sun was high and he let the cool air with the faint spray of the waterfall cool him off. Behind him, Raythe exited the house and looked at the other house
+## B13 Ch994 Not Open to Outside Consultation
+  OPEN L3: Screams filled the studio as the newsreader’s face erupted, spattering the camera with blood mist and shards of bone. From the hole in the front of his head emerged a red centipede, the length of an arm. The newsreader’s body got up and sta
+  REG L39 [Holly_Macrossan]: After losing her UN position she took a post with the Australian government as "Liaison to the Multinational Supernatural Response Taskforce for the D
+## B13 Ch995 Symposium
+  OPEN L3: Of the millions of dead in Europe, many had been transformed into feral, vampiric ghouls. While blood parasites and blood oaks waged precision terror attacks around the world, the superhuman, supernatural ghoul horde was unleashed on the mi
+  REG L14 [Travis_Noble]: By Book 13 he is lead researcher of the Joint Magitech Weapons Research Institute.
+  REG L69 [Natalie_Park]: Pays half attention at the symposium after realising who is sitting next to her.
+## B13 Ch996 The More I Listen, The More I Hear
+  OPEN L3: Anna’s car stopped in a Manhattan alley. Taika got out first, panning the area with his gold-rank perception. He was wearing a dark suit, unlike the big, loose clothes he generally preferred. He tapped his earpiece.
+  CUE L103: ...A day before her meeting with Danvey, Anna entered Jason’s office in the...
+  REG L3 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L5 [Emi_and_Nik]: part of Team Biscuit; acts as overwatch in Manhattan, reporting by earpiece (
+## B13 Ch997 The Man Who Fought the Monsters
+  OPEN L3: Jason floated over the water of the River Faron, meditating on his progress towards diamond rank. He had not been human for a quarter of a century, yet he had always clung to his humanity. It had been a close thing, a couple of times, but h
+  REG L28 [Sophie_Wexler]: Late : in Book 13 she has spent several years purging whole cities of disease with her wind and aura .
+  REG L32 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L32 [Clive_Standish]: by 2038 he and Lorelei Grantham are in a relationship that gives his Balance essence the equilibrium it needed (
+  REG L37 [Neil_Davone]: Late : his Growth, Renewal and Prosperity essences find fertile ground in desert reclamation in Australia and North Africa .
+## B13 Ch998 Sitting on a Volcano
+  OPEN L3: Jason, Emi and Nik were floating in meditation, cross-legged, over the water of the River Furan. They were upstream from Saint-Étienne, beyond the reach of Jason’s domain. He had found that when contemplating his essences, trying to expand 
+  CUE L105: ...“It has been more than four years since we’ve had a confirmed trace of McKean,” Officer Natalie Par...
+  REG L105 [Natalie_Park]: States that it has been more than four years since a confirmed trace of McKean.
+  REG L105 [Plot_Hooks]: **Finnegan, Elizabeth and McKean**: Finnegan's backers called using Elizabeth "the smart choice", and there has been no confirmed trace of McKean for 
+## B13 Ch999 An Interesting Message
+  OPEN L3: Stealth didn’t come naturally to Thalia Mercer. Her Onslaught essence informed not just her power set but her inclinations in life, although her life had been strange for a long time. She hadn’t seen her daughter in years. Or, more precisel
+  CUE L13: ...“My son died twenty years ago.”...
+  REG L3 [Magic_and_Adventuring]: Thalia Mercer's Onslaught essence informs both her powers and her inclinations .
+  REG L3 [Thalia_Mercer]: Her Onslaught essence informs her powers and her inclinations.
+## B13 Ch1000 Cosmic Tyrant Warlord Cult Leader
+  OPEN L3: Jamis Fran Muskar was not the typical image of a messenger, despite the grandiosity and the wings. At seven feet tall he was diminutive for his kind, and his clothes were not the loose, toga-style garb messengers favoured. He wore a brown j
+  REG L3 [Boris_Ket_Lundi]: Messengers can hide their wings and shrink their size ;
+  REG L104 [Simon_McKean]: Boris says Jason will face a man who has spent a decade preparing; "battling you is not a means but an end in itself".
+## B13 Ch1001 It’s All Quite Australian
+  OPEN L3: General Michael Mills of the United States Army looked out through the window as the helicopter descended towards the military base below. He’d been stationed at Saint-Étienne before, two decades and several ranks ago. That had been before 
+  CUE L10: ...xample was an ex-Network paramilitary squad, recruited into the Asano Clan years earlier....
+  CUE L119: ...n the threat of the vampires that had unified the country, but almost two decades later, tensions remained. Michael did not have Network origins an...
+  REG L8 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L8 [Rufus_Remore]: he teaches Jason footwork, balance and combat  and later teaches the Asano clan (
+  REG L9 [Magic_and_Adventuring]: Core-users stall by silver , and the Quilido Procedure, which removes the taint of monster cores, is said to unlock silver-stuck veterans on Earth .
+  REG L9 [Magic_and_Adventuring]: Core-users stall by silver , and the Quilido Procedure, which removes the taint of monster cores, is said to unlock silver-stuck veterans on Earth .
+  REG L9 [Magic_and_Adventuring]: Cure : the Quilido Procedure removes the taint of monster cores from an essence user; it is slow and resource-intensive .
+  REG L9 [Magic_and_Adventuring]: Earth's advancement research (the Quilido Procedure) offers a way to clear core taint ;
+## B13 Ch1002 The One Who Gets to Decide
+  OPEN L3: As a military liaison to the Asano Clan, Lieutenant Bradley Noble spent more time than most outsiders in the clan’s civilian areas. After various international assignments, he’d gotten used to experiencing culture shock, but life in clan te
+  CUE L49: ...“Mr Asano,” Michael said. “It’s been many years since you first came back to Earth. Yes, a lot of people made les...
+  REG L23 [Yumi_Asano]: In Book 13 she sits as matriarch beside General Mills and scolds Jason in "a very matronly tone for someone who looked to be in her early thirties".
+  REG L40 [Simon_McKean]: Named again at the Ascension's Gate briefing.
+## B13 Ch1003 Stare Down the Devil
+  OPEN L3: Jason’s cloud palace was configured for war. It floated through French airspace in the shape of an inverted pyramid, the flat top serving as the deck of a flying aircraft carrier. Deep within the structure was a conference room with cloud-s
+## B13 Ch1004 Scheduling Your Callous Dumping
+  OPEN L3: The sword at Akari Asano’s left hip was a gift from Prince Valdis Volaire, her regular sword training partner of the last decade. He had forged the rare gold-rank weapon himself, using techniques from the other world. While Earth had advanc
+  CUE L9: ... Akari. I just came by to pick up some more of my things. I moved out three weeks ago and you’re only noticing now. That’s why.”...
+## B13 Ch1005 A Distant God
+  OPEN L3: “I’m glad you could spend this time with me,” Jason told his father. They were in the central tower of the Asano Clan’s Slovakian territory, walking towards the main portal room. As a central transport hub, the portal room and its connectin
+  CUE L17: ... keeps putting online? The latest one was from the pool deck barbecue last week. I was wearing swimming shorts and an apron, grilling meat ...
+## B13 Ch1006 What You Gave Us Was Never Freedom
+  OPEN L3: Craig and Jason were seated on a park bench in the Silvermoon Garden Park. The luminescent silver flowers were a stark contrast to the heavy air between the two men.
+  CUE L34: ...dies, Jason had refused to let them join the Asano Clan combat teams. Twenty years later, he had been talked into letting them join by Jali Corrik F...
+  CUE L13: ...em are concentrated. The rest of the world will get cleaned up in the following weeks.”...
+  REG L59 [Plot_Hooks]: **A vampire war nearing its end**: it is "back in full swing" and Europe is largely liberated but vampires hold a few cities.
+## B13 Ch1007 That Will Keep Them Dead
+  OPEN L3: Belgrade was the largest European city still under full vampire control. It was one of the focal points of the offensive and, with no civilian presence, the attacking forces were free to go all out. The attack began in the late morning, wit
+  REG L22 [Tone_and_Voice]: **Australian idiom**: "G'day" and "mate", "Strewth" and "yonks".
+  REG L23 [Itsuki_Tiwari]: In 2038 he serves as an affliction specialist protected by Nigel's nine-person unit.
+  REG L23 [Nigel_Thornton]: Still leads the nine-person unit in 2038.
+## B13 Ch1008 A Sufficient Spectacle
+  OPEN L3: The command centre of the operation was in Jason’s cloud palace. Banks of computers had officers with headsets seated at them, issuing directives and taking reports. At the front of the room was Michael Mills, his own monitor showing a vide
+  CUE L21: ... Now the blood oaks, and the new abominations created from them. We’d postulated years ago that McKean had access to one of these vines, and that the ...
+## B13 Ch1009 Kung-Fu Wizard is Not a Verb
+  OPEN L3: Given the war spilling across Europe, the peaceful, pastoral perfection of the valley seemed a little uncanny. It was a fine day, the warm sun offset by just the right amount of wafting breeze. The air was fresh and clean. The grass was vib
+  CUE L3: ... grass was vibrant green and the trees were showing the first hint of autumn colour....
+## B13 Ch1010 Dangerously Exposing Myself
+  OPEN L3: In his monitoring room, Simon McKean watched Jason Asano and two of his familiars move through the tunnels of his research complex hidden beneath the French castle. Another screen displayed the third familiar, looking confused and frustrate
+  CUE L75: ...plets of which started falling to the floor. Lightly at first, like a spring shower, it soon became a monsoon of transcendent power that...
+## B13 Ch1011 Join Me, and Together We Could Rule the World!
+  OPEN L3: Both of Colin’s bodies sniffed at the air.
+  REG L23 [Estella_Warnock]: By Book 13 she is Belinda's wife.
+  REG L23 [NPC_Rosters_by_Era]: **Earth 2038**: Holly Macrossan, Natalie Park, Lenora Coleman, Rufus teaching the clan, Yumi Asano, Emi and Vincent Baudrillard, Nik, Belinda and Este
+  REG L23 [Belinda_Callahan]: married to Estella Warnock (
+## B13 Ch1012 We Have to Kill Clive
+  OPEN L3: The mysterious cosmic power flowing into Jack Gerling turned him into an overcharged battery, thrumming with power. It pushed him to the very limits of gold-rank physicality, demonstrated as he launched himself at Jason, little more than a 
+  CUE L64: ... that, we can’t do it from here. After the EoA sabotage took the grid down years ago, McKean and I made doing it again a lot harder. We’d have t...
+  CUE L78: ...3 (up to chapter 1024) will be released on Royal Road and Scribblehub next week, September 2nd. Book 14 chapters will be released later, fo...
+## B13 Ch1013 Something Jasony
+  OPEN L3: A note from Shirtaloon (Travis Deverell)
+  CUE L54: ...which this is not. The Reaper made revival magic much harder a couple of decades ago. Frankly, I’m a little surprised McKean has gotten away wit...
+## B13 Ch1014 A Satisfying Day
+  OPEN L3: Jason’s body was a pincushion for blood vines, strung up so thoroughly that he couldn’t move. Gerling walked closer, looking at him in confusion.
+## B13 Ch1015 A Fight She’s Already Won
+  OPEN L3: Jason watched as the blue-orange light pouring down the shaft disintegrated McKean’s body. Behind him, monsters continued to pour out of the rainbow-coloured manifestation that was McKean’s collapsed astral space. They were variations of pl
+  CUE L37: ...Cleaning up the full forces of the vampires took days. A week later, main combat operations had come to an end, but scattered v...
+  CUE L46: ...“They realise, especially after the last week, that you don’t need to. That your personal power is essent...
+## B13 Ch1016 Worse Things
+  OPEN L3: Rufus was seated at an outdoor tea house with Clive, Lorelei and a handsome Pakistani man. He looked at the person who had just stopped at their table and let out a sigh.
+  CUE L31: ...meet you, Doctor Dukhtar. That was some courageous medic work you did last week. Not many would risk walking into a vampire war zone like t...
+  CUE L122: ...“I’m glad you could come, General. I know the last week has been a lot busier for you than for me.”...
+  CUE L123: .... “Having one of their own on this sneak preview of your presentation next week has made my government very happy.”...
+  REG L21 [Jason_Asano]: He says "G'day" and "mate" .
+  REG L48 [Farrah_Hurin]: Books 7-9 : settles in Rimaros; co-builds the Sky Link Network with Travis Noble .
+  REG L110 [Anna_Tilden]: In Book 13 she arranges meetings in Canberra for displaced Earth people and works with Boris Ket Lundi .
+## B13 Ch1017 A Room Full of Hands
+  OPEN L3: Jason looked out at the audience in the lecture hall.
+  CUE L15: ...o embody them all. Thus, Purity’s well-known instability. Around five hundred years ago, that instability was coming to a head. It was likely that ...
+  REG L6 [Spoiler_Management]: **The Cosmic Throne's sundering**: told by Raythe and Velius and in Jason's briefing. Level 3.
+  REG L6 [00_Cosmology_Overview]: (Raythe and Velius's account, Book 11, Ch64 L24-27; Jason's briefing in
+  REG L14 [Gods_and_Churches]: In Book 13 Jason tells his allies that she has been preparing to invade Earth for half a millennium and used him as a key part of the plan; the briefi
+  REG L14 [Great_Astral_Beings]: Purity was likely about to sanction himself when Knowledge interfered, and the wiki says he expended his authority on a single artefact .
+  REG L14 [Jason_Asano]: Knowledge has been using him as a key part of her plan to invade Earth for half a millennium .
+  REG L14 [Knowledge]: The Book 13 briefing says she has been preparing to invade Earth for half a millennium and used Jason; that she promised the messengers' leader a chan
+## B13 Ch1018 I Don’t Need Hope
+  OPEN L3: Jason sat on the edge of a rooftop in Venice, one of the few even partially intact. The city was still flooded, many of the fallen buildings now clogging the canals. He watched as messengers flew over the water, using their auras to remove 
+## B13 Ch1019 Blatantly Ignoring Laws
+  OPEN L3: In a conference room on his cloud ship, Jason watched as Danielle Geller added another name to a list on a whiteboard. Three whiteboards were set up, each representing what the people on that board would do when Jason returned to Pallimustu
+## B13 Ch1020 Adventurer
+  OPEN L3: In the atrium of the Asano Clan tower in Saint-Étienne, Jason stood between a lizard man and an elf, an arm around each of their shoulders. His grandmother took their picture and handed the elf back her phone. They thanked Jason before movi
+  CUE L19: ... you to be born since the fifteenth century so he could mess with you for decades before forcing you to walk into an unknown and inescapable fate. Y...
+  CUE L110: ... The next point I would like to discuss is timing. From your briefing last week, you seemed to imply that the invasion isn’t possible at al...
+  REG L85 [Glossary]: EDJI : the Earth Defence Joint Initiative .
+## B13 Ch1021 The One Way I Know to Kill a God
+  OPEN L3: “You have to do it?” Michael asked.
+  CUE L41: ...many contingencies, too many ways to adapt. She outplayed me hundreds of years before I was even born. This situation was always going to come to...
+  CUE L22: ...“There are still a few months before I absolutely need to leave for Pallimustus. I’ll give you a...
+## B13 Ch1022 While We Have the Chance
+  OPEN L3: You couldn’t really call it a barbecue anymore. Once enough people and enough food were gathered, it turned into a festival. Jason’s grandmother and sister had taken the whole event in hand, closing off entire sections of Saint-Étienne. Ben
+  CUE L46: ...“He left this world some years ago, prior to completing his research. I had to go quite some w...
+  REG L20 [Zara_Rimaros]: Firstborn daughter of the Storm King, called the Hurricane Princess ; her brother Emiliano becomes Storm King, and the notes for Book 13 call him her 
+  REG L20 [Rimaros]: Soramir and Zila Rimaros, Liara and Baseph Rimaros, Dara and Zara Rimaros, Emiliano (the Storm King of Book 12, Zara's brother, Book 12, Ch12 L19; ado
+  REG L35 [Thadwick_Mercer]: Appears again in Book 13.
+## B13 Ch1023 Broken What Matters Most
+  OPEN L3: Quite the crowd had gathered in Australia at the anchor site for the bridge. No traces remained of the small town that had once stood there. It was now a series of standing stones that formed a giant ritual circle, surrounded by weapons tha
+  CUE L12: ...d the world to come together the way it has, especially in these last few months since the vampire war ended. It’s given me back some of the hope ...
+  REG L103 [Artefact_Site_One]: The notes for Book 12 mark the Sky Link island as a place the team visits, and the notes for Book 13 say the Church of Knowledge annexed the island th
+  REG L139 [Gods_and_Churches]: When Gabrielle Pellin refuses to believe it, a cube leaves her chest into Knowledge's hand, Gabrielle seizes, and Travis catches her .
+  REG L139 [Knowledge]: She removes the divine essence of Gabrielle Pellin, a cube leaving Gabrielle's chest into her hand .
+  REG L139 [Gabrielle_Pellin]: In Book 13 a cube leaves her chest into Knowledge's hand, and she seizes.
+## B13 Ch1024 The Next Time We Meet
+  OPEN L3: With most distracted by more than forty diamond-rankers emerging from the freshly arrived dimension ship, Travis moved Gabrielle into Onslow’s shell. Neil was standing dead still, his eyes closed.
+  CUE L60: ...answered, his gaze still locked on the ground below. “This was set in motion years ago, before I knew about any of it. And I’m told that most of y...
+  CUE L82: ...“Some years ago, Dawn warned you that a day would come when you would need ...
+  REG L127 [Jason_Asano]: At the end of Book 13 Umber's ritual is designed to bind his consciousness into the prime avatar, and Jason walks to the standing stones knowingly, pr
+  REG L153 [Gods_and_Churches]: Jason answers Knowledge's claim that she will be "the one true God" of his world with "The next time we meet, Goddess, will be the day you die" .
+  REG L153 [Knowledge]: Jason's last word to her: "The next time we meet, Goddess, will be the day you die" .

@@ -1,0 +1,2207 @@
+[
+ {
+  "name": "Adept Essence",
+  "keys": [
+   "Adept essence"
+  ],
+  "text": "Adept essence: essence (Common). Known abilities: Blessing of Readiness, Blessing of Relentlessness, Instant Adept, Masterful, Renewed Effort. Known combinations: Adept + Venom + Water = Ambush; Adept + Magic + Trap = Charlatan; Adept + Magic + Might = Force; Adept + Gathering + Gun = Master; Adept + Iron + Technology = Master; Adept + Bow + Swift = Master; Adept + Myriad + Sword = Master; Adept + Dance + Sword = Master. Known users: Belinda Callahan, Valdis Volaire, Akari Asano, Asya Karadeniz, Jory Tillman.",
+  "book": 0
+ },
+ {
+  "name": "Air Essence",
+  "keys": [
+   "Air essence"
+  ],
+  "text": "Air essence: essence.",
+  "book": 0
+ },
+ {
+  "name": "Alchemy Essence",
+  "keys": [
+   "Alchemy essence"
+  ],
+  "text": "Alchemy essence: essence. Known combinations: Adept + Venom + Water.",
+  "book": 0
+ },
+ {
+  "name": "Animate Essence",
+  "keys": [
+   "Animate essence"
+  ],
+  "text": "Animate essence: essence. Fungus [Common] + Growth [Uncommon] + Zeal [Rare] Known combinations: Fungus [Common] + Growth [Uncommon] + Zeal [Rare]; Death [Uncommon] + Magic [Common] + Bone [Uncommon]; Cloth [Common] + Magic [Common] + Dance [Uncommon].",
+  "book": 0
+ },
+ {
+  "name": "Ape Essence",
+  "keys": [
+   "Ape essence"
+  ],
+  "text": "Ape essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Armour Essence",
+  "keys": [
+   "Armour essence"
+  ],
+  "text": "Armour essence: essence (Common). Known combinations: Armour + Magic + Technology = Magitech. Known users: Greg.",
+  "book": 0
+ },
+ {
+  "name": "Avatar Essence",
+  "keys": [
+   "Avatar essence"
+  ],
+  "text": "Avatar essence: essence. When it comes to combinations, what exactly they embody can be unclear, even to their users. For example [Might]+[any element]+[any weapon] has a very strong chance of producing the Avatar confluence and no one is sure why. Theories range from embodying cosmic beings to ancient heroes to dead gods, but no one has definitive answers, except perhaps the gods, and they aren’t talking. Known combinations: Might+Sword+Lightning=Avatar - this is the magic swordsman combination that the current Storm King uses. His power set is big on strong, moderate-term buffs.; Eye+Magic+Fire=Avatar - a strange power set that frequently summons bizarre orb creatures.; Light+Wing+Dimension=Avatar - this is a messenger-related power set, the users of which are about to get a lot less popular.; Potent+Vast+Water=Avatar - this one is favoured by followers of sea and ocean gods across the cosmos.; Swift+Might+Magic; Corrupt [Epic] + Dimension [Legendary] + Magic [Common].",
+  "book": 0
+ },
+ {
+  "name": "Axe Essence",
+  "keys": [
+   "Axe essence"
+  ],
+  "text": "Axe essence: essence (Common). Known combinations: Axe + Hunt + Plant = Harvest; Axe + Bear + Moon = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Balance Essence",
+  "keys": [
+   "Balance essence"
+  ],
+  "text": "Balance essence: essence (Uncommon). The Balance essence is a tricky essence to predict as it can vary wildly depending on the essences that it is paired with. It most often acts to balance two ideas or powers. This can be more esoteric such as with the combination of Balance + Magic + Rune = Karmic where the Balance essence balances risk and reward. On the opposite end the balance essence can deal with more tangible forces such as with the combination Balance + Moon + Sun = Eclipse, where the balance essence acts to enable synergy between the Moon and Sun essences. Known abilities: Blood Magic, Cloud Step, Deny the Reaper, Eldritch Imbalance, Equilibrium, Equity, Juxtapose, Karmic Warrior, Mana Shield, Mana Tide, Moment of Oneness. Known combinations: Balance + Earth + Shield = Boundary; Balance + Magic + Potent = Chaotic; Balance + Light + Renewal = Cycle; Balance + Omen + Sin = Doom; Balance + Dark + Light = Eclipse; Balance + Moon + Sun = Eclipse; Balance + Omen + Zeal = Eclipse; Balance + Death + Life = Eclipse. Known users: Clive Standish, Danielle Geller, Hiro Asano, Rufus Remore, Sophie Wexler.",
+  "book": 0
+ },
+ {
+  "name": "Bat Essence",
+  "keys": [
+   "Bat essence"
+  ],
+  "text": "Bat essence: essence (Common). Known combinations: Bat + Rabbit + Rat = Swarm; Bat + Blood + Death = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Bear Essence",
+  "keys": [
+   "Bear essence"
+  ],
+  "text": "Bear essence: essence (Common). Known combinations: Bear + Growth + Hand = Transfiguration; Axe + Bear + Moon = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Bee Essence",
+  "keys": [
+   "Bee essence"
+  ],
+  "text": "Bee essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Bird Essence",
+  "keys": [
+   "Bird essence"
+  ],
+  "text": "Bird essence: essence (Common). Known combinations: Bird + Needle + Song = Resonating; Bird + Cat + Vast = Anzu; Bird + Fire + Wind = Firebird; Bird + Fire + Iron = Forge; Bird + Might + Swift = Garuda; Bird + Cat + Might = Griffin; Bird + Discord + Song = Harpy; Bird + Might + Vast = Roc.",
+  "book": 0
+ },
+ {
+  "name": "Blood Essence",
+  "keys": [
+   "Blood essence"
+  ],
+  "text": "Blood essence: essence (Uncommon). The blood essence looks like a cube wet with blood. It is dry and warm to the touch. Known abilities: Blood Harvest, Leech Bite (Awakening Stone of the Feast), Feast of Blood (Awakening Stone of the Feast), Sanguine Horror (Awakening Stone of the Apocalypse), Haemorrhage (Awakening Stone of the Magus). Known combinations: Blood + Life + Sun = Avatar; Blood + Bone + Flesh = Avatar; Blood + Hunger + Locust = Desolate; Blood + Dark + Sin = Doom; Blood + Dark + Omen = Doom; Blood + Corrupt + Potent = Doom; Blood + Corrupt + Flesh = Doom; Blood + Dark + Shimmer = Effigy. Known users: Jason Asano, Itsuki Tiwari, Yumi Asano.",
+  "book": 0
+ },
+ {
+  "name": "Bone Essence",
+  "keys": [
+   "Bone essence"
+  ],
+  "text": "Bone essence: essence (Uncommon). Known combinations: Bone + Death + Magic = Animate; Blood + Bone + Flesh = Avatar; Bone + Dust + Sun = Desolate; Bone + Corrupt + Dance = Undeath; Bone + Corrupt + Flesh = Undeath; Blood + Bone + Corrupt = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Bounty Essence",
+  "keys": [
+   "Bounty essence",
+   "Bounty confluence"
+  ],
+  "text": "Bounty essence: confluence essence. The Bounty essence is a confluence essence. Known abilities: None currently known. Known combinations: Dance, Feast and Knife. Known users: Erika Asano.",
+  "book": 0
+ },
+ {
+  "name": "Bow Essence",
+  "keys": [
+   "Bow essence"
+  ],
+  "text": "Bow essence: essence (Common). The bow essence like many weapon essences is known for producing a large number of special attacks which leads to it being less popular to humans who already get a large number of special attacks. This propensity for producing special attacks also often spreads to the other essences leading to more special attacks in other essences as well. Known abilities: True Predator. Known combinations: Bow + Corrupt + Song = Discordant; Adept + Bow + Swift = Master; Bow + Gathering + Myriad = Onslaught; Bow + Dark + Hunt = Predatory; Bow + Hunt + Trap = Predatory; Bow + Moon + Sin = Predatory; Bow + Spider + Trap = Predatory; Adept + Bow + Hunt = Skirmish. Known users: Hannah Adeah.",
+  "book": 0
+ },
+ {
+  "name": "Cage Essence",
+  "keys": [
+   "Cage essence"
+  ],
+  "text": "Cage essence: essence (Common). Known combinations: Cage + Rune + Trap = Prison; Cage + Lightning + Myriad = Prison.",
+  "book": 0
+ },
+ {
+  "name": "Cat Essence",
+  "keys": [
+   "Cat essence"
+  ],
+  "text": "Cat essence: essence (Common). Known combinations: Bird + Cat + Might = Griffin; Cat + Tentacle + Void = Chimera; Cat + Spike + Venom = Manticore; Bird + Cat + Vast = Anzu; Cat + Fungus + Renewal = Fertile; Cat + Magic + Sun = Empower.",
+  "book": 0
+ },
+ {
+  "name": "Cataclysm Essence",
+  "keys": [
+   "Cataclysm essence"
+  ],
+  "text": "Cataclysm essence: essence. Potent [Epic] + Water[Common] + Fire [Common] Known combinations: Potent [Epic] + Water[Common] + Fire [Common]; Dimension [Legendary] + Sin [Legendary] + Myriad [Legendary]; Death [Uncommon] + Myriad [Legendary] + Void [Legendary]; Hunger[Rare] + Vast[Legendary] + Void[Legendary].",
+  "book": 0
+ },
+ {
+  "name": "Cattle Essence",
+  "keys": [
+   "Cattle essence"
+  ],
+  "text": "Cattle essence: essence (Common). Known combinations: Cattle + Might + Trap = Minotaur; Cattle + Earth + Vast = Behemoth; Cattle + Hunt + Might = Minotaur.",
+  "book": 0
+ },
+ {
+  "name": "Chain Essence",
+  "keys": [
+   "Chain essence"
+  ],
+  "text": "Chain essence: essence (Common). Known combinations: Chain + Iron + Myriad = Prison.",
+  "book": 0
+ },
+ {
+  "name": "Chaotic Essence",
+  "keys": [
+   "Chaotic essence"
+  ],
+  "text": "Chaotic essence: essence. Potent [Epic] + Magic [Common] + Balance [Uncommon] Known combinations: Potent [Epic] + Magic [Common] + Balance [Uncommon].",
+  "book": 0
+ },
+ {
+  "name": "Charlatan Essence",
+  "keys": [
+   "Charlatan essence",
+   "Charlatan confluence"
+  ],
+  "text": "Charlatan essence: confluence essence. The Charlatan essence is a confluence essence that produces misdirection abilities, including shape-changing or illusion based abilities. Known abilities: Counterfeit Combatant, Echo Spirit awakened as initial Essence Ability, Specious Sorcerer, Unexpected Allies. Known combinations: Adept, Magic and Trap. Known users: Belinda Callahan.",
+  "book": 0
+ },
+ {
+  "name": "Claw Essence",
+  "keys": [
+   "Claw essence"
+  ],
+  "text": "Claw essence: essence (Uncommon). Known combinations: Claw + Malign + Song = Harpy.",
+  "book": 0
+ },
+ {
+  "name": "Cloth Essence",
+  "keys": [
+   "Cloth essence"
+  ],
+  "text": "Cloth essence: essence (Common). Known combinations: Cloth + Dance + Magic = Animate; Cloth + Needle + Thread = Master; Adept + Cloth + Needle = Master.",
+  "book": 0
+ },
+ {
+  "name": "Cloud Essence",
+  "keys": [
+   "Cloud essence"
+  ],
+  "text": "Cloud essence: essence (Uncommon). Known combinations: Cloud + Vast + Void = Nebula; Cloud + Swift + Wind = Sky; Cloud + Crystal + Wind = Storm; Cloud + Growth + Vehicle = Vessel.",
+  "book": 0
+ },
+ {
+  "name": "Cold Essence",
+  "keys": [
+   "Cold essence"
+  ],
+  "text": "Cold essence: essence (Uncommon). Known combinations: Cold + Hammer + Sickle = Desolate.",
+  "book": 0
+ },
+ {
+  "name": "Coral Essence",
+  "keys": [
+   "Coral essence"
+  ],
+  "text": "Coral essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Crocodile Essence",
+  "keys": [
+   "Crocodile essence"
+  ],
+  "text": "Crocodile essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Dance Essence",
+  "keys": [
+   "Dance essence"
+  ],
+  "text": "Dance essence: essence (Uncommon). Known combinations: Cloth + Dance + Magic = Animate; Dance + Dust + Echo = Animate; Dance + Knowledge + Mirror = Animate; Dance + Feast + Knife = Bounty; Dance + Glass + Visage = Effigy; Adept + Dance + Sword = Master; Adept + Dance + Whip = Master; Dance + Song + Sword = Master. Known users: Erika Asano.",
+  "book": 0
+ },
+ {
+  "name": "Dark Essence",
+  "keys": [
+   "Dark essence"
+  ],
+  "text": "Dark essence: essence (Uncommon). Known abilities: Midnight Eyes, Cloak of Night, Path of Shadows, Shadow of the Reaper, Hand of the Reaper, Curse of Isolation. Known combinations: Dark + Tentacle + Void = Avatar; Dark + Light + Sun = Dawn; Blood + Dark + Sin = Doom; Blood + Dark + Omen = Doom; Dark + Hunger + Void = Doom; Balance + Dark + Light = Eclipse; Blood + Dark + Shimmer = Effigy; Dark + Knowledge + Pure = Mystic. Known users: Jason Asano, Itsuki Tiwari.",
+  "book": 0
+ },
+ {
+  "name": "Dawn Essence",
+  "keys": [
+   "Dawn essence"
+  ],
+  "text": "Dawn essence: essence. Known combinations: Renewal + Water +Sun; Dark + Light + Sun; Fire + omen + Sun.",
+  "book": 0
+ },
+ {
+  "name": "Death Essence",
+  "keys": [
+   "Death essence"
+  ],
+  "text": "Death essence: essence (Uncommon). Known combinations: Bone + Death + Magic = Animate; Death + Myriad + Void = Cataclysm; Death + Iron + Life = Cyborg; Death + Flesh + Iron = Cyborg; Death + Hunger + Plant = Desolate; Death + Potent + Void = Doom; Death + Potent + Vast = Doom; Death + Dimension + Zeal = Doom.",
+  "book": 0
+ },
+ {
+  "name": "Deer Essence",
+  "keys": [
+   "Deer essence"
+  ],
+  "text": "Deer essence: essence (Common). Known combinations: Deer + Earth + Hammer = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Desolate Essence",
+  "keys": [
+   "Desolate essence",
+   "Desolate confluence"
+  ],
+  "text": "Desolate essence: confluence essence. The Desolate essence, like all confluences, is impacted by the essences that make it up, with the types of abilities it tends to awaken including drain attacks, debuffs and zone spells. Drain attacks include the usual health an mana drain, but Desolate specifically will often have an ability to drain aspects of the environment, depending on the essences that make it up. This is a distinctive traits of the Desolate confluence, where most essences enhance the aspects of the essences that make it up, Desolate often weakens them. Many Desolate combination involve the Death essence and are accordingly restricted. These combinations are usually characterised by the unnatural destruction its abilities cause. Other combinations tend to be related to natural forms of desolation, like deserts. Known combinations: Sand + Wind + Sun = Desolate - desert combination. Mana drain, stamina drain, withering powers, giant sand worms, sand storms.; Ice + Earth + Wind = Desolate - a tundra-themed combination that might include wide area cold and mana burn abilities, possibly with summoning powers for wolf and fox type creatures.; Locust + Plant + Hunger = Desolate - a classic plague of locusts combination that desolates the landscape to grow in power. Not a restricted combination but one looked unfavourably on by local communities, due to the damage it tends to do the the landscape.; Locust + Blood + Hunger= Desolate - also a plague of locusts, but likes steak over salad. This combination is restricted, despite not including any restricted essences. Summoned locusts swarms are notoriously hard to control with precision, and a few loose gold-rank locusts with a thirst for blood encountering a village can go very wrong.; Plant + Hunger + Death = Desolate - a restricted combination, due to the Death essence and the fact that this combination can turn fertile land into barren earth, draining its vitality..",
+  "book": 0
+ },
+ {
+  "name": "Dimension Essence",
+  "keys": [
+   "Dimension essence"
+  ],
+  "text": "Dimension essence: essence (Legendary). Known abilities: Teleport. Known combinations: Magic + Rune + Dimension = Gate; Balance + Swift + Dimension  = Time; Light + Wing + Dimension = Avatar; Might + Renewal + Dimension = Avatar; Myriad + Sin + Dimension = Cataclysm; Death + Zeal + Dimension = Doom; Moon + Sun + Dimension = Eclipse; Magic + Void + Dimension = Gate. Known users: Danielle Geller.",
+  "book": 0
+ },
+ {
+  "name": "Dog Essence",
+  "keys": [
+   "Dog essence"
+  ],
+  "text": "Dog essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Doom Essence",
+  "keys": [
+   "Doom essence",
+   "Doom confluence"
+  ],
+  "text": "Doom essence: confluence essence. The Doom essence is a confluence essence that produces a focused affliction specialist. Known abilities: Inexorable Doom awakened as initial Essence Ability, Punition from an Awakening Stone of Wrath, Blade of Doom from an Awakening Stone of Absolution, Verdict from an Awakening Stone of Judgment, Avatar of Doom from an Awakening Stone of the Avatar, Inevitable Demise from an Awakening Stone of Inevitability. Known combinations: Blood, Dark and Sin; Blood, Dark and Omen; Corrupt / Flesh / Blood; Death / Potent / Vast; Death / Dimension / Zeal; Potent / Corrupt / Blood. Known users: Jason Asano, Itsuki Tiwari.",
+  "book": 0
+ },
+ {
+  "name": "Doppelganger Essence",
+  "keys": [
+   "Doppelganger essence",
+   "Doppelganger confluence"
+  ],
+  "text": "Doppelganger essence: confluence essence. This is a magic thief power set, taking the kind of ability theft powers that Belinda has and building completely around them. Doppelganger, in this case is more about replicating abilities than identities, more than a traditional Doppelganger combo would be. Known combinations: Magic+Mirror+Flesh=Doppelganger; Magic+Mirror+Hunger=Doppelganger; Magic+Mirror+Adept=Doppelganger.",
+  "book": 0
+ },
+ {
+  "name": "Dragon Essence",
+  "keys": [
+   "Dragon essence",
+   "Dragon confluence"
+  ],
+  "text": "Dragon essence: confluence essence. The Dragon essence is a confluence essence that is known to produce a variety of Dragon-style abilities. Known abilities: Dragon Armour, Spartoi, Fire Breath, Dragon's Might, Bonded Familiar Ability: \"Stash\" (Velitraxistaasch). Known combinations: Magic, Might, and Wing; Magic, Potent, and Wing. Known users: Humphrey Geller.",
+  "book": 0
+ },
+ {
+  "name": "Duck Essence",
+  "keys": [
+   "Duck essence"
+  ],
+  "text": "Duck essence: essence (Common). Known combinations: Duck + Flea + Foot = Swarm; Death + Duck + Blood = Undeath; Duck + Iron + Vast = Vessel; Duck + Iron + Visage = Vessel. Known users: Brian Son of Kevin, Kenneth Son of Brian.",
+  "book": 0
+ },
+ {
+  "name": "Earth Essence",
+  "keys": [
+   "Earth essence"
+  ],
+  "text": "Earth essence: essence (Common). Known abilities: Obsidian Armour, Seeking Spire, Strength of the Earth, Obsidian Shard Storm, Obsidian Wall. Known combinations: Earth + Spike + Trap = Ambush; Cattle + Earth + Vast = Behemoth; Balance + Earth + Shield = Boundary; Earth + Pangolin + Shark = Chimera; Earth + Ice + Wind = Desolate; Earth + Trowel + Vast = Edifice; Earth + Iron + Shield = Fortress; Earth + Hair + Snake = Gorgon. Known users: Farrah Hurin.",
+  "book": 0
+ },
+ {
+  "name": "Eclipse Essence",
+  "keys": [
+   "Eclipse essence",
+   "Eclipse confluence"
+  ],
+  "text": "Eclipse essence: confluence essence. The Eclipse essence is a confluence which is known to appear frequently when two diametrically opposed forces are brought into balance by a third essence within the combination. Usually the forces involved are more ephemeral, like light and dark, while more physical forces like fire and ice will produce confluences like Storm or Cataclysm. Known abilities: Realm of the Infinite Eclipse. Known combinations: Balance + Dark + Light; Balance + Moon + Sun; Balance + Omen + Zeal; Balance + Death + Life; Dimension + Moon + Sun. Known users: Rufus Remore.",
+  "book": 0
+ },
+ {
+  "name": "Empower Essence",
+  "keys": [
+   "Empower essence"
+  ],
+  "text": "Empower essence: essence. Rune [Epic] + Balance [Uncommon] + Blood [Uncommon] Known combinations: Rune [Epic] + Balance [Uncommon] + Blood [Uncommon]; Sword [Common] + Elemental [Epic] + Lightning [Uncommon]; Swift[Common] + Sword [Common] + Lightning [Uncommon]; Might [Common] + Magic[Common] + Swift [Common]; Cat [Common] + Sun [Rare] + Magic [Common].",
+  "book": 0
+ },
+ {
+  "name": "Eye Essence",
+  "keys": [
+   "Eye essence"
+  ],
+  "text": "Eye essence: essence (Common). Known combinations: Eye + Fire + Magic = Avatar; Eye + Magic + Mirror = Vision.",
+  "book": 0
+ },
+ {
+  "name": "Feast Essence",
+  "keys": [
+   "Feast essence"
+  ],
+  "text": "Feast essence: essence (Common). Known abilities: Feeding the Multitudes. Known combinations: Dance + Feast + Knife = Bounty; Corrupt + Feast + Growth = Doom; Feast + Foot + Rabbit = Prosperity; Feast + Magic + Void = Vortex. Known users: Erika Asano.",
+  "book": 0
+ },
+ {
+  "name": "Fire Essence",
+  "keys": [
+   "Fire essence"
+  ],
+  "text": "Fire essence: essence (Common). Glass containing swirling mix of orange, red and yellow. Known abilities: Burning Orbs, Fire Jump, Eyes of Fire, Fire Bolt, Fire Strike, Internal Combustion. Known combinations: Fire + Spider + Trap = Ambush; Eye + Fire + Magic = Avatar; Fire + Potent + Water = Cataclysm; Fire + Omen + Sun = Dawn; Bird + Fire + Wind = Firebird; Fire + Iron + Water = Forge; Fire + Iron + Technology = Forge; Bird + Fire + Iron = Forge. Known users: Farrah Hurin, Gareth Xandier, Henrietta Geller.",
+  "book": 0
+ },
+ {
+  "name": "Fish Essence",
+  "keys": [
+   "Fish essence"
+  ],
+  "text": "Fish essence: essence (Common). Known combinations: Fish + Vast + Water = Leviathan; Fish + Water + Wind = Transgression.",
+  "book": 0
+ },
+ {
+  "name": "Flea Essence",
+  "keys": [
+   "Flea essence"
+  ],
+  "text": "Flea essence: essence (Common). Known combinations: Duck + Flea + Foot = Swarm.",
+  "book": 0
+ },
+ {
+  "name": "Foot Essence",
+  "keys": [
+   "Foot essence"
+  ],
+  "text": "Foot essence: essence (Common). Known combinations: Foot + Knife + Swift= Master; Adept + Foot + Hand = Master; Feast + Foot + Rabbit = Prosperity; Duck + Flea + Foot = Swarm.",
+  "book": 0
+ },
+ {
+  "name": "Forge Essence",
+  "keys": [
+   "Forge essence",
+   "Forge confluence"
+  ],
+  "text": "Forge essence: confluence essence. Forge is a confluence essence useful to those who are skilled craftsmen.",
+  "book": 0
+ },
+ {
+  "name": "Fork Essence",
+  "keys": [
+   "Fork essence"
+  ],
+  "text": "Fork essence: essence (Common). The Fork essence is a versatile addition to a powerset. Depending on the combination it can produce powers relating to pitchforks to a farmer or dining forks to a cooking magic specialist.",
+  "book": 0
+ },
+ {
+  "name": "Fortress Essence",
+  "keys": [
+   "Fortress essence"
+  ],
+  "text": "Fortress essence: essence. Iron [Common] + Earth [Common] + Shield [Common] Known combinations: Iron [Common] + Earth [Common] + Shield [Common].",
+  "book": 0
+ },
+ {
+  "name": "Fox Essence",
+  "keys": [
+   "Fox essence"
+  ],
+  "text": "Fox essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Frog Essence",
+  "keys": [
+   "Frog essence"
+  ],
+  "text": "Frog essence: essence (Common). Known combinations: Frog + Hunger + Void = Empower. Known users: Autumn Leal.",
+  "book": 0
+ },
+ {
+  "name": "Fungus Essence",
+  "keys": [
+   "Fungus essence"
+  ],
+  "text": "Fungus essence: essence (Common). Known combinations: Fungus + Growth + Zeal = Animate; Cat + Fungus + Renewal = Fertile.",
+  "book": 0
+ },
+ {
+  "name": "Garuda Essence",
+  "keys": [
+   "Garuda essence"
+  ],
+  "text": "Garuda essence: essence. Tends to produce armored strikers Known abilities: God-Striking Fist, Amrita, Feaster of Serpents, Brother of the Dawn, Unbowed. Known combinations: Might+Swift+Bird; Might+Swift+Wing.",
+  "book": 0
+ },
+ {
+  "name": "Gate Essence",
+  "keys": [
+   "Gate essence",
+   "Gate confluence"
+  ],
+  "text": "Gate essence: confluence essence. The Gate essence is a confluence essence that produces a portal specialist. Known combinations: Rune [Epic] + Dimension [Legendary] + Myriad [Legendary]; Void [legendary] + Magic [common] + Dimension [legendary]; Magic [common] + Rune [epic] + Dimension [legendary].",
+  "book": 0
+ },
+ {
+  "name": "Goat Essence",
+  "keys": [
+   "Goat essence"
+  ],
+  "text": "Goat essence: essence (Common). “I could just pull out the stake.” Known combinations: Blood + Dimension + Goat = Sacrifice.",
+  "book": 0
+ },
+ {
+  "name": "Grazen Essence",
+  "keys": [
+   "Grazen essence"
+  ],
+  "text": "Grazen essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Growth Essence",
+  "keys": [
+   "Growth essence"
+  ],
+  "text": "Growth essence: essence (Uncommon). The Growth essence is known to produce a variety of abilities centred around boosting the skills, abilities, and defence of allies. Known abilities: Bolster, Chrysalis Golem, Giant's Might, Hero’s Moment, Verdant Cage. Known combinations: Fungus + Growth + Zeal = Animate; Growth + Hunger + Void = Doom; Corrupt + Feast + Growth = Doom; Blood + Growth + Hunger = Empower; Flesh + Growth + Potent = Empower; Growth + Might + Renewal = Immortal; Earth + Growth + Might = Monolith; Growth + Renewal + Zeal = Onslaught. Known users: Neil Davone.",
+  "book": 0
+ },
+ {
+  "name": "Gun Essence",
+  "keys": [
+   "Gun essence"
+  ],
+  "text": "Gun essence: essence (Common). The gun essence like many weapon essences is known for producing a large number of special attacks although they are known to have less than the bow essence. The Gun essence abilities tend tword sustained fire and lower impact abilities when compared to bows, with the exception of large guns such as sniper rifles. Known abilities: Rotary Cannon, This is My Rifle. Known combinations: Gun + Hand + Vehicle = Action; Adept + Gathering + Gun = Master; Adept + Gun + Hand = Master; Adept + Gun + Swift = Master; Fire + Gun + Vehicle = Onslaught; Gun + Might + Potent = Onslaught; Gun + Might + Vehicle = Onslaught; Gun + Vehicle + Wind = Onslaught. Known users: Asya Karadeniz, Travis Noble.",
+  "book": 0
+ },
+ {
+  "name": "Hair Essence",
+  "keys": [
+   "Hair essence"
+  ],
+  "text": "Hair essence: essence (Common). Known combinations: Earth + Hair + Snake = Gorgon.",
+  "book": 0
+ },
+ {
+  "name": "Hammer Essence",
+  "keys": [
+   "Hammer essence"
+  ],
+  "text": "Hammer essence: essence (Common). Known combinations: Hammer + Lightning + Might = Avatar; Cold + Hammer + Sickle = Desolate; Fire + Hammer + Iron = Forge; Adept + Fire + Hammer = Master; Hammer + Lightning + Rune = Storm; Deer + Earth + Hammer = Transfiguration. Known users: Gareth Xandier.",
+  "book": 0
+ },
+ {
+  "name": "Hand Essence",
+  "keys": [
+   "Hand essence"
+  ],
+  "text": "Hand essence: essence (Common). Known combinations: Gun + Hand + Vehicle = Action; Adept + Foot + Hand = Master; Adept + Gun + Hand = Master; Balance + Hand + Iron = Mystic; Hand + Might + Swift = Onslaught; Hand + Paper + Rune = Scribe; Bear + Growth + Hand = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Harvest Essence",
+  "keys": [
+   "Harvest essence"
+  ],
+  "text": "Harvest essence: essence. A confluence normally related to agriculture. Known combinations: Earth +  Plant + Sickle; Plant + Sickle + Adept; Plant + Hoe + Growth; Growth + Sickle + Adept.",
+  "book": 0
+ },
+ {
+  "name": "Heidel Essence",
+  "keys": [
+   "Heidel essence"
+  ],
+  "text": "Heidel essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Hook Essence",
+  "keys": [
+   "Hook essence"
+  ],
+  "text": "Hook essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Horse Essence",
+  "keys": [
+   "Horse essence"
+  ],
+  "text": "Horse essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Hunger Essence",
+  "keys": [
+   "Hunger essence"
+  ],
+  "text": "Hunger essence: essence (Rare). The Hunger essence is an interesting one. It bears an amount of similarity to the Feast essence, which has a slightly more broad application. As usual, the rarer of the two, Hunger, is more specific. Hunger is largely linked to drain and absorption-type powers, but the specifics can vary wildly based on other essences in the combination and the awakening stones used to get powers. Combined with Magic, you'll get a lot of mana drain. Blood, health drain. In terms or archetypal roles, Hunger is used to aim for control and debuff power sets.",
+  "book": 0
+ },
+ {
+  "name": "Hunt Essence",
+  "keys": [
+   "Hunt essence"
+  ],
+  "text": "Hunt essence: essence (Common). Known combinations: Axe + Hunt + Plant = Harvest; Cattle + Hunt + Might= Minotaur; Bow + Hunt + Trap = Predatory; Bow + Dark + Hunt = Predatory; Hunt + Myriad + Wolf = Predatory; Adept + Bow + Hunt = Skirmish; Hunt + Moon + Wolf = Transfiguration; Blood + Death + Hunt = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Hydra Essence",
+  "keys": [
+   "Hydra essence",
+   "Hydra confluence"
+  ],
+  "text": "Hydra essence: confluence essence. Known combinations: Myriad + Renewal + Snake.",
+  "book": 0
+ },
+ {
+  "name": "Immortal Essence",
+  "keys": [
+   "Immortal essence"
+  ],
+  "text": "Immortal essence: essence. Tends to give a power set around the ability to take hits, and survive. Known combinations: Growth[Uncommon] + Might[Common] + Renewal[Epic]; Blood[Uncommon] + Potent[Epic] + Renewal[Epic].",
+  "book": 0
+ },
+ {
+  "name": "Iron Essence",
+  "keys": [
+   "Iron essence"
+  ],
+  "text": "Iron essence: essence (Common). Known combinations: Iron + Thread + Trap = Ambush; Iron + Spike + Vast = Battlefield; Death + Flesh + Iron = Cyborg; Death + Iron + Life = Cyborg; Flesh + Iron + Myriad = Cyborg; Flesh + Iron + Technology = Cyborg; Iron + Lightning + Technology = Forge; Fire + Iron + Water = Forge. Known users: Gareth Xandier, Hudson Kettering.",
+  "book": 0
+ },
+ {
+  "name": "Juggernaut Essence",
+  "keys": [
+   "Juggernaut essence",
+   "Juggernaut confluence"
+  ],
+  "text": "Juggernaut essence: confluence essence. Known combinations: Might + Swift + Vehicle; Iron + Might + Swift.",
+  "book": 0
+ },
+ {
+  "name": "Karmic Essence",
+  "keys": [
+   "Karmic essence",
+   "Karmic confluence"
+  ],
+  "text": "Karmic essence: confluence essence. The Karma essence is a confluence essence that produces retributive abilities. Known abilities: Eye of Karma, Instant Karma, Mantle of Retribution, Vengeance Mirror. Known combinations: Balance, Magic and Rune. Known users: Clive Standish.",
+  "book": 0
+ },
+ {
+  "name": "Knife Essence",
+  "keys": [
+   "Knife essence"
+  ],
+  "text": "Knife essence: essence (Common). Known abilities: Unnamed Conjuration ability {Conjure a variety of knives ranging from cooking to combat.} (Erika Asano). Known combinations: Dance + Feast + Knife = Bounty; Foot + Knife + Swift = Master; Adept + Knife + Smoke = Master; Hunger + Knife + Sun = Sacrifice; Dimension + Knife + Sin = Sacrifice. Known users: Erika Asano.",
+  "book": 0
+ },
+ {
+  "name": "Kraken Essence",
+  "keys": [
+   "Kraken essence",
+   "Kraken confluence"
+  ],
+  "text": "Kraken essence: confluence essence. Known combinations: Might + Octopus + Vast; Deep + Might + Octopus.",
+  "book": 0
+ },
+ {
+  "name": "Leviathan Essence",
+  "keys": [
+   "Leviathan essence",
+   "Leviathan confluence"
+  ],
+  "text": "Leviathan essence: confluence essence. Known combinations: Deep + Might + Vast.",
+  "book": 0
+ },
+ {
+  "name": "Light Essence",
+  "keys": [
+   "Light essence"
+  ],
+  "text": "Light essence: essence (Uncommon). Light is a fairly generic elemental essence on its own, with powers using light in various ways. This leads to it the light essence producing powers more akin to a confluence, taking on aspects from the other absorbed essences. With the right combination it can produce searing laser beams, deliver healing effects, produce illusions, or inflict blinding effects with special attacks. Known combinations: Dimension + Light + Wing = Avatar; Balance + Light + Renewal = Cycle; Dark + Light + Sun = Dawn; Balance + Dark + Light = Eclipse; Fire + Light + Water = Mirage; Dark + Light + Moon = Twilight; Fire + Light + Potent = Wrath; Fire + Light + Zeal = Wrath.",
+  "book": 0
+ },
+ {
+  "name": "Lizard Essence",
+  "keys": [
+   "Lizard essence"
+  ],
+  "text": "Lizard essence: essence (Common). Known combinations: Lizard + Spider + Wolf = Chimera.",
+  "book": 0
+ },
+ {
+  "name": "Locust Essence",
+  "keys": [
+   "Locust essence"
+  ],
+  "text": "Locust essence: essence (Common). Known combinations: Hunger + Locust + Plant = Desolate; Blood + Hunger + Locust = Desolate.",
+  "book": 0
+ },
+ {
+  "name": "Lotus Essence",
+  "keys": [
+   "Lotus essence"
+  ],
+  "text": "Lotus essence: essence. Plant [Common] + Water [Common] + Harmonic [Epic] Known combinations: Plant [Common] + Water [Common] + Harmonic [Epic]; Plant [Common] + Water [Common] + Sword [Common].",
+  "book": 0
+ },
+ {
+  "name": "Magic Essence",
+  "keys": [
+   "Magic essence"
+  ],
+  "text": "Magic essence: essence (Common). Known abilities: Astral Lantern, Bag of Tricks, Crystalize Mana, Eldritch Eyes, Lord of Magic, Mirror Magic, Power Thief, Power Lock, Spirit Reaper, Tools of the Magister, Wrath of the Magister, Juxtapose. Known combinations: Bone + Death + Magic = Animate; Cloth + Dance + Magic = Animate; Corrupt + Dimension + Magic = Avatar; Corrupt + Magic + Void = Avatar; Eye + Fire + Magic = Avatar; Magic + Might + Potent = Avatar; Balance + Magic + Potent = Chaotic; Adept + Magic + Trap = Charlatan. Known users: Clive Standish, Humphrey Geller, Belinda Callahan, Jory Tillman, Emir Bahadir, Akari Asano.",
+  "book": 0
+ },
+ {
+  "name": "Manatee Essence",
+  "keys": [
+   "Manatee essence"
+  ],
+  "text": "Manatee essence: essence (Common). Known combinations: Knowledge + Manatee + Sand = Guardian.",
+  "book": 0
+ },
+ {
+  "name": "Manticore Essence",
+  "keys": [
+   "Manticore essence",
+   "Manticore confluence"
+  ],
+  "text": "Manticore essence: confluence essence. Known combinations: Cat + Spike + Venom.",
+  "book": 0
+ },
+ {
+  "name": "Master Essence",
+  "keys": [
+   "Master essence"
+  ],
+  "text": "Master essence: essence. Master is a common confluence that can be part of crafting style combos or high-skill combat combinations. The Adept essence is the most common component essence in both cases. The key is expertise, whether you're hammering iron or hammering bad guys. The Adept and Master essences are more about facilitating skills than bestowing them. They might increase proprioception, for example, but you still have to make use of that potential.",
+  "book": 0
+ },
+ {
+  "name": "Might Essence",
+  "keys": [
+   "Might essence"
+  ],
+  "text": "Might essence: essence (Common). Known abilities: Immortality, Shield Breaker, Unstoppable Force, Relentless Assault, Mighty Strength. Known combinations: __Essence 1__ + __Essence 2__ + __Essence 3__ = __Confluence__. Known users: Humphrey Geller, Gabrielle Pellin, Emir Bahadir, Thalia Mercer, Taika Williams, Ruth, Jack Gerling, Hiram.",
+  "book": 0
+ },
+ {
+  "name": "Ministration Essence",
+  "keys": [
+   "Ministration essence",
+   "Ministration confluence"
+  ],
+  "text": "Ministration essence: confluence essence. The Ministration essence is a confluence essence. Known combinations: Life, Pure and Renewal. Known users: Ian Evans.",
+  "book": 0
+ },
+ {
+  "name": "Monkey Essence",
+  "keys": [
+   "Monkey essence"
+  ],
+  "text": "Monkey essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Mouse Essence",
+  "keys": [
+   "Mouse essence"
+  ],
+  "text": "Mouse essence: essence (Common). Known combinations: Bird + Mouse + Whale = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Mystic Essence",
+  "keys": [
+   "Mystic essence",
+   "Mystic confluence"
+  ],
+  "text": "Mystic essence: confluence essence. The Mystic essence is a confluence essence specialised in bolstering the users skills. Known abilities: Immortal Fist, Mirage Step, Radiant Fist, Sight Beyond Sight, Strong Soul. Known combinations: Magic, Might and Staff; Balance, Wind and Swift. Known users: Sophie Wexler, Emir Bahadir.",
+  "book": 0
+ },
+ {
+  "name": "Needle Essence",
+  "keys": [
+   "Needle essence"
+  ],
+  "text": "Needle essence: essence (Common). Known combinations: Adept + Needle + Thread = Master; Cloth + Needle + Thread = Master; Adept + Cloth + Needle = Master; Bird + Needle + Song = Resonating; Balance + Life + Needle = Vessel; Dance + Needle + Thread = Weave.",
+  "book": 0
+ },
+ {
+  "name": "Net Essence",
+  "keys": [
+   "Net essence"
+  ],
+  "text": "Net essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Octopus Essence",
+  "keys": [
+   "Octopus essence"
+  ],
+  "text": "Octopus essence: essence (Common). Known combinations: Might + Octopus + Vast = Kraken; Deep + Might + Octopus = Kraken.",
+  "book": 0
+ },
+ {
+  "name": "Omen Essence",
+  "keys": [
+   "Omen essence"
+  ],
+  "text": "Omen essence: essence.",
+  "book": 0
+ },
+ {
+  "name": "Onslaught Essence",
+  "keys": [
+   "Onslaught essence",
+   "Onslaught confluence"
+  ],
+  "text": "Onslaught essence: confluence essence. Onslaught is a confluence essence. It is known to be an aggressive essence and is deemed by Rufus to be fit for humans, who have access to more special attacks. Known combinations: Might + Wind + Swift; Might + Potent + Swift; Gathering + Myriad + Bow.",
+  "book": 0
+ },
+ {
+  "name": "Pangolin Essence",
+  "keys": [
+   "Pangolin essence"
+  ],
+  "text": "Pangolin essence: essence (Common). Known combinations: Earth + Pangolin + Shark = Chimera.",
+  "book": 0
+ },
+ {
+  "name": "Paper Essence",
+  "keys": [
+   "Paper essence"
+  ],
+  "text": "Paper essence: essence (Common). Known combinations: Knowledge + Paper + Serene = Scribe; Hand + Paper + Rune = Scribe; Paper + Sword + Visage = Simulacrum; Magic + Paper + Rune = Talisman.",
+  "book": 0
+ },
+ {
+  "name": "Phoenix Essence",
+  "keys": [
+   "Phoenix essence",
+   "Phoenix confluence"
+  ],
+  "text": "Phoenix essence: confluence essence. The Phoenix essence is a confluence essence. Known combinations: Fire, Renewal and Wing. Known users: Henrietta Geller.",
+  "book": 0
+ },
+ {
+  "name": "Plant Essence",
+  "keys": [
+   "Plant essence"
+  ],
+  "text": "Plant essence: essence (Common). Known abilities: Steelcutter Thorns (Spell). Known combinations: Death + Hunger + Plant = Desolate; Hunger + Locust + Plant = Desolate; Axe + Hunt + Plant = Harvest; Earth + Plant + Sickle = Harvest; Harmonic + Plant + Water = Lotus; Plant + Sword + Water = Lotus; Earth + Plant + Vast = Verdant; Earth + Plant + Rake = Verdant. Known users: Beth Cavendish, Cheryl Asano.",
+  "book": 0
+ },
+ {
+  "name": "Potent Essence",
+  "keys": [
+   "Potent essence"
+  ],
+  "text": "Potent essence: essence (Epic). Known abilities: Boost, Burning Soul, Limit Breaker, Relentless Assault, Rising Flames. Known combinations: Potent + Vast + Water = Avatar; Corrupt + Dimension + Potent = Avatar; Elemental + Harmonic + Potent = Avatar; Magic + Might + Potent = Avatar; Fire + Potent + Water = Cataclysm; Balance + Magic + Potent = Chaotic; Blood + Corrupt + Potent = Doom; Death + Potent + Void = Doom. Known users: Farrah Hurin, Thalia Mercer, Thadwick Mercer, Jack Gerling.",
+  "book": 0
+ },
+ {
+  "name": "Predatory Essence",
+  "keys": [
+   "Predatory essence"
+  ],
+  "text": "Predatory essence: essence. Spear [Common] + Spider [Common] + Wing [Epic] Known combinations: Spear [Common] + Spider [Common] + Wing [Epic]; Hunt [Common] + Bow [Common] + Dark [Uncommon].",
+  "book": 0
+ },
+ {
+  "name": "Prosperity Essence",
+  "keys": [
+   "Prosperity essence",
+   "Prosperity confluence"
+  ],
+  "text": "Prosperity essence: confluence essence. The Prosperity essence is a confluence essence specialised in increasing the good fortune of allies. Known abilities: Clean Slate, Cornucopia, Reels of Fortune, Spoils of Victory. Known combinations: Growth, Renewal and Shield; Balance, Renewal and Rune. Known users: Neil Davone, Hiro Asano.",
+  "book": 0
+ },
+ {
+  "name": "Rabbit Essence",
+  "keys": [
+   "Rabbit essence"
+  ],
+  "text": "Rabbit essence: essence (Common). Known combinations: Feast + Foot + Rabbit = Prosperity; Bat+ Rabbit + Rat = Swarm.",
+  "book": 0
+ },
+ {
+  "name": "Rake Essence",
+  "keys": [
+   "Rake essence"
+  ],
+  "text": "Rake essence: essence (Common). Known combinations: Earth + Plant + Rake = Verdant.",
+  "book": 0
+ },
+ {
+  "name": "Rat Essence",
+  "keys": [
+   "Rat essence"
+  ],
+  "text": "Rat essence: essence (Common). Known combinations: Rat + Skunk + Snake = Chimera; Bat + Rabbit + Rat = Swarm; Dark + Fire + Rat = Swarm; Rat + Swift + Water = Vessel.",
+  "book": 0
+ },
+ {
+  "name": "Renewal Essence",
+  "keys": [
+   "Renewal essence"
+  ],
+  "text": "Renewal essence: essence (Epic). The Renewal essence is known to produce a variety of abilities centred around healing and regeneration. Known abilities: Fountain of Life, Grand Renewal, Life Bolt. Known combinations: Dimension + Might + Renewal = Avatar; Balance + Light + Renewal = Cycle; Renewal + Sun + Water = Dawn; Might + Renewal + Sin = Empower; Cat + Fungus + Renewal = Fertile; Myriad + Renewal + Snake = Hydra; Life + Magic + Renewal = Immortal; Growth + Might + Renewal = Immortal. Known users: Neil Davone, Henrietta Geller, Ian Evans, Hiro Asano.",
+  "book": 0
+ },
+ {
+  "name": "Rune Essence",
+  "keys": [
+   "Rune essence"
+  ],
+  "text": "Rune essence: essence (Epic). Known abilities: Enact Ritual, Rune Trap, Rune Mantle, Rune Gate, Rune Tortoise. Known combinations: Rune + Spider + Trap = Ambush; Rune + Spear + Tree = Avatar; Rune + Star + Tree = Effigy; Balance + Blood + Rune = Empower; Dimension + Myriad + Rune = Gate; Dimension + Magic + Rune = Gate; Balance + Magic + Rune = Karmic; Omen + Rune + Star = Karmic. Known users: Clive Standish, Hiro Asano.",
+  "book": 0
+ },
+ {
+  "name": "Sacrifice Essence",
+  "keys": [
+   "Sacrifice essence"
+  ],
+  "text": "Sacrifice essence: essence. Dimension [Legendary] + Goat [Common] + Blood [Uncommon] Known combinations: Dimension [Legendary] + Goat [Common] + Blood [Uncommon].",
+  "book": 0
+ },
+ {
+  "name": "Sceptre Essence",
+  "keys": [
+   "Sceptre essence"
+  ],
+  "text": "Sceptre essence: essence (Common). Known combinations: Adept + Potent + Sceptre = Sovereign.",
+  "book": 0
+ },
+ {
+  "name": "Shark Essence",
+  "keys": [
+   "Shark essence"
+  ],
+  "text": "Shark essence: essence (Common). Known combinations: Earth + Pangolin + Shark = Chimera; Shark + Water + Wind = Vortex.",
+  "book": 0
+ },
+ {
+  "name": "Shield Essence",
+  "keys": [
+   "Shield essence"
+  ],
+  "text": "Shield essence: essence (Common). The Shield essence is known to produce a variety of abilities centered around defense and protection. Known abilities: Absorbing Shield, Burst Shield, Reaper’s Redoubt (Awakening Stone of the Reaper), Mana Shield. Known combinations: Myriad + Shield + Sword = Arsenal; Balance + Earth + Shield = Boundary; Magic + Potent + Shield = Force; Earth + Iron + Shield = Fortress; Magic + Shield + Void = Guardian; Shield + Trap + Void = Guardian; Shield + Trap + Vast = Prison; Growth + Renewal + Shield = Prosperity. Known users: Neil Davone.",
+  "book": 0
+ },
+ {
+  "name": "Ship Essence",
+  "keys": [
+   "Ship essence"
+  ],
+  "text": "Ship essence: essence (Common). Known combinations: Ship + Water + Wind = Soaring.",
+  "book": 0
+ },
+ {
+  "name": "Shovel Essence",
+  "keys": [
+   "Shovel essence"
+  ],
+  "text": "Shovel essence: essence (Common). Known combinations: Earth + Shovel + Water = Verdant.",
+  "book": 0
+ },
+ {
+  "name": "Sickle Essence",
+  "keys": [
+   "Sickle essence"
+  ],
+  "text": "Sickle essence: essence (Common). Known combinations: Cold + Hammer + Sickle = Desolate; Earth + Plant + Sickle = Harvest.",
+  "book": 0
+ },
+ {
+  "name": "Sin Essence",
+  "keys": [
+   "Sin essence"
+  ],
+  "text": "Sin essence: essence (Legendary). The sin essence looks like a cube of white jade, flecked with gold. Known abilities: Punish, Feast of Absolution, Sin Eater, Hegemony, Castigate. Known combinations: Dimension + Myriad + Sin = Cataclysm; Blood + Dark + Sin = Doom; Balance + Omen + Sin = Doom; Might + Renewal + Sin = Empower; Dimension + Knife + Sin + Sacrifice; Dark + Sin + Water = Sovereign; Flesh + Sin + Visage = Succubus; Hunger + Magic + Sin = Succubus. Known users: Jason Asano.",
+  "book": 0
+ },
+ {
+  "name": "Skunk Essence",
+  "keys": [
+   "Skunk essence"
+  ],
+  "text": "Skunk essence: essence (Common). Known combinations: Rat + Skunk + Snake = Chimera.",
+  "book": 0
+ },
+ {
+  "name": "Sloth Essence",
+  "keys": [
+   "Sloth essence"
+  ],
+  "text": "Sloth essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Snake Essence",
+  "keys": [
+   "Snake essence"
+  ],
+  "text": "Snake essence: essence (Common). Known combinations: Snake + Spider + Venom = Chimera; Rat + Skunk + Snake = Chimera; Earth + Hair + Snake = Gorgon; Myriad + Renewal + Snake = Hydra; Fire + Iron + Snake = Serpent; Fire + Snake + Wind = Serpent; Fire + Snake + Water = Serpent; Blood + Death + Snake = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Soaring Essence",
+  "keys": [
+   "Soaring essence",
+   "Soaring confluence"
+  ],
+  "text": "Soaring essence: confluence essence.",
+  "book": 0
+ },
+ {
+  "name": "Spear Essence",
+  "keys": [
+   "Spear essence"
+  ],
+  "text": "Spear essence: essence (Common). Known combinations: Rune + Spear + Tree = Avatar; Spear + Spider + Wing = Predatory.",
+  "book": 0
+ },
+ {
+  "name": "Spider Essence",
+  "keys": [
+   "Spider essence"
+  ],
+  "text": "Spider essence: essence (Common). Known combinations: Fire + Spider + Trap = Ambush; Rune + Spider + Trap = Ambush; Lizard + Spider + Wolf = Chimera; Snake + Spider + Venom = Chimera; Bow + Spider + Trap = Predatory; Spear + Spider + Wing = Predatory; Blood + Death + Spider = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Spike Essence",
+  "keys": [
+   "Spike essence"
+  ],
+  "text": "Spike essence: essence (Common). Known combinations: Earth + Spike + Trap = Ambush; Iron + Spike + Vast = Battlefield; Cat + Spike + Venom = Manticore.",
+  "book": 0
+ },
+ {
+  "name": "Staff Essence",
+  "keys": [
+   "Staff essence"
+  ],
+  "text": "Staff essence: essence (Common). Known combinations: Magic + Might + Staff = Mystic. Known users: Emir Bahadir.",
+  "book": 0
+ },
+ {
+  "name": "Storm Essence",
+  "keys": [
+   "Storm essence"
+  ],
+  "text": "Storm essence: essence. Known combinations: Lightning / Potent / Wind; Fire / Wind / Potent; Fire / Water / Wind; Fire / Water / Earth; Earth / Water / Wind; Earth / Fire / Wind.",
+  "book": 0
+ },
+ {
+  "name": "Succubus Essence",
+  "keys": [
+   "Succubus essence"
+  ],
+  "text": "Succubus essence: essence. Visage [Legendary] + Flesh [Uncommon] + Sin [Legendary] Known combinations: Visage [Legendary] + Flesh [Uncommon] + Sin [Legendary]; Dance [Uncommon] + Flesh [Uncommon] + Sin [Legendary].",
+  "book": 0
+ },
+ {
+  "name": "Swarm Essence",
+  "keys": [
+   "Swarm essence"
+  ],
+  "text": "Swarm essence: essence. Known combinations: Blood / Myriad / Wing; Fire / Dark / Rat.",
+  "book": 0
+ },
+ {
+  "name": "Swift Essence",
+  "keys": [
+   "Swift essence"
+  ],
+  "text": "Swift essence: essence (Common). Known abilities: Free Runner, Avatar of Speed, Between the Raindrops, Alacrity’s Reward, Eternal Moment, Momentous Charge, Unstoppable Strike, Speed and Power. Known combinations: Magic + Might + Swift = Empower; Lightning + Swift + Sword = Empower; Bird + Might + Swift = Garuda; Might + Swift + Wing = Garuda; Might + Swift + Vehicle = Juggernaut; Iron + Might + Swift = Juggernaut; Foot + Knife + Swift = Master; Adept + Bow + Swift = Master. Known users: Sophie Wexler, Danielle Geller, Thalia Mercer, Kaito Asano, Taika Williams, Valdis Volaire, \"Woolzy\", Ruth.",
+  "book": 0
+ },
+ {
+  "name": "Sword Essence",
+  "keys": [
+   "Sword essence"
+  ],
+  "text": "Sword essence: essence (Common). Known combinations: Myriad + Shield + Sword = Arsenal; Lightning + Might + Sword = Avatar; Crystal + Magic + Sword = Empower; Elemental + Lightning + Sword = Empower; Lightning + Swift + Sword = Empower; Adept + Swift + Sword = Master; Adept + Myriad + Sword = Master; Adept + Dance + Sword = Master. Known users: Valdis Volaire, Akari Asano, Cheryl Asano, Lance, The Storm King.",
+  "book": 0
+ },
+ {
+  "name": "Technology Essence",
+  "keys": [
+   "Technology essence"
+  ],
+  "text": "Technology essence: essence (Common). Known combinations: Flesh + Iron + Technology = Cyborg; Flesh + Might + Technology = Cyborg; Flesh + Myriad + Technology = Cyborg; Iron + Lightning + Technology = Forge; Fire + Iron + Technology = Forge; Armour + Magic + Technology = Magitech; Lightning + Magic + Technology = Magitech; Adept + Iron + Technology = Master. Known users: Nik Asano, Greg.",
+  "book": 0
+ },
+ {
+  "name": "Thread Essence",
+  "keys": [
+   "Thread essence"
+  ],
+  "text": "Thread essence: essence (Common). Known combinations: Iron + Thread + Trap = Ambush; Adept + Needle + Thread = Master; Cloth + Needle + Thread = Master; Dance + Sword + Thread = Master; Adept + Thread + Whip = Master; Flesh + Magic + Thread = Sovereign; Dance + Needle + Thread = Weave; Dance + Myriad + Thread = Weave.",
+  "book": 0
+ },
+ {
+  "name": "Time Essence",
+  "keys": [
+   "Time essence",
+   "Time confluence"
+  ],
+  "text": "Time essence: confluence essence. Known abilities: Eternal Moment (also from Swift). Known combinations: Balance, Dimension, and Swift; Dimension, Vast, and Void; Renewal, Dimension, and Swift; Danielle Geller.",
+  "book": 0
+ },
+ {
+  "name": "Tooth Essence",
+  "keys": [
+   "Tooth essence"
+  ],
+  "text": "Tooth essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Transfiguration Essence",
+  "keys": [
+   "Transfiguration essence",
+   "Transfiguration confluence"
+  ],
+  "text": "Transfiguration essence: confluence essence. Transfiguration is a fairly common confluence essence that can be accessed through many combinations. Depending on the combinations, which can vary wildly, it can offer shape-changing, transmutation or a bit of both. Known combinations: Iron [Common] + Blood [Uncommon] + Fire [Common]; Sword [Common] + Myriad [Legendary]+ Plant [Uncommon]; Growth [Uncommon] + Hand [Common] + Bear [Common]; Axe [Common] + Moon [Rare] + Bear [Common]; Hunt [Common] + Moon [Rare] + Wolf [Common]; Balance [Uncommon] + Ice [Uncommon] + Fire [Common].",
+  "book": 0
+ },
+ {
+  "name": "Transgression Essence",
+  "keys": [
+   "Transgression essence"
+  ],
+  "text": "Transgression essence: essence (Legendary). Death [Uncommon] + Magic [Common] + Dimension [Legendary] Known combinations: Death [Uncommon] + Magic [Common] + Dimension [Legendary].",
+  "book": 0
+ },
+ {
+  "name": "Trap Essence",
+  "keys": [
+   "Trap essence"
+  ],
+  "text": "Trap essence: essence (Common). The Trap essence is known to produce a variety of abilities centred around misdirection and catching enemies unaware. Known abilities: Bait and Switch, Force Tether, Lightning Tether, Rune Trap, Pit of the Reaper. Known combinations: Iron + Thread + Trap = Ambush; Rune + Spider + Trap = Ambush; Earth + Spike + Trap = Ambush; Fire + Spider + Trap = Ambush; Adept + Magic + Trap = Charlatan; Shield + Trap + Void = Guardian; Cattle + Might + Trap = Minotaur; Bow + Hunt + Trap = Predatory. Known users: Belinda Callahan.",
+  "book": 0
+ },
+ {
+  "name": "Tree Essence",
+  "keys": [
+   "Tree essence"
+  ],
+  "text": "Tree essence: essence (Common). Known combinations: Rune + Spear + Tree = Avatar; Rune + Star + Tree = Effigy; Serene + Tree + Vast = Tranquil.",
+  "book": 0
+ },
+ {
+  "name": "Trowel Essence",
+  "keys": [
+   "Trowel essence"
+  ],
+  "text": "Trowel essence: essence (Common). Known combinations: Earth + Trowel + Vast = Edifice.",
+  "book": 0
+ },
+ {
+  "name": "Turtle Essence",
+  "keys": [
+   "Turtle essence"
+  ],
+  "text": "Turtle essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Undeath Essence",
+  "keys": [
+   "Undeath essence",
+   "Undeath confluence"
+  ],
+  "text": "Undeath essence: confluence essence. The undeath confluence essence is a prohibited essence due to the fact that it tends to turn you into an unliving monster",
+  "book": 0
+ },
+ {
+  "name": "Vehicle Essence",
+  "keys": [
+   "Vehicle essence"
+  ],
+  "text": "Vehicle essence: essence (Common). Known abilities: Conjure Helicopter, Scout Drone, Gun Drone, Rotor Saw, Chain Gun. Known combinations: Gun + Might + Vehicle = Onslaught; Gun + Vehicle + Wind = Onslaught; Vast + Vehicle + Water = Ocean; Gun + Hand + Vehicle = Action; Technology + Vehicle + Wind = Vessel; Cloud + Growth + Vehicle = Vessel; Swift + Vehicle + Wind = Soaring; Might + Swift + Vehicle = Juggernaut. Known users: Kaito Asano.",
+  "book": 0
+ },
+ {
+  "name": "Vessel Essence",
+  "keys": [
+   "Vessel essence"
+  ],
+  "text": "Vessel essence: essence. The Vessel essence is a confluence can take several forms depending on the essences which make it up. The Vessel confluence is known to manifest as a means of transport, a medium of exchange, or a container. Known combinations: Iron + Visage + Duck; Swift + Water + Rat; Iron + Vast + Duck; Iron + Wind + Sin; Life + Balance + Needle. Known users: Arabelle Remore, * Arabelle's Abilities take the form of taking lifeforce from enemies and storing it within her vessel, using it to fuel her healing abilities..",
+  "book": 0
+ },
+ {
+  "name": "Vision Essence",
+  "keys": [
+   "Vision essence",
+   "Vision confluence"
+  ],
+  "text": "Vision essence: confluence essence. When awakened by a Human, has the potential to evolve an Essence Gift that allows for use of four perception powers (one from each essence) instead of the usual limit of one. Known users: Kylie Chen.",
+  "book": 0
+ },
+ {
+  "name": "Void Essence",
+  "keys": [
+   "Void essence"
+  ],
+  "text": "Void essence: essence (Legendary). The Void essence is known to be similar in nature to the Dimension essence, but it often is notably more focused on physical reality unless paired with Dimension. Known combinations: Hunger + Vast + Void -> Cataclysm; Magic + Shield + Void -> Guardian; Dark + Tentacle + Void -> Avatar; Cat + Tentacle + Void -> Chimera; Dimension + Vast + Void -> Time; Death + Potent + Void -> Doom; Cloud + Vast + Void -> Nebula; Trap + Void + Wind -> Vortex.",
+  "book": 0
+ },
+ {
+  "name": "Volcano Essence",
+  "keys": [
+   "Volcano essence",
+   "Volcano confluence"
+  ],
+  "text": "Volcano essence: confluence essence. The Volcano essence is a confluence essence specialised in dealing high damage quickly at the cost of high mana reduction Known abilities: Lava Cannon, Flamecore Ravager, Magma Trap, Magma Golem, Volcanic Resurgence. Known users: Farrah Hurin.",
+  "book": 0
+ },
+ {
+  "name": "Wasp Essence",
+  "keys": [
+   "Wasp essence"
+  ],
+  "text": "Wasp essence: essence (Common). Known combinations: Fire + Venom + Wasp = Swarm; Potent + Venom + Wasp = Swarm.",
+  "book": 0
+ },
+ {
+  "name": "Water Essence",
+  "keys": [
+   "Water essence"
+  ],
+  "text": "Water essence: essence (Common). Known abilities: Between the Raindrops. Known combinations: Adept + Venom + Water = Alchemy; Potent + Vast + Water = Avatar; Fire + Potent + Water = Cataclysm; Flesh + Magic + Water = Cyborg; Renewal + Sun + Water = Dawn; Fire + Iron + Water = Forge; Fish + Vast + Water = Leviathan; Harmonic + Plant + Water = Lotus. Known users: Beth Cavendish, Cheryl Asano, Hiram's granddaughter.",
+  "book": 0
+ },
+ {
+  "name": "Wendigo Essence",
+  "keys": [
+   "Wendigo essence"
+  ],
+  "text": "Wendigo essence: essence. Known combinations: Hunger + Flesh + Might.",
+  "book": 0
+ },
+ {
+  "name": "Whale Essence",
+  "keys": [
+   "Whale essence"
+  ],
+  "text": "Whale essence: essence (Common). Known combinations: Bird + Mouse + Whale = Transfiguration.",
+  "book": 0
+ },
+ {
+  "name": "Wheel Essence",
+  "keys": [
+   "Wheel essence"
+  ],
+  "text": "Wheel essence: essence (Common).",
+  "book": 0
+ },
+ {
+  "name": "Whip Essence",
+  "keys": [
+   "Whip essence"
+  ],
+  "text": "Whip essence: essence (Common). Known combinations: Adept + Dance + Whip = Master; Adept + Thread + Whip = Master.",
+  "book": 0
+ },
+ {
+  "name": "Wind Essence",
+  "keys": [
+   "Wind essence"
+  ],
+  "text": "Wind essence: essence (Common). The Wind essence is known to produce a variety of abilities including physical blasts of air and recovery. Known abilities: Wind Blade, Cleansing Breeze, Leaf on the Wind, Wind Wave, Child of the Celestial Wind, Arrows of the Celestial Wind. Known combinations: Sand + Sun + Wind = Desolate; Earth + Ice + Wind = Desolate; Bird + Fire + Wind = Firebird; Magic + Sword + Wind = Mystic; Balance + Swift + Wind = Mystic; Adept + Water + Wind = Mystic; Might + Swift + Wind = Onslaught; Gun + Vehicle + Wind = Onslaught. Known users: Sophie Wexler, Thadwick Mercer, Kaito Asano.",
+  "book": 0
+ },
+ {
+  "name": "Wing Essence",
+  "keys": [
+   "Wing essence"
+  ],
+  "text": "Wing essence: essence (Epic). The Wing essence is known to produce a variety of movement and agility abilities. Known abilities: Dive Bomb, Dragon Wings, Dragon Wing Sword, Flying Leap. Known combinations: Dimension + Light + Wing = Avatar; Magic + Might + Wing = Dragon; Magic + Potent + Wing = Dragon; Might + Swift + Wing = Garuda; Discord + Song + Wing = Harpy; Fire + Renewal + Wing = Phoenix; Spear + Spider + Wing = Predatory; Blood + Myriad + Wing = Swarm. Known users: Humphrey Geller, Henrietta Geller, Taika Williams.",
+  "book": 0
+ },
+ {
+  "name": "Wolf Essence",
+  "keys": [
+   "Wolf essence"
+  ],
+  "text": "Wolf essence: essence (Common). Known combinations: Lizard + Spider + Wolf = Chimera; Hunt + Myriad + Wolf = Predatory; Hunt + Moon + Wolf = Transfiguration; Hunger + Moon + Wolf = Transfiguration; Blood + Death + Wolf = Undeath.",
+  "book": 0
+ },
+ {
+  "name": "Wrath Essence",
+  "keys": [
+   "Wrath essence",
+   "Wrath confluence"
+  ],
+  "text": "Wrath essence: confluence essence. Wrath is a highly offensive confluence with a smaller number of combinations than many other confluences.  Many see it as being worth the effort, though, because of a feature the Wrath confluence shares with few other essences: a high propensity for transcendent damage abilities. Seeing a transcendent damage execute or other restricted-use ability as early as iron-rank would not be a surprise, with more general-use attacks gaining transcendent damage by gold or even silver rank.",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Absolution",
+  "keys": [
+   "Awakening Stone of Absolution"
+  ],
+  "text": "Awakening Stone of Absolution (Epic). Abilities awakened by this stone in the books: Blade of Doom (Jason Asano, Doom Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Adventure",
+  "keys": [
+   "Awakening Stone of Adventure"
+  ],
+  "text": "Awakening Stone of Adventure (Rare). Abilities awakened by this stone in the books: Path of Shadows (Jason Asano, Dark Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Focus",
+  "keys": [
+   "Awakening Stone of Focus"
+  ],
+  "text": "Awakening Stone of Focus (Uncommon). Abilities awakened by this stone in the books: Avatar of Speed (Sophie Wexler, Swift Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Judgement",
+  "keys": [
+   "Awakening Stone of Judgement"
+  ],
+  "text": "Awakening Stone of Judgement (Rare). Abilities awakened by this stone in the books: Verdict (Jason Asano, Sin Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Karma",
+  "keys": [
+   "Awakening Stone of Karma"
+  ],
+  "text": "Awakening Stone of Karma (Legendary). Abilities awakened by this stone in the books: Karmic Warrior (Sophie Wexler, Balance Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Might",
+  "keys": [
+   "Awakening Stone of Might"
+  ],
+  "text": "Awakening Stone of Might. Abilities awakened by this stone in the books: Rotary Cannon.",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Myriad",
+  "keys": [
+   "Awakening Stone of Myriad"
+  ],
+  "text": "Awakening Stone of Myriad. Abilities awakened by this stone in the books: This is My Rifle.",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Omens",
+  "keys": [
+   "Awakening Stone of Omens"
+  ],
+  "text": "Awakening Stone of Omens (Epic). Abilities awakened by this stone in the books: Hegemony (Jason Asano, Sin Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Preparation",
+  "keys": [
+   "Awakening Stone of Preparation"
+  ],
+  "text": "Awakening Stone of Preparation (Uncommon). Abilities awakened by this stone in the books: Alacrity’s Reward (Sophie Wexler, Swift Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Purgation",
+  "keys": [
+   "Awakening Stone of Purgation"
+  ],
+  "text": "Awakening Stone of Purgation (Epic). Abilities awakened by this stone in the books: Cleansing Breeze (Sophie Wexler, Wind Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Rebirth",
+  "keys": [
+   "Awakening Stone of Rebirth"
+  ],
+  "text": "Awakening Stone of Rebirth (Legendary). Abilities awakened by this stone in the books: Immortality (Humphrey Geller, Might Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Ruin",
+  "keys": [
+   "Awakening Stone of Ruin"
+  ],
+  "text": "Awakening Stone of Ruin (Rare).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of Wrath",
+  "keys": [
+   "Awakening Stone of Wrath"
+  ],
+  "text": "Awakening Stone of Wrath (Uncommon). An awakening stone that unlocks the power of wrath. Abilities awakened by this stone in the books: Punition (Jason Asano, Doom Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Apocalypse",
+  "keys": [
+   "Awakening Stone of the Apocalypse"
+  ],
+  "text": "Awakening Stone of the Apocalypse (Legendary). Abilities awakened by this stone in the books: Sanguine Horror (Jason Asano, Blood Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Avatar",
+  "keys": [
+   "Awakening Stone of the Avatar"
+  ],
+  "text": "Awakening Stone of the Avatar (Legendary).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Celestials",
+  "keys": [
+   "Awakening Stone of the Celestials"
+  ],
+  "text": "Awakening Stone of the Celestials (Legendary). Abilities awakened by this stone in the books: Child of the Celestial Wind (Sophie Wexler, Wind Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Champion",
+  "keys": [
+   "Awakening Stone of the Champion"
+  ],
+  "text": "Awakening Stone of the Champion (Epic). Abilities awakened by this stone in the books: Spartoi (Humphrey Geller, Dragon Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Feast",
+  "keys": [
+   "Awakening Stone of the Feast"
+  ],
+  "text": "Awakening Stone of the Feast (Common). An awakening stone that unlocks the power of consumption. Abilities awakened by this stone in the books: Leech Bite (Jason Asano, Blood Essence); Feast of Blood (Jason Asano, Blood Essence); Feast of Absolution (Jason Asano, Sin Essence); Sin Eater (Jason Asano, Sin Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Foot",
+  "keys": [
+   "Awakening Stone of the Foot"
+  ],
+  "text": "Awakening Stone of the Foot (Common). Abilities awakened by this stone in the books: Cloud Step (Sophie Wexler, Wind Essence); Mirage Step (Sophie Wexler, Mystic Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Hand",
+  "keys": [
+   "Awakening Stone of the Hand"
+  ],
+  "text": "Awakening Stone of the Hand (Common). Abilities awakened by this stone in the books: Immortal Fist (Sophie Wexler, Mystic Essence); Radiant Fist (Sophie Wexler, Mystic Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Hunt",
+  "keys": [
+   "Awakening Stone of the Hunt"
+  ],
+  "text": "Awakening Stone of the Hunt. Abilities awakened by this stone in the books: True Predator.",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Magus",
+  "keys": [
+   "Awakening Stone of the Magus"
+  ],
+  "text": "Awakening Stone of the Magus (Common). Abilities awakened by this stone in the books: Castigate (Jason Asano, Sin Essence); Haemorrhage (Jason Asano, Blood Essence); Thadwick Mercer (Used almost exclusively awakening stones of the magus for his power set).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Moment",
+  "keys": [
+   "Awakening Stone of the Moment"
+  ],
+  "text": "Awakening Stone of the Moment (Epic). Abilities awakened by this stone in the books: Eternal Moment (Sophie Wexler, Swift Essence); Moment of Oneness (Sophie Wexler, Balance Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Rain",
+  "keys": [
+   "Awakening Stone of the Rain"
+  ],
+  "text": "Awakening Stone of the Rain (Common). Abilities awakened by this stone in the books: Between the Raindrops (Sophie Wexler, Swift Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Reaper",
+  "keys": [
+   "Awakening Stone of the Reaper"
+  ],
+  "text": "Awakening Stone of the Reaper (Legendary). Abilities awakened by this stone in the books: Deny the Reaper (Sophie Wexler, Balance Essence); Hand of the Reaper (Jason Asano, Dark Essence); Pit of the Reaper (Belinda Callahan, Trap Essence); Reaper’s Redoubt (Neil Davone, Shield Essence); Shadow of the Reaper (Jason Asano, Dark Essence); Spirit Reaper (Humphrey Geller, Magic Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Sky",
+  "keys": [
+   "Awakening Stone of the Sky"
+  ],
+  "text": "Awakening Stone of the Sky (Epic). Abilities awakened by this stone in the books: Leaf on the Wind (Sophie Wexler, Wind Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Spider",
+  "keys": [
+   "Awakening Stone of the Spider"
+  ],
+  "text": "Awakening Stone of the Spider. Abilities awakened by this stone in the books: Aranean Arch.",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Stars",
+  "keys": [
+   "Awakening Stone of the Stars"
+  ],
+  "text": "Awakening Stone of the Stars (Epic). An awakening stone that unlocks the power of the stars. Abilities awakened by this stone in the books: Cloak of Night (Jason Asano, Dark Essence).",
+  "book": 0
+ },
+ {
+  "name": "Awakening Stone of the Surge",
+  "keys": [
+   "Awakening Stone of the Surge"
+  ],
+  "text": "Awakening Stone of the Surge (Uncommon). Abilities awakened by this stone in the books: Wind Wave (Sophie Wexler, Wind Essence).",
+  "book": 0
+ },
+ {
+  "name": "Divine Awakening Stone of Inevitability",
+  "keys": [
+   "Divine Awakening Stone of Inevitability"
+  ],
+  "text": "Divine Awakening Stone of Inevitability. Abilities awakened by this stone in the books: Inevitable Demise (Doom Essence).",
+  "book": 0
+ },
+ {
+  "name": "Divine Awakening Stone of Persistence",
+  "keys": [
+   "Divine Awakening Stone of Persistence"
+  ],
+  "text": "Divine Awakening Stone of Persistence. Abilities awakened by this stone in the books: Curse of Isolation (Dark Essence).",
+  "book": 0
+ },
+ {
+  "name": "Human",
+  "keys": [
+   "human race",
+   "humans nature"
+  ],
+  "text": "Human:\nHumans are the most prevalent race across Pallimustus and the only essence capable race known to be native to Earth.\nKnown Humans:\n - Humphrey Geller\n - Rufus Remore\n - Belinda Callahan\n - Clive Standish\n - Arabelle Remore\n - Gabriel Remore\n - Emir Bahadir\n - Danielle Geller\n - Henrietta Geller\n - Rick Geller\n - Phoebe Geller\n - Henry Geller\nFormer Humans (Now Outworlders):\n - Jason Asano\n - Farrah Hurin\n - Taika Williams\n - Travis Noble\n - Li Li Mei\n - Koa\nRacial Gifts:\n - Human Ambition\n - Special Attack Aptitude\n - Essence Gift [x4]",
+  "book": 0
+ },
+ {
+  "name": "Elf",
+  "keys": [
+   "elf race",
+   "elves nature"
+  ],
+  "text": "Elf:\nElves tend to be more spell casters than fighters. They also have nature, life, and magic affinities.\nKnown Elves:\n - Beth Cavendish\n - Neil Davone\n - Anisia\n - Lucian Lamprey\n - Elspeth Arella\nElf racial traits:\n - Spell Aptitude\n - Nature Affinity\n - Life Affinity\n - Magic Affinity\n - Mystic Bloodline (expanded mana pool)\n - Grace (enhanced agility)",
+  "book": 0
+ },
+ {
+  "name": "Leonid",
+  "keys": [
+   "leonid",
+   "leonids"
+  ],
+  "text": "Leonid:\nMembers of the Leonid race look like large anthropomorphic lions. Their race has better stamina recovery and less stamina consumption compared to other races.\nKnown Leonid:\n - Gareth Xandier (Gary)\n - Natalie\n - Marcus (Book 10)\nRacial Gifts:\nThe Leonid racial abilities mostly focus on improving their own physical abilities as well as those of their allies.\n - Ancestral Strength: Increased physical strength.\n - Ancestral Swiftness: Increased speed and reflexes.\n - Boon Aptitude: More likely to awaken boon-related essence abilities; boon abilities have increased effect. (boons are buffs)\n - Tireless: Resistant to stamina drain. Essence abilities consume less stamina to use.\n - Sprint: Run at extreme speed for extreme stamina cost.\n - Leonid's Roar (boon): Roar loudly to increase the [Power] and [Speed] attributes of nearby allies.",
+  "book": 0
+ },
+ {
+  "name": "Celestine",
+  "keys": [
+   "celestine",
+   "celestines"
+  ],
+  "text": "Celestines:\nThe Celestine race has metallic colour hair, with matching eyes. They are known to have Astral and Holy affinity. As essence users, they tend to get more special abilities than spells or special attacks. Their skin colouration has been noted to range from alabaster to dark chocolate.\nCelestines are not a naturally occurring race unlike most others, instead they come about as the offspring of a pair of outworlders. Celestines are also able to reproduce among themselves.\nKnown Celestines:\n - Sophie Wexler\n - Zara Rimaros\n - Dawn\nRacial Gifts:\n - Celestial Bounty (Enhanced mana recovery rate)\n - Mana Integrity\n - Astral Affinity\n - Holy Affinity\n - Special Ability Aptitude\n - Celestial Swiftness (Speed increase)",
+  "book": 0
+ },
+ {
+  "name": "Draconian",
+  "keys": [
+   "draconian",
+   "draconians"
+  ],
+  "text": "Draconian:\nA race that claims to be descended from dragons. They are able to breathe fire and have scales. \nKnown Draconians:\n - Racial Gifts:\n - Draconic Might (+strength)\n - Draconic Power (+Spell potency)\n - Dragon Ancestry (affects essence abilities)\n - Magic Affinity\n - Dragon Scales (passive, inherent magical and physical armour)\n - Dragon Breath (special attack, varies with dragon ancestry)",
+  "book": 0
+ },
+ {
+  "name": "Smoulder",
+  "keys": [
+   "smoulder",
+   "smoulders"
+  ],
+  "text": "Smoulder:\nThe Smoulder race has glowing red or orange eyes and strong earth and fire affinities. They are known to live near volcanic areas.\nKnown Smoulder:\n - Niko Tomich\n - ...\nRacial Gifts:\n - Earth Affinity\n - Fire Affinity\n - Earth Born (+damage reduction)\n - Life Fire (+health & stamina recovery from heat)\n - Heart of the Earth (active, increase stamina and mana recovery through meditation)\n - Flame Investiture (active, superheats objects)",
+  "book": 0
+ },
+ {
+  "name": "Runic",
+  "keys": [
+   "runic",
+   "runics"
+  ],
+  "text": "Runic:\nRunic race has tattoo like runes that go to the bones of the race. Not much more about this race has been told yet.\nKnown Runic:\n The Following List is Incomplete\n - Arash (Greenstone Smoothie Vender)\n - Jamar (Bartender for Jason's Cloud Ship; Nephew of Arash)\nRacial Gifts:\n - Spellborn (+max mana)\n - Wellspring (+mana recovery)\n - Spell Aptitude\n - Magic Affinity\n - Adaptive Resistance (passive, gain resistance to recently encountered effects)\n - Mana Beacon (active, stabilise ambient magic)",
+  "book": 0
+ },
+ {
+  "name": "Merfolk",
+  "keys": [
+   "merfolk"
+  ],
+  "text": "Merfolk:\nEmir Bahadir mentioned them to be very sensual people, otherwise very little is known about Merfolk.\nKnown Merfolk:\nThere are known named merfolk characters as of book 12.\nRacial Gifts:\n - Water Affinity\nTrivia:\n - First mentioned in chapter 262 - Emir admitted to be interested in a specific bronze rank merfolk girl, Interested as in Interested sensually",
+  "book": 0
+ },
+ {
+  "name": "Lehenik",
+  "keys": [
+   "lehenik"
+  ],
+  "text": "Lehenik are a race of Anthropomorphic Rabbits created by Jason Asano. Lehenik are a sentient species capable of absorbing essences being normal rank as a baseline.\nKnown Lehenik:\n - Nik Asano\nRacial Gifts:\nCurrently all racial abilities of Lehenik are unknown.",
+  "book": 0
+ },
+ {
+  "name": "Valash",
+  "keys": [
+   "valash"
+  ],
+  "text": "Valash:\nValash are a race not native to either Pallimustus or Earth; however some are known to have appeared as a consequence of the transformation zones on Earth.\nValash are described as short skinny humanoids with Chihuahua-like heads. \nKnown Valash:\n - Zolit Kreen (Formerly: Now Outworlder)\n - Former Earth Humans Caught in transformation zones.\nRacial Gifts:\nNo racial gifts of Valash are known.",
+  "book": 0
+ },
+ {
+  "name": "Outworlder",
+  "keys": [
+   "outworlder",
+   "outworlders"
+  ],
+  "text": "Each outworlder is summoned or pulled, usually against their will, from one world to another through the deep astral as a disembodied soul. In the process of being pulled, the outworlder \"dies\" and is reborn in the new world.\nAlthough outworlders can be of any race or appearance before becoming an outworlder, it is mentioned that outworlders naturally smell like springtime. This appears to be regardless of their race of origin.\nKnown Outworlders:\n - Jason Asano pulled from Earth to Pallimustus at the start of the story.\n - Rufus's unnamed friend who visited the Remore Academy. Female.\n - Farrah Hurin after being resurrected on Earth.\n - The Founder. Established groups of essence users on Earth several centuries ago.\n - Unknown outworlder located somewhere in Rimaros. \n - Zolit Kreen \n - ~100 Earth natives as a side effect of interrupting a mass summoning Ritual on Pallimustus.\n - *Taika Williams \n - *Travis Noble \n - *Li Li Mei \n - *Darryl (A troll were-crocodile. The only non-essence user to be transported in the incident.)\n - *Koa \nRacial Gifts:\nWhen each Outworlder is reborn, their racial gifts are not a standard set as they are for other races. Instead, the abilities are formed by their soul to help aid them in the world they will find themselves in. The only exception to this is Astral Affinity, which is shared by all outworlders. It is not always the case that all racial gifts are transformed.",
+  "book": 0
+ },
+ {
+  "name": "Brightheart Smoulder",
+  "keys": [
+   "brightheart",
+   "brighthearts"
+  ],
+  "text": "Brightheart Smolder are a sub-species of the smolder race. Their features are a mix of other races, they have hair and eyes of red, ember, obsidian, ash and molten colors that shift or change. Also, they have runes on their skin resembling runics these are easily visible. They were created when some smolders went into a natural array and became modified. These are more magical so there aura senses are weaker but there magic senses are heightened. They are to magical to consume essences or have racial gifts but have their own abilities. The common types of magic are fire, stone and ash. Although the rarer ones are steel and lava. The stone and steel ones can manipulate and/or create their respective materials. While the fire, ash and lava people create them and can send them flying as attacks. Some fire and ash abilities let them fly.",
+  "book": 0
+ },
+ {
+  "name": "Garuda",
+  "keys": [
+   "garuda"
+  ],
+  "text": "Tends to produce armored strikers\nKnown Garuda Essence Abilities:\n - God-Striking Fist\n - Amrita\n - Feaster of Serpents\n - Brother of the Dawn\n - Unbowed\nKnown combinations:\nMight+Swift+Bird\nMight+Swift+Wing\nKnown users:\nTaika Williams",
+  "book": 0
+ },
+ {
+  "name": "Races",
+  "keys": [
+   "racial gifts",
+   "races"
+  ],
+  "text": "Terminology:\nNatures, otherwise known as races refer to the species and sub-species of a creature. The terms can be used interchangeably, with the change to the use of \"Nature\" over \"Race\" coming from the appearance of The System which uses the term due to the vast range of creatures and others capable of using essences.\nKnown Natures:\nEssence Capable Natures:\nKnown Essence Capable Natures:\n - Outworlder\n - Celestine\n - Draconian\n - Elf\n - Goblin\n - Human\n - Lehenik\n - Leonid\n - Merfolk\n - Runic\n - Smoulder\n - Valash\nOther Essence Capable Natures:\n - An unnamed earth-affinity species with gemstone-like scales covering their bodies. They are not known in Pallimustus but Dawn is mentioned to recognize them. (Appeared in a transformation zone located in Pudong, China)\nMagical Races:\nThere are many natures of creature that are similar to the essence capable races while lacking the ability to gain essences due to thier higher natural magic. They come in many forms but naturally are born at iron rank or above.\nKnown Magical Races:\n - Brightheart Smoulder\n - Messenger\nRacial Abilities:\nCreatures across the universe each posses six abilities inherent to their nature. For some these abilities can undergo an evolution later in life to take on abilities that reflect the soul of the ability's holder. It is not made clear if all creatures are able to recieve a gift evolution however; all known essence capable natures have been seen to posses the potential for it.",
+  "book": 0
+ },
+ {
+  "name": "Adventure Society",
+  "keys": [
+   "Adventure Society"
+  ],
+  "text": "The Adventure Society is one of the major organizations in the world. Its main purpose is to handle monster extermination.\nThe Adventure Society issues monster notices which can be taken from a notice board or the Adventure Society directly. Each notice has three pieces of information so long as that information is known. The name of the monster, or a description, the number of monsters, and the approximate location.\nThe first step to joining the adventure society involves registering an application and a physical assessment.  This invoves filling out one's personal details and a magical scan of the applicants physiology and essences with an official from the magic society, adventure society and a clergy member of Knowledge present. The appalicant's aura is read, recorded and their essence combination checked against the restricted list. The applicant is then scheduled for a field assessment.\nFor the field assessment, the applicant has their physical and essence abilities tested as well as their ability to made good decisions and plan under pressure.\nThe Adventure Society insignia is a sword and rod across a shield.\nGreenstone Branch:\n - Director: Elspeth Arella\n - Deputy Director: Genevieve Picot\n - Official: Vincent Trenslow\n - Official: Albert Bertinelli",
+  "book": 0
+ },
+ {
+  "name": "Adventure Society Badge",
+  "keys": [
+   "Adventure Society badge",
+   "star rating"
+  ],
+  "text": "An adventure society badge is a magical item, given to a member of the Adventure Society. It has a lot of functions:\n - It functions as identification.\n - It allows adventurers to make copies of Monster Notifications.\n - It allows the Adventure Society to track its members and how many monsters they kill.",
+  "book": 0
+ },
+ {
+  "name": "Magic Society",
+  "keys": [
+   "Magic Society"
+  ],
+  "text": "The Magic Society is one of the major organizations in the world, being a place for learning and research of magic and essences.\nthe Magic Society along with the Adventure Society and the Alchemy Association are t the major organizations of Pallimustus.\n(More to be added)",
+  "book": 0
+ },
+ {
+  "name": "Alchemy Association",
+  "keys": [
+   "Alchemy Association"
+  ],
+  "text": "The  Alchemy Association is an organization located in Pallimustus.",
+  "book": 0
+ },
+ {
+  "name": "The Red Table",
+  "keys": [
+   "Red Table"
+  ],
+  "text": "The Red Table is a cannibalistic cult in Pallimustus.\nThe Vane family was leading a branch of this cult in Greenstone.\nJason, Rufus, Farrah and Gary first met while they were captured by this cult to be a sacrifice in a ritual to summon a Sanguine Horror.",
+  "book": 0
+ },
+ {
+  "name": "Spirit Coin",
+  "keys": [
+   "spirit coin",
+   "spirit coins"
+  ],
+  "text": "Spirit coins are the currency of Pallimustus. They are a concentrated source of raw magic adventurers can consume to sustain themselves. Is someone consumes a spirit coin that is of a higher rank than they are, all of their attributes are raised to that rank for a short amount of time. After this boost of power, it leaves the consumer exhausted and enervated.\n[Lesser Spirit Coin] (iron rank, common):\nAn impure distillation of raw magic. (currency, crafting material).\nEffect: Used to fuel lesser-rank magic items or as a ritual component.\nDescription: A coin with a washed-out blue colour, with a metallic sheen. It feels like glass to the touch. Usually there is something embossed on the coin. The coins that are generated by Jason's Interface ability have an image of Jason himself, giving a thumb's up. The other side is engraved with text, reading: \"PRODUCT OF JASON     G'DAY MATE\"\n[Silver Spirit Coin] (silver rank, common):\nA distilled quantity of raw magic. (crafting material, currency).\nEffects::\n - Used to fuel silver-rank magic items or as a ritual component.\n - Consume to briefly increase all attributes to silver rank.",
+  "book": 0
+ },
+ {
+  "name": "Monster Core",
+  "keys": [
+   "monster core",
+   "monster cores",
+   "core user"
+  ],
+  "text": "[Monster Core]:\nMonster cores are a fairly common drop item, especially with looting abilities. They are used as a part of magic rituals, both as consumed components and as a means to balance out ambient magic. The process of balancing out ambient magic is noted as being difficult especially when multiple rituals are performed in sequence.\nThey are also used as a means to level up essence user abilities. This process leads to faster early ranks, while stifling later progression. Many nobles and non-adventurers take this route in order to gain the longevity of higher ranks without the physical effort and peril that comes with natural progression. \nSystem Message:\nThe magic core of a lesser monster (crafting material, magic core) \nEffect: Common component for ritual magic and magic item creation \nDescription: A small, red-brown gem, in the shape of a teardrop.",
+  "book": 0
+ },
+ {
+  "name": "Reality Cores",
+  "keys": [
+   "reality core",
+   "reality cores"
+  ],
+  "text": "Reality Cores are magical objects that sustain physical reality and dimensional integrity. They are usually only accessible through Node Space, but also appear after the creation of Transitional Spaces.\nThese cores may be absorbed, like monster cores, to sustain and increase the strength of Essence users. They were required to sustain Gold Rank (Tier-4) essences users that were kept in suspended animation due to Earth's originally low mana levels.\nReality Cores are also used by the Cabal to make Blue Blood.",
+  "book": 0
+ },
+ {
+  "name": "Monster surge",
+  "keys": [
+   "monster surge",
+   "surge"
+  ],
+  "text": "Every decade there is a massive increase in the spawn rate of monsters. All across the world, all at the same time. Whole villages evacuate to fortified towns",
+  "book": 0
+ },
+ {
+  "name": "Astral Space",
+  "keys": [
+   "astral space",
+   "astral spaces"
+  ],
+  "text": "Astral Spaces are magical dimensions attached to a world. Unstable Astral Spaces are called Proto-Astral Spaces.",
+  "book": 0
+ },
+ {
+  "name": "Proto-Astral Space",
+  "keys": [
+   "proto-astral",
+   "proto astral"
+  ],
+  "text": "A Proto-Astral Space is a unstable and short-lived version of an Astral Space. The Grid was created on Earth to track all land occurences of Proto-Astral spaces. Unlike regular Astral Spaces, Proto-Astral Spaces are short-lived, and will quickly break down without intervention.",
+  "book": 0
+ },
+ {
+  "name": "Spirit Domain",
+  "keys": [
+   "spirit domain",
+   "spirit realm"
+  ],
+  "text": "Ability: [Spirit Domain]\nThis ability is evolved from the ability [Spirit Vault]. This is a secondary gift evolution.\n - You have a dimensional storage space.\n - You may call up a gate and physically enter your dimensional storage space. Only those you allow may enter; others cannot forcibly intrude. You may directly portal from within the storage space to another area using the location of the gate as a starting point, even if the gate is obstructed or destroyed, preventing ordinary egress.\n - You may summon familiars within the storage space without the use of a ritual, although any material requirements of the ritual must still be consumed.\n - You may create spirit domains that reflect your nature and power. The maximum total size of your spirit domains created through this ability is a factor of your rank and soul strength. You may not convert existing spirit domains into your own.\n - You have established a permanent spirit domain. The maximum total area your spirit domains can cover is limited by your soul strength and your rank. Current amount of maximum spirit domain established: 3266%. Increase your rank to increase your maximum total spirit domain size.\n - This spirit domain has a connected astral space. The astral space gains the full effects of your spirit domain but does not count against your maximum spirit domain size. The portals in the [Arrival Pagoda] connecting to various locations in the astral space are now active.",
+  "book": 0
+ },
+ {
+  "name": "Akashic Speech",
+  "keys": [
+   "Akashic Speech"
+  ],
+  "text": "Akashic Speech is a method of communication useable to its full extents only by transcendents. It is described by Carlos Quilido as being understood not by the mind but by the soul. However; without an understanding of ones own perceptions it seems to take the form of the language or method of communication most comfortable for the recipient.\nJason gains the ability to properly utilize Akashic Speech through his Numen ability.\nNon-Transcendent Use:\nIt is mentioned by Shade that Akashic is his native language\nJason Asano's Mark of Sin affliction marks the target with the Akashic symbol of \"Sin\".\nThe Swords Dread Salvation, Hegemon's Will, and the swords conjured by Jason's Blade of Doom ability are engraved with Akashic symbols.\nSystem Information:\nHelp: [Akashic Speech]:\nAkashic Speech taps into the fundamental interconnectedness of all things in the cosmos to communicate in a way that is intrinsically understood by all things capable of communication. Despite the term ‘speech,’ this ability impacts all forms of communication, and is perceived by all entities in the form most natural to them. Full use of this ability is only capable by transcendent entities. Mortal limitations limit the effectiveness of this capability.\nCitation:",
+  "book": 0
+ },
+ {
+  "name": "Interstice",
+  "keys": [
+   "Interstice"
+  ],
+  "text": "Interstice is a pocket city universe without a sun.\nFueros:\nFueros is a region dominated by the cult of the World-Phoenix. It has spires of red, yellow, and orange crystal. The parks have trees that have fire instead of leaves and yellow grass.\nArrival and departure square:",
+  "book": 0
+ },
+ {
+  "name": "Transcendent Beings",
+  "keys": [
+   "transcendent beings",
+   "transcendent"
+  ],
+  "text": "Transcendence:\nTranscendence is a state of true immortality outside of normal mortal power. There are many ways to gain transcendence; however the most common are ascending at the peak of mortal power or coming into being as such, embodying a principle of the world or universe.\nAlthough not the only ones to wield it, Trancendents deal primarily in Authority as a means of exchange between each other, in addition to allowing Trancendents to influence the world beyond themselves.\nTranscendent Beings:\nGods:\nGods are of individual worlds but not existing within it. Each god exists as an embodiment of a certain principle or concept. As gods are of individual worlds they are unable to see or act beyond that world, leaving astral spaces and the larger astral beyond their reach.\nUnlike other transcendents Gods are able to create Divine versions of Essences and Awakening Stones and freely take or seal away those they have gifted.\nThe vessels of gods speak with power that feels backed by authority which is known as Akashic Speech. This method of communication is intrinsically understood by all things capable of communication. It is described as if the soul is what was listening.\nGreat Astral Beings:\nGreat Astral Being exist in the astral between realities as embodiments of various concepts and ideals and bound by the Cosmic Throne.",
+  "book": 0
+ },
+ {
+  "name": "Astral Kings",
+  "keys": [
+   "astral king",
+   "astral kings"
+  ],
+  "text": "What Are Astral Kings:\nAstral kings are immortal beings that rule their own universe. Their rule is complete, being able to completely change its physics or magical properties, including if the beings inside can be killed or not (completely stopping death, if the astral king wishes so). An Astral King's universe is usually comprised of at least 1 solar system with some planets. \nPrerequisites:\n - Transcendence\n - Gestalt body (merge soul and physical body)\n - Soul realm\n - Astral Throne: \n - Astral Gate: \n - Soul Forge: \nOld Text:\nTo be an Astral King, one must possess an astral throne, a realm located in the astral. The means to acquire a throne are unknown, but Jason obtained his by breaking the bridge. Astral Kings can also have astral gates, which grant them the ability to draw near-infinite power from the astral realm. Jason is just beginning to tap into this power, as his body cannot yet handle it. Additionally, kings can possess soul forges, which are very rare and have the ability to modify souls. This is all that we know about the items they can have, but there may be more that we do not yet understand. There is also a group of Astral Kings that created the species known as the Messengers.",
+  "book": 0
+ },
+ {
+  "name": "Great Astral Beings",
+  "keys": [
+   "great astral being",
+   "great astral beings"
+  ],
+  "text": "Great Astral Beings are powerful entities that reside in the astral between realities. Except for the Builder most of the other Great Astral Beings operate similar to Gods in that what they want is the promotion of various ideals while none interfere with the focus of another; but unlike Gods, they cannot interact with physical realities. They can, however, recruit others to act on their ideals. \nDespite the Great Astral Beings embodying many concepts and ideals, a notable exclusion is Destiny. It is the only concept to be explicitly stated as not being the domain of a Great Astral being. \nIt has been shown that the new Builder was raised up from a mortal to take the place of the previous Builder. It is unknown how many other GABs came into power like this as well, or exactly how many there are.\nJason Asano became The System towards the end of Book 11 after restoring The Sundered Throne.\nKnown Great Astral Beings:\nThe World-Phoenix (/The Boundary)\nThe All-Devouring Eye\nThe Reaper\nThe Celestial Book\nThe Builder\nLegion\nThe Keeper of Moments (Keeper of Sands)\nThe System\nSeeker of Songs\nWord in the Silence\nWhisper in Corners\nThe Keeper of Songs\nThe Nameless (multiple)",
+  "book": 0
+ },
+ {
+  "name": "The Builder",
+  "keys": [
+   "Builder"
+  ],
+  "text": "The Builder is a Great Astral Being who is obsessed with physical reality while, at its core nature, being unable to co-exist with it. It is building a world of its own, creating a new physical reality in the deep astral. It does this by taking raw materials from astral spaces that are neither fully of the astral or of physical reality. By giving an astral space the ability to sustain itself, even if just for a brief period, the Builder can take it and anchor it to the world it is creating from stolen parts. Since a Great Astral Being cannot interact with physical reality directly, it needs to recruit others to act for it. The Builder recruits people to carve off astral spaces connected to their world, then steps in and claims them.\nShako was the primary vessel for the Builder.\nLandemere Vane was a Builder cultist.\nThadwick Mercer, Jonah Geller and three others were infected by Star Seeds supplied by the Builder.\nClockwork Kings are the source of clockwork cores that are utilized in the making of the Builder cult constructs.\nThe Builder was ascended to its position at 16 after the original Builder was removed.\nThe messenger who ascended to the position of The Builder was called Zithis Carrow Vayel\nIt Is unknown what happened to the original builder after he was removed from his position  since Astral beings can not die at all",
+  "book": 0
+ },
+ {
+  "name": "The Celestial Book",
+  "keys": [
+   "Celestial Book"
+  ],
+  "text": "The Celestial Book is a Great Astral Being who promotes the understanding of magic’s underlying nature.\nClive Standish venerates it, as do many of those heavily involved in magical theory.",
+  "book": 0
+ },
+ {
+  "name": "The Keeper of Moments",
+  "keys": [
+   "Keeper of Moments",
+   "Keeper of the Sands"
+  ],
+  "text": "The Keeper is the Great Astral Being that governs the flow of time. Ensuring the natural flow of time between universes. It is stated by shade that not even the Keeper can affect the past. It is unclear if this is due to limitations placed on it by The Sundered Throne or the nature of time. Clive's speculation about time travel when discussing dimensional travel is the primary source of the lack of clarity.\nThe Keeper claims no single name, preferring to not be discussed. Although Raythe the current Prime Vessel prefers \"The Keeper of Sands\" due to the hourglass imagery.\nKnown names for The Keeper::\n - The Keeper\n - The Keeper of Moments\n - The Keeper of Sands\n - The Underclock\nKnown Vessels::\n - Raythe [Current Prime Vessel]\n - * An Elf with green-flecked hair a lighter shade of brown than her skin.\nCitations::",
+  "book": 0
+ },
+ {
+  "name": "The Nameless",
+  "keys": [
+   "nameless great astral"
+  ],
+  "text": "The Nameless:\nThe Nameless are Astral Beings that are more numerous than the Great Astral Being and serve as functionaries. As the title/name implies they do not have names of their own. It is unknown how many exist but believed to be a in great numbers.\nDuring the Battle of to rebuild the The Sundered Throne the nameless sided with the The World-Phoenix to stop Jason Asano.",
+  "book": 0
+ },
+ {
+  "name": "The Reaper",
+  "keys": [
+   "Reaper"
+  ],
+  "text": "The Reaper is a Great Astral Being who advocates for the finality of death.\nThere was an ancient order of assassins who venerated it named the Order of the Reaper, but said order was completely eradicated from the world along with nearly all knowledge about them. Emir Bahadir and Rufus Remore are investigating the order. Jason Asano and Sophie Wexler practice a martial art called the Way of the Reaper, which was given to the assassin order by the Reaper.\nShade is The Reaper's shadow and/or child.\nThere is a cult of the reaper and an order of the reaper (assassins) which is a separated faction.",
+  "book": 0
+ },
+ {
+  "name": "The Sundered Throne",
+  "keys": [
+   "Sundered Throne",
+   "Cosmic Throne"
+  ],
+  "text": "The Sundered Throne (The Cosmic Throne), is an interdimensional force that keeps diamond and transcendent rankers in check. They took Shako on The Last Ferry to \"space jail\", as Jason describes it. \nAfter the events of Book 11, the throne has been repaired and is now known as \"The Cosmic Throne\", which now further limits how much the Great Astral Beings can intervene with mortal affairs, causing them to be forced to work more within their roles. \nRepresentative/Agents of the Sundred Throne:\n - Carmen",
+  "book": 0
+ },
+ {
+  "name": "The World-Phoenix",
+  "keys": [
+   "World-Phoenix",
+   "World Phoenix"
+  ],
+  "text": "The World-Phoenix is a Great Astral Being who fosters dimensional integrity, and is the one who granted Jason Asano a World-Phoenix Token, and the Nirvanic Transfiguration.\nKnown Vessels:\n - Dawn (Hierophant)",
+  "book": 0
+ },
+ {
+  "name": "Legion",
+  "keys": [
+   "Legion"
+  ],
+  "text": "The Legion (or Limitless Legion) is a Great Astral Being whom administers the cosmic rules that govern life itself.\nThe Legion shares a border with All Devouring Eye, Colin comes from this border region of the cosmos. The Legion is not known for handing out blessings, yet still was convinced to give one to Farah upon her rebirth as an outworlder.",
+  "book": 0
+ },
+ {
+  "name": "The All-Devouring Eye",
+  "keys": [
+   "All-Devouring Eye"
+  ],
+  "text": "The All-Devouring Eye is a Great Astral Being.\nGordon is from the realm of The All-Devouring Eye and Colin is from where they border with The Legion. The All-Devouring Eye is not known for handing out blessings.",
+  "book": 0
+ },
+ {
+  "name": "Keeper of the Cycle",
+  "keys": [
+   "Keeper of the Cycle"
+  ],
+  "text": "The god(dess) of death very much doesn't like resurrection.",
+  "book": 0
+ },
+ {
+  "name": "Hero",
+  "keys": [
+   "Hero god",
+   "god of heroes"
+  ],
+  "text": "Hero, as the name suggests, is the god of hero's. He has no subordinate gods.\nHe appears to those that have decide to make the ultimate sacrifice and offer them the cup of heroes to drink from, this allows those that drink a portion of his transcendent power. This power changes the drinker into a demi god increasing their rank and giving the drinker divine versions of their essences but changes the Confluence essence to the \"Hero\" essence. For many though seeing Hero will be their worst day for while the power is massive it will inevitably kill them for their bodies cannot handle the power he give them to save lives, thus they will be told by hero how long they have left to live. Hero has seen untold heroes who names wont be remembered by the wider world for the actions only by himself and his priests. Hero informed Jason Asano that there where 3 occasions that the cup could have been offered to him if his intentions were different or had hero been able to see Jason.",
+  "book": 0
+ },
+ {
+  "name": "Healer",
+  "keys": [
+   "Healer god",
+   "Church of the Healer"
+  ],
+  "text": "Healer is the god of medicine and healing. He believes that all should be made well and prosper.\nWhile his temple in Greenstone was corrupt and needed correcting via direct divine intervention (with most of the prior clergy going to the service of Dominion), in general the church values those who wish to heal others, and work with such individuals to further aid them. In addition, the clergy contains specialized healers that make themselves available to those in need.\nAfter the revelations about the church of Purity, the church of Healer has taken over the primary role in expunging Star Seed and healing soul damage done by The Builder.",
+  "book": 0
+ },
+ {
+  "name": "Dominion",
+  "keys": [
+   "Dominion god"
+  ],
+  "text": "Dominion:\nDominion is a god of the world and those that rule it. Their clergy serves them, rather than worshipping them. They demand obedience from their clergy.\nThey give the divine right to rule to the kings and emperors. They also like Jason Asano and Gary, and want to see what it takes to make them kneel.\nDominion replaced the essences and awakening stones of a number of priests of the Healer, who were cast out by their god for aggrandizing themselves and demanding money to perform healing.",
+  "book": 0
+ },
+ {
+  "name": "Knowledge",
+  "keys": [
+   "Knowledge goddess",
+   "Church of Knowledge"
+  ],
+  "text": "Goddess of Knowledge\nKnowledge is one of the deities that more frequently interacts with Jason Asano and appears in a female form. She has confirmed that she knows everything that anyone in the world knows and claims to be able to see forces beyond our own perception, such as gravity.",
+  "book": 0
+ },
+ {
+  "name": "Purity",
+  "keys": [
+   "Purity god",
+   "Church of Purity"
+  ],
+  "text": "Purity (see also: Disguise) was one of the gods in the world of Pallimustus. Approximately 500 years prior to the start of the events of the book series, Purity sanctioned itself, expending all of its authority to create a single artifact. This appears to be the end of Purity as a god. However, the Church of Purity continued to function, and a god claiming to be Purity stepped in to continue dominion over Purity's temples and people. \nOver the course of 500 years, changes were introduced into Purity's doctrine which emphasized zealotry and militant groups, such as the Order of Redeeming Light. Additionally, humans began to be perceived as the \"pure\" state by these groups, undergoing rituals that stripped other races of their identity and causing changes in them that caused identification magic to perceive them as human - perpetuating a sense of superiority among humanity. \nAfter a series of inconsistencies in Purity's actions, such as overtly allying with the cultists of The Builder and the discovery that the purification ritual of the Order of Redeeming Light was a modified vampiric curse, Carlos Quilido comes to the realization that Purity is a fraud. In conversation with Jason Asano, Quilido initially hypothesized that Purity could be any of the trickster gods - Deceit or Disguise as frontrunners. Once this information becomes more widely known, Disguise gives up the pretense and reveals itself to have been masquerading as Purity.",
+  "book": 0
+ },
+ {
+  "name": "Liberty",
+  "keys": [
+   "Liberty god",
+   "goddess Liberty"
+  ],
+  "text": "Liberty is the god of freedom. They do not get along with Dominion.",
+  "book": 0
+ },
+ {
+  "name": "Vineyard",
+  "keys": [
+   "Vineyard god"
+  ],
+  "text": "Vineyard is a god subordinate to the god of revels.",
+  "book": 0
+ },
+ {
+  "name": "Death (God)",
+  "keys": [
+   "god of Death",
+   "goddess of Death"
+  ],
+  "text": "The god of death. They are in charge of guiding souls into the astral and have some influence on the potency and viability of resurrection magic.",
+  "book": 0
+ },
+ {
+  "name": "Undeath",
+  "keys": [
+   "Undeath god"
+  ],
+  "text": "Disambiguation:\n - Undeath (God)\n - Undeath (Essence)",
+  "book": 0
+ },
+ {
+  "name": "Minor Gods",
+  "keys": [
+   "minor gods"
+  ],
+  "text": "While not as powerful as a Major good, Minor Gods (Or Profession Gods) service to provide followers and priest with insight relate to the specific role. They are concerned with the day to day lives of ordinary people\nKnown Minor Gods include :\n - Architect\n - Farmer \n - Gardener\n - Grocer\n - Hygiene\n - Mason",
+  "book": 0
+ },
+ {
+  "name": "Vampires",
+  "keys": [
+   "vampire",
+   "vampires"
+  ],
+  "text": "Vampires are entities that feed off of others. They come in a variety of forms.\n - Greater vampires are individuals who volunteered to be turned and had their souls altered by the process. They can get a variety of powers depending on their bloodline, and can create lesser vampires. They are weakened, harmed, and slowly driven insane by magical sunlight, depending on their rank and the level of magic in the sunlight. Greater vampires appear to be more common on Earth than Pallimustus . This is due to potent vampiric bloodlines manifesting on Earth as a result of patterns placed into the seed of that universe by the Builder, and possibly the low mana saturation and density leaving sunlight less damaging to greater vampires' power and sanity.\n - *The Cabal contains a large number of the Greater Vampires on Earth.\n - Essence user vampires are created by an essence user forming specific varieties of the Undeath confluence essence (often, if not always, involving the blood essence).\n - Lesser vampires are created by greater vampires and some types of monsters (possibly some death essence powers as well). They can be cured if the victim is cleansed before their body is altered too much by the curse.\n - Blood servants are not technically vampires, but are people who consumed vampire blood, strengthening them. Not only is it addictive but they lose their strength if they don't regularly consume more vampire blood.",
+  "book": 0
+ },
+ {
+  "name": "The Network",
+  "keys": [
+   "The Network"
+  ],
+  "text": "The Network is a coalition of local organizations using \"new\" magic more commonly called Essences user or as onboard earth Essences magicians. It was the strongest of the three magical factions on Earth only recently overtaking the Cabal in the last century before fracturing during the Reality Cores crisis. It is made up of unranked Humans, Essences users, Transformed, and Enhanced humans. Even Fractured they remain one of the most predominant factions on Earth.\nHistory:\nThe first local branches where set up by a Gold ranked Outworlder known as The Founder who originated from Earth but became an Outworlder after traveling to Pallimustus and returning to Earth While on Pallimustus the Outworlder made a deal with a God before returning to Earth. Upon returning, they began setting up small local Network branches around the world. These local networks worked in secret beginning as secret societies. These secret societies hid the existence of magic and of monsters as apart of their core tenets. It was during this time that The Founder and his familiar Noreth also created  The Grid which was used by the new Network branches to monitor and control the magic of Earth. This new magic came into conflict this the existing magical beings, the Cabal. The The Founder came into conflict with their familiar North. When the two became  irreconcilable Noreth betrayed his bond to the American branch, which gave them a considerable head start.",
+  "book": 0
+ },
+ {
+  "name": "Zartos",
+  "keys": [
+   "Zartos"
+  ],
+  "text": "Zartos is a desert city with a subterranean river. Half the city is built underground around it. It has a large celestine community.",
+  "book": 0
+ },
+ {
+  "name": "Vitesse",
+  "keys": [
+   "Vitesse"
+  ],
+  "text": "Vitesse, sometimes called 'The City Of Flowers' is the capital city of Estercost and the home city of Rufus, Gary and Farrah. It is the site of the Remore Academy, a famous adventurer training academy run by the Remore family. It is in a high magic zone which is problematic for low Rankers since Iron Rank Monsters and Bronze Rank Monsters are not the norm and when they do spawn it is in huge numbers so Adventurers are sent out in hordes.\nIn Vitesse Irion and Bronze ranked adventurers are not considered real adventures, it is not until an adventure has reached silver that they are allowed to go off on their own to fight monsters. It is for this reason that Rufus,Farrah, and Gary left Vitesse.\nFacts About Vitesse:\n - Vitesse has a crown princess who is a childhood friend of Rufus.\n - There is a flower wine festival\n - A recent hairstyle of Vitesse is dyed rainbow colours.\n - Clothes fashions tend towards more earthy and sober than Greenstone fashion.\n - One of the guilds is the Burning Violet guild\n - Although the location is never mentioned, Shirtaloon has placed Estercost in the French Region.\n______________________________\nQuotes about Vitesse:\n______________________________\n“Vitesse is as leisurely as any place you’ll find,” Farrah explained. “Culture, cuisine. Lots of money floating around, even at the low end. A labourer in Vitesse can make as much as a craftsman here.",
+  "book": 0
+ },
+ {
+  "name": "Pallimustus",
+  "keys": [
+   "Pallimustus"
+  ],
+  "text": "Pallimustus, the world that Jason has landed on, is an alternate version of Earth whose continental drift has left the surface similar, though notably different. In addition to having thinner barriers to the Astral (resulting in higher mana saturation and density than Earth), it has pocket dimensions known as Astral Spaces attached to the planet in various places. Before gaining his second world map in book 4, Jason had only heard Pallimustus be refered to as \"the world\".  \nAt the start of the story, Jason finds himself in the equivalent of the African Kalahari on Pallimustus.\nknown countries::\nGreenstone\nJayapura\nStorm Kingdom\nVitesse\nThe world received the name Balldirt before the name Pallimustus. It was first named so by Nitrous_Hail on the discord server.",
+  "book": 0
+ },
+ {
+  "name": "Earth (Planet)",
+  "keys": [
+   "Earth planet"
+  ],
+  "text": "Jason's Earth:\nThis is the Earth that Jason has come from. There are several notable differences from the reader's version of Earth, with the biggest being that there is magic that has been covered up and controlled by three major rival organizations.\n - The Network\n - The Cabal\n - The Engineers of Ascension (EoA)",
+  "book": 0
+ },
+ {
+  "name": "Rune Tortoise",
+  "keys": [
+   "rune tortoise"
+  ],
+  "text": "There is no Interface description for this power as of yet.\nA creature with blue skin and a turquoise shell.\nAbout a meter long.\nThe rune tortoise's shell has a different glowing rune on every segment. Each produces a different magical effect. \nEach rune tortoise has a different set of runes. \nSummons a Rune Tortoise familiar\nIron: Can expend runes on its body to cast different spells. User can channel mana into the Rune Tortoise to refresh the runes. When absorbed into the user it becomes a tattoo a tattoo on the users body allowing them to use to th(e Rune Tortoise's spells.\nBronze: Rune Tortoise grows larger and gains the ability to fly.\nSilver: Rune Tortoise can exit shell and take on an anthropomorphic form leaving a hollow interior that can be inhabited and used for transportation. While in Anthropomorphic form the tortoise retains control of movement and rune abilities of the shell. This shell can be broken with sufficent force as demonstrated by a  in Book 9.\nAppears in:\nBook 1, Chapter 55: Jason battles a rune tortoise during his field assessment\nBook 1, Chapter 68: First appearance of Clive Standish's familiar Onslow.",
+  "book": 0
+ },
+ {
+  "name": "Sanguine Horror",
+  "keys": [
+   "sanguine horror"
+  ],
+  "text": "Sanguine Horror:\nThe true form of this monster is mass of leech-like monsters. According to Jason, these monsters have two purposes in life: cute little dances and slowly eating/killing their way up to become an apocalypse. The horror starts off as bronze rank with the ability to go up and down depending on how much food is given to it. Sanguine Horrors have extreme weaknesses at the lower ranks, which go away as they rank up. Their weakness to salt goes away at gold rank, allowing them to swim and munch on leviathans of the deep. It is possible to get a Sanguine Horror as a familiar both as a summon and as a bonded familiar, which requires the Sanguine Horror to be Iron rank and a correct ability. \nEssence Ability:\nColin [Sanguine Horror] (Blood)\nAwakening Stone: Awakening Stone of the Apocalypse (legendary).\nIncantation:\n - \"Let this mortal blood beckon the all-devouring power of the final threshold. Answer the call and claim the offering. Heed my command and bring forth the avatar of life’s annihilation.\"\nFamiliar (ritual, summon).\nBase Cost: Extreme mana, extreme stamina, extreme health.\nCooldown: None.\nEffect (iron): Summon a [Sanguine Horror] to serve as a familiar.\n - Bites from the leech swarm inflict [Bleeding], [Leech Toxin] and [Necrotoxin].\n - * [Bleeding] (affliction, wounding, blood): Deals ongoing damage by causing or increasing blood loss.",
+  "book": 0
+ },
+ {
+  "name": "Apocalypse Beast",
+  "keys": [
+   "apocalypse beast"
+  ],
+  "text": "Within the universe of He Who Fights With Monsters, power is measured in layers: mortal, transcendent, divine. Yet even among the unimaginable forces that shape worlds, some creatures stand apart as forces of inevitable ruin. These are the apocalypse beasts—entities whose very existence embodies catastrophe. Unlike ordinary monsters, apocalypse beasts are not simply predators or conquerors. They are living disasters, their nature so overwhelming that their presence can alter or even erase entire worlds.\nThe defining trait of an apocalypse beast is not only its immense strength, but also its purpose. Where most beings pursue survival, growth, or dominion, apocalypse beasts represent cosmic archetypes: hunger without end, destruction as rebirth, infestation as inevitability. They are more concept than creature, and each encounter with them serves as a reminder that in Jason Asano’s world, the universe itself can create monstrosities that embody annihilation.\nOnly a few Beasts have so far been discussed as most encounters lead to a horrific end. Even races such as the messengers have had to retreat in the face beasts that have grew to full power, while using others as Doomsday weapons when invading planets \nKnow Apocalypse beasts so far are listed below:\nThe Sanguine Horror:\nThe most personal example of an apocalypse beast is Jason’s own familiar, Colin.",
+  "book": 0
+ },
+ {
+  "name": "Shab",
+  "keys": [
+   "shab"
+  ],
+  "text": "A shab is a creature with the body and head of a shark, but instead of skin it has a plated shell in hues of dark purple and red. Emerging from its sides are eight crab legs and a huge pair of pincers. The creature is three metres long and the pincers are bigger than man's head. It has a mouth full of jagged teeth and tiny crayfish eyes on short stalks.",
+  "book": 0
+ },
+ {
+  "name": "Soul Crest",
+  "keys": [
+   "soul crest"
+  ],
+  "text": "Soul Crest:\nCreated by a highly skilled magical tattoo artist, using an Immortal Crest as part of the ritual, Soul Crests imprint upon the user. This creates an aspect of their aura that is unique, while also drawing out a mark on their body in the form of a tattoo. Though based almost entirely upon the soul-deep nature of a person, it is also lightly shaped by the tattooist's own style. As such, some have been embarrassed by the tattoo showing their true nature, and not the one they portray. While the visible form is mutable to changes such as soul scarring events, once its mark on the user's aura signature is registered with the Adventure Society, a Soul Crest cannot be faked or mimicked by any known method, including shapeshifters, serving as iron-clad proof of identity anywhere on Palimustus.\nMost of those who possess an Immortal Crest come from backgrounds of wealth and power, such as Humphrey Geller, as they are expensive and difficult to produce, while only usable at Iron Rank. Exceptions include when Immortal Crests are generated by looting powers, as in the case of Jason Asano, though this is noted as highly unusual by Tilly, the artist who applied Jason's crest.\nKnown Soul Crests:\n - Humphrey Geller: rainbow-scaled Mirage Dragon upon a large, sand-coloured shield. Applied by Klimpsen of Vitesse, Estercost.",
+  "book": 0
+ },
+ {
+  "name": "Quintessence",
+  "keys": [
+   "quintessence",
+   "affinity gem"
+  ],
+  "text": "Quintessence is a form of magical manifestation that takes the form of a pieces of a complete essence, with few differences. While they come in same varieties as essences (including confluence essences), they cannot be combined into a matching essence. A large amount of research has been done regarding this possibility, but has had no success.\nUnlike Essences, quintessences are unranked.\nThey are mainly used in rituals and as fuel for magical items.\nOn Earth, quintessence is referred to as Affinity Gems.",
+  "book": 0
+ },
+ {
+  "name": "Dimensional Bag",
+  "keys": [
+   "dimensional bag"
+  ],
+  "text": "Item: [Dimensional Bag] (iron rank, rare)\nA bag that contains a dimensional storage space (container, bag).\nEffect: Can be used to store items in an extra-dimensional void.\nEffect: Can fill a bag slot, increasing inventory space by eight.",
+  "book": 0
+ },
+ {
+  "name": "Storm Kingdom",
+  "keys": [
+   "Storm Kingdom"
+  ],
+  "text": "The Storm Kingdom is located in the Pallimustus equivalent to the Caribbean Sea an was founded by Soramir Rimaros. The Kingdom is ruled by the Storm King. The successor of the Storm King is chosen by the previous Storm King after a contest. The royal guard is provided by the Sapphire Crown.",
+  "book": 0
+ },
+ {
+  "name": "Mirage chamber",
+  "keys": [
+   "mirage chamber"
+  ],
+  "text": "A mirage chamber is a magical facility that can create illusions for adventurers in training.",
+  "book": 0
+ },
+ {
+  "name": "Hydra",
+  "keys": [
+   "hydra"
+  ],
+  "text": "Myriad + Renewal + Snake",
+  "book": 0
+ },
+ {
+  "name": "Wendigo",
+  "keys": [
+   "wendigo"
+  ],
+  "text": "Hunger + Flesh + Might",
+  "book": 0
+ },
+ {
+  "name": "Manticore",
+  "keys": [
+   "manticore"
+  ],
+  "text": "Cat + Spike + Venom",
+  "book": 0
+ },
+ {
+  "name": "Kraken",
+  "keys": [
+   "kraken"
+  ],
+  "text": "Might + Octopus + Vast\nDeep + Might + Octopus",
+  "book": 0
+ },
+ {
+  "name": "Leviathan",
+  "keys": [
+   "leviathan"
+  ],
+  "text": "Deep + Might + Vast",
+  "book": 0
+ },
+ {
+  "name": "Fountain of Life",
+  "keys": [
+   "Fountain of Life"
+  ],
+  "text": "An ability of the Renewal (unconfirmed) essence.\nCreates an ornate fountain that appears in the air, spraying water over people to heal their wounds over time.\nKnown users::\nNeil Davone",
+  "book": 0
+ },
+ {
+  "name": "Burning Violet Guild",
+  "keys": [
+   "Burning Violet"
+  ],
+  "text": "The Burning Violet Guild that was eventually taken over by the diamond ranker Roland Remore and is known the world over as a guild full of adventurers who are elite among elites.\nIn recent years the executives of the guild have formed two factions. One desiring to purge the oversized influence of the Remore family, with the other opposing the idea for the sake of either loyalty or fear of the guild collapsing. This issue is brought to a head by Jason Asano attempting to join the guild, due to his position of being treated as a diamond ranker by those in power outside the guild, thus tipping the scales of influence that are balanced so precariously.\nDue to the meddling of Roland Remore putting Jason within the guilds politics, Team Biscuit give up their guild memberships in protest.\nKnown Members:\nActive Members:\nRufus Remore\nFarrah Hurin\nDanielle Geller\nGabriel Remore\nArabelle Remore\nMonica\nNeiman Bassingthwaite\nInactive Members:\nRoland Remore\nFormer Members:\nGareth Xandier\nHumphrey Geller\nSophie Wexler\nClive Standish\nBelinda Callahan\nNeil Davone",
+  "book": 0
+ },
+ {
+  "name": "Geller Family",
+  "keys": [
+   "Geller family"
+  ],
+  "text": "Danielle Geller\nHenrietta Geller\nHumphrey Geller\nRick Geller\nPhoebe Geller\nHenry Geller\nJonah Geller",
+  "book": 0
+ },
+ {
+  "name": "Asano Family",
+  "keys": [
+   "Asano family"
+  ],
+  "text": "Members:\nAsano Family:\nGrandfather Asano = Yumi\n - Shiro Asano\n - Hiro Asano\n - Ken Asano = Cheryl\n - *Kaito Asano = Amy\n - **Hana Asano\n - **Jace Asano\n - *Erika Asano = Ian Evans\n - **Emi Evans-Asano\n - *Jason Asano\nAsano Clan:\n - Akari Asano\n - Mei Asano",
+  "book": 0
+ },
+ {
+  "name": "Team Biscuit",
+  "keys": [
+   "Team Biscuit"
+  ],
+  "text": "Team Biscuit:\nTeam Biscuit is a Gold Rank Adventurer team originating from Greenstone. They received their name due to Stash's submission to the Adventure Society while the rest of the team discussed their name.\nTeam Members:\nHumphrey Geller:\nHuman, has the Magic, Might, Wing, and Dragon essences. Humphrey is the de facto leader of the Team. His familiar Stash who would also be considered a member of the team, is the one who granted the team the current moniker of Team Biscuit.\nJason Asano:\nAn Outworlder and long standing member of Team Biscuit, Jason is a sporadic member of the team, becoming separated from the rest of the team for the majority of both Bronze and later Silver rank. Despite this Jason has always been a core member of the team. He has the Blood, Dark, Sin, and Doom essences. His familiars Colin, Gordon, and Shade are also counted as members of the team.\nClive Standish:\nA former Magic Society official and current founder of the Magic Research Association, Clive is one of the earliest members of Team Biscuit. Clive is a Human possessing the Balance, Magic, Rune, and Karmic essences. His familiar Onslow is also counted as a member of the team.\nNeil Davone:\nElf, has the Growth, Renewal, Shield, and Prosperity essences \nSophie Wexler:\nCelestine, has the Balance, Swift, Wind, and Mystic essences\nBelinda Callahan:\nHuman, has the Adept, Magic, Trap, and Charlatan essences, her familiars Shimmer and Gemini are also counted as members of the team.",
+  "book": 0
+ },
+ {
+  "name": "Team Storm Shredder",
+  "keys": [
+   "Team Storm Shredder"
+  ],
+  "text": "An elite guide team originally from Rimaros. They specialize in wide area damage.\nTeam Members:\n - Korinne Pescos (Leader)\n - Kalif\n - Rosa Liselos (scout)\n - Orin Pensinata (nephew of Amos Pensinata)\n - Zara Rimaros (temporarily while going by Zara Nareen)\n - Two other members",
+  "book": 0
+ },
+ {
+  "name": "Team Moon's Edge",
+  "keys": [
+   "Team Moon's Edge"
+  ],
+  "text": "First appearing in book 10. This team is 6 gold-rank women personally mentored by Lady Allayeth.\n> Team Moon’s Edge, a team of six women personally supervised and guided from their early careers by Allayeth. They were now all gold rank\n- Shirtaloon; Deverell, Travis. He Who Fights with Monsters 10: A LitRPG Adventure (p. 395). Aethon Books. Kindle Edition. \nTheir team leader is Miriam Vance.",
+  "book": 0
+ },
+ {
+  "name": "Crystal wash",
+  "keys": [
+   "crystal wash"
+  ],
+  "text": "Crystal Wash is a clear, viscous liquid that, when tipped over someone's head, will completely clean that person.",
+  "book": 0
+ },
+ {
+  "name": "Jason’s Lemonade",
+  "keys": [
+   "Jason's lemonade",
+   "lemonade"
+  ],
+  "text": "System Information:\nItem: [Jason’s Lemonade] (normal rank, common):\nA delicious citrus drink (consumable, beverage).\nEffect: Refreshing.\nCrafting Requirements:\nMaterials::\n - 6 lemons.\n - 1 and ¼ cups of sugar.\n - 5 cups of water.\nAmounts of sugar and lemon juice can be adjusted, if you like it extra sweet or with bit of a twang to it.\nTools::\n - Mixing bowl.\n - Cooking pot.\n - Mesh strainer.\n - Lemon/vegetable peeler.\n - Lemon juicer (optional).\n - Serving pitcher.\nSteps:\n# Wash lemons. If they feel waxy, scrub them under hot water.\n# Peel the zest from 6 lemons with a veggie peeler. You want the yellow zest, but don’t be too worried about getting some of the white. Set the peeled lemons aside.\n# Cover the lemon zest with 1 and a quarter cup of sugar in a mixing bowl and combine by tossing. Cover with some cling wrap and leave for at least 2 hours, but longer is better. Leaving them overnight works very nicely.\n# Bring 5 cups of water to the boil, in a pot on high heat. Turn off heat and pour in lemon-sugar mix.\n# Bring water to a boil in a pot over high heat; turn off heat and add the lemon-sugar mixture, including the peel. Stir, then leave as the sugars dissolve, which should be about 5 minutes.\n# Strain the liquid back into the mixing bowl through a mesh strainer to excise the peel.\n# Do not add the lemon juice immediately. Let the liquid sit until room temperature; about half an hour should do.",
+  "book": 0
+ }
+]

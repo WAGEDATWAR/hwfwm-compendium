@@ -1,0 +1,549 @@
+[0] Adris_Dorgan B1 Ch104 L68-68
+  CLAIM: Meets Jason in his own library.
+  TEXT: “It’s a pleasure to meet you, but I’m a little surprised to find you in my library,” Dorgan said.
+[1] Adris_Dorgan B6 Ch47 L398-398
+  CLAIM: By Book 6 Humphrey says "Adris Dorgan's goal is legitimacy" and that he must go straight to fulfil his ambitions.
+  TEXT: “Adris Dorgan’s goal is legitimacy,” Humphrey said. “He needs to go straight in order to fulfil his ambitions. I don’t like it, but it will take someone like him going legitimate to get Old City into line after years of criminal rule.”
+[2] Akari_Asano B5 Ch12 L18-24
+  CLAIM: Introduces herself as "Asano Akari" when she meets Jason.
+  TEXT: Asano Akari watched a girl spitting invective fly past the rooftop on which she was crouched. She frowned at the unusual sight. / “There are dark days ahead,” a voice said. / She stood up, whirling to face it. She hadn’t sensed his presence at all, despite her silver-rank hearing and aura senses. She still couldn’t make out his 
+[3] Akari_Asano B5 Ch12 L27-27
+  CLAIM: Her essences are sword, adept and magic (the master confluence); she carries a genuine chokuto and has a blinking teleport that leaves exploding after
+  TEXT: He glanced at the sword hanging from her belt. It was a chokutō, a Japanese straight sword, and his magical senses told him it wasn't conjured. It was a genuine magical item of exquisite craftsmanship, at least physically. To check the quality of the magic, he would need to look closer.
+[4] Akari_Asano B5 Ch24 L140-140
+  CLAIM: Her father is the head of the Japanese clan.
+  TEXT: “We're also here to help things go smoothly from a diplomatic perspective,” Asya said. “We've prepared a gift for when you meet Akari's father, the clan head.”
+[5] Allayeth B9 Ch98 L4-5
+  CLAIM: Finds Schaat's corpse with Charist and sees a star phoenix.
+  TEXT: The diamond-rankers were both elves, a man and a woman. Her name was Allayeth and his was Charist. They found Schaat’s corpse, dissolving into rainbow smoke. A sharp-featured silver-ranker was extracting and devouring the remnant life-force. As he drained the diamond-ranker’s power, a dark shape looming over him grew more and mo
+[6] Allayeth B12 Ch16 L8-8
+  CLAIM: "The more reclusive Lady Allayeth" graces a VIP gathering; she raised the team Moon's Edge herself.
+  TEXT: That Yaresh had not just one but two resident diamond-rankers was an incredible boon. Lord Charist was the more social of the two, but it was the more reclusive Lady Allayeth who graced the room with her presence today. Around her was the team she had raised up herself, Moon’s Edge, now famous in their own right. Compared to som
+[7] Amy_Asano B4 Ch26 L47-47
+  CLAIM: The girl next door and Jason's best friend as far back as he remembers; she had a crush on Kaito from an early age.
+  TEXT: Jason and Amy, the girl next door, had been best friends going back as far as Jason could remember. They were inseparable growing up and careened together into the confused hormones of adolescence. She had a crush on Kaito from an early age, which only complicated Jason’s already complex feelings towards his brother.
+[8] Amy_Asano B4 Ch3 L133-133
+  CLAIM: Her parents retired to Tasmania and sold her the house next door.
+  TEXT: He had not seen his brother Kaito or his wife Amy since before they were married. Jason turned his gaze to the house next door, where they lived. Amy’s parents had retired early and moved to Tasmania, selling their house to their daughter. Their generous price gave the young family a financial head-start at a time when few young
+[9] Amy_Asano B13 Ch950 L29-29
+  CLAIM: Her daughters with Kaito are Hana and Jace; in 2038 Hana is twenty-three and Jace nineteen.
+  TEXT: Jason hadn’t seen Kaito and Amy’s daughters since they were small children. Jace was nineteen, now, and Hana twenty-three. The age Jason had been when he was pulled into Pallimustus. The uncertainty in their expressions barely touched the complexity of what Jason sensed in their emotions. Confusion, resentment, hope, regret. Jas
+[11] Arabelle_Remore B2 Ch32 L52-52
+  CLAIM: With long hair dyed rainbow colours "in the Vitesse style".
+  TEXT: They wandered over to where Rufus and his father were talking with three other people. Rufus’s mother, Arabelle, had even darker skin than her husband, her long hair dyed rainbow colours in the Vitesse style. Farrah’s parents, the Hurins, were fair-skinned, like their daughter had been. Emir knew that while they looked older tha
+[12] Arabelle_Remore B8 Ch2 L49-49
+  CLAIM: A member of the Church of the Healer specialising in mental health and trauma recovery, who has worked extensively with Jason.
+  TEXT: Arabelle Remore was Rufus’ mother, as well as a member of the Church of the Healer specialising in mental health and trauma recovery. She had worked extensively with Jason to manage his often tenuous mental state, and had no shortage of other work. The One Day war, when the Builder’s fortress cities attacked the Storm Kingdom, h
+[13] Arabelle_Remore B8 Ch47 L31-31
+  CLAIM: Examines Jason's body-matrix and soul with Carlos in Book 8.
+  TEXT: “Jason,” Carlos said, while Arabelle scowled, pausing the back and forth motion of the wand. “Do you remember how I used what I learned from what happened to you to study the effects of star seeds, so we could improve our methods of dealing with them?”
+[14] Arabelle_Remore B10 Ch78 L52-52
+  CLAIM: Is with Gabriel at the death-chamber gate in Cardinas.
+  TEXT: Arabelle and Gabriel Remore floated towards the massive gate halfway up the wall of the citadel chamber. They were carried on an ash cloud created by Gabriel, whose fire powers were enhanced by the elemental energy. But as the undeath energy seeped through the wall between the citadel chamber and the death field beyond, he could
+[15] Carlos_Quilido B8 Ch29 L44-44
+  CLAIM: "The Healer Priest, Carlos Quilido, had helped Jason restore his damaged soul after it was besieged by the Builder's star seed".
+  TEXT: It had started with Farrah laying Jason’s foundation back in Greenstone. From there, he had trained with Danielle Geller and studied the techniques of vampiric auras with Craig Vermillion. The Healer Priest, Carlos Quilido, had helped Jason restore his damaged soul after it was besieged by the Builder’s star seed. That same batt
+[16] Carlos_Quilido B8 Ch41 L58-58
+  CLAIM: A humble man in simple clothes, though the world will not let a gold-ranker be too humble.
+  TEXT: Carlos Quilido was a humble man by nature, but there was only so humble the world would allow a gold-ranker to be, so the airship he was on was directed to the port at Livaros. Carlos himself was unassuming, in simple clothes of light brown, in a loose cut to breathe in the humid tropical climate. The wet, heavy air would not ma
+[17] Carlos_Quilido B11 Ch67 L6-6
+  CLAIM: Joins the Cardinas expedition with a new research team.
+  TEXT: The research centre was set up for Carlos Quilido. The priest of the Healer had joined the underground expedition, putting his research on pause as Jason was critical to its next stage. The avatar Jason had left for Carlos would help his research by using the soul realm to help people survive their experimental treatments. The a
+[18] Carlos_Quilido B13 Ch1001 L9-9
+  CLAIM: The Quilido Procedure removes the taint of monster cores.
+  TEXT: Another clan asset that changed the way Earth handled essence users was the Quilido Procedure, a means of eliminating the taint of monster cores from an essence user. It was a slow and resource-intensive process, but it could unlock the potential of an essence user previously trapped at silver-rank. This included Earth’s most ve
+[19] Cassandra_Mercer B2 Ch27 L43-48
+  CLAIM: Neil had a crush on her as a boy; she is four years older.
+  TEXT: Another change in what made the Mercer compound alluring as Neil grew up was the presence of Thadwick’s older sister, Cassandra. As with many young men in the Mercer family orbit, the smart, capable and gorgeous young woman was the object of his youthful affection. Four years older than him, she was the unattainable image of bea
+[20] Cassandra_Mercer B2 Ch4 L19-29
+  CLAIM: Falls into Jason's embrace in Book 2, and later ends it with him because her family wants a reliable match.
+  TEXT: “It makes you someone lying to yourself,” a voice came from behind him. He turned and Cassandra fell into his embrace. / “If you really had the choice,” she whispered into his ear, “you’d let her save those people.” / “It doesn’t feel like that,” he whispered back. / They drew apart, their hands held together between them. / “Ho
+[22] Charist B9 Ch98 L4-6
+  CLAIM: Finds Schaat's corpse with Allayeth and demands to know "what's going on here".
+  TEXT: The diamond-rankers were both elves, a man and a woman. Her name was Allayeth and his was Charist. They found Schaat’s corpse, dissolving into rainbow smoke. A sharp-featured silver-ranker was extracting and devouring the remnant life-force. As he drained the diamond-ranker’s power, a dark shape looming over him grew more and mo
+[23] Charist B12 Ch16 L8-8
+  CLAIM: "Lord Charist was the more social of the two"; Allayeth and Charist discuss staying in the city because its people love Hana Shavar.
+  TEXT: That Yaresh had not just one but two resident diamond-rankers was an incredible boon. Lord Charist was the more social of the two, but it was the more reclusive Lady Allayeth who graced the room with her presence today. Around her was the team she had raised up herself, Moon’s Edge, now famous in their own right. Compared to som
+[24] Charist B9 Ch104 L29-29
+  CLAIM: "Lord Charist was the more social of the two"; Allayeth and Charist discuss staying in the city because its people love Hana Shavar.
+  TEXT: “We decided to stay here for some time, Charist. The people of this city love Hana Shavar, as does the Healer. Causing her trouble is trouble for us. Unless you’re looking to rule with an iron fist, we can’t just squash the city authorities.”
+[25] Cheryl_Asano B1 Ch1 L88-88
+  CLAIM: Her family are "miners and farmers, tracing their bloodline back through bushrangers, convicts, and indigenous Australians"; she was the one fascinate
+  TEXT: Jason’s father, Ken Asano, was born in Japan, but raised in Australia from a very young age. Proving there is no zealot like a convert, Ken was all about the Australian lifestyle, from pub rock to footy matches and weekend barbecues. He fell right in with the family of his wife, Cheryl, which was as Australian as he could ask fo
+[26] Cheryl_Asano B2 Ch20 L18-18
+  CLAIM: Jason describes his mother's side as "a large family of mostly rural types".
+  TEXT: “It has places like this,” Jason said. “My family used to take trips out into the country when I was younger. My mother has a large family of mostly rural types. Good, hardworking people, you know? Not all twisty in the head like me. I grew up in a sleepy little beach town. In summer it fills up with people. Later I moved to a b
+[27] Cheryl_Asano B4 Ch45 L76-76
+  CLAIM: Present when the family gathers in Book 4.
+  TEXT: Cheryl was quieted by Amy putting a restraining hand on Cheryl’s arm, but Amy’s gaze was locked on Jason, searching his expression and body language.
+[29] Clarissa_Ventress B1 Ch43 L29-29
+  CLAIM: A woman with dark, cascading hair and a sultry walk who looks only a few years older than the two women she walks between.
+  TEXT: The door to the chamber was pushed open by a huge leonid. Coming in behind him was a woman with dark, cascading hair and a walk so sultry she was almost swerving. Clarissa Ventress only looked a few years older than the two women she was walking in on, but command clung to her as tightly as her satin dress.
+[30] Clarissa_Ventress B1 Ch50 L93-93
+  CLAIM: Watches Sophie's match from her own viewing box, imagining the look on Silva's face.
+  TEXT: In her own viewing box, Clarissa Ventress was happily imagining the look on Silva’s face. She was less happy with Sophie’s friend, Belinda.
+[31] Cole_Silva B1 Ch50 L92-92
+  CLAIM: "The newest member of the Big Three crime lords of Old City", with his father's protection of Sophie gone.
+  TEXT: Three viewing boxes, normally empty in the early afternoon, all had occupants watching Sophie’s match. In one was Cole Silva, the newest member of the Big Three crime lords of Old City. With his father’s passing, the old man’s protection could no longer keep Sophie from his grip. Just as he had been closing his fingers around he
+[32] Cole_Silva B3 Ch17 L56-60
+  CLAIM: Jason calls an elf who matches the description "the Palpatine to his Vader".
+  TEXT: “So, you’re the Palpatine to his Vader,” Jason said to the elf. “I know the routine. Just to save you some time, giving in to my hatred will be an easy sell, under the circumstances.” / “Shut up!” the boy-man yelled. “My name is Cole Silva.” / “You’re Cole Silva?” Jason asked. / “That’s right,” Silva said, gloatingly. “Now you u
+[33] Cole_Silva B3 Ch24 L48-48
+  CLAIM: Is held in the prison tower with Lamprey.
+  TEXT: It had been almost two months since Jason last set foot on the Adventure Society campus. He glanced over at the prison tower where both Lucian Lamprey and Cole Silva were incarcerated. The ultimate fate of neither man had yet been decided.
+[34] Constance B2 Ch1 L112-112
+  CLAIM: Jason meets "Emir and his chief of staff, Constance" returning to the cloud palace.
+  TEXT: Jason was leaving the cloud palace when he ran into Emir and his chief of staff, Constance, coming back. They stopped to chat halfway across the platform connecting the cloud palace to the shore.
+[35] Constance B2 Ch1 L124-124
+  CLAIM: She backs Jason's argument that he did not put the team in charge.
+  TEXT: “He’s right,” Constance said. “You didn’t put them in charge.”
+[36] Craig_Vermillion B4 Ch7 L49-50
+  CLAIM: Every aura in the room except Jason's and Ari's trembles at the name Vermillion.
+  TEXT: “They looked scared, boss,” Petros said. “Like when Vermillion comes.” / Jason felt every aura in the room except for Ari’s and his own tremble upon hearing the name Vermillion. Even the stalwart Taika radiated trepidation.
+[37] Craig_Vermillion B4 Ch10 L127-127
+  CLAIM: Explains the magical world's three dominant forces and says a new kind of magic appeared five centuries ago.
+  TEXT: “The first thing you need to know about the magical world is that there are three dominant forces within it. There are smaller, localised groups, scrabbling after table scraps. They know about magic, but that knowledge is fragmentary at best and they have little, if any, magic they command for themselves.”
+[38] Craig_Vermillion B4 Ch11 L4-4
+  CLAIM: Explains the magical world's three dominant forces and says a new kind of magic appeared five centuries ago.
+  TEXT: “Magic has always been a difficult and esoteric thing,” Vermillion explained as he poured the wine. “Some five centuries ago, a new kind of magic appeared. People with no connection to the old ways could suddenly wield a variety of easy-to-use mystical powers. At that time, they were a limited threat. They were collected into va
+[39] Craig_Vermillion B4 Ch23 L31-39
+  CLAIM: Discusses Dawn's paintings with Jason.
+  TEXT: “What do you think of these paintings?” Jason asked, gesturing at the wall behind Vermillion. / Vermillion turned to examine the art, hanging side by side on the wall. He could immediately tell that the artist was the same and the brushwork seemed familiar, confirmed when he checked the signature in the corner. / “This is by Daw
+[41] Cressida_Vane B1 Ch11 L80-80
+  CLAIM: "I am Lady Cressida Vane"; Jason mocks her high-priestess name.
+  TEXT: “I am Lady Cressida Vane,” she sneered.
+[42] Cressida_Vane B1 Ch11 L81-83
+  CLAIM: "I am Lady Cressida Vane"; Jason mocks her high-priestess name.
+  TEXT: “See, now there’s a quality high priest name,” Jason said. “High Priestess Lady Cressida Vane. Just listen to it; you can practically hear the tyranny.” / “Stop babbling,” Darryl scolded. “This doesn’t—” / “Why didn’t they put you in charge?” Jason asked Cressida, ignoring Darryl. He gave her a sympathetic look. “They didn’t wan
+[43] Cressida_Vane B1 Ch9 L47-50
+  CLAIM: Complains that astral beings were "the death" of her son, and that they are "a nice, traditional blood cult family".
+  TEXT: “Just so, Dougall,” she acknowledged. “Do we know what Landemere was trying to summon?” / “I had a bit of a potter through his notes, milady. It was one of them entities from beyond the void.” / Jason heard the woman sigh. / “Astral beings,” she muttered unhappily. “I told that boy it would be the death of him. We’re a nice, tra
+[44] Elizabeth B11 Ch68 L1488-1488
+  CLAIM: "Their leader was known only as Elizabeth. She was a gold-ranker, and extremely tired of people asking if she was Elizabeth Bathory".
+  TEXT: Their leader was known only as Elizabeth. She was a gold-ranker, and extremely tired of people asking if she was Elizabeth Báthory. Those around her learned to stop asking once she started immediately eating anyone who did.
+[45] Elizabeth B11 Ch42 L38-38
+  CLAIM: Combat with the vampires "began in earnest shortly after" Jason left; Rufus thinks he "made an impression on the vampire leader, Elizabeth".
+  TEXT: “It’s war. Not open battle; more like skirmishes between elite forces, but a lot of them. Combat began in earnest shortly after you left, as if the vampires were waiting on your absence. I think you made an impression on the vampire leader, Elizabeth.”
+[46] Elizabeth B6 Ch45 L39-39
+  CLAIM: Mr North and Elizabeth team up to set up defensive rituals against Jason in Book 6.
+  TEXT: Mr North and Elizabeth teamed up to use their unique ritual magic variations to set up defensive rituals, reminding Jason of Clive’s combat style. Mr North created a web-pattern magic diagram set out in the middle of a street. He and Elizabeth stood in the middle of it and any vorger that came near found itself entangled in a we
+[48] Elspeth_Arella B1 Ch65 L60-60
+  CLAIM: "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+  TEXT: Elspeth Arella was director of the Greenstone Branch of the Adventure Society. Rufus had pointed her out, along with any number of other local notables, during their spate of social outings the month previous.
+[49] Elspeth_Arella B1 Ch83 L45-45
+  CLAIM: "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+  TEXT: Three people were already sitting behind the bench. In the middle was the director of the Adventure Society, the elf, Elspeth Arella. Jason had only spoken with her the once, although he had spotted her from time to time at social events. To her left was Vincent, who Jason had last seen doing the walk of shame from the suite acr
+[50] Elspeth_Arella B12 Ch27 L45-45
+  CLAIM: Twenty years later she still holds the post.
+  TEXT: Leaning against the desk in her office, Elspeth rubbed her temples as she stared at a spot on the floor. Twenty years ago, she had used her powers to lift some jumped up iron-ranker by the throat, dropping him on that very spot. Now, that same speck of nothing was scheduled to arrive in just a few days, to great fanfare.
+[51] Emir_Bahadir B1 Ch99 L36-36
+  CLAIM: Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+  TEXT: “Emir Bahadir,” he introduced himself.
+[52] Emir_Bahadir B1 Ch101 L64-64
+  CLAIM: Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+  TEXT: The ship drew to a gentle stop in the dock and a walkway of cloud emerged from the side. When it connected to the shore, a hole appeared in the side of the ship to reveal Emir Bahadir. Though he was seeing him in daylight, he looked the same as when Jason had met him in the dark. Sleek clothes, midnight skin and dark hair woven 
+[53] Emir_Bahadir B2 Ch1 L3-3
+  CLAIM: Jason walks through "the halls of the cloud palace belonging to Emir Bahadir"; the team later move in.
+  TEXT: Jason Asano walked through the halls of the cloud palace belonging to Emir Bahadir the powerful adventurer who had arrived in the city with such fanfare. The cloud palace was far from just white cloud-stuff, with the walls, floors and ceilings cast in sunset shades of blue, purple, orange and gold. In some areas the colour was s
+[54] Emir_Bahadir B2 Ch8 L168-168
+  CLAIM: Jason walks through "the halls of the cloud palace belonging to Emir Bahadir"; the team later move in.
+  TEXT: “My landlady makes it. Now that Emir has set us up in the cloud palace, I don’t see her, which is a shame. I learned a lot about local ingredients in her kitchen. I went and packed-up the rooms my friends and I were renting and she stocked me up on chutney and jam. I’ve been meaning to figure out how you cook things in a kitchen
+[55] Emir_Bahadir B2 Ch19 L93-93
+  CLAIM: His gold-rank reflexes catch Danielle before she lunges; he looks no more than thirty but ageless.
+  TEXT: Flailing metal wires, thin as hairs, shot out in clusters from his now-empty eye sockets, waving like the tendrils of a sea creature. Danielle made to lunge forwards, but her arm was gripped by Emir, his gold-rank reflexes catching her before she moved. She turned on him in fury.
+[56] Emir_Bahadir B1 Ch108 L35-35
+  CLAIM: His gold-rank reflexes catch Danielle before she lunges; he looks no more than thirty but ageless.
+  TEXT: At a glance, Emir didn’t look to be more than thirty years old. There was an agelessness to him, however, that Jason had seen to a lesser degree in Danielle Geller and Thalia Mercer. Most of Greenstone’s other silver-rankers showed more of their age.
+[57] Emir_Bahadir B2 Ch25 L73-73
+  CLAIM: Knows the Order of the Reaper were an ancient cult of assassins, scoured by a coalition of churches.
+  TEXT: “I do,” Emir said. “I know the Order of the Reaper were an ancient cult of assassins. They brought death. I have seen no indication anywhere, ever, that they even tried to reverse it. I also know that they were scoured from this world, root and branch, by a coalition of churches, long ago. Only ruins filled with the dead remain.
+[59] Erika_Asano B4 Ch3 L135-135
+  CLAIM: Has a television series that films in Melbourne.
+  TEXT: Jason turned his attention back to the house he grew up in. Had Erika and Ian bought his parents’ house, the way that Kaito and Amy had bought hers? Erika certainly had the money for it, but what about her TV series that filmed in Melbourne?
+[60] Erika_Asano B4 Ch3 L123-123
+  CLAIM: Her husband is Ian Evans.
+  TEXT: Contact [Ian Evans] has entered communication range.
+[61] Erika_Asano B5 Ch56 L7-7
+  CLAIM: In Book 5 she and Emi mourn Kaito.
+  TEXT: “Hold that thought,” he said as Erika and Emi emerged from the portal. Neither had seen her since Kaito’s death and, unlike Jason, immediately moved to hug her.
+[62] Erika_Asano B13 Ch950 L1-14
+  CLAIM: In Book 13 Jason returns to her rooftop garden and they hug; she is blunt about how he left things.
+  TEXT: BOOK 13 | Chapter 950 | A Person the Other Used to Know /  / Jason hugged his sister. They were alone on the rooftop garden of her family home. / “This is good,” she said. “Hugging those avatars of yours is like hugging cold rubber.” / “Technically, this is an avatar as well. The difference is—” / “Shut up, little brother. Save 
+[63] Gabriel_Remore B1 Ch49 L27-27
+  CLAIM: First seen as a lifelike water-link image of "Rufus's father, Gabriel Remore".
+  TEXT: Pochard hadn’t been overstating the quality of the connection. The image of Rufus’s father, Gabriel Remore, was startlingly lifelike. When the image shifted from water statue to animation, it replicated his expressions and body language with amazing accuracy.
+[64] Gabriel_Remore B2 Ch32 L52-52
+  CLAIM: Appears in person at Farrah's wake with Rufus and Arabelle; Rufus's mother has even darker skin than her husband.
+  TEXT: They wandered over to where Rufus and his father were talking with three other people. Rufus’s mother, Arabelle, had even darker skin than her husband, her long hair dyed rainbow colours in the Vitesse style. Farrah’s parents, the Hurins, were fair-skinned, like their daughter had been. Emir knew that while they looked older tha
+[65] Gabriel_Remore B10 Ch78 L52-89
+  CLAIM: Helps rescue a gold-rank messenger at the death-chamber gate in Cardinas with Arabelle.
+  TEXT: Arabelle and Gabriel Remore floated towards the massive gate halfway up the wall of the citadel chamber. They were carried on an ash cloud created by Gabriel, whose fire powers were enhanced by the elemental energy. But as the undeath energy seeped through the wall between the citadel chamber and the death field beyond, he could
+[67] Gabrielle_Pellin B1 Ch38 L122-122
+  CLAIM: Introduces herself as "just an acolyte, not a full priestess"; Humphrey breaks up with her in Book 2.
+  TEXT: “My name is Gabrielle Pellin,” she said, “and I’m just an acolyte, not a full priestess. You can call me Gabrielle.”
+[68] Gabrielle_Pellin B2 Ch28 L25-30
+  CLAIM: Introduces herself as "just an acolyte, not a full priestess"; Humphrey breaks up with her in Book 2.
+  TEXT: “It’s Gabrielle,” Humphrey said. “Things aren’t going to work out with her.” / “That sucks,” Jason said. “Sorry to hear it. I’m guessing I wasn’t helpful in that regard.” / “It’s more than just that,” Humphrey said. “I would never ask her to choose between me and her religion, but she’s becoming more and more dogmatic. She’s bec
+[69] Gabrielle_Pellin B7 Ch9 L7-8
+  CLAIM: By Book 7 she is a priestess of the Goddess of Knowledge who has grown into "dangerous beauty, with olive skin, chocolate hair and graceful poise".
+  TEXT: “I am a priestess of the Goddess of Knowledge,” Gabrielle Pellin told him. “I am fully aware of your concerns. You used to be more polite, Mr Remore.” / Gabrielle was no longer the teenage iron-ranker that had been Humphrey’s girlfriend. With age and rank, her already impressive looks had blossomed into dangerous beauty, with ol
+[70] Gabrielle_Pellin B13 Ch1023 L139-139
+  CLAIM: In Book 13 a cube leaves her chest into Knowledge's hand, and she seizes.
+  TEXT: A cube emerged from Gabrielle’s chest and vanished into Knowledge’s outstretched, hand. Gabrielle immediately had a seizure, foaming at the mouth as she flailed helplessly in the air. Travis rushed out of Onslow’s shell on a hover platform and grabbed her.
+[71] Gerling B6 Ch6 L31-31
+  CLAIM: Works with Chen and Guo in the transformation zones in Book 6.
+  TEXT: Gerling had been unwilling to test the waters alone, but if the old dog Chen and his aggravating shield powers were brought into play, that changed things considerably. There was, of course, the potential for betrayal, but the various Network branches were all aware of the common enemy. Category-four essence users were few and f
+[72] Gerling B6 Ch33 L28-28
+  CLAIM: Tells Mr Barbou he is not going to keep giving him a hard time.
+  TEXT: “Our abilities were sealed away in the last zone as well,” Gerling said. Given the circumstances, he wasn’t going to keep giving Barbou a hard time. The Frenchman might only be bronze-rank, but he was a better ritualist than anyone Gerling had managed to recruit.
+[73] Gerling B6 Ch42 L66-66
+  CLAIM: Proposes that Jason join the coalition against the vampires.
+  TEXT: “You said it yourself: power is what matters in expanding a domain. We have Mr North, three ancient vampires, the necromancer of Makassar and an army of ghouls. We could use your strength.”
+[75] Gwydion_Remore B11 Ch60 L13-13
+  CLAIM: A priest of Hero with skin of dark chocolate and "a thornbush of curly hair" who sits with Danielle Geller at the bottom of the Yaresh shaft.
+  TEXT: That same companion, Gwydion, now entered the privacy screen around Danielle’s table. A priest of Hero, he had skin of dark chocolate and a thornbush of curly hair. He set a fresh drink in front of Danielle and put another down for himself before sprawling into the chair opposite her. After patting his pockets for a moment, he f
+[76] Gwydion_Remore B11 Ch67 L20-20
+  CLAIM: Rufus's older brother.
+  TEXT: They ate and chatted. Jason and Neil were even vaguely nice to each other. The closest to an outsider was Gwydion, but Rufus’ older brother was quickly fitting in. The priest of Hero was lying back in a cloud chair almost prone, between his father and brother. He picked at the food piled high on a plate resting on his chest, sau
+[77] Gwydion_Remore B11 Ch60 L22-22
+  CLAIM: Worries about his family underground during the Cardinas expedition.
+  TEXT: “You think I’m not worried?” Gwydion asked. “My whole family is down there. Little Roo is going to be a mess over Gary. I’m just glad Mum is in there with him. Dad will probably be less help.”
+[78] Gwydion_Remore B11 Ch68 L707-709
+  CLAIM: Tells Gary that Hero has decided to sanction himself.
+  TEXT: “Hero has decided to sanction himself,” Gwydion told Gary. “It’s something that he has been considering for longer than any of us have been alive, but he’s finally going to do it.” / “Isn’t sanctioning dangerous?” Gary asked. / “Yeah,” Gwydion said. “But he’s not going to be as drastic as Purity. He wants to give himself another
+[79] Hana_Shavar B9 Ch80 L6-13
+  CLAIM: "The High Priestess of the Healer for the city-state of Yaresh", who sends her priests into Bahadir's bunker rather than Jason's.
+  TEXT: Hana Shavar looked up at the ominous eye as her people led civilians into the wide doors at the base of the pyramid. She was the High Priestess of the Healer for the city-state of Yaresh, but she had sent most of her own people into the gold-rank bunker belonging to Bahadir. / There was a reason she directed all the clergy, both
+[80] Hana_Shavar B10 Ch3 L29-29
+  CLAIM: Runs operations that use Jason's cloud palace as a base.
+  TEXT: The elf was Hana Shavar, High Priestess of the Healer and the person in charge of operations using Jason’s cloud palace as a base. Those operations had gradually moved the cloud palace from a triage hospital in the wake of the messenger attack to a processing and support centre. It was now mostly oriented around reuniting separa
+[81] Hana_Shavar B10 Ch78 L38-38
+  CLAIM: Explains that the Church of Undeath acts rarely.
+  TEXT: “The Church of Undeath does not act frequently,” Hana said. “We don’t give them the chance, and by we, I mean everyone. The Adventure Society and the Church of Death especially. So, they lay dormant for generations at a time, making plans in the dark. When they finally get that chance, it’s like their god has been saving up his 
+[82] Henrietta_Geller B2 Ch62 L24-24
+  CLAIM: Takes "her role of Humphrey's older sister seriously" and makes it clear that his teammates are yet to meet her approval.
+  TEXT: Compared to Danielle, her husband, Keith, was more akin to their son: a solid and reliable counterpoint to her domineering charms. Their daughter, Henrietta, seemed to take her role of Humphrey’s older sister seriously. She made it clear that his teammates were yet to meet her approval. Even her stoic gaze had broken in incredul
+[84] Hiro_Asano B4 Ch1 L66-66
+  CLAIM: "The family's black sheep due to his hopefully minor involvement with organised crime".
+  TEXT: Jason had two uncles, one of which was estranged from the family. Hiro Asano was the family’s black sheep due to his hopefully minor involvement with organised crime. Hiro might simultaneously be a useful source of information and a method to convert some of his gold into cash. He would get well-below market rates for an illegal
+[85] Hiro_Asano B4 Ch4 L64-64
+  CLAIM: Jason sells him gold at below-market rates; his office sits above the bar.
+  TEXT: Hiro closed the door behind Growl as Jason looked around. Hiro’s office was decorated quite differently to the grimy aesthetic of the downstairs bar. It had exposed brick, stained wood, and subdued art. The chair behind the desk was old-school leather, practically a throne. The two in front of it weren’t much smaller.
+[86] Hiro_Asano B6 Ch47 L53-53
+  CLAIM: By Book 6 he manages the relocation programme for the clan.
+  TEXT: “Talk to my uncle Hiro. He’s managing the relocation program on our end.”
+[87] Itsuki_Tiwari B5 Ch38 L5-5
+  CLAIM: Introduces himself with a respectful bow: "My name is Tiwari Itsuki".
+  TEXT: “Mr Asano,” the young man greeted with a respectful bow. “My name is Tiwari Itsuki.”
+[88] Itsuki_Tiwari B5 Ch38 L50-50
+  CLAIM: His essences are dark, blood and omen, forming a doom confluence.
+  TEXT: “It’s not like that,” Itsuki said. “It’s just… my essences are dark, blood and omen, with a doom confluence.”
+[89] Itsuki_Tiwari B13 Ch1007 L23-23
+  CLAIM: In 2038 he serves as an affliction specialist protected by Nigel's nine-person unit.
+  TEXT: “Around five thousand years,” Itsuki said. The affliction specialist was in the middle of the formation, protected by the nine-person unit.
+[90] Jamis_Fran_Muskar B10 Ch15 L6-6
+  CLAIM: His avatar is the only one whose wings are completely absorbed into his body.
+  TEXT: One of the astral king avatars was not watching the planet through the transparent wall of the observation deck of the spaceship-like dimensional vessel. Instead, he was looking over Erigo’s clothes. This was the avatar of the astral king Jamis Fran Muskar, and he stood out from the other avatars, even compared to Erigo. Jamis w
+[91] Jamis_Fran_Muskar B10 Ch15 L9-9
+  CLAIM: Says that when the task is complete "the price is paid. Zithis Carrow Vayel will have fulfilled his debt to us".
+  TEXT: “When this task is complete,” Jamis said, “the price is paid. Zithis Carrow Vayel will have fulfilled his debt to us.”
+[92] Jamis_Fran_Muskar B12 Ch33 L51-55
+  CLAIM: Snarls at defiant messengers that they directly defied the Council of Kings.
+  TEXT: “We pay respect to Jamis Fran Muskar,” one of them said. / “Respect?” Jamis snarled. “You directly defied the explicit instructions of the Council of Kings, and then have the mind-bogglingly incomprehensible GALL to utter the word ‘respect’ to me?” / “We felt⁠—” / “It doesn’t matter what you felt. It matters what you were told.”
+[93] Jory_Tillman B1 Ch35 L10-12
+  CLAIM: The driver who finds Jason in a village swamped by people seeking healing; "technically an adventurer, although he was the first to admit he rarely we
+  TEXT: The driver, Jory, was technically an adventurer, although he was the first to admit he rarely went on adventures. His true calling was alchemy, the brewing of potions and elixirs. He went out to the towns and villages looking for materials he couldn’t find in the local markets. / “Or at a price I can afford in the local markets 
+[94] Jory_Tillman B3 Ch16 L81-81
+  CLAIM: Jason funds his alchemy facility, which produces the first lesser miracle potions.
+  TEXT: On their return, Jory had gifted the team with the first batch of lesser miracle potions his alchemy facility produced. It was a thank you for Jason giving him the funding to build the facility in the first place.
+[96] Kaito_Asano B4 Ch3 L128-133
+  CLAIM: Lives in the house next door to his parents with his wife Amy.
+  TEXT: Jason’s brother and his wife lived next to Jason’s parents, so it made sense that they would come into range at the same time. He drove through the empty streets of Casselton Beach towards his old street. The dark, the rain and his enhanced senses made the familiar unfamiliar. / He pulled to a stop across the street from the hou
+[97] Kaito_Asano B5 Ch14 L37-37
+  CLAIM: Owns a helicopter and flies Jason and Akari to a response in Book 5.
+  TEXT: A flight of transport helicopters flew over forested mountains. Jason and Akari Asano were just two of a gaggle of essence users, mostly bronze and silvers from strike teams trained by Farrah. Jason and Akari were in Kaito’s helicopter, along with one of the strike teams.
+[98] Kaito_Asano B5 Ch52 L20-20
+  CLAIM: Dies in Book 5. At the funeral Jason says he "died for something that truly matters. To give his children a future"; Jason keeps the family in his spi
+  TEXT: “Things are going to get worse before they get better,” he said, “but Kaito played his part in getting us all past this. I know it isn't a comfort, but he died for something that truly matters. To give his children a future.”
+[99] Kaito_Asano B5 Ch53 L67-67
+  CLAIM: Dies in Book 5. At the funeral Jason says he "died for something that truly matters. To give his children a future"; Jason keeps the family in his spi
+  TEXT: Wandering by the town pond, Jason found an unobserved spot to let his family out of the spirit vault where they had spent weeks in isolation with very few reprieves. He hadn’t even risked letting them out for Kaito’s funeral service and their time in his spirit vault had grown less pleasant in the time since Kaito’s death. Jason
+[100] Kaito_Asano B13 Ch950 L29-29
+  CLAIM: His daughters are Hana and Jace. Jason sees a Kaito-like face in the mirror after ranking up.
+  TEXT: Jason hadn’t seen Kaito and Amy’s daughters since they were small children. Jace was nineteen, now, and Hana twenty-three. The age Jason had been when he was pulled into Pallimustus. The uncertainty in their expressions barely touched the complexity of what Jason sensed in their emotions. Confusion, resentment, hope, regret. Jas
+[101] Keith_Geller B2 Ch62 L24-24
+  CLAIM: "Compared to Danielle, her husband, Keith, was more akin to their son: a solid and reliable counterpoint to her domineering charms".
+  TEXT: Compared to Danielle, her husband, Keith, was more akin to their son: a solid and reliable counterpoint to her domineering charms. Their daughter, Henrietta, seemed to take her role of Humphrey’s older sister seriously. She made it clear that his teammates were yet to meet her approval. Even her stoic gaze had broken in incredul
+[103] Ken_Asano B1 Ch1 L88-88
+  CLAIM: Born in Japan and raised in Australia from a very young age; "all about the Australian lifestyle, from pub rock to footy matches and weekend barbecues
+  TEXT: Jason’s father, Ken Asano, was born in Japan, but raised in Australia from a very young age. Proving there is no zealot like a convert, Ken was all about the Australian lifestyle, from pub rock to footy matches and weekend barbecues. He fell right in with the family of his wife, Cheryl, which was as Australian as he could ask fo
+[104] Ken_Asano B1 Ch17 L31-31
+  CLAIM: A landscape architect; Jason grew up learning more about grass than he wanted to know.
+  TEXT: “My dad’s a landscape architect,” Jason said. “I don’t think we could get him out here, though.”
+[105] Ken_Asano B1 Ch1 L4-4
+  CLAIM: A landscape architect; Jason grew up learning more about grass than he wanted to know.
+  TEXT: The grass he woke up on was weirdly comfortable; a dense bed of lush green softness. It wasn’t like any grass he had encountered before, which was a little unusual. His father was a landscape architect, and Jason had grown up learning more about grass than he ever wanted to know. Mostly because it was the only escape from his mo
+[106] Landemere_Vane B1 Ch9 L47-50
+  CLAIM: His mother wonders what Landemere was trying to summon; Dougall says it was "one of them entities from beyond the void".
+  TEXT: “Just so, Dougall,” she acknowledged. “Do we know what Landemere was trying to summon?” / “I had a bit of a potter through his notes, milady. It was one of them entities from beyond the void.” / Jason heard the woman sigh. / “Astral beings,” she muttered unhappily. “I told that boy it would be the death of him. We’re a nice, tra
+[107] Landemere_Vane B7 Ch55 L64-79
+  CLAIM: Clive explains in Book 7 that Landemere's summoning went wrong, possibly because he reached beyond his ability or a dimensional event interfered.
+  TEXT: “Random dimensional events connecting worlds are a normal, if extremely rare, thing,” Clive said. “Because there is a link between your world and ours, though, that frequency is increased. Even so, the right conditions for such an event to move someone from your world to ours are extremely rare. Jason, you were brought here beca
+[108] Landemere_Vane B2 Ch37 L67-67
+  CLAIM: Jason killed him; Clive regrets losing his notes.
+  TEXT: “Not off the top of my head,” Clive said. “I’ll have to do some research. I still wish you hadn’t killed Landemere Vane, Jason. Even his notes would have been good; sometimes it was like he was plucking these amazing innovations in astral magic out of thin air. His notes were all seized by the church of Purity after the blood cu
+[109] Lenora_Coleman B12 Ch61 L16-16
+  CLAIM: Has worked at the dimensional artefact site for almost her entire adult life, recruited out of university and "two years in a monitoring station".
+  TEXT: Lenora Coleman had been working at the dimensional artefact site for almost her entire adult life. Recruited right out of university, her excitement had been well and truly killed off by two years in a monitoring station. Back then, the site was little more than some pre-fab buildings in the ruins of a town whose name she’d neve
+[110] Lenora_Coleman B12 Ch62 L28-28
+  CLAIM: Anna says she will "play this objectively".
+  TEXT: “And that’s all true,” Anna said. “From what I know about Lenora Coleman, she’ll play this objectively. Do what’s best for the situation, not any particular country or group. If we go through the process of entering the country legally and getting permission to visit the site, we’ll be dragged into a swamp of interest groups and
+[111] Lenora_Coleman B12 Ch61 L25-25
+  CLAIM: Her deputy Barry is mayor of the artefact city; she is a core-user and not a fighter.
+  TEXT: Her deputy, Barry, was what amounted to mayor of the artefact city. She wrangled the magical representatives and he kept the city that served their needs humming along. Her one-time supervisor, they shared her obnoxiously large office. The first director had done his best to create a throne room for himself, which subsequent dir
+[112] Lenora_Coleman B12 Ch61 L22-22
+  CLAIM: Her deputy Barry is mayor of the artefact city; she is a core-user and not a fighter.
+  TEXT: In addition to the weapon operators, a multinational force of essence-users and other supernaturals was maintained onsite. This included a rotating roster of gold-rankers who were the reason Lenora did not have the command her title suggested. Most of the world’s gold-rankers belonged to the United States and China, including al
+[113] Liara_Rimaros B7 Ch17 L3-3
+  CLAIM: Works without rest as the city is overrun with adventurers to be filtered for potential cultists, and is a gold-ranker.
+  TEXT: Liara Rimaros made her way back to the royal sky island, half-asleep in the back of a flying carriage. She'd been working without rest as the city was overrun with adventurers that had to be filtered through for potential Builder cultists. She hadn’t been home in days, but even gold-rankers would find their mana falling out of b
+[114] Liara_Rimaros B7 Ch18 L95-95
+  CLAIM: "Pelli and Liara Rimaros will be your contact points going forward" for Jason.
+  TEXT: “For now, continue as you have been. Be an overlooked adventurer. There is a grace period before you will be discovered by others in which the family will formulate a response. Pelli and Liara Rimaros will be your contact points going forward. The family will likely need your cooperation for whatever comes after.”
+[115] Liara_Rimaros B8 Ch62 L28-32
+  CLAIM: Her husband is Baseph and their three silver-rank children are Dara, Zareen and the youngest, Joseph, an administrative official.
+  TEXT: That was without even considering the forces Jason was involved with, including the god Dominion, who had stopped by for what observer reports referred to as a 'casual chat.' Even ignoring that, Liara knew what came of trying to push Jason Asano underfoot. She had very thoroughly gone through his Adventure Society file, the rest
+[116] Lucian_Lamprey B1 Ch42 L25-30
+  CLAIM: An elf with an uncommonly muscular frame who was "banished to Greenstone for previous improprieties"; he uses the Fortress as his office.
+  TEXT: Among the seating arrangements at the fighting pits were a number of enclosed viewing rooms with glass fronts. These were more recent additions to the centuries-old building. Some were available to anyone with the coin, but four were permanently reserved. The Big Three each possessed one of the boxes, where they conducted much o
+[117] Lucian_Lamprey B3 Ch1 L107-107
+  CLAIM: His personal handing of a star seed to the Church of Purity comes under scrutiny.
+  TEXT: Jason was especially delighted to hear about Lucian Lamprey scrambling to absolve himself. Lamprey’s personal intervention in handing the star seed over to the church of Purity was suddenly the object of significant scrutiny.
+[118] Lucian_Lamprey B3 Ch24 L23-23
+  CLAIM: Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+  TEXT: His attack was late before it had even begun; trying to move faster than Danielle Geller was an exercise in futility. By the time the hallway started erupting she had already teleported behind him, her blade cutting into his thick neck muscle. Lamprey was power to Danielle’s speed, however, and her sword barely dug into the fles
+[119] Lucian_Lamprey B3 Ch24 L48-48
+  CLAIM: Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+  TEXT: It had been almost two months since Jason last set foot on the Adventure Society campus. He glanced over at the prison tower where both Lucian Lamprey and Cole Silva were incarcerated. The ultimate fate of neither man had yet been decided.
+[120] Marek_Nior_Vargas B9 Ch86 L16-16
+  CLAIM: Leads the breach force at Yaresh; absently blocks a gold adventurer's projectile with his wing.
+  TEXT: Marek Nior Vargas was the messenger leading the breach force over what the people of Yaresh called the entertainment district. It was no surprise that the inferior species would dedicate so much time and resources to pointless frivolity. He was happy enough to be the one to make an example of the base creatures, quivering underg
+[121] Marek_Nior_Vargas B9 Ch87 L31-31
+  CLAIM: Leads the breach force at Yaresh; absently blocks a gold adventurer's projectile with his wing.
+  TEXT: The messenger, Marek Nior Vargas, absently blocked a projectile fired by a gold-rank adventurer with his wing, his attention on the adventurer that had dived deep into the monster horde for the second time. He had grabbed Marek’s interest the first time because the move had made no apparent sense. The man had escaped, a worthy e
+[122] Marek_Nior_Vargas B9 Ch104 L3-3
+  CLAIM: Held in Jason's astral realm, he talks with Payan Nior Roel and says that knowing messengers can survive without an astral king will be a revelation.
+  TEXT: Inside Jason’s astral realm, Marek Nior Vargas was walking with his friend and companion, Payan Nior Roel. Having bloomed in the same district of the same garden world, they had known each other for all but the first few days of their lives. They had served under the same commander, who had helped break their indoctrination. The
+[123] Marek_Nior_Vargas B9 Ch103 L114-114
+  CLAIM: Held in Jason's astral realm, he talks with Payan Nior Roel and says that knowing messengers can survive without an astral king will be a revelation.
+  TEXT: “Just the knowledge that it’s possible to survive without astral king patronage will be a revelation,” Marek said. “It is the fact that the kings are artificially limiting our advancement that will be the match that turns the Unorthodoxy from dead wood to raging inferno.”
+[124] Marek_Nior_Vargas B10 Ch42 L4-4
+  CLAIM: Leads Jason's messenger prisoners and plans their uprising.
+  TEXT: Jason distracted himself by focusing on Marek Nior Vargas, leader of Jason’s messenger prisoners. The man was yet again working on plans for his uprising against the astral kings, his timeline measured not in months and years but decades and centuries. Tera Jun Casta, the messenger whose soul had been forcibly altered by Jason, 
+[125] Melody_Jain B6 Ch47 L510-513
+  CLAIM: Faked her death twenty years before Book 6, using a wall panel in Marta Fries's house in Kurdansk.
+  TEXT: Marta pushed aside the wardrobe to reveal the removable wall panel that she herself had installed. It had gone unused for the two decades since her friend Melody had used it in the course of faking her death. Marta now used it herself, swiftly disappearing into the night. She never sensed the gold-ranker who quietly watched her 
+[126] Melody_Jain B7 Ch58 L38-46
+  CLAIM: "The leader of the enclave" of the Order with Sendira as second in command; she wants to lure her daughter to Rimaros.
+  TEXT: Melody Jain was the leader of the enclave, and her second in command, Sendira, was midway through reporting what their scouts had discovered. The order was largely comprised of holy warriors, but they also had a priest to serve as advisor and connection to the god. Their priest was a human named Laront, who was as young as his h
+[127] Melody_Jain B8 Ch18 L3-6
+  CLAIM: Leads the Order's local forces in the Sea of Storms.
+  TEXT: Hidden inside a mountain was the Order of Redeeming Light’s submarine dock. There was a rare gathering of the order’s local forces and four of the cell leaders were confronting their overall leader, Melody Jain, in front of everyone. She looked slightly confused as she looked at the other leaders. Her second-in-command, Sendira,
+[128] Melody_Jain B9 Ch19 L3-3
+  CLAIM: Sophie's mother Melody Jain is subjected to the mind-warping effects of the Order of Redemption.
+  TEXT: Sophie’s mother, Melody Jain, had been subjected to the mind-warping effects of the Order of Redemption. She had led the local faction of the order until she was captured and locked away in the cloud palace while they sought a way to undo her behaviour modification. Her months of boredom came to an explosive end when the room sh
+[129] Mr_North B5 Ch8 L14-15
+  CLAIM: The meeting room of the Four Cardinals of the EOA: Mr North and the new Mr East await Mrs West and Mrs South.
+  TEXT: The meeting room of the Four Cardinals of the EOA seemed cavernous, with high ceilings and wide walls while being almost entirely empty. There was a large monitor on one wall, a square table in the middle that seemed diminutive given the scope of the room, and an exterior wall, made entirely of glass. / Two men, Mr North and the
+[130] Mr_North B5 Ch40 L79-83
+  CLAIM: Tells Jason "I was a rune spider, originally".
+  TEXT: “Your senses are as sharp as advertised, noticing that much in this place. I was a rune spider, originally, although I’ve come so very far from those days. Becoming a familiar offers a creature like me many opportunities if you look at things in the long term. You do have to pick your essence user with care. Someone who will ran
+[131] Mr_North B13 Ch1017 L39-39
+  CLAIM: Jason's briefing names "the founder's former familiar Noreth".
+  TEXT: “I came back to Earth and discovered that it was broken. Even worse, the founder’s former familiar Noreth was still around. He thought that I was another stooge of Knowledge come to further her plans, which I now know he was correct about. He’d been preparing for years, but had become an extremist. A man some of you will know as
+[132] Musin_Heath B10 Ch9 L38-38
+  CLAIM: "Musin Heath, director of the Adventure Society's Yaresh branch".
+  TEXT: “Thank you all for coming,” the director began. “For those of you I have yet to meet, I am Musin Heath, director of the Adventure Society’s Yaresh branch. As most of you are aware, this meeting is to discuss the latest moves by the messengers and what our response will be. I will start by making sure that everyone present knows 
+[133] Musin_Heath B10 Ch10 L3-3
+  CLAIM: Announces a potential alliance with the messenger leader and shows his equanimity; presents the messenger-delivered device with distrust.
+  TEXT: Auras erupted in consternation after Musin Heath, the Adventure Society director, announced a potential alliance with the messenger leader. The gold-rankers kept their equanimity, but many of the silver-rankers were spiritually up in arms. It was here that the director demonstrated his expertise, spreading his aura out to gently
+[134] Musin_Heath B10 Ch11 L4-4
+  CLAIM: Announces a potential alliance with the messenger leader and shows his equanimity; presents the messenger-delivered device with distrust.
+  TEXT: “This device was delivered to us by a messenger,” said Musin Heath. “Accordingly, we don’t trust it at all.”
+[136] Nigel_Thornton B4 Ch41 L89-97
+  CLAIM: Tells Jason his teams' methods are reaching their limits.
+  TEXT: “No, Nigel. It’s something you don’t cavalierly take on. If I couldn’t take on monsters like that alone, I’d have died a dozen times over. Look, I’ll admit that I wasn’t expecting much from your Network teams and you’ve really turned me around. Your tactics are perfect for sweeping through monster infestations this thick.” / Nig
+[137] Nigel_Thornton B12 Ch3 L3-8
+  CLAIM: "Hadn't been the first person on Earth to hit gold rank, or even the first to do it without cores"; his nine-person unit stayed together when the Netw
+  TEXT: Nigel Thornton hadn’t been the first person on Earth to hit gold rank, or even the first to do it without cores. The US had non-core training programs long before Farrah Hurin arrived, so that title went to some unnamed yank. Nigel’s claim to fame was being the first outside of the US to hit the milestone core-free. / The rest o
+[138] Nigel_Thornton B13 Ch1007 L23-23
+  CLAIM: Still leads the nine-person unit in 2038.
+  TEXT: “Around five thousand years,” Itsuki said. The affliction specialist was in the middle of the formation, protected by the nine-person unit.
+[139] Phoebe_Geller B1 Ch66 L3-4
+  CLAIM: A distant cousin of Humphrey, iron rank and with the Adventure Society for more than half a year, with darker skin and much lighter hair than his.
+  TEXT: Humphrey was returning to the family estate after completing a contract, muddy and spattered with monster blood. He was met by Phoebe, a distant cousin. Like him, she was iron rank but joined the Adventure Society more than half a year earlier. / The Geller family sprawled across continents. Although they shared a last name, Pho
+[140] Phoebe_Geller B9 Ch104 L54-54
+  CLAIM: Is Rick's sister and back on his team by Book 9.
+  TEXT: The rest of Rick’s team joined him and Hannah on the way. Phoebe Geller was Rick’s sister, now back on his team, and Claire was Hannah’s twin. The last member of the team was Dustin Kettering, the only non-local. They had picked him up in Greenstone after their original fifth, Jonah Geller was killed during a failed star seed ex
+[141] Pochard_Finn B1 Ch42 L30-30
+  CLAIM: "Pochard Finn maintained things at the city campus while frequently travelling to the Fortress himself. He was also an elf and a local".
+  TEXT: Lucian’s ability to use the Fortress as his office was largely due to his deputy director. Pochard Finn maintained things at the city campus while frequently travelling to the Fortress himself. He was also an elf and a local. Both elves enjoyed the relationship, as Lucian had his workload lightened, while Pochard was the de fact
+[142] Pochard_Finn B11 Ch68 L1175-1175
+  CLAIM: In Book 11 he is at his desk at the Fortress when Humphrey arrives.
+  TEXT: Pochard got up from behind his desk, ignoring the moaning guard as he stepped around him to greet Humphrey Geller.
+[143] Rick_Geller B1 Ch66 L58-62
+  CLAIM: Dark-brown skin and light-brown hair, with a build like Humphrey's, "tall and broad-shouldered"; he leads four others.
+  TEXT: The door opened and Rick walked in. Like his sister, his skin was dark brown, his hair light brown. His build was more like Humphrey, tall and broad-shouldered. He led four more people behind him. / Teams were not uncommon amongst adventurers, usually three to six members. Only in a relatively safe region like Greenstone was sol
+[144] Rick_Geller B1 Ch66 L61-61
+  CLAIM: His demand for a rematch is "the drive to improve himself that was common to the Geller clan".
+  TEXT: Rick shook Jason’s hand and introduced his team members. It was obvious to Jason that his demand for a rematch wasn’t rooted in pride, but the drive to improve himself that was common to the Geller clan. He had been as surprised as anyone when Danielle set up Jason against his entire team.
+[145] Rick_Geller B1 Ch66 L62-62
+  CLAIM: Three of his team of five are Gellers; the other two are twin elf sisters.
+  TEXT: Only three of the five were Gellers, the other two a pair of twin elf sisters. Jason shook hands with each of them in turn. While Rick may not have been driven by pride, not everyone on his team was the same, and the largest member of the team squeezed Jason’s hand brutally as he shook it.
+[146] Rick_Geller B9 Ch104 L54-54
+  CLAIM: Three of his team of five are Gellers; the other two are twin elf sisters.
+  TEXT: The rest of Rick’s team joined him and Hannah on the way. Phoebe Geller was Rick’s sister, now back on his team, and Claire was Hannah’s twin. The last member of the team was Dustin Kettering, the only non-local. They had picked him up in Greenstone after their original fifth, Jonah Geller was killed during a failed star seed ex
+[148] Roland_Remore B3 Ch20 L25-25
+  CLAIM: "The famous, diamond-rank sword master, Roland Remore"; Rufus often repeats advice from him.
+  TEXT: When he had been training Jason, Rufus had often repeated advice his family had hammered into him. This was especially true of his grandfather, the famous, diamond-rank sword master, Roland Remore. From what Rufus had passed on, Jason secretly suspected the Remore patriarch of spending his diamond-rank lifespan figuring out how 
+[149] Roland_Remore B3 Ch69 L587-587
+  CLAIM: Rarely seen on the Remore Academy campus, "the presence of the diamond-rank arch-chancellor was always felt".
+  TEXT: Although Roland Remore was rarely spotted on the Remore Academy campus, the presence of the diamond-rank arch-chancellor was always felt. When he did make an appearance, it drew all eyes. Whenever he acted personally, the ramifications were much discussed.
+[150] Roland_Remore B3 Ch69 L588-588
+  CLAIM: "Looked like a well-preserved forty, a tenth of the reality": tall, strong and handsome, with a round bush of dark curly hair.
+  TEXT: Most recently, he was rumoured to have personally brought in some boy from the remote countryside to join the academy. Roland Remore looked like a well-preserved forty, a tenth of the reality. He was tall, strong and handsome, with a round bush of dark, curly hair and a neatly trimmed goatee. Walking behind him was a boy of fift
+[151] Roland_Remore B12 Ch45 L97-97
+  CLAIM: Humphrey calls him "the grandfather who means so much to his friend".
+  TEXT: “He was looking forward to meeting you, you know,” Humphrey said. “Not the great Roland Remore, but the grandfather who means so much to his friend.”
+[152] Roland_Remore B6 Ch47 L125-125
+  CLAIM: Burning Violet became more associated with the Academy after he became guild leader.
+  TEXT: “Yeah. The Burning Violet guild. It’s an old guild, but after Rufus’ grandfather became guild leader, it became more and more associated with the Remore Academy. It’s Rufus’ family, plus allies like Gary and me. Gary’s around the bottom of guild level, to be honest, because he’s as much a craftsman as an adventurer. Splitting yo
+[153] Shako B6 Ch17 L41-41
+  CLAIM: Introduces himself: "I am Shako. I am a servant of the Builder"; he can enter through a window opened by the transformation event so long as he leaves
+  TEXT: “I am Shako,” the man said. “I am a servant of the Builder.”
+[154] Shako B6 Ch17 L43-43
+  CLAIM: Introduces himself: "I am Shako. I am a servant of the Builder"; he can enter through a window opened by the transformation event so long as he leaves
+  TEXT: “No,” Shako said. “This event provides a window through which I am able to enter and leave without harming your world, so long as I am gone before this space reasserts itself in physical reality.”
+[155] Shako B6 Ch18 L79-84
+  CLAIM: A presence takes him over and his aura rises from diamond rank to transcendent when the Builder speaks through him.
+  TEXT: “Allow? I’m going to Pallimustus and you can do nothing about it. Your choice is whether I’m bringing words or an army. Unless you genuinely believe the Builder can convince the others you did not violate the compact by killing Asano.” / Once more, Shako seethed in silence before raising his eyes to glare at Dawn. / “I cared abo
+[156] Shako B6 Ch18 L79-79
+  CLAIM: Dawn warns him that killing Jason violated the compact between the Builder, the Reaper and the World-Phoenix.
+  TEXT: “Allow? I’m going to Pallimustus and you can do nothing about it. Your choice is whether I’m bringing words or an army. Unless you genuinely believe the Builder can convince the others you did not violate the compact by killing Asano.”
+[157] Shako B7 Ch17 L104-104
+  CLAIM: The Church of Death's certification says Jason has died four times so far; the Master Timeline counts Shako's killing as the fourth.
+  TEXT: “No, but I saw his certification from the Church of Death and it said he's died four times. So far. It actually said ‘so far’ on the certification. I've never seen that before.”
+[158] Simon_McKean B13 Ch970 L38-38
+  CLAIM: Farrah: "He was the head of the Earth researchers, ranked only behind myself in the workgroup".
+  TEXT: “Simon McKean,” she said. “He was the head of the Earth researchers, ranked only behind myself in the workgroup.”
+[159] Simon_McKean B13 Ch1000 L104-104
+  CLAIM: Boris says Jason will face a man who has spent a decade preparing; "battling you is not a means but an end in itself".
+  TEXT: “Jason, in Simon McKean you will face a man who has spent the last decade preparing for this fight. To him, battling you is not a means but an end in itself. To stand as your enemy is his very objective, and I do not like that. I am your enemy, and I have no wish to be shamed by some tiny man on a meaningless world who thinks he
+[160] Simon_McKean B13 Ch1002 L40-40
+  CLAIM: Named again at the Ascension's Gate briefing.
+  TEXT: “Simon McKean.”
+[161] Soramir B7 Ch18 L41-42
+  CLAIM: Meets Jason in Book 7; palindromic first and last names "were assigned in adulthood rather than at birth and denoted important members of a given fami
+  TEXT: “Soramir,” the man said. / “Oh,” Jason said, looking at Soramir. One of the things Jason discovered in the last few days was that in the local culture, palindromic first and last names were assigned in adulthood rather than at birth and denoted important members of a given family. It was most common in small families where it mi
+[162] Soramir B7 Ch60 L27-27
+  CLAIM: Explains that the Hierophant is allowed to intervene in the world a single time.
+  TEXT: “The Hierophant is allowed to intervene in our world a single time,” Soramir said. “Even if we call in aid, we can, at most, eliminate a single one of the two cities bearing down on our kingdom. I believe Mr Asano wants her to use her one intervention to deal with the other city.”
+[163] Taika B4 Ch4 L27-27
+  CLAIM: Introduces himself as "Taika, by the way. Like the director, but I don't make films".
+  TEXT: “If you say so. I’m Taika, by the way. Like the director, but I don’t make films.”
+[164] Taika B9 Ch33 L15-15
+  CLAIM: By Book 9 he is nearly silver with a garuda confluence from the might and wing essences, where Humphrey's is dragon.
+  TEXT: Taika’s human abilities had been replaced with outworlder ones, but Jason had never sat down and taken a good look. He’d shared his party interface and let Rufus and Farrah manage his training and advancement, as they were both better teachers than Jason. Taika’s power set was very much in line with Humphrey’s, from his role as 
+[165] Taika B12 Ch62 L4-9
+  CLAIM: In Book 12 his bird form carries a flying-saucer vehicle with Anna, Rufus and Gary Sharpton aboard.
+  TEXT: Their vehicle looked like a flying saucer, flat and round, with smooth lines and a sleek white exterior that tapered at the edges. What propelled it through the air, however, was not alien science, magic or magitech. On the top were a pair of recessed handles being gripped by Taika, currently in the form of a giant golden eagle.
+[166] Taika B11 Ch68 L305-305
+  CLAIM: In Book 11 he travels to Earth with Rufus and Boris.
+  TEXT: Rufus and Taika were handed dimensional bags filled with items, including recordings from Jason and Farrah. They each moved to the middle of a ritual platform and were slowly sealed inside egg-shaped conjured dimensional vessels. The brown ovoids spread from the platform up, and Rufus locked eyes with Gary until their line of si
+[167] Tera_Jun_Casta B9 Ch100 L19-19
+  CLAIM: "I am Tera Jun Casta... I will be the one to kill you"; fights comfortably with her abilities suppressed, in a practised, orthodox style.
+  TEXT: “I am Tera Jun Casta,” she announced proudly, “and it is your ill fortune to meet me. I was not the one chosen to test you, Jason Asano, but I will be the one to kill you. It is I that will wipe clean the stain of your heresy and reap the glory that comes of claiming your head.”
+[168] Tera_Jun_Casta B9 Ch100 L49-49
+  CLAIM: "I am Tera Jun Casta... I will be the one to kill you"; fights comfortably with her abilities suppressed, in a practised, orthodox style.
+  TEXT: Tera Jun Casta tired of Jason’s words and lunged to the attack. He immediately recognised that she seemed comfortable fighting with her abilities suppressed, which was hardly a surprise given the nature of her duelling power. Her style was practised but orthodox, for the most part. She didn’t try anything elaborate, simply tryin
+[169] Tera_Jun_Casta B9 Ch102 L54-67
+  CLAIM: Her seal keeps her at silver rank; Jason removes it by working inside her soul.
+  TEXT: The next aspect that stood out was what he identified as her potential. This was where her power slowly accumulated, not unlike where Jason’s essence powers grew. She was not an astral king, however, so instead of the garden inside Jason’s soul, she had a kaleidoscopic churn. That churn, however, was not growing. There was a sea
+[170] Tera_Jun_Casta B10 Ch42 L7-7
+  CLAIM: Her soul is branded and she was raised on lies.
+  TEXT: Tera Jun Casta was easy to think of as an enemy, yet she had been through more than any of them. Her soul branded, raised on lies and exploited her entire life. She was having so much trouble because her very sense of self had been constructed from the mechanisms of her oppression. Then, her liberation had come in the form of th
+[171] Thadwick_Mercer B1 Ch54 L17-17
+  CLAIM: Humphrey: "That's Thadwick Mercer. His father actually might kill you".
+  TEXT: “Uh, Jason,” Humphrey interjected. “That’s Thadwick Mercer. His father actually might kill you.”
+[172] Thadwick_Mercer B3 Ch7 L41-41
+  CLAIM: The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+  TEXT: “I’m the closest thing we have to a star seed expert in Greenstone,” Clive said. “I was consulted as to Thadwick being seeded again when the Builder cult demonstrated so much insider knowledge of Mercer family operations during their supply raids. The thing is, the timeline from when Thadwick was retaken to when the raids began 
+[173] Thadwick_Mercer B3 Ch46 L60-60
+  CLAIM: The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+  TEXT: “Yes,” Zato said. “So many have passed you over, Thadwick, but I see your true potential. You will prove of supreme value to the Builder, once you are stronger. Enter, and feel the power flow through you.”
+[174] Thadwick_Mercer B3 Ch67 L6-6
+  CLAIM: "The Builder wore Thadwick Mercer's face" with a presence that transcended the mortal shape.
+  TEXT: The Builder wore Thadwick Mercer’s face. Instead of the snide, entitled expression, there was now an incredible presence animating what were actually quite handsome features. Instead of arrogance, there was a confidence that transcended the mortal shape it inhabited. That shape was still intact, the Builder’s power not yet taxin
+[175] Thadwick_Mercer B13 Ch1022 L35-35
+  CLAIM: Appears again in Book 13.
+  TEXT: “That’s part of the trouble,” Thadwick said. “It resists placement in dimensional storage. That makes it hard to move and hard to hide, especially radiating power the way it does. Arranging this storage space was trouble enough, and I don’t think we could move it again without being discovered. Nor could we file too many vampire
+[176] Thalia_Mercer B1 Ch53 L45-49
+  CLAIM: Introduced by Danielle as "Lady Thalia Mercer" at a social gathering, her bronze aura pressing down on Jason until he suppresses it.
+  TEXT: “Lady Thalia Mercer,” Danielle introduced the lady. / Thalia’s eyes settled on Jason. / “We haven’t had the pleasure,” she said. “You must be the young man people are getting so curious about.” / “I’m no one important,” Jason said. / “Yet, you keep important company,” Thalia said.
+[177] Thalia_Mercer B1 Ch53 L54-54
+  CLAIM: Tried to convince her husband that Thadwick would benefit from more training.
+  TEXT: “He will,” Thalia said unhappily. “I tried to convince my husband that Thadwick would benefit from additional training, but he was quite adamant.”
+[178] Thalia_Mercer B13 Ch999 L3-3
+  CLAIM: Her Onslaught essence informs her powers and her inclinations.
+  TEXT: Stealth didn’t come naturally to Thalia Mercer. Her Onslaught essence informed not just her power set but her inclinations in life, although her life had been strange for a long time. She hadn’t seen her daughter in years. Or, more precisely, Cassandra hadn’t seen her. Thalia watched from the shadowy side of a tall tree as Cassa
+[179] Timos B2 Ch59 L87-90
+  CLAIM: "Timos had been operating in Greenstone for years" and regrets going along with Thadwick's self-recruitment.
+  TEXT: Timos had quickly come to regret going along with Thadwick’s aggressive self-recruitment. Rather than be a useful pawn within the aristocracy, he was a one-man disaster. Timos had been operating in Greenstone for years without so much as a sniff of detection, yet within hours Thadwick was bringing everything down on their heads.
+[180] Timos B3 Ch34 L10-10
+  CLAIM: Facilitated most of the cult's insertions years earlier and ran operatives in compartmentalised groups.
+  TEXT: It was fortunate that Timos, who had facilitated most of those insertions years ago, had been fastidious in his precautions. He ran cult operatives in small groups, keeping them isolated from one another and the information compartmentalised. None of the people infiltrating the Adventure and Magic Societies had any information t
+[181] Timos B2 Ch59 L106-110
+  CLAIM: Kills Frank with a conjured spear.
+  TEXT: Frank never got to finish his sentence. His corpse fell as Timos’s conjured spear vanished, after leaving a ragged hole in Frank’s throat. Timos kicked the body off the walkway and into the water channel before hurrying on once more. / Days passed and after the initial, covert search, the city’s resources were brought fully to b
+[182] Vincent_Trenslow B1 Ch44 L23-23
+  CLAIM: Rufus notes his professional manner; his moustache "extended past either side of his head".
+  TEXT: The official’s name was Vincent Trenslow. His appearance gave Rufus pause, but his manner in their short acquaintance had been nothing but professional.
+[183] Vincent_Trenslow B1 Ch54 L29-29
+  CLAIM: Rufus notes his professional manner; his moustache "extended past either side of his head".
+  TEXT: Everyone turned to see a man wearing an Adventure Society pin approaching the group. Jason had never seen Vincent Trenslow before, although Rufus had described his glorious moustache. As promised, it extended past either side of his head. Behind Vincent was another official that Jason did recognise, as did Humphrey. It was Guy, 
+[184] Vincent_Trenslow B1 Ch62 L61-93
+  CLAIM: Hands Jason his badge and explains how stars work: expect to drop a star each time you advance a tier.
+  TEXT: Vincent plucked an object out of thin air. Many essence users had abilities to store objects in dimensional spaces, like Jason’s inventory, or Farrah’s bottomless stone chest. Vincent handed a square, leather object to Jason. It was a badge wallet, which Jason flipped open to see the badge inside. It was a circular medallion mad
+[185] Vincent_Trenslow B3 Ch1 L115-115
+  CLAIM: Drinks with Rufus on the houseboat after Farrah's death.
+  TEXT: One day, Jason and his team returned from their training to find Rufus drinking out on the deck of the houseboat with Vincent, the Adventure Society official with the outrageous moustache. The pair had previously maintained a casual relationship, although not as much since Farrah’s death. Vincent’s busy schedule and Rufus’s driv
+[186] Yumi_Asano B4 Ch74 L43-43
+  CLAIM: Present in Book 4.
+  TEXT: Yumi Asano raised her eyebrows at Jason, then glanced over at his other grandmother, chugging a beer.
+[187] Yumi_Asano B6 Ch47 L58-58
+  CLAIM: Pushes Jason to formalise the clan.
+  TEXT: Jason had not been on board with formalising the clan at first but was railroaded by his grandmother. Yumi had told him that if he wanted a say in how the clan was organised, he was welcome to increase his participation in administering it. Jason had signalled surrender, leaving it to her and Akari’s father, Shiro.
+[188] Yumi_Asano B11 Ch36 L8-12
+  CLAIM: Forbids members from going far outside the domain.
+  TEXT: Going that far out was strictly forbidden by the clan matriarch, Yumi Asano. She was Jason’s paternal grandmother, although she looked a third of her actual age. Her flesh-shaping powers not only made her appear younger but offered true physical revitalisation. Wielders of body-morphing essence combinations were often looked at 
+[189] Yumi_Asano B12 Ch2 L92-92
+  CLAIM: Magic leaves her looking no older than Jason.
+  TEXT: Magic left Yumi looking no older than Jason, despite the decades in age difference.
+[190] Yumi_Asano B13 Ch1002 L23-23
+  CLAIM: In Book 13 she sits as matriarch beside General Mills and scolds Jason in "a very matronly tone for someone who looked to be in her early thirties".
+  TEXT: The others likewise departed, their various subordinates trailing behind. Only two people had stayed in the conference room. General Mills and Asano Clan matriarch, Yumi Asano, sat on opposite sides of a large round table. The double doors were left open and Bradley moved to stand in them.
+[191] Yumi_Asano B12 Ch63 L19-19
+  CLAIM: Book 12 also calls a woman named Noriko "matriarch of the Asano clan"; the two descriptions are not reconciled (open question).
+  TEXT: Asano Noriko was matriarch of the Asano clan hosting Jota and his crew. She had been making daily visits to check on his needs, along with the servants she had provided full time. As Jota had questions the provided information didn’t answer, he invited her to converse on one of her visits. She took a seat opposite him, with a ta
+[192] Zato B3 Ch7 L88-89
+  CLAIM: "The last silver-ranker left in the Builder cult's local forces", he leads the evacuation of their island stronghold and escapes with many of their pe
+  TEXT: “Our situation is desperate,” Zato said. / Zato was the last silver-ranker left in the Builder cult’s local forces. Tasked with leading the evacuation when their island stronghold was invaded, he was able to escape with a good number of their people. None of his fellow silver-rankers made it through, however, leaving him in the 
+[193] Zato B3 Ch46 L60-60
+  CLAIM: Recruits Thadwick: "I see your true potential".
+  TEXT: “Yes,” Zato said. “So many have passed you over, Thadwick, but I see your true potential. You will prove of supreme value to the Builder, once you are stronger. Enter, and feel the power flow through you.”
+[194] Zato B3 Ch60 L37-37
+  CLAIM: Asks what to do with the bronze-rankers when the cult cannot convert them with clockwork cores.
+  TEXT: “What do we do with their bronze-rankers?” Zato asked. “We can’t convert them with clockwork cores we get from sacrificing our iron-rankers.”
+[195] Zato B3 Ch68 L59-61
+  CLAIM: Humphrey faces him in the climax, throwing his dragon sword.
+  TEXT: Humphrey hefted his dragon sword in one hand and hurled it, spinning end over to end to clang off Zato’s head before dissolving into nothing. The attack did not harm Zato but it got his attention and he wheeled on Humphrey. / Zato knew that his victory was imminent. He knew that the adventurers were no match for his power. They 

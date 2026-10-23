@@ -1,0 +1,187 @@
+Ch1 L4 [Ken_Asano] A landscape architect; Jason grew up learning more about grass than he wanted to know.
+Ch1 L8-10 [Jason_Asano] On arrival : he wakes bald and naked in a hedge maze .
+Ch1 L76-81 [Jason_Asano] Outworlder racial abilities : Interface, Quest System, Inventory, Map, Astral Affinity and Mysterious Stranger.
+Ch1 L88 [Cheryl_Asano] Her family are "miners and farmers, tracing their bloodline back through bushrangers, convicts, and indigenous Australians"; she was the one fascinated with Japan and tri
+Ch1 L88 [Ken_Asano] Born in Japan and raised in Australia from a very young age; "all about the Australian lifestyle, from pub rock to footy matches and weekend barbecues".
+Ch1 L103-107 [00_Items_Overv] **Item windows**: the System shows each item with a rank and rarity in the form "Item: [Dread Salvation] (iron rank [growth], legendary)", then a description, a kind in b
+Ch1 L103-107 [Tokens_Stones_] **World-Phoenix Token**: Jason finds it in his starting inventory, "transcendent rank, legendary", "Uses remaining: 1/1" with unreadable effects. It is consumed in Book 3
+Ch1 L108 [Jason_Asano] "Do I have to pay a wizard to identify items?" (
+Ch4 L44 [Awakening_Ston] **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reaper.
+Ch7 L17-21 [Soul_Bound_Ite] **Robes of the Astral Verdict**: bronze rank, rare cloth armour for summoners that boosts dimension spells, summon damage reduction and disruptive-force resistance.
+Ch7 L26 [Jason_Asano] Before Pallimustus : a brief stint at university studying political science, then a drop-out who stayed in Melbourne and saw little of his family apart from his sister's 
+Ch7 L68 [01_World_Prime] Quintessence** appears as gems of an essence's theme (for example Dark Quintessence Gems, Book 1, Ch6 L15; crafting material,
+Ch8 L37 [Jason_Asano] Seeing himself later, he notes his Japanese facial features, inherited from his father, look even sharper than usual, his face is gaunt, and his bald head and absent eyeb
+Ch9 L47-50 [Cressida_Vane] Complains that astral beings were "the death" of her son, and that they are "a nice, traditional blood cult family".
+Ch9 L47-50 [Landemere_Vane] His mother wonders what Landemere was trying to summon; Dougall says it was "one of them entities from beyond the void".
+Ch9 L121 [Gary] A huge "lion man" whose voice is growly by default (
+Ch11 L4-6 [Gary] The notes call him a leonid with a lion head .
+Ch11 L17-20 [Awakening_Ston] **What they do**: "An awakening stone that unlocks the power of consumption... Effect: Awakens an essence ability", requiring an unawakened essence ability. The stone mel
+Ch11 L17 [Awakening_Ston] **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reaper.
+Ch11 L49 [Rufus_Remore] Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three .
+Ch11 L51 [Rufus_Remore] His voice is "like dark chocolate" .
+Ch11 L80 [Cressida_Vane] "I am Lady Cressida Vane"; Jason mocks her high-priestess name.
+Ch11 L81-83 [Cressida_Vane] "I am Lady Cressida Vane"; Jason mocks her high-priestess name.
+Ch12 L11 [Farrah_Hurin] Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage .
+Ch14 L14 [Gary] A huge "lion man" whose voice is growly by default ; so large "he made bodybuilders look small" .
+Ch14 L14 [Gary] A huge "lion man" whose voice is growly by default ; so large "he made bodybuilders look small" .
+Ch15 L92 [Rufus_Remore] Rank : bronze at the start of the series , gold later .
+Ch16 L28 [Gary] Equipment : conjured dark-steel runed armour, a hammer and shield .
+Ch16 L31-36 [Rufus_Remore] Swordsmanship : an elegant scimitar of golden light with red-gold inscriptions that he conjures in his hand ; silver and golden swords .
+Ch16 L31-36 [Rufus_Remore] Swordsmanship : an elegant scimitar of golden light with red-gold inscriptions that he conjures in his hand ; silver and golden swords .
+Ch16 L48 [00_Places_Over] Zartos : a desert city with a subterranean river; half of it is underground and it has a large celestine community ; it is the home of the diamond-rank smith Virid Martin
+Ch17 L31 [Ken_Asano] A landscape architect; Jason grew up learning more about grass than he wanted to know.
+Ch17 L58-61 [Gary] Summon : a foundry golem, a roughly three-metre black-iron figure with a molten mouth that drips molten metal .
+Ch17 L58-61 [Gary] Summon : a foundry golem, a roughly three-metre black-iron figure with a molten mouth that drips molten metal .
+Ch17 L76-79 [Farrah_Hurin] Essences : Earth, Fire and Potent, which form the Volcano confluence; she explains this herself in Book 1 .
+Ch19 L1 [Farrah_Hurin] Abilities : lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and columns, and obsidian 
+Ch20 L19-23 [Magic_and_Adve] Undeath (Blood + Death + anything) and Succubus are restricted combinations .
+Ch20 L40-48 [Adventure_Soci] Rufus tells Jason that it is impossible to become a member with a restricted essence;
+Ch20 L42 [Magic_and_Adve] The Adventure Society keeps a list of restricted essences that pose an inherent threat to ordinary people, with Death at the top ;
+Ch20 L95-102 [Magic_Society_] The living document : a marble-and-gold tablet, connected to a central record, that updates as the record changes and holds the full list of every essence and essence com
+Ch20 L104-110 [Adventure_Soci] Restricted essences : Rufus says Death is restricted by itself , and the Magic Society's living document shows one restricted combination, the Succubus essence, which tak
+Ch20 L104-110 [Adventure_Soci] Restricted essences : Rufus says Death is restricted by itself , and the Magic Society's living document shows one restricted combination, the Succubus essence, which tak
+Ch22 L55-60 [Magic_and_Adve] Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laughable .
+Ch22 L55-60 [Magic_and_Adve] Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laughable .
+Ch22 L58 [01_World_Prime] Facts that recur: people of a higher rank suppress those of lower rank ("tyranny of rank"); essence users age slower: bronze-rankers can live well past a hundred, silvers
+Ch22 L58 [Magic_and_Adve] Rank | Lifespan (
+Ch22 L68 [Awakening_Ston] **Why they matter**: Rufus tells Jason he cannot "properly progress towards bronze rank until you awaken every essence ability you have. That's all twenty".
+Ch22 L70 [Awakening_Ston] **What they do**: "An awakening stone that unlocks the power of consumption... Effect: Awakens an essence ability", requiring an unawakened essence ability. The stone mel
+Ch22 L84 [Jason_Asano] Path of Shadows , Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution (
+Ch22 L99 [Awakening_Ston] **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reaper.
+Ch22 L115-120 [Jason_Asano] Abilities seen in the text : Path of Shadows (a teleport whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition 
+Ch22 L120 [Jason_Asano] Path of Shadows (a shadow-to-shadow teleport at iron,
+Ch23 L15-17 [Farrah_Hurin] A lecturer by habit: whenever she is not pointing out something specific, she is explaining .
+Ch23 L15-17 [Farrah_Hurin] Ritual magic : she adjusts circles for ambient magic and builds the infrastructure of Asano Village and the Grid repairs .
+Ch24 L34-38 [01_World_Prime] Astral spaces and zones : the City of Fallen Echoes , the desert astral space , Cardinas and the natural array , transformation zones .
+Ch25 L17 [Adventure_Soci] Adventurers also patrol outlying villages on a monthly rota, an unpopular punishment duty that means a month away from the city (
+Ch25 L43 [Jason_Asano] Self-deprecation : "I'm only twenty-three but I've been pretty efficient about squandering my opportunities" .
+Ch30 L47 [Gary] A friend of Rufus and Farrah from Vitesse .
+Ch30 L57-60 [Rufus_Remore] He feels responsible as the leader of his group: Farrah tells Jason "Rufus is in charge, so he blames himself" for their capture, and says the pressure on him from his fa
+Ch30 L85 [Familiars] Team Colin." (
+Ch30 L88-93 [Rufus_Remore] He is calm under pressure: when Anisa demands that Jason be burned as tainted, he answers "I did [know]" and refuses her any say .
+Ch30 L89 [Familiars] He is summoned using an awakening stone looted from a sanguine horror and lives in Jason's blood: Jason pricks his finger and lets him "melt back into his bloodstream" .
+Ch31 L100 [Magic_and_Adve] Some core users still reach gold (the gold-rank director Musin Heath is one, notes Book 10), but most do not .
+Ch32 L87 [Adventure_Soci] It serves as identification, lets the holder copy a notice by touching the medallion to it and then to a blank sheet , and lets the Society track kills and locate the bod
+Ch32 L87 [Adventure_Soci] Rufus's is bronze for his rank .
+Ch35 L10-12 [Jory_Tillman] The driver who finds Jason in a village swamped by people seeking healing; "technically an adventurer, although he was the first to admit he rarely went on adventures", w
+Ch37 L21 [Danielle_Gelle] The Geller family's wall is older than the Old City .
+Ch37 L81 [Greenstone] Transit uses terminals (Jason's "magic trams?" is only his guess in
+Ch37 L93 [Adventure_Soci] Its insignia is a sword and rod crossed over a shield , stitched on its staff's clothing and embossed on its badges .
+Ch38 L55 [Jason_Asano] He says "G'day" and "mate" .
+Ch38 L56-63 [Humphrey_Gelle] Familiar : Stash (Velitraxistaasch), a mirage dragon .
+Ch38 L58 [Familiars] "He likes 'Stash,' though" .
+Ch38 L58-59 [Humphrey_Gelle] Familiar : Stash (Velitraxistaasch), a mirage dragon .
+Ch38 L64 [Humphrey_Gelle] The Gellers' mothers arranged his familiar bond .
+Ch38 L122 [Gabrielle_Pell] Introduces herself as "just an acolyte, not a full priestess"; Humphrey breaks up with her in Book 2.
+Ch38 L158 [Adventure_Soci] Field testing takes place at the start of every month and candidates sign up at the administration desk .
+Ch39 L119-123 [Rufus_Remore] Teaching : he teaches Jason footwork, balance and combat and later teaches the Asano clan .
+Ch39 L119-123 [Rufus_Remore] Teaching : he teaches Jason footwork, balance and combat and later teaches the Asano clan .
+Ch40 L31-35 [Farrah_Hurin] Aura teaching : perception and memory games, meditation and aura control .
+Ch40 L31-35 [Jason_Asano] Rufus runs his assessment, Farrah teaches him aura control, perception and meditation .
+Ch42 L25-31 [Magic_Society_] Books 1-3), who uses the Fortress as his office; his deputy director Pochard Finn is an elf and a local who runs the city campus and is "the de facto director of Greensto
+Ch42 L25-30 [Lucian_Lamprey] An elf with an uncommonly muscular frame who was "banished to Greenstone for previous improprieties"; he uses the Fortress as his office.
+Ch42 L30 [Pochard_Finn] "Pochard Finn maintained things at the city campus while frequently travelling to the Fortress himself. He was also an elf and a local".
+Ch42 L30 [Magic_Society_] directed by Lucian Lamprey , who uses the Fortress as his office; his deputy director Pochard Finn is an elf and a local who runs the city campus and is "the de facto dir
+Ch42 L44 [Clive_Standish] "Rather tall, but his narrow frame and hunched posture made him seem lanky and awkward", wearing voluminous scholarly robes that "dangled off him like they'd been hung ou
+Ch42 L58 [Magic_Society_] registered farms exist (Clive,
+Ch42 L67 [Adventure_Soci] Pochard says anything involving the spirit coin farms is three-star work ; and Jason is later given a gold badge with a diamond symbol where one, two or three stars would
+Ch42 L68 [Adventure_Soci] ); Lucian tells Pochard to put up the contract on an off-the-books spirit coin farm as a three-star contract so that "someone who'll actually do the work" takes it , and 
+Ch43 L18 [Sophie_Wexler] Chocolate skin, shining silver hair and sharp eyes that exactly match the hair, "the matching metallics a giveaway trait of the celestine race"; normally shoulder length,
+Ch43 L29 [Clarissa_Ventr] A woman with dark, cascading hair and a sultry walk who looks only a few years older than the two women she walks between.
+Ch44 L23 [Vincent_Trensl] Rufus notes his professional manner; his moustache "extended past either side of his head".
+Ch45 L4-9 [Gods_and_Churc] In Book 1 Jason sees temples such as the Temple of Roads and the Temple of the Healer on the Divine Square .
+Ch45 L4-5 [Greenstone] The Divine Square : a huge crowded square on the Island, paved even in high-grade green stone, ringed by streets of temples whose size reflects the hierarchies of the god
+Ch46 L16 [Gods_and_Churc] In Book 1 Jason meets the goddess as a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable" ; she knows everything anyone in 
+Ch46 L16 [Gods_and_Churc] In Book 1 Jason meets the goddess as a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable" ; she knows everything anyone in 
+Ch46 L16 [Knowledge] In Book 1 a statue is replaced by a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable", not holding the statue's book .
+Ch47 L36 [Magic_and_Adve] Dragon** (Humphrey,
+Ch47 L87-89 [Danielle_Gelle] In Book 1 she "may have looked too young to be Humphrey's mother" .
+Ch47 L88-89 [Humphrey_Gelle] Shy in personal matters : when Jason asks in front of his mother whether he has spoken to Gabrielle, he turns white and shakes his head .
+Ch47 L88 [Danielle_Gelle] "Gabrielle?" (
+Ch47 L89 [Danielle_Gelle] 
+Ch48 L92 [Gods_and_Churc] The god of heroes has no subordinate gods .
+Ch48 L92-96 [Rufus_Remore] Rufus's uncle is clergy of Hero .
+Ch48 L101-102 [Gabriel_Remore] Danielle Geller tells Rufus she is investigating Jason "at your father's request".
+Ch49 L27 [Gabriel_Remore] First seen as a lifelike water-link image of "Rufus's father, Gabriel Remore".
+Ch50 L92 [Sophie_Wexler] Cole Silva, whose father her father had worked for, wanted her .
+Ch50 L92 [Cole_Silva] "The newest member of the Big Three crime lords of Old City", with his father's protection of Sophie gone.
+Ch50 L93 [Clarissa_Ventr] Watches Sophie's match from her own viewing box, imagining the look on Silva's face.
+Ch52 L7-11 [Jason_Asano] Way of the Reaper martial arts .
+Ch53 L45-49 [Cassandra_Merc] The notes describe her as bronze rank with a hidden aura, who suppresses Jason's aura at a concert and investigates his background; Lady Thalia's bronze aura presses on J
+Ch53 L45-49 [Thalia_Mercer] Introduced by Danielle as "Lady Thalia Mercer" at a social gathering, her bronze aura pressing down on Jason until he suppresses it.
+Ch53 L54 [Thalia_Mercer] Tried to convince her husband that Thadwick would benefit from more training.
+Ch54 L17 [Thadwick_Merce] Humphrey: "That's Thadwick Mercer. His father actually might kill you".
+Ch54 L29 [Vincent_Trensl] Rufus notes his professional manner; his moustache "extended past either side of his head".
+Ch54 L33 [Adventure_Soci] Rufus says there "may be some level of corruption in this branch" in Book 1 (
+Ch54 L35 [Magic_and_Adve] Field assessments : a candidate joining the Society is tested in the field by an adventurer .
+Ch54 L35 [Adventure_Soci] Field assessment : an instructor tests the candidate's physical abilities, essence abilities and judgement under pressure .
+Ch54 L36 [Adventure_Soci] Vincent Trenslow and Guy Spalding both act as instructors ("Instructor Trenslow" and "Instructor Spalding"
+Ch56 L46-51 [Gary] Smithing : he forges Dread Salvation ; he reforges it with Virid Martine as Hegemon's Will .
+Ch56 L47 [Soul_Bound_Ite] **Dread Salvation**: a sword "crafted with gratitude, in hope it would be of the greatest use in the moment of greatest need"; "iron rank [growth], legendary"; when an af
+Ch56 L49-52 [Jason_Asano] Weapons : a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Gary , later reforged with Virid Martine as Hegemon's Will .
+Ch56 L49-52 [00_Items_Overv] **Item windows**: the System shows each item with a rank and rarity in the form "Item: [Dread Salvation] (iron rank [growth], legendary)", then a description, a kind in b
+Ch56 L49-52 [Soul_Bound_Ite] **Dread Salvation**: a sword "crafted with gratitude, in hope it would be of the greatest use in the moment of greatest need"; "iron rank [growth], legendary"; when an af
+Ch57 L21 [Awakening_Ston] **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for exceptional service, "alth
+Ch58 L19 [Magic_and_Adve] a candidate joining the Society is tested in the field by an adventurer (Book 1, Ch54 L35; the Book 1 assessment involves trap weavers,
+Ch61 L36 [Awakening_Ston] **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for exceptional service, "alth
+Ch61 L76-87 [Gilbert_Bertin] Runs "Gilbert's Resilient Attire For the Discerning Gentleman" and invites customers to call him Bert; one of octuplets named after Berts, including the "handsome" Bertra
+Ch61 L92-114 [Gilbert_Bertin] Sells Jason the trap-weaver-silk and leather combat attire, haggled by Gary and priced in bronze coins, which is unusual for iron-rank gear.
+Ch62 L61-67 [Adventure_Soci] Badge : a circular iron medallion embossed with the sword-and-rod-over-shield emblem, carried in a leather wallet .
+Ch62 L61-93 [Vincent_Trensl] Hands Jason his badge and explains how stars work: expect to drop a star each time you advance a tier.
+Ch62 L61 [Magic_and_Adve] Badges** are circular medallions embossed with the Society's sword and rod crossed over a shield (an iron one for a new member such as Jason, a bronze one for Rufus,
+Ch62 L66-85 [Magic_and_Adve] two stars permit some unsupervised responsibility and different contract types, three more so (Vincent,
+Ch62 L81-85 [Adventure_Soci] Stars** show the Society's confidence in judgement, not power (Vincent,
+Ch62 L91 [Adventure_Soci] The notes add that stars drop when rank rises ;
+Ch64 L3 [Adventure_Soci] Adventurers also patrol outlying villages on a monthly rota, an unpopular punishment duty that means a month away from the city .
+Ch64 L80 [Awakening_Ston] **Family supply**: the Gellers traditionally supply their scions with enough stones to get started, while the rest must be earned.
+Ch64 L81 [Awakening_Ston] **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for exceptional service, "alth
+Ch64 L82 [Awakening_Ston] **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for exceptional service, "alth
+Ch65 L6 [Gilbert_Bertin] Makes Jason a tuxedo and refers him to his brother for specialised desert boots.
+Ch65 L60 [Elspeth_Arella] "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+Ch65 L60 [Adventure_Soci] a director and deputy; in Greenstone the director is Elspeth Arella, the deputy Genevieve Picot (
+Ch66 L3-6 [Humphrey_Gelle] Son of Danielle Geller ; a Geller of Greenstone, with a family tower and a mirage chamber .
+Ch66 L3-6 [Humphrey_Gelle] Son of Danielle Geller ; a Geller of Greenstone, with a family tower and a mirage chamber .
+Ch66 L3-4 [Phoebe_Geller] A distant cousin of Humphrey, iron rank and with the Adventure Society for more than half a year, with darker skin and much lighter hair than his.
+Ch66 L58 [Humphrey_Gelle] Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 .
+Ch66 L58-62 [Humphrey_Gelle] Rick Geller, a family member, shares his tall, broad-shouldered build .
+Ch66 L58-62 [Rick_Geller] Dark-brown skin and light-brown hair, with a build like Humphrey's, "tall and broad-shouldered"; he leads four others.
+Ch66 L61 [Rick_Geller] His demand for a rematch is "the drive to improve himself that was common to the Geller clan".
+Ch66 L62 [Rick_Geller] Three of his team of five are Gellers; the other two are twin elf sisters.
+Ch66 L72-78 [Jonah_Geller] He challenges Jason in front of Danielle: "I'm going to show this little no-name weed what it means to fight a Geller".
+Ch67 L14-15 [Jonah_Geller] On Rick's team he is the bulwark, slowed by heavy armour and a shield; he shouts to draw out monsters.
+Ch67 L66 [Jonah_Geller] On Rick's team he is the bulwark, slowed by heavy armour and a shield; he shouts to draw out monsters.
+Ch68 L92-94 [Clive_Standish] Grew up on an eel farm in the delta near Greenstone (
+Ch68 L94 [Clive_Standish] Grew up on an eel farm in the delta near Greenstone ; recruited to the Magic Society by the Greenstone branch's then-director .
+Ch69 L101-107 [00_Astral_Over] The dumpling-soup model : in Clive's analogy worlds are dumplings, the astral is the soup, and astral spaces are bits of soup congealed and attached to a dumpling.
+Ch74 L70 [Humphrey_Gelle] Moral voice : in Book 1 he confronts Jason about the cruelty of the mirage-arena ambush .
+Ch76 L3-5 [Gilbert_Bertin] Makes Jason a tuxedo and refers him to his brother for specialised desert boots.
+Ch77 L10 [Knowledge] She knows everything anyone in her world knows, including Jason, so she knows Mario Kart shortcuts .
+Ch77 L10 [Gods_and_Churc] ); she knows everything anyone in her world knows, including Jason, so she knows "Mario Kart shortcuts" (
+Ch78 L84-85 [Familiars] A mirage dragon who takes small forms: a mouse in Humphrey's pocket, a bird on Jason's shoulder and a puppy .
+Ch83 L45 [Elspeth_Arella] "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+Ch85 L22-26 [Clive_Standish] Racial gift : a blessing from the Celestial Book changed his human Special Attack Affinity into a spell affinity .
+Ch85 L51 [Clive_Standish] He says he venerates, not worships, the Celestial Book: "There's a difference" ; an archbishop calls him a heretic for it .
+Ch85 L51 [Great_Astral_B] ); Clive venerates it (
+Ch86 L115-116 [Clive_Standish] Familiar : Onslow, a rune tortoise who sits at the prow of the airboat, carries Clive, and becomes a runic tattoo on his torso when called back .
+Ch88 L94-106 [Humphrey_Gelle] Abilities include dragon wings and a flaming dragon-wing sword, a Dragon's Might aura that turns fire into dragon fire, teleporting , and the ability Spartoi, which at go
+Ch94 L3-7 [Gods_and_Churc] Neil makes a stand in the temple in Book 1, where a priest tells those who stand against the church that they are no longer welcome .
+Ch94 L3-7 [Neil_Davone] He makes a stand in the Temple of the Healer (
+Ch95 L101-104 [Gods_and_Churc] I'll be keeping an eye on you, Gareth Xandier" , and a character says in Book 9 that he likes "the ones who refuse to kneel".
+Ch95 L104 [Gary] I'll be keeping an eye on you, Gareth Xandier" .
+Ch99 L24 [Jason_Asano] Path of Shadows , Midnight Eyes , Castigate and Verdict (
+Ch99 L36 [Emir_Bahadir] Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+Ch99 L67-70 [Jason_Asano] His attributes are bound as Power (Blood), Speed (Dark), Spirit (Doom) and Recovery (the fourth essence) .
+Ch101 L64 [Emir_Bahadir] Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+Ch101 L64 [Cloud_Construc] **Emir's cloud ship**: it arrives at the Greenstone dock and a walkway of cloud connects to the shore as a hole opens in its side. Moored, it morphs over about ten minute
+Ch101 L103 [Cloud_Construc] **Emir's cloud ship**: it arrives at the Greenstone dock and a walkway of cloud connects to the shore as a hole opens in its side. Moored, it morphs over about ten minute
+Ch102 L11 [00_Places_Over] Hornis is a port to the south, reached from Greenstone across the delta and the Veldt .
+Ch103 L44 [Clive_Standish] Mana Equilibrium .
+Ch104 L68 [Adris_Dorgan] Meets Jason in his own library.
+Ch108 L3 [Cloud_Construc] **Emir's cloud palace**: floating just offshore on the north side of the Island, "fully exposed to the waves and currents, yet remained as immovable as solid ground", wit
+Ch108 L35-37 [Danielle_Gelle] Jason sees the same agelessness in Emir and Thalia Mercer .
+Ch108 L35 [Emir_Bahadir] His gold-rank reflexes catch Danielle before she lunges; he looks no more than thirty but ageless.
+Ch108 L94 [Farrah_Hurin] Abilities : lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and columns, and obsidian 
+Ch108 L99-100 [Rufus_Remore] Other powers : boots that walk on water and a "speed of light" ability that works as a two-second time-freeze.
+Ch109 L6 [Hester_Maharal] Emir directs "a woman named Hester" to open a portal for the Boko rescue; she traces a circle in the air and the portal shimmers. She can only open a portal to places she
+Ch109 L7-9 [Hester_Maharal] Emir directs "a woman named Hester" to open a portal for the Boko rescue; she traces a circle in the air and the portal shimmers. She can only open a portal to places she
+Ch113 L41 [Farrah_Hurin] rescued with Rufus and Gary from the cult; dies covering civilians in the desert astral-space ambush ("Farrah died covering those people",

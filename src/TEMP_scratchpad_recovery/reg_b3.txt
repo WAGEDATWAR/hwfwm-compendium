@@ -1,0 +1,69 @@
+Ch1 L89 [Magic_and_Adve] Valdis's sword, swift and adept (
+Ch1 L90 [Magic_and_Adve] Master : Valdis's sword, swift and adept ;
+Ch1 L105 [Cults_and_Orde] Purity's church works with the cult and is placed under inquiry by an ecumenical council of the other churches (
+Ch1 L107 [Lucian_Lamprey] His personal handing of a star seed to the Church of Purity comes under scrutiny.
+Ch1 L115 [Vincent_Trensl] Drinks with Rufus on the houseboat after Farrah's death.
+Ch2 L59-62 [Gilbert_Bertin] In Book 3 he has reached iron rank late, having kept all his cloth essence abilities at bronze, and shows Jason a winter wardrobe "largely in the Vitesse style".
+Ch2 L59-64 [Jason_Asano] from Book 3 he buys a Vitesse-style wardrobe from the tailor Gilbert Bertinelli (
+Ch2 L64 [Jason_Asano] Clothing : from Book 3 he buys a Vitesse-style wardrobe from the tailor Gilbert Bertinelli .
+Ch2 L64 [Gilbert_Bertin] In Book 3 he has reached iron rank late, having kept all his cloth essence abilities at bronze, and shows Jason a winter wardrobe "largely in the Vitesse style".
+Ch4 L28-32 [Familiars] A disembodied dark cloak with a nebula in the shape of an eye in the chest, with blue and orange orbs "drifting around" .
+Ch4 L29-32 [Neil_Davone] Summon : a chrysalis golem "like an ogre carved out of diamond" with runes appearing on its facets as it is hit .
+Ch5 L9 [Emir_Bahadir] 
+Ch6 L18 [Henrietta_Gell] Fights the giant rain elemental alongside other bronze-rankers and briefs the ranking adventurer on it.
+Ch7 L41 [Thadwick_Merce] The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+Ch7 L86 [Magic_and_Adve] His **Path of Shadows** teleports through a shadow at iron, creates regional portals at bronze (
+Ch7 L88-89 [Zato] "The last silver-ranker left in the Builder cult's local forces", he leads the evacuation of their island stronghold and escapes with many of their people; none of his fe
+Ch7 L89-93 [Cults_and_Orde] Cult leaders : Zato, the last silver-ranker left in the cult's local forces , leads the evacuation of the island stronghold and decamps to the Vane Estate;
+Ch8 L25 [Hester_Maharal] Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+Ch16 L80 [Magic_Society_] The Alchemy Association has been hounding Neil for the miracle potion recipe ;
+Ch16 L81 [Jory_Tillman] Jason funds his alchemy facility, which produces the first lesser miracle potions.
+Ch17 L56-60 [Cole_Silva] Jason calls an elf who matches the description "the Palpatine to his Vader".
+Ch17 L60 [Magic_Society_] Jason jokes about complaining to the Artifice Association about shoddy standards .
+Ch20 L25 [Roland_Remore] "The famous, diamond-rank sword master, Roland Remore"; Rufus often repeats advice from him.
+Ch21 L60 [Gary] "almost silver" by Book 3 ; silver after using a core .
+Ch21 L60 [Gary] "almost silver" by Book 3 ; silver after using a core .
+Ch21 L149 [Jason_Asano] Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+Ch24 L23 [Danielle_Gelle] Time : a time confluence, with only forward time travel possible ; she defeats Lucian Lamprey with her time powers .
+Ch24 L23 [Danielle_Gelle] Time : a time confluence, with only forward time travel possible ; she defeats Lucian Lamprey with her time powers .
+Ch24 L23 [Lucian_Lamprey] Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+Ch24 L48 [Cole_Silva] Is held in the prison tower with Lamprey.
+Ch24 L48 [Lucian_Lamprey] Danielle outpaces him in a duel and cuts him; he is held in the prison tower.
+Ch29 L22-35 [Jason_Asano] Path of Shadows (a shadow-to-shadow teleport at iron, Book 1, Ch22 L120; at bronze a conjured shadow gate on a regional scale to a place already visited,
+Ch29 L35 [Jason_Asano] Abilities seen in the text : Path of Shadows (a teleport whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition 
+Ch29 L86 [Magic_and_Adve] Crests : a soul crest is a magical tattoo printed on the soul, which appears on the body ; it lets a person be identified without relying on the aura .
+Ch30 L21 [Hester_Maharal] Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+Ch31 L25-27 [Cults_and_Orde] What it was : an ancient cult of assassins who venerated the Reaper, "the finality of death".
+Ch34 L10 [Timos] Facilitated most of the cult's insertions years earlier and ran operatives in compartmentalised groups.
+Ch34 L60 [00_Places_Over] Clive rates Greenstone's density as about mid-iron, "which is very low" .
+Ch46 L60 [Thadwick_Merce] The Builder uses his insider knowledge of the Mercers' operations; Zato tells him "you will prove of supreme value to the Builder".
+Ch46 L60 [Zato] Recruits Thadwick: "I see your true potential".
+Ch49 L15 [Sophie_Wexler] Abilities : Eternal Moment, a massive acceleration power in which "time seemed to freeze" as she produced wind blades ;
+Ch51 L91 [Cults_and_Orde] The Builder possesses Dougall's body, which breaks down if it uses more than silver-rank power , and later Thadwick Mercer's .
+Ch57 L4 [Great_Astral_B] Clive notes it is possible, if far from ethical .
+Ch57 L87 [Jason_Asano] He tells the Builder it and Knowledge "should get together and play Mario Kart" ; he compares a projected face to Emperor Palpatine .
+Ch60 L37 [Zato] Asks what to do with the bronze-rankers when the cult cannot convert them with clockwork cores.
+Ch62 L33-35 [Great_Astral_B] No fear of gods : Clive says a GAB is one of the few beings that need not fear a god's retribution, since the gods of Pallimustus cannot see into an astral space that is 
+Ch67 L6 [Thadwick_Merce] "The Builder wore Thadwick Mercer's face" with a presence that transcended the mortal shape.
+Ch68 L14-15 [Sophie_Wexler] Racial gifts (celestine): Mana Integrity evolves into Mana Wellspring , Astral Affinity into Boundary Breaker, which removes the damage reduction from rank disparity , an
+Ch68 L14 [Magic_and_Adve] Humphrey's Hero's Drive and Hero's Sacrifice, Sophie's Boundary Breaker (from Astral Affinity,
+Ch68 L59-61 [Zato] Humphrey faces him in the climax, throwing his dragon sword.
+Ch68 L61 [Humphrey_Gelle] For hundreds of years we have done one thing, and one thing only: protect our world from people like you" .
+Ch69 L108 [Tokens_Stones_] **World-Phoenix Token**: Jason finds it in his starting inventory, "transcendent rank, legendary", "Uses remaining: 1/1" with unreadable effects. It is consumed in Book 3
+Ch69 L186 [Hester_Maharal] Jason compares her portal range to his own shadow portals; she portals Clive back to the city and Emir plans to ask her to portal Callum back.
+Ch69 L219-225 [00_Astral_Over] The notes for Book 3 describe Interstice as the oldest and largest city-world, a flat plane, with an island region called Glim (rainbow ice) and districts belonging to gr
+Ch69 L233-237 [Velius] "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes"; Shako greets him warmly in the dome chamber.
+Ch69 L238 [Velius] "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes"; Shako greets him warmly in the dome chamber.
+Ch69 L245 [Velius] He says he made the mistake of getting his descendants out of trouble again and again until he washed his hands of them.
+Ch69 L250-251 [Velius] When he and Shako change, the Reaper speaks through Velius and the voice becomes cold.
+Ch69 L455 [Magic_Society_] Lorelei Grantham is Vice Chancellor : she first appears in Book 3 as a researcher assigned to work with the Adventure Society's Continental Council, and in Book 6 she is 
+Ch69 L509 [Emir_Bahadir] Book 3, Ch5 L9
+Ch69 L587-591 [Guilds_and_Hou] A school in Vitesse run by Roland Remore, the diamond arch-chancellor, who is rarely seen on campus but whose presence is felt .
+Ch69 L587 [Roland_Remore] Rarely seen on the Remore Academy campus, "the presence of the diamond-rank arch-chancellor was always felt".
+Ch69 L588 [Roland_Remore] "Looked like a well-preserved forty, a tenth of the reality": tall, strong and handsome, with a round bush of dark curly hair.
+Ch69 L808 [Magic_and_Adve] Humphrey's Hero's Drive and Hero's Sacrifice, Sophie's Boundary Breaker (from Astral Affinity, Book 3, Ch68 L14; it eliminates the damage reduction from rank disparity,
+Ch69 L1035-1040 [Dawn] Diamond-rank vessels of great astral beings can withstand the strain and keep their selves, and former vessels end up as peak existences (
+Ch69 L1036-1040 [Great_Astral_B] Diamond-rank vessels of the great astral beings can withstand the strain and keep their selves, unlike the disposable vessels the Builder uses; eventually the soul can no
+Ch69 L1036-1040 [Dawn] Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel .
+Ch69 L1036-1040 [Dawn] Role : First Servant of the World-Phoenix, head of its cult and the primary vessel of the great astral being .
+Ch69 L1036-1040 [Dawn] Diamond-rank vessels of great astral beings can withstand the strain and keep their selves, and former vessels end up as peak existences .

@@ -1,0 +1,279 @@
+## B4 Ch1 A Better Pants Solution
+  OPEN L3: Jason Asano regained consciousness surrounded by a fiery, transcendent energy. It burned without heat; he could feel its otherworldly power, but it left him wholly unharmed. It vanished and he dropped to the cold, hard floor. The feel of ch
+  CUE L45: ...d hospital interior, and even a lingering trace of disinfectant, some fifteen years after it was last used....
+  CUE L63: ...enjoyed the bleak cold coming in through the window, having spent the last year and a half roaming scorching desert, sweltering delta and h...
+  CUE L63: ...at might or might not exist, it should be somewhere near the start of winter. The rain pounding down outside the broken window let in a ...
+  REG L66 [Jason_Asano]: His uncles are Hiro, the black sheep with minor involvement in organised crime, and Shiro, the favourite .
+  REG L66 [Hiro_Asano]: "The family's black sheep due to his hopefully minor involvement with organised crime".
+  REG L66 [Hiro_Asano]: Jason plans to sell him gold at "well-below market rates" for an illegal sale; Hiro's tidy office contrasts with the grimy bar downstairs, and he lift
+  REG L66 [NPC_Rosters_by_Era]: **Jason's family**: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy, Akari.
+## B4 Ch2 Time to Front Up
+  OPEN L3: Jason returned to the chair he had left by the broken window and sat down. The cool, clean air coming in as the rain continued to hammer down was a stark improvement over what had been sealed away in the old hospital. Before he made a move,
+  CUE L10: ...will allow them to maintain their vessels outside of the summoner for one day before requiring additional coins. This duration is reduced by usi...
+  REG L22 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+  REG L70 [Spirit_Vault_and_Astral_Kingdom]: Inventory ; the Spirit Vault, an inventory he can enter and which others can enter by trust ; a spirit domain ; a spirit realm that travels along the 
+## B4 Ch3 The Single Greatest Thing on This Planet
+  OPEN L3: Jason’s inventory power had been transformed into a floating, otherworldly gazebo. In addition to letting him do what amounted to storing himself, he could use it to resummon his familiars, allowing him to reunite with them. While he was pl
+  CUE L134: ...n. They just had one at the time Jason left, the younger child only a few months old. The auras of the adults were drenched in the tiredness of ...
+  CUE L108: ...“It’s my sister’s birthday next week,” Jason said. “How did you even get this information? Do yo...
+  CUE L125: ... some time off and had come back to Erika’s hometown for her birthday next week....
+  REG L100 [Jason_Asano]: Home : Casselton Beach on the Mid North Coast of New South Wales .
+  REG L112 [Jason_Asano]: Arrival : pulled from his bed in late November by Landemere Vane's failed summoning .
+  REG L112 [Jason_Asano]: Arrival : pulled from his bed in late November by Landemere Vane's failed summoning .
+  REG L112 [Era_Selection]: **Calendar**: Jason arrives in late November; Leust's lumber conspiracy falls in late summer moving into autumn.
+  REG L112 [Era_Selection]: **Calendar**: Jason wakes on Earth in early June, a year and a half after leaving; Book 5 opens about nine months after that; a cold winter day in Boo
+  REG L123 [Erika_Asano]: Her husband is Ian Evans.
+## B4 Ch4 Some Secrets Change You Forever
+  OPEN L3: Jason let Shade drive through the dark and the rain. The dark did not obscure his vision, but he trusted Shade more than himself to drive safely in the wet. He also didn’t want to drive distracted; his visit home had left him contemplative 
+  CUE L52: ...ily and Jason hadn’t seen him since before he had left for university seven years ago. He was in shape and looked younger than his age....
+  CUE L94: ...terrorist response exercises. The first ones started happening almost two years ago, but they didn’t get a lot of public attention until… well,...
+  CUE L105: ...“Sorry, Jason, but your parents divorced a year ago. I’m not really sure of the details, but your father bought...
+  REG L27 [Taika]: Introduces himself as "Taika, by the way. Like the director, but I don't make films".
+  REG L64 [Hiro_Asano]: Jason plans to sell him gold at "well-below market rates" for an illegal sale; Hiro's tidy office contrasts with the grimy bar downstairs, and he lift
+  REG L105 [Cheryl_Asano]: She is "the pre-eminent upscale realtor in the Greater Casselton area"; Jason is told his parents divorced a year ago and that his mother moved to Cas
+  REG L105 [NPC_Rosters_by_Era]: **Jason's family**: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy, Akari.
+## B4 Ch5 It Would Be Weirder If Magic Wasn’t Responsible
+  OPEN L3: Annabeth Tilden was woken by her phone.
+  REG L5 [Anna_Tilden]: Family : wife Susan; brother Terrance, the Network's media director .
+## B4 Ch6 Not the Regular Sort of Dangerous
+  OPEN L3: “How’d it go?” Taika asked as he drove Jason through the city. They were in one of the cars Hiro kept in a pool for his staff, a luxurious town car Taika had picked for the roomy interior.
+  CUE L78: ...m who I have no idea. They started taking things over in Perth, maybe two years ago. Melbourne a year after that. Now, they’re turning their ey...
+  CUE L110: ...“She takes winter off. They asked her to be a judge on one of those cooking s...
+## B4 Ch7 Boogie Man
+  OPEN L3: Taika drove Hiro’s large town car with Hiro and Jason in the back.
+  REG L42 [Greg]: Jason remembers an old school friend Greg who roped him and Amy into long board games.
+  REG L49 [Craig_Vermillion]: Every aura in the room except Jason's and Ari's trembles at the name Vermillion.
+## B4 Ch8 More Plausible Than the Reality
+  OPEN L3: Hiro returned home to his penthouse apartment. He owned the entire building and, it being where he lived, he kept it legitimate. He had places enough to launder money without making a mess in his own house. He accessed the penthouse level t
+  CUE L61: ...resent in the other world. The astral space in which he had spent the last year was filled with the rich, natural aromas of the jungle. In ...
+  CUE L61: ...Jason took in a cleansing breath of winter night air, only to find it not so cleansing. His bronze-ran...
+## B4 Ch9 I Suggest You Be Very Polite
+  OPEN L3: Jason was standing on the edge of the roof, atop a skyscraper in the Sydney CBD. Shade was beside him as they looked towards an adjacent building. To normal sight it was unremarkable, but to magic senses, the building was lit up like a cand
+  CUE L87: ...While it had barely been a year since then, it had been a year in which Jason had walked through ...
+  REG L76 [Earth_Powers]: Reach : took Perth, then Melbourne, then moved on Sydney .
+  REG L76 [Era_Selection]: **Live dangers**: the EOA has seized Perth and Melbourne; the Network is publicly known as the Global Defense Network after the monster waves begin; t
+  REG L76 [Plot_Hooks]: **The EOA moves on Sydney**: they have "seized control in Perth and Melbourne, and now they're making no secret of their overtures into Sydney".
+## B4 Ch10 A Leather Coat and Tight, Black Pants
+  OPEN L3: Days went past as Jason fell into a routine. In the mornings, he would do strength training with the equipment in the townhouse, which was barely adequate for his bronze-rank might at maximum weight. Then he would ride to Rushcutters Bay Pa
+  CUE L87: ...Jason said, mist shrouding him to replace his bike gear with a casual winter suit. Vermillion was dressed much more casually than their ...
+  CUE L160: ...t an issue for your kind,” Jason said. It was the kind of cold, clear winter day where the sky was pristine blue. Sunlight washed in thr...
+  REG L127 [Earth_Powers]: Vermillion describes the Cabal as the oldest of Earth's three dominant magical forces, tied to the "old magic" of vampires and things older than histo
+  REG L127 [Craig_Vermillion]: Explains the magical world's three dominant forces and says a new kind of magic appeared five centuries ago.
+## B4 Ch11 A Knife in Its Sheath
+  OPEN L3: Vermillion and Jason paused their conversation as the waitress brought their food, along with a bottle of wine and two glasses. Jason nibbled at the food appreciatively as Vermillion opened the bottle. They refrained from continuing the con
+  CUE L56: ...hrough the cracks. It became harder and harder to hide. A little over three years ago, they made a very dangerous decision and revealed themselve...
+  REG L4 [Craig_Vermillion]: Explains the magical world's three dominant forces and says a new kind of magic appeared five centuries ago.
+  REG L4 [Earth_Powers]: Origins** (Craig Vermillion,
+  REG L8 [Earth_Powers]: tiers or categories zero to five match the ranks on Pallimustus (Vermillion,
+  REG L16 [Religion_in_Practice]: **The Healer**: Neil makes a stand in the Temple of the Healer; the Healer strips the essences from clergy who offend him, and ex-clergy stripped of d
+  REG L19 [Earth_Powers]: Vermillion has been a vampire for seventy years, which has brought him to the second tier (
+  REG L21 [Earth_Powers]: ); its tier-four members have entered hibernation (
+## B4 Ch12 Underworld Bargain
+  OPEN L3: “I don’t recognise the auras,” Jason said.
+## B4 Ch13 Time to Rip Off the Band-Aid
+  OPEN L3: “So, that’s the long and the short of it,” Jason said. “The EOA buy you out. Generously. I know it’s heavy-handed of me to take control of your affairs like this, but this is the only safe way out. It also means I can avoid killing a bunch 
+## B4 Ch14 Bullets, Bikes and Blood
+  OPEN L3: Hiro flinched as a bullet shattered the back window of the car.
+  CUE L25: ... a lot of time riding on his Uncle Robbo’s farm. It had been a number of years since then and those were dirt bikes, as opposed to the powerful,...
+## B4 Ch15 A Good Friend and a Very Bad Enemy
+  OPEN L3: A sleep-deprived Annabeth Tilden was shotgunning coffee.
+  CUE L12: ...isons were drawn to the stories of an angel made of stars from just a few days earlier, the incident that became known as the Sydney Children’s Ho...
+## B4 Ch16 Flavour Text
+  OPEN L3: The art gallery displayed no more signage than a plaque beside a nondescript door. It was the kind of place that if you didn’t know it was there, then you weren’t meant to. For many years, it had served as a money laundering operation for s
+  CUE L55: ...“Bro, you’re missing out. You know, if someone told me last week I’d be talking to you about Team Knight Rider, I’d have sai...
+  CUE L16: ...pnotically beautiful. The two works in our possession were sent to us only days ago, by the artist herself.”...
+## B4 Ch17 Time For Context
+  OPEN L3: Shade pulled into an underground parking structure where they wouldn’t be seen, and parked. Jason and Vermillion got out of the car, the others following suit. Hiro and Taika both looked stressed.
+  CUE L125: ...dy today and take tomorrow to talk to my people. I can be ready to go the day after.”...
+  CUE L126: ...ith the ramifications of today’s excitement. We leave in the morning, the day after tomorrow.”...
+## B4 Ch18 Brown Trousers Time
+  OPEN L3: Jason was perched on a rooftop, looking at his uncle’s townhouse from across the street. Shade appeared next to him.
+  CUE L57: ...rip the roof as he dropped, letting it stretch out before using it to spring back upwards. He leapt back over the rooftop just as his at...
+## B4 Ch19 The Complete Set
+  OPEN L3: “Look at the way he moves,” said Nigel, the combat instructor of the Network’s Sydney branch. “That fighting style isn’t an extension of ordinary martial arts.”
+  CUE L49: ...BLOOD RIDERS! I warned the committee about the Cabal playing fast and loose months ago, and do you remember what you told me, Keith?”...
+  CUE L92: ...he car, but Jason could see easily through the darkness. The overcast winter sky blocked out the stars, the moon a diffuse glow behind t...
+## B4 Ch20 More Valuable Than a Life
+  OPEN L3: The building looked like any of the other industrial warehouses around it. The inside, however, was an operations centre for the Cabal. Three reinforced security doors lay between the exterior and a set of concrete stairs leading down to a 
+  CUE L76: ...As they argued, they heard the boot spring open. Paul pulled the car to a rapid stop, throwing up grav...
+  CUE L98: ...The only answer came from a voice as cold and dark as the black winter night....
+  CUE L101: ...er pinprick of stars. The night sky, hidden beyond the dark clouds of winter, had taken the form of a man. Luc remembered the stories of...
+## B4 Ch21 Uncontrolled Factor
+  OPEN L3: Anna’s eyes snapped open. As a category one, her senses were only slightly heightened, but something had triggered an instinctive reaction and awakened her. Straining her aura senses, she couldn’t detect anything that might have set them of
+## B4 Ch22 Agendas
+  OPEN L3: “Finally,” Jason said. He stood in front of Hiro’s apartment building with the cloud flask in his hand.
+## B4 Ch23 Hegemons
+  OPEN L3: The magical motorhome made its way north along the coast. On the bottom floor, the windows had turned opaque as Taika, Hiro, and Vermillion watched some of Jason’s earliest recordings on a hologram-like recording crystal projector. Jason’s 
+  CUE L41: ...“I think her works first appeared around a year ago. A year and a half maybe.”...
+  CUE L80: ...platform up to the roof deck and looked out at the Pacific Ocean. The winter air was cold, but his bronze-rank body would not be uncomfo...
+  REG L31 [Dawn]: Art : the paintings by "Dawn" that Jason buys show two planets with four pillars and "The Invasion of Pallimustus" .
+  REG L31 [Craig_Vermillion]: Discusses Dawn's paintings with Jason.
+## B4 Ch24 Guilty Conscience
+  OPEN L3: “How long since you’ve been back?” Jason asked Hiro as the motorhome drew closer to their hometown of Casselton Beach.
+  CUE L32: ...In winter, Casselton Beach went from sleepy tourist town to outright ...
+  REG L42 [Cheryl_Asano]: She is "the pre-eminent upscale realtor in the Greater Casselton area"; Jason is told his parents divorced a year ago and that his mother moved to Cas
+## B4 Ch25 Uncommon Mistake
+  OPEN L3: “You should come to your sister’s party tomorrow night instead of just showing up after,” Hiro said.
+  CUE L42: ... fish shop. Jason was reminded that the world hadn’t sat still in the six years since he last came home, and he had to look up a new hardware sto...
+  CUE L32: ... the settling down type. With that Amy girl too. She did get hot that last year of high school, but hadn’t you left by then? I thought she’...
+  CUE L10: ...this,” Taika said, putting a shopping bag on the table. He took out a spring-action lightsaber toy. “I went with the red blade because y...
+## B4 Ch26 It’s Complicated
+  OPEN L3: The naked woman’s feet trailed on the floor as she was dragged through concrete halls, not cooperating even enough to stumble along. The closest thing she had to clothing was the collar around her neck. They only used category-two guards fo
+  CUE L48: ...rest, she had eventually come to reciprocate Jason’s feelings. It was only years after it came crashing down that Jason came to accept that he had...
+  CUE L83: ...ow then,” Jason said. “I had no say in what happened. I only got back a week ago and I’ve been playing catchup.”...
+  CUE L148: ... this job for a while until I stumbled into a way back home. That was a week ago. I’ve been staying with Uncle Hiro while I get a handle on ...
+  REG L47 [Amy_Asano]: The girl next door and Jason's best friend as far back as he remembers; she had a crush on Kaito from an early age.
+## B4 Ch27 A Big Dose of Normal
+  OPEN L3: Jason returned to Erika’s house in the crisp air of the winter Saturday morning. After giving his sister a night to process his sudden return, he was expecting a thorough grilling. He wanted to bring her into the fold as quickly as he could
+  CUE L14: ...he best thing to do was just accept it, but she really needed to wait a year before giving it. Maybe two. You know she’s the one who actually t...
+  CUE L121: ...“Your cousin? Sure. Shiro bought the caravan park a couple of years ago and left Koji to run the place. Into the ground, mostly.”...
+  CUE L3: ...Jason returned to Erika’s house in the crisp air of the winter Saturday morning. After giving his sister a night to proces...
+## B4 Ch28 Moppet
+  OPEN L3: Jason stood on the patio, looking out at the yard. He sensed her approach but didn’t turn around.
+## B4 Ch29 Always Tell the Truth if You Can Get Away With It
+  OPEN L3: Jason led the uncharacteristically docile child outside and they got into his car. She goggled at the gull wing doors and sleek interior. She was even more startled when the car took off without Jason touching the steering wheel. For a long
+  REG L103 [Emi_and_Nik]: She is fierce and bright: she quotes Laplace and is described by Jason in Book 4 as "twelve going on forty" .
+## B4 Ch30 Discretion is a Good Idea
+  OPEN L3: Erika had put together a simple dinner of salad, tartiflette and buttermilk pie. Tartiflette was a potato, bacon, onion, and cheese casserole that made a great winter warmer. They sat somewhat awkwardly at the table, talking around the topi
+  CUE L5: ...It rains more in summer than winter, which is weird. That rain we got last week was really heavy, though.”...
+  CUE L29: ...whole day, then we can’t do it on a weekday and I’m not waiting until next weekend.”...
+  CUE L3: ...te was a potato, bacon, onion, and cheese casserole that made a great winter warmer. They sat somewhat awkwardly at the table, talking a...
+## B4 Ch31 The Cold Eyes of a Stranger
+  OPEN L3: Erika, Ian and Kaito were gathered in a waiting room with Jason’s mother, Cheryl, and her brother, Robert. Emi had been left with Amy and her children. Erika was coming to regret that choice, though, given her increasing suspicions surround
+  CUE L85: ..., I’m certain they’re lying, and the whole debacle is shady as a long autumn dusk. Why are they suddenly cooperating?”...
+## B4 Ch32 Looking Down the Point of a Sword
+  OPEN L3: “So, how are you doing after yesterday?” Jason asked his niece as Shade drove them towards the marina.
+## B4 Ch33 What Your Uncle Has Been Telling You
+  OPEN L3: Erika approached the houseboat flanked by her family and the towering figure of Taika, all carrying crates of alcohol. Jason and Emi came out to meet them, standing on the lower deck that was level with the jetty. Jason waved them aboard.
+  CUE L102: ...age Jason continued. “Oh, well. Where should I start? It’s been about two months since I arrived here. Where is here? That’s complicated. I’ve mad...
+  CUE L43: ...a park where much of Jason’s family was throwing up on the grass. The winter wind blew in off the ocean, making the park trees hiss like...
+  CUE L77: ...“The day after tomorrow,” Anna said. “We can work with that.”...
+## B4 Ch34 The Moments That Decide Who You Are
+  OPEN L3: It was a strange closing of the circle as Jason watched his recordings with his family, seeing himself behave without knowing if the moment he now experienced would ever happen.
+  CUE L28: ...t might be just one more thing the rich people keep to themselves and a month later we’re back to obsessing over celebrity scandals. Or it coul...
+  CUE L83: ...ay, by the way. He asked if you’d to do an episode; we’re filming all next week.”...
+## B4 Ch35 I’m Mysterious Now
+  OPEN L3: On the way back from picking Emi up at school, Jason suggested they take advantage of the warm day. Casselton had pleasant winters and the afternoon temperature had climbed into the high twenties. The unseasonable heat was begging the beach
+  CUE L4: ...opping to pick some up. CB Surf and Bike sold mostly surf gear in the summer and mountain bike accessories during the winter. Most of th...
+## B4 Ch36 Hardline Position
+  OPEN L3: Jason woke early, did his weight training and then went through his combat training. Now that Shade was able to exert an amount of physical force, he could leverage his knowledge of Jason’s martial art style to use multiple bodies and spar 
+  CUE L80: ...ya said. “I think making too many assumptions based on the way he was seven years ago has the potential to cause more mistakes than playing it by...
+  REG L37 [Asya_Karadeniz]: She says she went to school with Jason Asano and is "just an administrator" who keeps the people doing the work "happy and funded".
+  REG L37 [NPC_Rosters_by_Era]: **Network and allies**: Anna Tilden, Nigel Thornton, Asya Karadeniz, Greg, Travis Noble.
+## B4 Ch37 Otherwise Best Avoided
+  OPEN L3: Jason and his guests were sitting around the bar lounge of his houseboat.
+## B4 Ch38 Terms
+  OPEN L3: Jason looked over at Other Gordon.
+## B4 Ch39 Section
+  OPEN L3: Sitting at a table in the bar lounge of his houseboat, Jason spent considerable time hammering out details with Keith and Anna. For loot distribution, Jason would keep a percentage for his own needs and trade the rest for more ordinary remu
+## B4 Ch40 Core Users
+  OPEN L3: As a Network team set up a ritual to open the aperture to the proto-astral space, Nigel talked Jason through the assembled force. The Network’s tactical presence consisted of two platoons of three nine-person sections. Four of the six boast
+## B4 Ch41 What You Call Observing
+  OPEN L3: Jason saw flashes of what Nigel’s team could bring to the table if they fought more like adventurers. While the general approach was for focus-fire tactics, they each had specialties that were pulled out against various creatures.
+  CUE L55: ...tart to see category-four incursions. They had one in the UK a couple of years ago.”...
+  REG L6 [Magic_and_Adventuring]: Woolzy's swift foot and knife .
+  REG L18 [Incursion_Sites]: a category-three incursion; the team meets silver-rank jungle trolls (
+  REG L31 [Farrah_Hurin]: Abilities  : lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and c
+  REG L89 [Nigel_Thornton]: Tells Jason his teams' methods are reaching their limits.
+  REG L91 [Earth_Powers]: Methods : tactical teams answer incursions with adventurer-style tactics learned partly from Jason .
+  REG L91 [NPC_Rosters_by_Era]: **Network and allies**: Anna Tilden, Nigel Thornton, Asya Karadeniz, Greg, Travis Noble.
+## B4 Ch42 Not the Monster
+  OPEN L3: “Here’s the situation,” Koen said through voice chat. “The ADEs are river hydras. Big ones. Lots of regeneration, lots of poison, lots of heads. We’ve got two that are ideally placed. Far enough apart that we can take them on separately but
+## B4 Ch43 Letting Him Run Rampant
+  OPEN L3: In the Network’s Sydney branch offices, several people were sat around a conference table while an image displayed on a screen. Keith, Anna, Gladys, Koen, and Nigel were all in attendance, as was Eustace Brown, the grizzled director of the 
+  CUE L5: ... of his personal power but because he can teach his training methods. Two years ago, he was selling staples and making occasional appearances o...
+  CUE L70: ...“Three days,” he said. “That’s as much as I can give you. More than tha...
+## B4 Ch44 Old Testament Power
+  OPEN L3: Erika stormed upstairs and threw open the door to her daughter’s bedroom. Standing in front of a monitor, Jason and Emi were holding plastic guitars and playing a rhythm game. Taika sat on the floor behind a plastic drum kit. All three turn
+## B4 Ch45 My Turn
+  OPEN L3: In the houseboat, Erika pulled up Jason’s number on her phone.
+  REG L76 [Cheryl_Asano]: Present when the family gathers in Book 4.
+## B4 Ch46 Visually Distinctive Henchman
+  OPEN L3: After deliberating, Jason decided to only leave one of Shade’s bodies behind, in order to keep tabs on things in his absence. He had no idea what he would face in France but when things inevitably went wrong, he wanted his options as full a
+  CUE L74: ... Anna said. “The British have some from looting a category-four ADE a few years ago.”...
+## B4 Ch47 Of Course It Was Him
+  OPEN L3: Jason came to his senses, which were an incoherent storm of sensations as he tumbled wildly through the air. His head was ringing, wind roaring over his body and through his ears. All he could see was a spinning blur of sky.
+  CUE L20: ...e for him. Much of it was groundwork he never understood the value of until months after her death. Even as he was falling from an exploded plane, h...
+## B4 Ch48 The Price of Transgression
+  OPEN L3: Jason had just dropped lightly to the lower deck as the yacht rolled under his feet on the open ocean. The three men were startled as the object of the search they just ordered alighted right in front of them. He pushed the hood of his cloa
+## B4 Ch49 The Time For Bold, Decisive Men
+  OPEN L3: “Twelve hundred kilometres is the best you can do?” Miranda complained. “And you have to wait an hour between portals? That’s pathetic.”
+  CUE L51: ... “The truth is, Mr Asano, that if you made me this offer as little as three days ago, I’d probably have taken it. Unfortunately, the pressure co...
+## B4 Ch50 Technical Issue
+  OPEN L3: The transport helicopter touched down at a small airstrip in Sri Lanka. It was small and set amongst an expanse of grassland. The air was hot, thick, and heavy with a tang of fuel, although the helicopter stirred it up. There was one hangar
+  CUE L84: ...“Okay, so this didn’t really come up in conversation, but last week, I got mildly kidnapped.”...
+## B4 Ch51 The Long Game
+  OPEN L3: In the time it took Jason’s plane to arrive in France, circumstances on the ground had gone through significant changes. The Sydney Network team was met by a driver who took them in the direction of the Network’s Lyon branch to participate 
+  REG L30 [Plot_Hooks]: **The Dimensional Fortress**: a sector of the grid has been offline for seventy years.
+  REG L30 [Earth_Powers]: Lyon's branch concealed the Dimensional Fortress at Saint-Étienne for seventy years by faking the Grid (
+  REG L37 [Earth_Powers]: Lyon's branch concealed the Dimensional Fortress at Saint-Étienne for seventy years by faking the Grid .
+  REG L62 [Farrah_Hurin]: Book 4 : Jason finds that she is alive in his world, held captive by the Network's Lyon branch; the Reaper let her go in a negotiation with the World-
+  REG L62 [NPC_Rosters_by_Era]: **Returned**: Farrah is freed from Barbou and the EOA; Dawn returns in a new avatar.
+  REG L62 [NPC_Rosters_by_Era]: **Check absence as well as presence.** Farrah is dead from the end of Book 1 until Book 4; Kaito, Asya and Greg die in Book 5.
+## B4 Ch52 A Moment For Drastic Measures
+  OPEN L3: The aperture was in a tent that had been set up around it, with a makeshift military camp assembled around that. The story was the usual terrorism readiness exercise. The tent was almost of circus proportions, easily fitting a Network ritua
+## B4 Ch53 Foiled Plans
+  OPEN L3: The pair monitoring the aperture from inside the astral space weren’t even iron rankers. Two of Shade’s bodies shot out from Jason’s shadow as he emerged from the aperture and used mana-draining attacks, which knocked the guards unconscious
+  CUE L17: ...not a good start, given that the goal was to settle in for months, if not years before events outside brought the dimensional space into play....
+## B4 Ch54 Quite the Year
+  OPEN L3: Farrah felt a freakishly strong aura from above and looked up to see a sight that stirred a strong memory. A man was slowly descending through the air using a cloak made of star-filled darkness. He landed lightly on the bridge, in front of 
+  CUE L39: ...ty anyway even if she could access it. Jason had removed its contents a year earlier....
+  CUE L54: ...ing the aftermath of the trauma she had suffered. In his case, it had been months before he came up for air....
+## B4 Ch55 Full Houseboat
+  OPEN L3: Jason had his own unfortunate experiences with how essence users dealt with extreme trauma following periods of captivity. In the time he had spent recovering, he had learned a lot from the priest of the Healer and Rufus's mother, Arabelle 
+  CUE L72: ...d. “It kind of threw me. I’d never been knocked back by a girl from a lower year before.”...
+## B4 Ch56 A Wizard Did It
+  OPEN L3: Amy and Kaito watched Farrah go back into her cabin.
+  CUE L37: ...roma, which combined with the unseasonal warmth to give the feel of a spring day. He took a deep, cleansing breath, something he hadn’t ...
+## B4 Ch57 The King of Everyone
+  OPEN L3: Jason’s spirit vault had undergone considerable change, which he discovered on his first entry after accepting the World-Phoenix’s power. Fusing the physical and spiritual aspects of his being had a considerable impact on his spiritual spac
+  REG L4 [Spirit_Vault_and_Astral_Kingdom]: The notes add a blood section like an artery, a sin section of black, red, white and gold, and a dark section in an underground cave with luminescent 
+  REG L59 [Spirit_Vault_and_Astral_Kingdom]: Inventory ; the Spirit Vault, an inventory he can enter and which others can enter by trust ; a spirit domain ; a spirit realm that travels along the 
+## B4 Ch58 I Came Back to Show You Wonders
+  OPEN L3: Shade informed the family members, who were variously preparing dinner, looking after infants, or watching recordings, that Jason was about to emerge and they should gather in the bar lounge. As such, they were waiting for him when he stepp
+## B4 Ch59 Mercy
+  OPEN L3: “That’s a neat bit of work,” Farrah said, taking in the Network’s Sydney branch with her magical senses. Standing outside the building, she observed the magical array shielding the upper levels. “Whoever put this in place did a great job of
+  CUE L91: ...was on a job, early in my career,” he said. “It wasn’t much more than a year ago, although it feels like forever. There was a man that tried...
+  CUE L66: ...r was Jason Asano, but transformed from the man she had met less than a week earlier....
+## B4 Ch60 Ideal Circumstances
+  OPEN L3: Jason ignored the sound and motion of the transport helicopter as he read from the book in his hands.
+## B4 Ch61 The Blood and Death Guy
+  OPEN L3: Three black oversized dirt bikes roared across the red landscape as the sun beat down from overhead, casting sharp shadows on the ground. One bike had an uncertain-looking Farrah while another Jason, his cloak trailing behind like the ice t
+## B4 Ch62 A Lot of Anomalies
+  OPEN L3: While Farrah and Jason fought the silver-rank monsters, Cotsworth looked on through the monitor displaying what the camera drone above the fight recorded. Although the transmission was occasionally spotty due to magical interference, he had
+## B4 Ch63 Pitch Meetings
+  OPEN L3: The film crew set up next to the Surf Club, with a crowd of onlookers gathered around. The kitchen set was put out, with the fridge and oven hooked up.
+  CUE L14: ...ers hate you? Key lime pie is universally acknowledged as a delicious summer dessert, while the internet will tell you that West Indian ...
+## B4 Ch64 Moving Forward
+  OPEN L3: On the top deck of the houseboat, Asya, Farrah and Jason were enjoying lunch as they looked over the final version of the agreement with the Network.
+  CUE L74: ...and child fitness initiatives, he had no concerns about retaining his seat year after year. Now in his seventies, he could still be found using t...
+  CUE L82: ...“High school students,” Jason said. “They started filming us last week. I had Shade check them out, but they’re just putting our t...
+## B4 Ch65 Flemish Baroque
+  OPEN L3: In the office at her restaurant, Erika was talking to Jason through an incarnation of Shade. After weeks of such communication, it was starting to feel normal, which, when she thought about it, was rather concerning.
+  CUE L84: ...rty, with alabaster skin and long, ruby hair. She was wearing a white summer dress with orange and yellow accents....
+## B4 Ch66 Not Ready to Leave
+  OPEN L3: Despite their outward dismissiveness, Jason and Farrah had no trouble finding challenge from silver-rank monsters, although in very different ways. Farrah was all about frontloading damage, making endurance the key for her.
+## B4 Ch67 Decision
+  OPEN L3: As everyone packed up to go home, Greg found Jason in the kitchen.
+## B4 Ch68 What You Have to Do
+  OPEN L3: “Well,” Jason said, sitting around a table with three women. “This is complicated.”
+  CUE L79: ...Phoenix reinforced the dimensional membrane of your universe billions of years ago, which is how your world has endured thus far without overt...
+## B4 Ch69 The Direction We Want Them to Go
+  OPEN L3: “You can’t just go around killing people,” Erika said.
+  CUE L54: ...p, I’m just terrified. I can’t get my head around the responsibility. Two years ago, before I went away, would any of you have wanted me to be ...
+  CUE L56: ...uld trust you with that responsibility,” she said. “We met you almost two years ago and he knew immediately that you could be great.”...
+## B4 Ch70 The Dangers of What I Do
+  OPEN L3: “I have some mixed feelings about this essence,” Jason said, turning the translucent cube over in his hands.
+## B4 Ch71 We Were All Monsters
+  OPEN L3: “Are you sure you want to do this?” Farrah said as she and Jason drove to Kaito and Amy’s house. Given the short distance, they didn’t portal over, so Jason had that power ready in case of emergency.
+  CUE L72: ... high? Did this whole thing happen because you confused the two of us six years ago and you haven’t realised yet? On what planet is Kaito insec...
+## B4 Ch72 Options
+  OPEN L3: “I told you before we went on our helicopter ride that you were a tricky one to find a combination for,” Jason told Amy. They were in her kitchen, along with Farrah, while Kaito watched the girls in the backyard.
+  CUE L79: ... Uncle Hiro deserves that, but the tank is empty. I’ll care tomorrow. Next week at the outside.”...
+## B4 Ch73 I Need Time
+  OPEN L3: Jason heard Hiro, Ken and Farrah having a discussion as he trudged through his houseboat towards the bar lounge.
+  CUE L55: ...ave the world?” he asked, his voice cracking. “How can that be on me? Two years ago, I was selling staples and rubber bands. You know what a me...
+## B4 Ch74 Walkabout
+  OPEN L3: Jason had satisfied himself that his newly refined aura control techniques were adequate. It was now time for a test, which Vermillion had devised for him. That had brought Jason, Vermillion and Farrah to a large shopping centre in Sydney, 
+  CUE L90: ...“I started watching you moon over that guy ten years ago,” he said. “He was missing, presumed dead, but then he myst...
+  REG L43 [Yumi_Asano]: Present in Book 4.

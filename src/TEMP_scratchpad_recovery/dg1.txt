@@ -1,0 +1,544 @@
+## B1 Ch1 Strange Business
+  OPEN L3: Jason woke up naked, face down in the grass. That was not how he expected to wake up, since he had gone to sleep in his own bed and his own Darth Vader boxer shorts. From the feel of cool grass on his unmentionables, he had been removed fro
+  REG L4 [Ken_Asano]: A landscape architect; Jason grew up learning more about grass than he wanted to know.
+  REG L8 [Jason_Asano]: On arrival : he wakes bald and naked in a hedge maze .
+  REG L76 [Jason_Asano]: Outworlder racial abilities  : Interface, Quest System, Inventory, Map, Astral Affinity and Mysterious Stranger.
+  REG L88 [Cheryl_Asano]: Her family are "miners and farmers, tracing their bloodline back through bushrangers, convicts, and indigenous Australians"; she was the one fascinate
+  REG L88 [Ken_Asano]: Born in Japan and raised in Australia from a very young age; "all about the Australian lifestyle, from pub rock to footy matches and weekend barbecues
+  REG L103 [00_Items_Overview]: **Item windows**: the System shows each item with a rank and rarity in the form "Item: [Dread Salvation] (iron rank [growth], legendary)", then a desc
+## B1 Ch2 Of Course Magic is a Thing
+  OPEN L3: Jason read the screen again.
+## B1 Ch3 Local Cuisine
+  OPEN L3: Jason frowned at the object in his hand. The carnivorous mandrake proved to be the most generous monster thus far with its loot, producing not only an extra tin of the precious healing unguent, but also something new.
+  REG L43 [Elves]: **Predation**: cannibals in Book 1 discuss elves as food.
+## B1 Ch4 Cannibals and Spelunking
+  OPEN L3: Jason slowly crawled his way into the dank tunnel, a circular pipe of wet and slimy brickwork. It was wide enough to push himself along, but tight enough that he was pressed against the clammy sides. The darkness engulfed him as he moved aw
+  REG L26 [Goblins_and_Fairies]: **Goblins as monsters**: Jason jokes about killing ten goblins for an uncommon spear in the cannibals' cave.
+  REG L44 [Awakening_Stones]: **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reape
+## B1 Ch5 Wizard
+  OPEN L3: “G’day mate,” Jason said. “Looks like you’ve had a spill. Need a hand up?”
+## B1 Ch6 Potent Potable
+  OPEN L3: Jason, as a rule, enjoyed waking up. He loved the brief hazy moment between dream and reality, shrouded in warm, soft bedding. Even awaking in the soft grass of the hedge maze hadn’t been a wholly unpleasant experience. It was very differen
+## B1 Ch7 Spoils
+  OPEN L3: Would you like to loot [Builder Cultist]?
+  REG L17 [Soul_Bound_Items_and_Regalia]: **Robes of the Astral Verdict**: bronze rank, rare cloth armour for summoners that boosts dimension spells, summon damage reduction and disruptive-for
+  REG L26 [Jason_Asano]: Before Pallimustus : a brief stint at university studying political science, then a drop-out who stayed in Melbourne and saw little of his family apar
+  REG L68 [Glossary]: Quintessence : elemental/essence crystal gems used in crafting .
+  REG L68 [01_World_Primer]: Quintessence**  appears as gems of an essence's theme (for example Dark Quintessence Gems, Book 1, Ch6 L15; crafting material,
+## B1 Ch8 Dark Magic
+  OPEN L3: Jason frowned at the description of the black cube in his hands.
+  REG L37 [Jason_Asano]: Seeing himself later, he notes his Japanese facial features, inherited from his father, look even sharper than usual, his face is gaunt, and his bald 
+## B1 Ch9 Escape
+  OPEN L3: The circumstances in which Jason regained consciousness were unpleasant. He was cramped up in some kind of tight space, forced into a foetal position. His head was spinning; there seemed to be a little man inside it, trying to pickaxe his w
+  REG L47 [Cressida_Vane]: Complains that astral beings were "the death" of her son, and that they are "a nice, traditional blood cult family".
+  REG L47 [Landemere_Vane]: His mother wonders what Landemere was trying to summon; Dougall says it was "one of them entities from beyond the void".
+  REG L50 [Era_Selection]: **Live dangers**: a traditional blood cult in the hedge-maze estate; the Ustei raiding spirit coin convoys; Old City's "Big Three" crime lords.
+  REG L121 [Tone_and_Voice]: **Gary**: deep and growling, plain about death.
+  REG L121 [Gary]: A huge "lion man" whose voice is growly by default (
+  REG L131 [Leonids]: **Appearance**: a huge "lion man" whose voice is growly by default; Gary is "so huge he made bodybuilders look like they w[ere small]". He is covered 
+## B1 Ch10 The Evil Pit of Evil
+  OPEN L3: Jason was jerked back into consciousness as his body choked out more vomit. His throat seared as his empty stomach tried to cast out what wasn’t there, almost gagging him. His head was filled with stabbing pain and when he opened his eyes e
+## B1 Ch11 Dashing Heroics
+  OPEN L3: Once the footsteps had died down, Jason cautiously stuck his head around the door but didn’t see any more cultists. Even returning to the chamber he didn’t see anyone. Whoever hadn’t chased up the tunnel were most likely on the platforms ab
+  REG L4 [Gary]: The notes call him a leonid with a lion head .
+  REG L17 [Awakening_Stones]: **What they do**: "An awakening stone that unlocks the power of consumption... Effect: Awakens an essence ability", requiring an unawakened essence ab
+  REG L17 [Awakening_Stones]: **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reape
+  REG L49 [Rufus_Remore]: Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three 
+  REG L49 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+  REG L51 [Rufus_Remore]: His voice is "like dark chocolate" .
+## B1 Ch12 Sanguine Horror
+  OPEN L3: “That was amazing!” Gary said, coming up to slap Jason on the back.
+  REG L11 [Farrah_Hurin]: Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage .
+  REG L11 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+## B1 Ch13 This is the Part Where We Step Back
+  OPEN L3: The three former captives pounded down the stairs as Jason followed unsteadily behind. As they went down the steep staircase, the smothering heat rose up to engulf them. The air became wetter and heavier until even breathing was a chore. Th
+## B1 Ch14 Worlds Apart
+  OPEN L3: Jason sat on the bottom stair of the chamber while Farrah removed the collars from Rufus and Gary. His whole body was wracked in pain after using the last of his mana to conjure the cloak and float down from the top of the chamber.
+  REG L14 [Gary]: A huge "lion man" whose voice is growly by default ; so large "he made bodybuilders look small" .
+  REG L14 [Gary]: A huge "lion man" whose voice is growly by default ; so large "he made bodybuilders look small" .
+  REG L14 [Leonids]: **Appearance**: a huge "lion man" whose voice is growly by default; Gary is "so huge he made bodybuilders look like they w[ere small]". He is covered 
+  REG L14 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+## B1 Ch15 Outworlder
+  OPEN L3: They continued walking through the stony desert. There was a rough trail to follow back to the manor, and Jason’s map ability had apparently been plotting locations, even when he was unconscious. The hard ground was uneven but not too diffi
+  REG L50 [Elves]: **Reputation**: "Elves are powerful spell casters and their skill with healing magic is unparalleled".
+  REG L50 [Leonids]: **Strength and stamina**: "Members of his leonid race are stronger and faster than us, and that's only the beginning of what leonids can do"; a leonid
+  REG L50 [Outworlders]: **Advantages**: Farrah says outworlders "might have their advantages", and Jason's abilities (map, interface, astral affinity) are outworlder abilitie
+  REG L51 [Elves]: **Predation**: cannibals in Book 1 discuss elves as food.
+  REG L56 [00_Peoples_Overview]: **Where they live**: the Greenstone region is human-dominated, while a port city shows "all kinds of people".
+  REG L56 [Humans]: **Distribution**: the Greenstone region is human-dominated.
+## B1 Ch16 Rescue Party
+  OPEN L3: Rufus, Farrah and Gary raced across the desert, feet pounding into the dry earth. Rufus had told Jason they would be running at a sustainable pace. Their unflagging momentum confirmed his words, but they were moving at a pace that, in Jason
+  REG L28 [Gary]: Equipment : conjured dark-steel runed armour, a hammer and shield .
+  REG L31 [Rufus_Remore]: Swordsmanship : an elegant scimitar of golden light with red-gold inscriptions that he conjures in his hand ; silver and golden swords .
+  REG L31 [Rufus_Remore]: Swordsmanship : an elegant scimitar of golden light with red-gold inscriptions that he conjures in his hand ; silver and golden swords .
+  REG L48 [00_Places_Overview]: Zartos : a desert city with a subterranean river; half of it is underground and it has a large celestine community ; it is the home of the diamond-ran
+## B1 Ch17 A Conservative Pillage
+  OPEN L3: “Aren’t you the person that tried to get us out of the cages but got hit upside the head?” Anisa asked, giving Jason a second glance.
+  REG L31 [Ken_Asano]: A landscape architect; Jason grew up learning more about grass than he wanted to know.
+  REG L58 [Gary]: Summon : a foundry golem, a roughly three-metre black-iron figure with a molten mouth that drips molten metal .
+  REG L58 [Gary]: Summon : a foundry golem, a roughly three-metre black-iron figure with a molten mouth that drips molten metal .
+  REG L76 [Farrah_Hurin]: Essences : Earth, Fire and Potent, which form the Volcano confluence; she explains this herself in Book 1 .
+  REG L106 [Daily_Life]: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+## B1 Ch18 One of Us
+  OPEN L3: With their sweep through the manor house, the group completed their mission. The cultists were dead or running and they found plenty of documentation pointing them to the main cult.
+## B1 Ch19 I Want a Lava Cannon
+  OPEN L3: “I’m not sure I’m comfortable doing it with everyone watching,” Jason said.
+  REG L1 [Farrah_Hurin]: Abilities  : lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and c
+## B1 Ch20 By the Power of Grayskull
+  OPEN L3: “You probably want your essence abilities to be more well-rounded than Farrah’s,” Gary said.
+  REG L19 [Magic_and_Adventuring]: Undeath (Blood + Death + anything) and Succubus are restricted combinations .
+  REG L40 [Adventure_Society]: Rufus tells Jason that it is impossible to become a member with a restricted essence;
+  REG L42 [Magic_and_Adventuring]: The Adventure Society keeps a list of  restricted  essences that pose an inherent threat to ordinary people, with Death at the top ;
+  REG L95 [Magic_Society_and_Associations]: The living document  : a marble-and-gold tablet, connected to a central record, that updates as the record changes and holds the full list of every es
+  REG L104 [Adventure_Society]: Restricted essences : Rufus says Death is restricted by itself , and the Magic Society's living document shows one restricted combination, the Succubu
+  REG L104 [Adventure_Society]: Restricted essences : Rufus says Death is restricted by itself , and the Magic Society's living document shows one restricted combination, the Succubu
+## B1 Ch21 I Have the Power
+  OPEN L3: When Jason had used the dark essence, it had turned into smoke, painfully invading his body until he passed out. The blood essence instead melted over his hand, becoming a viscous liquid that crawled up his arm and started coating his torso
+## B1 Ch22 Apocalypse Stone
+  OPEN L3: “I need a shower,” Jason said.
+  CUE L19: ...stices, the equinoxes and the new year, which was at the beginning of spring....
+  REG L19 [Daily_Life]: **Calendar**: "twelve months of thirty days, divided up into early, mid and late stages of each season", five extra days for the solstices, equinoxes 
+  REG L55 [Magic_and_Adventuring]: Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laug
+  REG L55 [Magic_and_Adventuring]: Diamond : rumoured not to die of old age ; mysterious figures who pursue goals known only to them, and for whom the idea of a higher authority is laug
+  REG L58 [01_World_Primer]: Facts that recur: people of a higher rank  suppress  those of lower rank ("tyranny of rank"); essence users age slower: bronze-rankers can live well p
+  REG L58 [Humans]: **Lifespan**: essence users age slower; bronze-rankers can live well past a hundred, silvers double that and gold-rankers live for centuries.
+  REG L58 [Magic_and_Adventuring]: Rank | Lifespan (
+## B1 Ch23 I May have Made a Huge Mistake
+  OPEN L3: “Uh-oh,” Jason said.
+  CUE L59: ...ing of lamprey teeth emerged from the pool, mirroring the scenario of the day before....
+  REG L15 [Farrah_Hurin]: A lecturer by habit: whenever she is not pointing out something specific, she is explaining .
+  REG L15 [Farrah_Hurin]: Ritual magic : she adjusts circles for ambient magic and builds the infrastructure of Asano Village and the Grid repairs .
+  REG L15 [Tone_and_Voice]: **Farrah**: lectures on any subject and is blunt when angry.
+## B1 Ch24 Astral Space
+  OPEN L3: “So how long are we going to be trekking through the desert?” Jason asked. “I’m not saying there isn’t a stark beauty to it, but I’d like to go someplace where even the sunshine isn’t actively trying to kill me.”
+  REG L34 [01_World_Primer]: Astral spaces and zones : the City of Fallen Echoes , the desert astral space , Cardinas and the natural array , transformation zones .
+## B1 Ch25 Blasphemy is Kind of My Thing
+  OPEN L3: After handling the string of heidels, Rufus made his way into the village. He knew from their previous visit that the inns were all clustered together, so he had no concerns about finding the rest of the group. The sky was turning a rich bl
+  REG L13 [Daily_Life]: **Food**: preparation is often familiar, with bread, soup, sandwiches and cake, but the ingredients are mostly different because farms raise different
+  REG L17 [Adventure_Society]: Adventurers also patrol outlying villages on a monthly rota, an unpopular punishment duty that means a month away from the city (
+  REG L43 [Jason_Asano]: Self-deprecation : "I'm only twenty-three but I've been pretty efficient about squandering my opportunities" .
+  REG L43 [Spoiler_Management]: **Jason is an outworlder**: he tells Rufus that coming to this world is "a fresh start"; Danielle later investigates him at Gabriel Remore's request. 
+## B1 Ch26 Waterfall
+  OPEN L3: Jason was only an occasional bushwalker, so as he climbed the steep mountain trail, he appreciated his new iron-rank attributes. He hadn’t become a sculpture of perfection like Farrah and Rufus, but it was still a solid step up.
+## B1 Ch27 Water, Fall
+  OPEN L3: “It’s pretty slow,” Jason said. “If we get back behind the fence, is it strong enough to hold it?”
+## B1 Ch28 How Did You All Fit In There?
+  OPEN L3: Water crashed into Jason like a derailed train, ploughing him straight into Hiram and blasting them both out the end of the tunnel. Sensations came faster than he could process: pain, wet, disorientation. He couldn’t breathe, or even tell w
+## B1 Ch29 That’s What Adventurers Do
+  OPEN L3: The shabs were finally drawing close.
+## B1 Ch30 Closing the Door Too Hard
+  OPEN L3: In the garden courtyard of the inn, Jason sat comfortably in the late afternoon shade, looking down at a single leech on the ground.
+  REG L47 [Gary]: A friend of Rufus and Farrah from Vitesse .
+  REG L47 [Leonids]: **Notable leonids**: Gary Xandier, a Vitesse adventurer, and the young Gary Sharpton in Book 12.
+  REG L57 [Rufus_Remore]: He feels responsible as the leader of his group: Farrah tells Jason "Rufus is in charge, so he blames himself" for their capture, and says the pressur
+  REG L85 [Familiars]: Team Colin." (
+  REG L88 [Rufus_Remore]: He is calm under pressure: when Anisa demands that Jason be burned as tainted, he answers "I did [know]" and refuses her any say .
+  REG L89 [Familiars]: He is summoned using an awakening stone looted from a sanguine horror and lives in Jason's blood: Jason pricks his finger and lets him "melt back into
+## B1 Ch31 Taming the Beast
+  OPEN L3: “Mr Mayor,” Rufus said, “are you certain you don’t want us to investigate the astral space?”
+  REG L100 [Magic_and_Adventuring]: Some core users still reach gold (the gold-rank director Musin Heath is one, notes Book 10), but most do not .
+## B1 Ch32 Monster Hunting For Beginners
+  OPEN L3: An hour after they left the walled town, Rufus stopped walking. He took a piece of paper from his pocket, looked it over, then turned his gaze to the desert landscape around them.
+  CUE L110: ...rison to Gary, but it was still improved over what it had been just a few days ago. With a wild roar of effort, he strained to straighten his ...
+  REG L87 [Adventure_Society]: It serves as identification, lets the holder copy a notice by touching the medallion to it and then to a blank sheet , and lets the Society track kill
+  REG L87 [Adventure_Society]: Rufus's is bronze for his rank .
+## B1 Ch33 Mistrun River
+  OPEN L3: Back on the road, Rufus explained the local geography to Jason as they travelled. To the east was the inland veldt, a flat, sprawling scrubland. The desert they were passing through was similar to parts of the Australian outback, and it sou
+  CUE L8: ...ver-prepare,” Gary said. “He was studying everything about this place for weeks before we left.”...
+  CUE L74: ...“In moderation,” Farrah said. “This time last week he didn’t know magic existed, let alone adventurers.”...
+  CUE L21: ...The next day they were on a barge heading down river. Jason was surprise...
+## B1 Ch34 Waving the Flag For Secular Morality
+  OPEN L3: As best as Jason could tell, the delta was a mixture of natural wetlands and farmland that made the most of the ample water supply. There was a much greater abundance of trees compared to the desert, but they were mangroves or narrow palms,
+## B1 Ch35 Greenstone
+  OPEN L3: “Anything?” Rufus asked as Gary walked in.
+  REG L10 [Jory_Tillman]: The driver who finds Jason in a village swamped by people seeking healing; "technically an adventurer, although he was the first to admit he rarely we
+  REG L10 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+## B1 Ch36 The Island
+  OPEN L3: Jason regained consciousness on a cushioned table, like an examination table in a doctor’s office. He’d been stripped down to his boxer shorts and his skin was covered in healing unguent.
+  CUE L14: ...“Harsh,” Jason said. “I’ve been knocked out a lot this last week.”...
+  REG L71 [Economy_and_Money]: **Permits and trade**: trade and work permits get a person into the Island's trade lanes; aristocrats, adventurers and residents use the wide lane.
+## B1 Ch37 A Good Adventurer and a Great One
+  OPEN L3: After leaving the walls of the city on the back of a heidel, Rufus rode at a casual pace along the embankment roads that divided up the delta. They were busy with traffic, mostly carts and wagons shuttling back and forth from the city. He c
+  REG L21 [Danielle_Geller]: The Geller family's wall is older than the Old City .
+  REG L81 [Greenstone]: Transit uses terminals (Jason's "magic trams?" is only his guess in
+  REG L83 [Daily_Life]: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+  REG L93 [Adventure_Society]: Its insignia is a  sword and rod crossed over a shield , stitched on its staff's clothing and embossed on its badges .
+## B1 Ch38 Just Another Adventurer
+  OPEN L3: The guild district was the region of the Island that contained the Adventure Society campus, along with many other guilds and societies. Occupying the north-west region of the Island, the guild district also contained the bulk of the Island
+  CUE L117: ...ric handsomeness of a guy who had a supporting role on a teen drama a few years ago, but didn’t break out and is really bitter about going back...
+  CUE L41: ... each month. The next one is in nine days, but you can take yours the following month.”...
+  CUE L43: ... Rufus said. “Training you up to an acceptable standard by the end of next month will be rushed enough. Nine days from now, you wouldn’t com...
+  REG L55 [Jason_Asano]: He says "G'day" and "mate" .
+  REG L55 [Tone_and_Voice]: **Australian idiom**: "G'day" and "mate", "Strewth" and "yonks".
+  REG L56 [Humphrey_Geller]: Familiar : Stash (Velitraxistaasch), a mirage dragon .
+  REG L58 [Familiars]: "He likes 'Stash,' though" .
+  REG L58 [Humphrey_Geller]: Familiar : Stash (Velitraxistaasch), a mirage dragon .
+  REG L64 [Humphrey_Geller]: The Gellers' mothers arranged his familiar bond .
+## B1 Ch39 Training
+  OPEN L3: “As you hopefully recall,” Rufus said, “there are three elements to improving your abilities.”
+  REG L119 [Rufus_Remore]: Teaching : he teaches Jason footwork, balance and combat and later teaches the Asano clan .
+  REG L119 [Rufus_Remore]: Teaching : he teaches Jason footwork, balance and combat and later teaches the Asano clan .
+## B1 Ch40 Eyebeams and the Ethics of Adventuring
+  OPEN L3: After finding out Jory had an unused courtyard behind his clinic, Rufus moved the daily training there. It was really just a walled-in dirt yard, but was sufficient for their needs. The day would begin with Gary, who would run with Jason to
+  REG L31 [Farrah_Hurin]: Aura teaching : perception and memory games, meditation and aura control .
+  REG L31 [Jason_Asano]: Rufus runs his assessment, Farrah teaches him aura control, perception and meditation .
+## B1 Ch41 Vulnerable and Exposed
+  OPEN L3: Jason apologised to Farrah the next day when she arrived at Jory’s clinic for his training.
+  CUE L81: ... good idea,” Rufus said. “I’ll be administering the field testing for next month’s Adventure Society intake. I’ll need to start preparing in...
+  CUE L3: ...Jason apologised to Farrah the next day when she arrived at Jory’s clinic for his training....
+  CUE L28: ...imagination in ways his other abilities couldn’t match, yet it eluded him day after day. Every afternoon he would sit under the awning on his b...
+## B1 Ch42 This is the Pits
+  OPEN L3: As Farrah and Gary walked along, Jason would step into a shadow on one side of the street and reappear on the other.
+  REG L25 [Magic_Society_and_Associations]: Books 1-3), who uses the Fortress as his office; his deputy director Pochard Finn is an elf and a local who runs the city campus and is "the de facto 
+  REG L25 [Lucian_Lamprey]: An elf with an uncommonly muscular frame who was "banished to Greenstone for previous improprieties"; he uses the Fortress as his office.
+  REG L25 [Elves]: **Local families**: Greenstone has local elf families; Lucian Lamprey is an elf banished there who is not one of them, and Pochard Finn is an elf and 
+  REG L25 [NPC_Rosters_by_Era]: **Authority**: Elspeth Arella, Vincent Trenslow, Lucian Lamprey, Pochard Finn, Danielle Geller.
+  REG L25 [Plot_Hooks]: **A corrupt branch**: the Magic Society's local director was banished to Greenstone for improprieties and uses the Fortress as his office. *Who protec
+  REG L30 [Pochard_Finn]: "Pochard Finn maintained things at the city campus while frequently travelling to the Fortress himself. He was also an elf and a local".
+## B1 Ch43 Nightingale
+  OPEN L3: “This is nice,” Jason said.
+  REG L5 [Daily_Life]: **Transport**: heidels are "the size and shape of a horse, but with scales instead of hair and two heads, each with a horn"; the Island's districts ar
+  REG L18 [Sophie_Wexler]: Chocolate skin, shining silver hair and sharp eyes that exactly match the hair, "the matching metallics a giveaway trait of the celestine race"; norma
+  REG L18 [Celestines]: **Appearance**: Sophie has chocolate skin and shining silver hair, her eyes matching it exactly, "the matching metallics a giveaway trait of the celes
+  REG L18 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+  REG L29 [Clarissa_Ventress]: A woman with dark, cascading hair and a sultry walk who looks only a few years older than the two women she walks between.
+  REG L29 [NPC_Rosters_by_Era]: **Old City and the Island**: Cole Silva, Clarissa Ventress, Adris Dorgan, Thalia Mercer.
+## B1 Ch44 Complimentary Ointment
+  OPEN L3: “I always wanted to fight you,” Fire Fist said to Sophie as they faced one another in the cage. “I was just starting out when you left. You were a legend.”
+  REG L23 [Vincent_Trenslow]: Rufus notes his professional manner; his moustache "extended past either side of his head".
+## B1 Ch45 So Much For Atheism
+  OPEN L3: Jason had not explored many of the Island’s districts. He took the loop to one he had never visited before: the temple district. His new world had no shortage of gods, which as a long-time atheist was more than a little disconcerting. He ha
+  REG L4 [Gods_and_Churches]: In Book 1 Jason sees temples such as the Temple of Roads and the Temple of the Healer on the Divine Square .
+  REG L4 [Greenstone]: The Divine Square : a huge crowded square on the Island, paved even in high-grade green stone, ringed by streets of temples whose size reflects the hi
+  REG L4 [Religion_in_Practice]: **Temple districts**: temples line the road to the Island's Divine Square and "gods had hierarchies of their own": the Temple of Roads sits behind the
+  REG L5 [Daily_Life]: **Housing**: Leust, one of the delta's largest towns, has paved roads and stone buildings "instead of mud-brick"; in the Island, green stone appears e
+  REG L5 [Religion_in_Practice]: **Temple districts**: temples line the road to the Island's Divine Square and "gods had hierarchies of their own": the Temple of Roads sits behind the
+  REG L8 [Daily_Life]: **Food**: preparation is often familiar, with bread, soup, sandwiches and cake, but the ingredients are mostly different because farms raise different
+## B1 Ch46 Blatant Manipulation
+  OPEN L3: The chamber was large and circular, a single room rising up five storeys to a glass ceiling. Light spilled in from above, reflecting from crystal mosaics that lined the walls to bathe the room in rainbow colours. This innermost chamber was 
+  CUE L33: ...“A month ago I still thought auras were made up,” Jason said. “Who knows...
+  CUE L31: ...tinkling sound. It gave Jason the sense of a country stream on a warm summer’s day....
+  REG L16 [Gods_and_Churches]: In Book 1 Jason meets the goddess as a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable" ; she knows e
+  REG L16 [Gods_and_Churches]: In Book 1 Jason meets the goddess as a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable" ; she knows e
+  REG L16 [Knowledge]: In Book 1 a statue is replaced by a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable", not holding the
+  REG L16 [Tone_and_Voice]: **Raythe**: terse and final. **Knowledge**: "detached and untouchable".
+## B1 Ch47 Mirage Chamber
+  OPEN L3: Rufus looked up as Gary emerged from his room, stretching his long arms and yawning.
+  CUE L109: ...“Didn’t you say that they’d just wave everyone through next month?” Jason asked Rufus....
+  CUE L11: ...“He went to see the goddess of knowledge few days ago,” she said. “Since then he’s been like a monster. All we wa...
+  REG L36 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+  REG L36 [Magic_and_Adventuring]: Dragon** (Humphrey,
+  REG L87 [Danielle_Geller]: In Book 1 she "may have looked too young to be Humphrey's mother" .
+  REG L88 [Humphrey_Geller]: Shy in personal matters : when Jason asks in front of his mother whether he has spoken to Gabrielle, he turns white and shakes his head .
+  REG L88 [Tone_and_Voice]: **Humphrey**: precise and a little shy about romance, then crisp in command.
+  REG L88 [Danielle_Geller]: "Gabrielle?" (
+## B1 Ch48 An Endless, Inescapable Nightmare
+  OPEN L3: In the control room of the mirage chamber, all eyes were on Rufus. He walked over to the stone block under the window, which had a dizzying array of runes, sigils and intricate magical diagrams carved into it. He spent a few moments looking
+  REG L92 [Gods_and_Churches]: The god of heroes has no subordinate gods .
+  REG L92 [Rufus_Remore]: Rufus's uncle is clergy of Hero .
+  REG L101 [Gabriel_Remore]: Danielle Geller tells Rufus she is investigating Jason "at your father's request".
+  REG L101 [Spoiler_Management]: **Jason is an outworlder**: he tells Rufus that coming to this world is "a fresh start"; Danielle later investigates him at Gabriel Remore's request. 
+## B1 Ch49 A Voice From Home
+  OPEN L3: The Adventure Society offered a limited, if valuable, array of services. The Magic Society, by contrast, provided all manner of magical amenities to anyone with the money to pay for them. The main lobby of the Magic Society services buildin
+  CUE L86: ...“Give my love to Mum. See you next week, Dad.”...
+  REG L27 [Gabriel_Remore]: First seen as a lifelike water-link image of "Rufus's father, Gabriel Remore".
+  REG L27 [Daily_Life]: **Communication**: the Magic Society's water link projects a lifelike image of a speaker; by Book 12 Travis Noble's sky link service carries calls.
+## B1 Ch50 The Full Keanu
+  OPEN L3: Rufus swung the staff horizontally, Jason swaying back so it passed in front of him. Rufus kept the momentum, bringing the staff up and over into a downward strike. Jason kept control of his balance, shifting to the side without disrupting 
+  REG L92 [Sophie_Wexler]: Cole Silva, whose father her father had worked for, wanted her .
+  REG L92 [Cole_Silva]: "The newest member of the Big Three crime lords of Old City", with his father's protection of Sophie gone.
+  REG L92 [Era_Selection]: **Live dangers**: a traditional blood cult in the hedge-maze estate; the Ustei raiding spirit coin convoys; Old City's "Big Three" crime lords.
+  REG L92 [NPC_Rosters_by_Era]: **Old City and the Island**: Cole Silva, Clarissa Ventress, Adris Dorgan, Thalia Mercer.
+  REG L93 [Clarissa_Ventress]: Watches Sophie's match from her own viewing box, imagining the look on Silva's face.
+## B1 Ch51 Song of the Nightingale
+  OPEN L3: “Enter!” Lucian's voice bellowed, and Cassowary opened the door. Following him in was a nervous-looking, middle-aged man with a balding head and noticeable paunch.
+  CUE L37: ...“No, he didn’t,” Hubert agreed. “Couple of months ago, the old man went in his sleep. There were rumours, of cour...
+## B1 Ch52 Pain
+  OPEN L3: “I’m taking it up to five.”
+  REG L7 [Jason_Asano]: Way of the Reaper martial arts .
+## B1 Ch53 Nightlife
+  OPEN L3: With Jason’s Adventure Society field assessment looming closer by the day, Rufus, Gary and Farrah pushed him harder than ever. As a release, they would spend their evenings exploring the nighttime entertainments offered by the city. Daniell
+  REG L45 [Cassandra_Mercer]: The notes describe her as bronze rank with a hidden aura, who suppresses Jason's aura at a concert and investigates his background; Lady Thalia's bron
+  REG L45 [Thalia_Mercer]: Introduced by Danielle as "Lady Thalia Mercer" at a social gathering, her bronze aura pressing down on Jason until he suppresses it.
+  REG L45 [NPC_Rosters_by_Era]: **Old City and the Island**: Cole Silva, Clarissa Ventress, Adris Dorgan, Thalia Mercer.
+  REG L54 [Thalia_Mercer]: Tried to convince her husband that Thadwick would benefit from more training.
+## B1 Ch54 Field Assessment
+  OPEN L3: The layout of the Adventure Society campus reminded Jason of a university. One of the nice ones, with expanses of lawn, gardens and tiled pathways leading through impressive stone arches. The marshalling yard was like a small town square fo
+  CUE L38: ...“Last month there were problems finding enough postings for everyone on...
+  CUE L39: ...“There weren’t enough monsters last month?” Jason whispered at Humphrey....
+  CUE L47: ...mment on how the society conducts itself as much as you like. For the next week, however, you are a worthless flesh-sack nestled vulnerably...
+  REG L17 [Thadwick_Mercer]: Humphrey: "That's Thadwick Mercer. His father actually might kill you".
+  REG L29 [Vincent_Trenslow]: Rufus notes his professional manner; his moustache "extended past either side of his head".
+  REG L33 [Adventure_Society]: Rufus says there "may be some level of corruption in this branch" in Book 1 (
+  REG L35 [Magic_and_Adventuring]: Field assessments : a candidate joining the Society is tested in the field by an adventurer .
+  REG L35 [Adventure_Society]: Field assessment : an instructor tests the candidate's physical abilities, essence abilities and judgement under pressure .
+  REG L36 [NPC_Rosters_by_Era]: **Authority**: Elspeth Arella, Vincent Trenslow, Lucian Lamprey, Pochard Finn, Danielle Geller.
+## B1 Ch55 Rune Tortoise
+  OPEN L3: The routine for the field assessment was to stop in a town or village each night. In the morning they would collect monster notices from the adventuring board and set out to deal with them. Vincent took an approach where the would-be advent
+  CUE L48: ...“Rufus came out of last month’s assessment with a pretty high opinion of the instructor,”...
+  CUE L3: ...er called on for the monster hunts. Starting with Humphrey, the first three days saw four of the seven candidates move from participants to ...
+## B1 Ch56 Gary’s Gift
+  OPEN L3: Jason and Mobley passed each other as Jason walked in the direction of the rune tortoise.
+  REG L46 [Gary]: Smithing : he forges Dread Salvation ; he reforges it with Virid Martine as Hegemon's Will .
+  REG L47 [Soul_Bound_Items_and_Regalia]: **Dread Salvation**: a sword "crafted with gratitude, in hope it would be of the greatest use in the moment of greatest need"; "iron rank [growth], le
+  REG L49 [Jason_Asano]: Weapons : a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Gary , later reforged with Virid Martine as Hegemon's Will .
+  REG L49 [00_Items_Overview]: **Item windows**: the System shows each item with a rank and rarity in the form "Item: [Dread Salvation] (iron rank [growth], legendary)", then a desc
+  REG L49 [Soul_Bound_Items_and_Regalia]: **Dread Salvation**: a sword "crafted with gratitude, in hope it would be of the greatest use in the moment of greatest need"; "iron rank [growth], le
+## B1 Ch57 Rainbow Smoke
+  OPEN L3: Jason looked at the dead rune tortoise.
+  CUE L22: ...“One of the candidates from last month had a looting power,” Vincent said as he glanced back at th...
+  CUE L58: ...inventory he took out a slab of meat, something looted from a monster several days ago. He wedged it in between the mangrove roots, just under the...
+  REG L21 [Awakening_Stones]: **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for except
+## B1 Ch58 A Man of Malevolent Intellect
+  OPEN L3: With the bark lurker dealt with, the group completed the crossing of Bridge Road and mangroves gave way to marshland. Once again they were riding atop the embankment roads that were the main thoroughfares of the delta. Sitting in the back o
+  CUE L85: ...“Is that so?” Jason asked. “Less than two months ago, I walked into Greenstone with no name and no background. T...
+  CUE L85: ... months ago, I walked into Greenstone with no name and no background. Two weeks ago, I watched the symphony from the private viewing box of one...
+  CUE L102: ...s time. He did well, taking leadership today. He had a similar chance last month and second-guessed himself into silence.”...
+  REG L19 [Magic_and_Adventuring]: a candidate joining the Society is tested in the field by an adventurer (Book 1, Ch54 L35; the Book 1 assessment involves trap weavers,
+## B1 Ch59 Falling Short
+  OPEN L3: The adventurer accommodation had a dozen bedrooms, with three bathrooms shared between them. Jason found the bathrooms strange in their familiarity, tiled surfaces and magical plumbing. Jason was fresh out of the shower, with a towel around
+  CUE L13: ... was wondering why you didn’t have eyebrows when we met, but a couple of days later you did.”...
+  CUE L31: ... would make the fourth group of margolls the group had encountered in three days....
+  REG L30 [Daily_Life]: **Clothing**: "Most people, whether in Greenstone or the delta, wore loose-fitting, breathable clothes because of the heat"; adventurers on a job wear
+## B1 Ch60 Making Music
+  OPEN L3: Jason and the margoll faced off outside the mud-brick barn. The margoll’s howl called out more, who emerged from in and around the building to join it. As they assembled, Jason and the first one remained where they stood, gazes locked. Jaso
+  CUE L34: ...of the wagon feeling like a different man than the one who climbed on a week earlier. He had a sense of power about him, of control over his own...
+  CUE L39: ...lead me to be smug, childish, and a little too impressed with myself. Last week, I subjected you to all three.”...
+## B1 Ch61 Trade Hall
+  OPEN L3: Jason looked at the various suits of cloth armour draped over the balcony. He had taken three with him on the field assessment, and each had come back covered in rents and tears. Gary stood next to Jason, also looking them over.
+  REG L36 [Awakening_Stones]: **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for except
+  REG L63 [Economy_and_Money]: **Wealth and rank**: Jason's three gold coins are enough to fund Jory's alchemy facility.
+  REG L65 [Economy_and_Money]: **Denominations**: "The basic coin of the realm was the lesser spirit coin. Iron spirit coins were worth a hundred lesser coins, used by bulk traders,
+  REG L76 [Gilbert_Bertinelli]: Runs "Gilbert's Resilient Attire For the Discerning Gentleman" and invites customers to call him Bert; one of octuplets named after Berts, including t
+  REG L76 [NPC_Rosters_by_Era]: **Patrons and staff**: Emir Bahadir, Constance, Hester Maharala, Gilbert Bertinelli.
+  REG L92 [Gilbert_Bertinelli]: Sells Jason the trap-weaver-silk and leather combat attire, haggled by Gary and priced in bronze coins, which is unusual for iron-rank gear.
+## B1 Ch62 Have Some Damn Adventures
+  OPEN L3: “Hello,” Jason said, waving at the crystal floating in front of him. “I’m not sure if—or when—you’ll be seeing this, but I didn’t die, or whatever you think happened to me. You probably know that, since the only way you’re likely to see thi
+  CUE L5: ...d have scripted this. Oh, well. Where should I start? It’s been about two months since I arrived here. Where is here? That’s complicated. I’ve mad...
+  CUE L5: ... involved sort of a week-long retreat, which I got back from a couple of days ago.”...
+  REG L61 [Adventure_Society]: Badge : a circular iron medallion embossed with the sword-and-rod-over-shield emblem, carried in a leather wallet .
+  REG L61 [Vincent_Trenslow]: Hands Jason his badge and explains how stars work: expect to drop a star each time you advance a tier.
+  REG L61 [Magic_and_Adventuring]: Badges** are circular medallions embossed with the Society's sword and rod crossed over a shield (an iron one for a new member such as Jason, a bronze
+  REG L66 [Era_Selection]: **Scale**: iron rank; Jason's badge is iron with one star. Field testing is held at the start of every month.
+  REG L66 [Magic_and_Adventuring]: two stars permit some unsupervised responsibility and different contract types, three more so (Vincent,
+  REG L81 [Adventure_Society]: Stars** show the Society's confidence in judgement, not power (Vincent,
+## B1 Ch63 Sunk-Cost Fallacy
+  OPEN L3: Jason was trying something new on his morning run to Jory’s clinic. With his cloak of shadows around him, he used its ability to reduce his weight to accelerate his progress. It required careful control, kicking off each step with his full 
+## B1 Ch64 Take My Wife, Please
+  OPEN L3: Luckily for Jason, most of the contracts in the jobs hall were for areas close to the city. Unless the threat was urgent, those further afield were posted on each town or village’s noticeboard. Every month, the Adventure Society would send 
+  REG L3 [Adventure_Society]: Adventurers also patrol outlying villages on a monthly rota, an unpopular punishment duty that means a month away from the city .
+  REG L80 [Awakening_Stones]: **Family supply**: the Gellers traditionally supply their scions with enough stones to get started, while the rest must be earned.
+  REG L81 [Awakening_Stones]: **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for except
+  REG L82 [Awakening_Stones]: **Sources**: looting an awakening stone or essence can pay better than the contract to kill the monster; the Adventure Society gives stones for except
+## B1 Ch65 Curious Urges
+  OPEN L3: Jason tugged his bowtie into shape in front of a large standing mirror.
+  CUE L28: ...tance through the wide streets, the sun low, but still hanging in the summer sky. The concert hall was a magnificent, circular building ...
+  REG L6 [Gilbert_Bertinelli]: Makes Jason a tuxedo and refers him to his brother for specialised desert boots.
+  REG L60 [Elspeth_Arella]: "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+  REG L60 [NPC_Rosters_by_Era]: **Authority**: Elspeth Arella, Vincent Trenslow, Lucian Lamprey, Pochard Finn, Danielle Geller.
+  REG L60 [Adventure_Society]: a director and deputy; in Greenstone the director is Elspeth Arella, the deputy Genevieve Picot (
+## B1 Ch66 A Stronger Weapon Than the One in Your Hand
+  OPEN L3: Humphrey was returning to the family estate after completing a contract, muddy and spattered with monster blood. He was met by Phoebe, a distant cousin. Like him, she was iron rank but joined the Adventure Society more than half a year earl
+  CUE L3: ...im, she was iron rank but joined the Adventure Society more than half a year earlier....
+  REG L3 [Humphrey_Geller]: Son of Danielle Geller ; a Geller of Greenstone, with a family tower and a mirage chamber .
+  REG L3 [Humphrey_Geller]: Son of Danielle Geller ; a Geller of Greenstone, with a family tower and a mirage chamber .
+  REG L3 [Phoebe_Geller]: A distant cousin of Humphrey, iron rank and with the Adventure Society for more than half a year, with darker skin and much lighter hair than his.
+  REG L58 [Humphrey_Geller]: Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 .
+  REG L58 [Humphrey_Geller]: Rick Geller, a family member, shares his tall, broad-shouldered build .
+  REG L58 [Rick_Geller]: Dark-brown skin and light-brown hair, with a build like Humphrey's, "tall and broad-shouldered"; he leads four others.
+## B1 Ch67 This is What it Means to Fight Me
+  OPEN L3: Jason moved comfortably through the marshy woods. His feet didn’t sink into water or mud, and his eyes easily pierced the darkness. Clusters of scraggly trees and other obstacles were no bother; he could vanish into the ample shadows and ap
+  REG L14 [Jonah_Geller]: On Rick's team he is the bulwark, slowed by heavy armour and a shield; he shouts to draw out monsters.
+  REG L66 [Jonah_Geller]: On Rick's team he is the bulwark, slowed by heavy armour and a shield; he shouts to draw out monsters.
+## B1 Ch68 Good News For Clive
+  OPEN L3: The common room of Jason’s inn was a sprawling, luxurious space, with dining area, bar and lounge. Jason was in the lounge area with Rick Geller, who had sought him out in the early hours, eager to discuss their fight. Jason was quickly rea
+  REG L92 [Tone_and_Voice]: **Clive**: a lecturer who loses the thread and apologises and jokes about wrestling an eel.
+  REG L92 [Clive_Standish]: Grew up on an eel farm in the delta near Greenstone (
+  REG L94 [Clive_Standish]: Grew up on an eel farm in the delta near Greenstone ; recruited to the Magic Society by the Greenstone branch's then-director .
+## B1 Ch69 Dumpling Soup
+  OPEN L3: There was a small jetty from which they could see the village. There were several dinghies tied up, one of which had been sunk in the shallow water. A streak of dried blood was on the part jutting above the waterline.
+  REG L91 [Glossary]: Dumpling soup : Clive's model of the cosmos .
+  REG L101 [00_Astral_Overview]: The dumpling-soup model : in Clive's analogy worlds are dumplings, the astral is the soup, and astral spaces are bits of soup congealed and attached t
+## B1 Ch70 Rewards
+  OPEN L3: The village was located right on the water. The monster sensed a potential meal out in the open and burst from the water to scramble in the direction of Clive and Jason. It looked like a large, six-legged crocodile. Clive, still sitting on 
+## B1 Ch71 A Bit of Poo
+  OPEN L3: Jason didn’t normally wear his battle robe around the city, but he was on the job. He had been assigned his first contract within the city itself and was meeting a contact at what was apparently a famous tavern in Old City. It was located i
+  REG L40 [Runics]: **Rarity**: they are "a rarity in Greenstone"; a runic barman in Old City is stocky and hairless with blue-black skin and glowing runes.
+## B1 Ch72 Rat Race
+  OPEN L3: Stone-chewer rats were around the size of house cats, with grey fur, protruding teeth and oversized, talon-like claws. Jason watched as a half dozen of them struggled to scratch away the leeches digging into their flesh. One writhed around 
+## B1 Ch73 A Grim Sword to Live By
+  OPEN L3: Jason was heading down the tunnel towards where he had heard the screaming. A bellowing roar came from the same direction, but it definitely wasn’t made by a ratling. Jason moved forward, taking care with the wet stone of the walkway and th
+## B1 Ch74 Doing Better
+  OPEN L3: The balcony of Jason’s suite was not as expansive as the one Rufus, Farrah and Gary shared, but it was still more than large enough to put out a reclining lounger. Being on the opposite side of the building, Jason’s balcony looked over the 
+  CUE L63: ...easant evening. The girl thanks you nervously, and you go to bed. The next day you move on because you still have a long road ahead.”...
+  REG L70 [Humphrey_Geller]: Moral voice : in Book 1 he confronts Jason about the cruelty of the mirage-arena ambush .
+## B1 Ch75 Progress
+  OPEN L3: “So,” Clive asked, “the original sanguine horror came from the full creation process? The sacrifice chamber, the alchemy pit, the whole thing?”
+## B1 Ch76 Preparations
+  OPEN L3: “Mr Asano,” Gilbert greeted, “always such a pleasure.”
+  REG L3 [Gilbert_Bertinelli]: Makes Jason a tuxedo and refers him to his brother for specialised desert boots.
+## B1 Ch77 Group Cohesion
+  OPEN L3: Jason walked through the Adventure Society campus with a recording crystal floating over his head.
+  CUE L6: ... my friend Humphrey, who I’ve mentioned before. We had bit of a fight last week, and we haven’t talked much since, so things are still a li...
+  REG L10 [Knowledge]: She knows everything anyone in her world knows, including Jason, so she knows Mario Kart shortcuts .
+  REG L10 [Gods_and_Churches]: ); she knows everything anyone in her world knows, including Jason, so she knows "Mario Kart shortcuts" (
+  REG L51 [Economy_and_Money]: **Escorts**: adventurers escort shipments of coins from a farm back to the city.
+## B1 Ch78 Jason Has the Good Biscuits
+  OPEN L3: The group, now reduced to seven, made their way through the desert sand. This was proper desert, with blistering sun scouring any life out of the rolling dunes. There were no landmarks, so Jason checked his map from time to time. It unveile
+  REG L84 [Familiars]: A mirage dragon who takes small forms: a mouse in Humphrey's pocket, a bird on Jason's shoulder and a puppy .
+## B1 Ch79 Sand Everywhere
+  OPEN L3: Chaos erupted as the sand came to life all around them, surging like waves. From the empty desert, they were suddenly surrounded, the sand rising up to take a variety of crude forms. None were any larger than a person, but there were dozens
+## B1 Ch80 It’s Not Work if You Love What You Do
+  OPEN L3: After half a day of trudging through the desert, the group finally spotted the spirit coin farm. From the outside, all that could be seen was a high wall. It was still some distance off, but the group appreciated a landmark in the featurele
+  REG L21 [Economy_and_Money]: **Farms**: spirit coins are made on farms using special moulds that cause magic to crystallise, in delicate, very stable ambient magic.
+  REG L23 [Economy_and_Money]: **Control**: "The Magic Society manages all of that"; coin production is the main source of its political power and the reason it must stay politicall
+  REG L27 [Economy_and_Money]: **Volume**: spirit coins are Greenstone's largest export, and the desert farms produce almost three percent of the lesser coins used worldwide; most f
+  REG L37 [Economy_and_Money]: **Why Greenstone**: most areas have too high a magical density to make lesser coins; the smallest denomination they can manage is usually iron or even
+  REG L39 [Economy_and_Money]: **Why Greenstone**: most areas have too high a magical density to make lesser coins; the smallest denomination they can manage is usually iron or even
+  REG L40 [Daily_Life]: **Devices**: lamps, showers and most household magic run on lesser spirit coins.
+## B1 Ch81 Crazy Desperation Move
+  OPEN L3: Jason looked around and saw that multiple sand skimmers were converging on the three occupied by his group. Compared to their own skimmers, the ones pursuing them were made for passengers rather than cargo, with extra seats and awnings to s
+  REG L43 [Ustei]: **Who they are**: the "sand pirates" are actually the Ustei Tribe, nomads from a region to the north; Humphrey identifies them as northerners from the
+## B1 Ch82 Choices
+  OPEN L3: “I like the enthusiasm,” Ernest said to Humphrey, “but we shouldn’t immediately rush to battle. What do you think, Phoebe?”
+  CUE L57: ...“There was an incident several years ago where the carriages were tampered with,” Clive said. “Some ...
+## B1 Ch83 It Makes No Difference to the Ant
+  OPEN L3: Jason spotted Phoebe Geller as he was walking through the grounds of the Adventure Society campus. She gave him a wave and approached.
+  CUE L55: ...w would you rate your performance in the group contract you undertook two days ago?” the woman asked, the others still silent....
+  REG L4 [Ustei]: **The raids**: an expedition is formed to find out why they are so far south and stop them raiding spirit coin shipments.
+  REG L4 [Era_Selection]: **Live dangers**: a traditional blood cult in the hedge-maze estate; the Ustei raiding spirit coin convoys; Old City's "Big Three" crime lords.
+  REG L4 [Plot_Hooks]: **The Ustei in the desert**: nomads from the north are raiding spirit coin convoys far from home. *Why did they come south?*
+  REG L45 [Elspeth_Arella]: "Director of the Greenstone Branch of the Adventure Society", pointed out by Rufus; she sits at the centre of the inquiry bench.
+  REG L45 [Elves]: **Notable elves**: Allayeth and Charist, Yaresh's two diamond-rank elves; Hana Shavar, High Priestess of the Healer; Elspeth Arella, director of the G
+## B1 Ch84 Injury & Death
+  OPEN L3: For the first time, Jason walked past the one-star contracts in the jobs hall to the two-star notices further down. It was a much smaller section, and looking further he saw the solitary three-star noticeboard had no jobs at all.
+  CUE L41: ...rsh wyrm. The tracking on his badge recorded his death mid-afternoon, the day before yesterday.”...
+## B1 Ch85 Because I’m an Adventurer
+  OPEN L3: “I couldn’t find anything even resembling an entrance,” Jason said as the trio regrouped. The others shook their heads, having fared no better.
+  CUE L48: ...“Great astral beings,” Jason mused, remembering something he heard months earlier. “Hey, Clive.”...
+  REG L22 [Clive_Standish]: Racial gift : a blessing from the Celestial Book changed his human Special Attack Affinity into a spell affinity .
+  REG L22 [00_Peoples_Overview]: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  REG L22 [Humans]: **Evolution**: Clive's blessing from the Celestial Book changes his human special attack affinity into a spell affinity; his Human Ambition becomes Th
+  REG L35 [00_Peoples_Overview]: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+  REG L35 [Humans]: **Racial gifts**: an affinity for special attacks, essences that advance more rapidly than others', and latent powers that adapt to the essences. The 
+  REG L39 [00_Peoples_Overview]: **Racial gifts**: "Every race has six racial gifts"; for humans they are an affinity for special attacks, faster essence advancement and latent powers
+## B1 Ch86 Some Kind of Secret
+  OPEN L3: “This construction completely predates the founding of Greenstone,” Clive said, examining the side of the passage they were in.
+  REG L31 [Draconians]: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  REG L31 [Runics]: **Bones**: the runes show faintly on their bones; a short, broad skeleton in the desert astral space is identified as a runic by them.
+  REG L40 [00_Peoples_Overview]: **Civilisation-building peoples**: Jason's team finds bodies of "every civilisation-building species: humans, elves and leonids, celestines, runic, sm
+  REG L115 [Clive_Standish]: Familiar : Onslow, a rune tortoise who sits at the prow of the airboat, carries Clive, and becomes a runic tattoo on his torso when called back .
+## B1 Ch87 Can’t Lose
+  OPEN L3: “I think I’ve found something,” Humphrey called out.
+## B1 Ch88 The Nature of Absolution
+  OPEN L3: Rufus was at the Geller Estate, discussing property development for the Geller family/Remore Academy joint training facility. In a conference room, he sat alone across a table from three members of the Geller family.
+  REG L94 [Humphrey_Geller]: Abilities include dragon wings and a flaming dragon-wing sword, a Dragon's Might aura that turns fire into dragon fire, teleporting , and the ability 
+## B1 Ch89 Anti-Pirate Operations
+  OPEN L3: Cassandra Mercer awoke to the sound of crockery and cutlery being laid out in the next room. She swung her legs out of bed and got up, stretching. She didn’t want to put on fresh clothes before she had a shower, so she put on the only artic
+  CUE L8: ...“Breakfast the next morning is my signature move,” Jason said. “It’s how I convince peo...
+  REG L50 [Ustei]: **Who they are**: the "sand pirates" are actually the Ustei Tribe, nomads from a region to the north; Humphrey identifies them as northerners from the
+  REG L50 [Ustei]: **The response**: the best outcome is a peaceful return north or an agreement not to attack convoys; failing that, they are to be captured and interro
+  REG L50 [Plot_Hooks]: **The Ustei in the desert**: nomads from the north are raiding spirit coin convoys far from home. *Why did they come south?*
+  REG L63 [Smoulder_and_Brighthearts]: **Smoulder**: "They have natural affinities for earth and fire"; a smoulder friend of Humphrey's parents has the wind essence and his earth affinity e
+  REG L68 [Ustei]: **The response**: the best outcome is a peaceful return north or an agreement not to attack convoys; failing that, they are to be captured and interro
+## B1 Ch90 The Path to Bronze
+  OPEN L3: The sphere of shadows was short-lived, but Jason made the most of it as he danced among the blinded Ustei.
+## B1 Ch91 Life & Death
+  OPEN L3: Jason let out a contented sigh.
+## B1 Ch92 Unusual Contract
+  OPEN L3: The Adventure Society campus was an unusual bustle of activity as Jason made his way to the jobs hall. It was normal to see people wandering about, but there was a preponderance of society officials moving about in a harried fashion. The ma
+  CUE L24: ...“You know they hit up one of the coastal villages, the day before we attacked?”...
+  REG L32 [Economy_and_Money]: **Indenture as income**: criminals' indentures are sold or auctioned to recoup the cost of their crimes.
+  REG L32 [Law_and_Indenture]: **Indenture, not slavery**: "We don't have slaves. We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is
+  REG L32 [Plot_Hooks]: **An indenture sale**: criminals' indentures are sold or auctioned to recoup the cost of their crimes. *Who buys a particular indenture, and why?*
+  REG L33 [Law_and_Indenture]: **Indenture, not slavery**: "We don't have slaves. We have indentured servants. A lot of criminals are sentenced to indenture, then their indenture is
+  REG L36 [Law_and_Indenture]: **Captured enemies**: the Ustei do not accept slavery; "their culture doesn't allow warriors to be made slaves. For them, capture means release or dea
+  REG L36 [Ustei]: **Captives**: "Their culture doesn't allow warriors to be made slaves. For them, capture means release or death".
+## B1 Ch93 Truth
+  OPEN L3: The lumber region was on the south side of the river, in the eastern parts of the delta, furthest from the city. Jason had been refining his long-distance running style that employed the weight-reducing power of his cloak. It was really mor
+  CUE L73: ...“That last appearance was less than a week ago,” Kyle said. “That could be some wait.”...
+  CUE L5: ...The days were growing shorter as summer moved into autumn, and the sun had just set as Jason arrive...
+  CUE L22: ...The next morning, he left the inn as irritably as he arrived and set out for...
+  REG L5 [Daily_Life]: **Housing**: Leust, one of the delta's largest towns, has paved roads and stone buildings "instead of mud-brick"; in the Island, green stone appears e
+  REG L5 [Era_Selection]: **Calendar**: Jason arrives in late November; Leust's lumber conspiracy falls in late summer moving into autumn.
+## B1 Ch94 Consequences
+  OPEN L3: The Temple of the Healer in Greenstone was one of the central temples on the Divine Square. Inside, a man named Neil Davone was making a stand.
+  CUE L60: ...He’s been pulling in some of the less successful adventurers over the last year. He even pulled some strings to get some of us an easy ride...
+  CUE L70: ...Then I lay low here in Clementson's guest house and quietly go back a few days later. A couple of days ago I was told to get out here and do it ...
+  REG L3 [Gods_and_Churches]: Neil makes a stand in the temple in Book 1, where a priest tells those who stand against the church that they are no longer welcome .
+  REG L3 [Religion_in_Practice]: **The Healer**: Neil makes a stand in the Temple of the Healer; the Healer strips the essences from clergy who offend him, and ex-clergy stripped of d
+  REG L3 [Plot_Hooks]: **The Healer's temple**: a priest tells those who stand against the church that they are no longer welcome.
+  REG L3 [Neil_Davone]: He makes a stand in the Temple of the Healer (
+## B1 Ch95 Punishment
+  OPEN L3: The glass doors at the front of the clinic opened. Deftly using his aura, Rufus pressured the crowd away without distressing them. He led the way outside, flanked by his adventuring companions, Jory, and Neil Davone. They stood in front of 
+  REG L101 [Gods_and_Churches]: I'll be keeping an eye on you, Gareth Xandier" , and a character says in Book 9 that he likes "the ones who refuse to kneel".
+  REG L104 [Gary]: I'll be keeping an eye on you, Gareth Xandier" .
+## B1 Ch96 You Don’t Get a Third
+  OPEN L3: Jason’s path back to the city was a long one. The lumber region was on the far side of the delta and he had Dean alongside him, as well as the suppression-collared and manacled Jerrick shuffling behind. Jason considered commandeering a cart
+## B1 Ch97 Integrity is Sexy
+  OPEN L3: With Dean and Jerrick stashed with Dean’s family, Jason decided he had time to stop at his lodgings before getting to business. He was weary, heavy with the blood of the men he killed, even after the crystal wash had cleaned it away. He too
+  CUE L134: ...catch up on my reading. I was stuck at this abandoned lumber mill for three days with a guy named Kyle. Nice enough bloke, but really only l...
+  CUE L157: ...“You know, she was almost caught a few days ago. A group of adventurers almost pinned her down, but they we...
+## B1 Ch98 The Point of Money and Power
+  OPEN L3: The Adventure Society campus was a sea of chaos as the grand expedition prepared to depart. With the Ustei detained in the marshalling yard and being prepared to move, the adventurers were gathering in front of the main administration build
+## B1 Ch99 Someone Else’s Game
+  OPEN L3: Dean Tuckell was part of a team of adventurers that had arrived in a village in the delta. The team was a makeshift one put together for a road contract, patrolling a fixed route through the delta and beyond under the supervision of a bronz
+  CUE L14: ...“In three days,” Albert said. “That’s some schedule you’ve got going.”...
+  REG L24 [Jason_Asano]: Path of Shadows , Midnight Eyes , Castigate  and Verdict (
+  REG L36 [Emir_Bahadir]: Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+  REG L67 [Jason_Asano]: His attributes are bound as Power (Blood), Speed (Dark), Spirit (Doom) and Recovery (the fourth essence) .
+## B1 Ch100 Legwork
+  OPEN L3: Danielle Geller and Thalia Mercer looked at the water pouring out of the astral space aperture. It was within a crevice in a rocky outcropping but was itself a free-floating circle of shimmering blue. The water streamed out of the aperture,
+## B1 Ch101 Fantasy World Goodness
+  OPEN L3: Jason and Clive made their way to the northern side of the Adventure Society campus, which occupied much of the western side of the Island’s north shore. They passed a grey, stone tower that Jason now recognised as the prison tower. The soc
+  CUE L4: ... around the memorial grounds where they had attended a solemn service three weeks earlier. They both gave sober glances to the mausoleum as they went...
+  REG L64 [Emir_Bahadir]: Introduces himself to Jason as "Emir Bahadir"; arrives at the Greenstone dock in a cloud ship that opens a hole in its side.
+  REG L64 [Cloud_Constructs_and_Palaces]: **Emir's cloud ship**: it arrives at the Greenstone dock and a walkway of cloud connects to the shore as a hole opens in its side. Moored, it morphs o
+  REG L64 [NPC_Rosters_by_Era]: **Patrons and staff**: Emir Bahadir, Constance, Hester Maharala, Gilbert Bertinelli.
+  REG L103 [Cloud_Constructs_and_Palaces]: **Emir's cloud ship**: it arrives at the Greenstone dock and a walkway of cloud connects to the shore as a hole opens in its side. Moored, it morphs o
+## B1 Ch102 You Fight Like Me
+  OPEN L3: In Old City, the wealthiest area was the canal district. Once the home of aristocratic power, migration to the Island left it open for those who ruled Old City with money and power. It was strictly neutral territory for the Big Three, due t
+  CUE L4: ...laced and too small to service the water traffic that had built up in the years since their construction. Mostly the buildings were used to store...
+  REG L11 [00_Places_Overview]: Hornis  is a port to the south, reached from Greenstone across the delta and the Veldt .
+## B1 Ch103 Silver Hair
+  OPEN L3: Sophie vaulted a wall from one private residence into another, sprinting across the grounds. She did this twice more, avoiding public streets and the people on them. Finally, she ducked into a large brick shed full of landscaping supplies.
+  REG L44 [Clive_Standish]: Mana Equilibrium .
+## B1 Ch104 An Outcome That Satisfies
+  OPEN L3: “This is bad,” Jory said, pacing back and forth. “That’s what they’ve been doing? Ripping off the rich and powerful?”
+  REG L68 [Adris_Dorgan]: Meets Jason in his own library.
+  REG L68 [NPC_Rosters_by_Era]: **Old City and the Island**: Cole Silva, Clarissa Ventress, Adris Dorgan, Thalia Mercer.
+## B1 Ch105 You Aren’t in Control of What Happens Next
+  OPEN L3: Sophie woke up. Unfamiliar ceiling, something around her neck. She moved and there was a clink of chains as she realised her wrists and feet were manacled. Her body was under a soft, thin sheet. Memories came rushing back as her head cleare
+  CUE L33: ...“You and I fought two days ago,” he told her. “You’ve been asleep a long time, which gave ...
+  REG L66 [Law_and_Indenture]: **The Adventure Society agreement**: a clause in the Adventure Society's agreement with Greenstone gives anyone who completes a contract the right of 
+## B1 Ch106 Something Shady
+  OPEN L3: Jory’s kitchen table was covered in magical diagrams, with Belinda taking Clive through how they worked.
+## B1 Ch107 All the Good People We Can Get
+  OPEN L3: The expedition was going island by island, searching for traces of what was disrupting the astral space. They made their first discovery on the third island, a five-sided column, about as tall as a person and covered in magical engravings. 
+  CUE L102: ...anger Rufus Remore and Danielle Geller, he would have been put in the ground months ago. He stood, right where you are, and told me how things were...
+## B1 Ch108 You Don’t Have the Strength
+  OPEN L3: Emir Bahadir’s cloud palace was a sprawling, monstrous edifice. Floating just offshore on the north side of the Island, it was fully exposed to the waves and currents, yet remained as immovable as solid ground. The entire structure was made
+  CUE L67: ...linda said. “Those cloud beds. I’ve never slept like that in my life. A week ago we were wondering if we’d still be alive right now, and loo...
+  REG L3 [Cloud_Constructs_and_Palaces]: **Emir's cloud palace**: floating just offshore on the north side of the Island, "fully exposed to the waves and currents, yet remained as immovable a
+  REG L35 [Danielle_Geller]: Jason sees the same agelessness in Emir and Thalia Mercer .
+  REG L35 [Emir_Bahadir]: His gold-rank reflexes catch Danielle before she lunges; he looks no more than thirty but ageless.
+  REG L94 [Farrah_Hurin]: Abilities  : lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and c
+  REG L99 [Rufus_Remore]: Other powers  : boots that walk on water and a "speed of light" ability that works as a two-second time-freeze.
+## B1 Ch109 The Tyranny of Rank
+  OPEN L3: The retreat was going worse than Danielle had hoped, but better than she feared. The iron rankers had been pulled back behind the bronze and silver-rankers holding the line. Luckily, the other side had only a few essence users, their number
+  REG L6 [Hester_Maharala]: Emir directs "a woman named Hester" to open a portal for the Boko rescue; she traces a circle in the air and the portal shimmers. She can only open a 
+  REG L6 [NPC_Rosters_by_Era]: **Patrons and staff**: Emir Bahadir, Constance, Hester Maharala, Gilbert Bertinelli.
+  REG L7 [Hester_Maharala]: Emir directs "a woman named Hester" to open a portal for the Boko rescue; she traces a circle in the air and the portal shimmers. She can only open a 
+## B1 Ch110 Help Arrives
+  OPEN L3: Emir and his people had already left the city by the time Jason and the others arrived. They were travelling over the desert on sand skimmers, although the desert was more rocks than sand. Once they reached the aperture to the astral space,
+## B1 Ch111 Strange Star
+  OPEN L3: Most of the ill-fated expedition was extracted back through the aperture that had been their entry point. On the other side was a recovery camp, ready and waiting. Only silver rankers and bronze-rankers stayed in the astral space, and not a
+## B1 Ch112 The Accumulation of a Life
+  OPEN L3: While the search for answers continued in the astral space, the support camp was suddenly swarmed with bronze-rankers Danielle and Thalia deemed insufficiently reliable to participate. There was also a pair of silver-rankers, one of whom wa
+  CUE L110: ...“I will then,” Rufus said. “This was a few years ago, when Farrah and I had just hit bronze. Gary had been bronz...
+## B1 Ch113 You Need to Work on Making Enemies
+  OPEN L3: The cloud palace was not only the largest magic construction in Greenstone but it was also the most sophisticated. This was demonstrable in ways large and small, from its ability to take multiple forms to the amenities incorporated througho
+  REG L41 [Era_Selection]: **Turning points**: Farrah dies covering civilians; Emir's contest and the City of Fallen Echoes free 419 time-displaced priests.
+  REG L41 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+  REG L41 [NPC_Rosters_by_Era]: **Check absence as well as presence.** Farrah is dead from the end of Book 1 until Book 4; Kaito, Asya and Greg die in Book 5.
+  REG L41 [Farrah_Hurin]: rescued with Rufus and Gary from the cult; dies covering civilians in the desert astral-space ambush ("Farrah died covering those people",

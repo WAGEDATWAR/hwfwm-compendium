@@ -1,0 +1,33 @@
+# Organisations Overview
+
+Status: Draft (book text, chapter notes and wiki; tiers marked: "Book N" = checked in the book text, "notes" = chapter notes, "wiki" = fan wiki)
+Spoiler level: 0 for sections 1-2; each file carries its own levels
+Valid from: Book 1
+Valid through: Book 13
+Sources: Books 1-13
+Related: ../01_World_Primer.md, ../02_Cosmology_and_Powers/Gods_and_Churches.md, ../06_Places/00_Places_Overview.md
+
+## 1. Summary
+
+The setting runs on institutions. Three bodies span Pallimustus: the **Adventure Society** (monsters and contracts), the **Magic Society** (research and records) and the **Alchemy Association** (potions). Around them sit guilds, great families, schools, churches and cults. On Earth the equivalent powers are the Network, the Cabal and the Engineers of Ascension. A scene set in any part of the world should name which institutions matter locally and which are absent.
+
+| File | Contents | Spoiler level |
+|---|---|---|
+| Adventure_Society.md | Structure, badges, stars, contracts, surge rules, branches | 0 (Rimaros surge rules 2) |
+| Magic_Society_and_Associations.md | Magic Society, Alchemy and Artifice Associations, the Magical Research Association | 0 (MRA 2-3) |
+| Guilds_and_Houses.md | Burning Violet, Sapphire Crown, House Irios, Remore Academy, the Aristocratic Faction of Yaresh | 0-2 |
+| Earth_Powers.md | Network, Global Defense Network, Cabal, Engineers of Ascension, the Asano clan | 1-3 |
+| Cults_and_Orders.md | Order of the Reaper, Builder cult, Order of Redeeming Light, Church of Undeath | 1-3 |
+
+Churches and gods are in `02_Cosmology_and_Powers/Gods_and_Churches.md`; messengers and the Unorthodoxy are in `Astral_Kings_and_Messengers.md`.
+
+## 2. Reading institutions in the books
+
+- **Local versus continental**: each branch answers to a continental council. Book 6 places the continental council of the Africa-like continent, with the largest Magic Society and Adventure Society strongholds, at Rakesh on the north coast; elsewhere a passage places an Adventure Society continental council in Cyrion. The books appear to use one council per continent.
+- **Corruption and reform**: Greenstone's Magic Society and Adventure Society were corrupt in Books 1-3; Clive finds the rot is not unique (Rakesh holds him against his will). Branch directors are often political appointments.
+- **Power versus money**: the Aristocratic Faction of Yaresh is described as having "focused on power structures completely divorced from personal power" (Book 10, Ch14 L35): no adventurers or researchers, only money and influence. The institutions of the setting generally reward personal power.
+
+## 3. Open questions
+
+- Number and boundaries of continental councils.
+- Whether the Alchemy Association and Artifice Association have a continental structure of their own.

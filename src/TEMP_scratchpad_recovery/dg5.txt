@@ -1,0 +1,279 @@
+## B5 Ch1 Too Valuable to Lose
+  OPEN L3: The Chinese village had been levelled by a powerful earthquake, and the villagers watched as an alien figure used beams of energy to cut through the girder blocking the hole in which a child was trapped. The strange being was inhuman in nat
+  CUE L14: ...A month earlier, in Hanoi, Jason had underpriced the yacht in order to sell...
+## B5 Ch2 All I Can Do is My Best
+  OPEN L3: Jason walked down the single street of the dilapidated West African township. Buildings of clay brick and rusted, corrugated iron were silent and the streets empty. The only people he saw were amongst the tents set up at the far end of the 
+  CUE L60: ...to work. Not if you really cured those people. Was that you in Sydney last year? Healing all those kids at the hospital?”...
+## B5 Ch3 A Modern Myth
+  OPEN L4: “…spokespersons from Médecins Sans Frontières and the World Health Organisation have both dismissed claims of miracle healing, stating that the success in containing the outbreak is due to experience and the protocols established during the
+  CUE L116: ...d the Starlight Angel persona that had dominated the Australian media nine months earlier....
+  CUE L67: ...as fairly hospitable, albeit cold after arriving from an African late summer. She immediately organised the teams that followed....
+  REG L8 [Earth_Powers]: Methods and plans : North reports that disabling the Grid is "proving more difficult than anticipated" and that they have shut off only localised area
+  REG L8 [Plot_Hooks]: **Grid sabotage**: shutting down only localised areas, with a wider failure expected in two months.
+  REG L126 [Ian_Evans]: Erika and Ian are midway through iron, having taken cores regularly.
+  REG L130 [Ian_Evans]: Jason introduces "my sister, Erika, her husband, Ian, and their daughter" to Dr Baudrillard.
+  REG L170 [Era_Selection]: **Calendar**: Jason wakes on Earth in early June, a year and a half after leaving; Book 5 opens about nine months after that; a cold winter day in Boo
+  REG L202 [Jason_Asano]: Abilities seen in the text : Path of Shadows (a teleport whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and
+## B5 Ch5 Grand Tour
+  OPEN L3: “It’s definitely sabotage,” Farrah said. “The Network is convinced that the EOA is behind it, and I have no reason to doubt them. They know the local politics a lot better than me.”
+  CUE L34: ...they ran out?” Jason wondered. “Left the world again? It was hundreds of years ago, but a gold-ranker can live that long, right?”...
+  CUE L59: ...im by the hand, pointing everything out. It was hard to believe that, six months ago, this had been undeveloped bushland. Now there was what loo...
+  REG L83 [Casselton_and_Asano_Village]: Asano Village : eco-village buildings on clifftop land, a medical centre, a pub and spa, and a secret tunnel system .
+  REG L83 [Farrah_Hurin]: Ritual magic : she adjusts circles for ambient magic and builds the infrastructure of Asano Village and the Grid repairs .
+  REG L83 [Farrah_Hurin]: Ritual magic : she adjusts circles for ambient magic and builds the infrastructure of Asano Village and the Grid repairs .
+  REG L106 [Casselton_and_Asano_Village]: The long passage ends at Jason's cloud house, which sits at the bottom of the sea about two kilometres out, reached by a hidden tram .
+  REG L106 [Cloud_Constructs_and_Palaces]: **Asano Village**: Jason's cloud house sits at the bottom of the sea about two kilometres out, reached by a hidden tram.
+## B5 Ch6 New Groove
+  OPEN L3: Jason, Farrah, Emi, Ken and Hiro stood on the thoroughfare of what Jason had started thinking of as Asano Village. He was about to open a portal to Casselton Beach when Farrah’s phone bleeped.
+  CUE L69: ...rsion spaces before you two came along. It’s been escalating over the last year, though, especially while you were off playing David Carrad...
+## B5 Ch7 Get to the Chopper
+  OPEN L3: Kaito had been supplied with a variety of awakening stones loaded towards producing useful complements to his main power. Koen Waters had seen potential in Kaito’s abilities. He had the Network recruit him and provide the stones to complete
+  REG L12 [Asya_Karadeniz]: She is on Kaito's three-person helicopter crew with Greg, operating the weapons when a black winged lizard comes into her sights.
+  REG L12 [Greg]: On Kaito's helicopter crew with Asya.
+  REG L12 [NPC_Rosters_by_Era]: **Network and allies**: Anna Tilden, Nigel Thornton, Asya Karadeniz, Greg, Travis Noble.
+  REG L21 [Asya_Karadeniz]: She is on Kaito's three-person helicopter crew with Greg, operating the weapons when a black winged lizard comes into her sights.
+## B5 Ch8 What’s Left of Your Principles
+  OPEN L3: “Chloe, it’s good to hear from you,” Jason said as the video chat opened. “How’ve you been?”
+  CUE L50: ...“A year ago, I would have considered it highly likely,” Barbou said. “T...
+  REG L14 [Earth_Powers]: Structure  : four Cardinals: Mr North, Mrs South, Mr East and Mrs West.
+  REG L14 [Mr_North]: The meeting room of the Four Cardinals of the EOA: Mr North and the new Mr East await Mrs West and Mrs South.
+  REG L14 [NPC_Rosters_by_Era]: **Cabal and EOA**: Craig Vermillion, Mr North, Gerling.
+  REG L44 [Magic_and_Adventuring]: Earth's grid intercepts dimensional incursions before they release monsters, and Network leaders fear months without it (
+  REG L69 [Anna_Tilden]: Family : wife Susan; brother Terrance, the Network's media director .
+## B5 Ch9 Contingencies
+  OPEN L3: “I’m sure Uncle Jason will be here soon,” Erika said to her sullen daughter.
+  CUE L52: ...no family had done on their own compound, the old families had put in place decades ago. They didn’t have the expertise of Farrah as a guiding hand...
+  CUE L40: ...r, as proto-spaces appeared undetected around the globe. In less than three days, they would start spilling monsters directly into the world...
+## B5 Ch10 Humanity
+  OPEN L3: “…brother of celebrity chef Erika Asano, shown here, actually appeared on his sister’s cooking program. He was declared legally dead for a year and a half after an explosion in his apartment building, which the Victoria Police at the time p
+  CUE L12: ... Shade’s vehicle forms, but it was better than what had been possible a year earlier....
+  CUE L18: ...Thirty years ago, a top secret collaboration of personnel from the Network, ...
+  CUE L40: ...contacts saved. Like everyone else, she had given up memorising phone numbers years before. She did know where to find the Network branch in Phoenix, ...
+## B5 Ch11 Media Blitz
+  OPEN L3: Jeremy Westin was surprised to find a freshly sealed road leading all the way into the isolated bushland area. He followed it to a gate in a chain wire fence, where a sign marked further progress as a private road. There seemed to be someth
+  REG L82 [Amy_Asano]: Amy is the village's "de facto mayor" and acts as mayor in the Book 5 evacuation; the notes add that she is mayor of the Casselton Regional Council an
+## B5 Ch12 Grandmotherly Advice
+  OPEN L3: “We’ve got her in the guest wing of the main house,” Emi said.
+  CUE L92: ...ate the family is in and what is about to happen? Absolutely. It will be years before we produce our own people even close to her calibre.”...
+  REG L18 [Akari_Asano]: Introduces herself as "Asano Akari" when she meets Jason.
+  REG L27 [Akari_Asano]: Her essences are sword, adept and magic (the master confluence); she carries a genuine chokuto and has a blinking teleport that leaves exploding after
+## B5 Ch13 A Bloke With Vast Cosmic Power
+  OPEN L3: On a busy Sydney street, an archway filled with darkness rose up in the middle of the footpath. The crowd backed away. Some quick thinkers immediately pulled out their phones, so when, after a few moments, two figures emerged from the arch,
+  REG L74 [Asya_Karadeniz]: Her mother Rabia represents the non-Asano families on the Asano Village committee.
+  REG L74 [Greg]: His family is among those taken in at Asano Village; Jason later bows his head before Greg's family.
+## B5 Ch14 A Very Long To-Do List
+  OPEN L3: Strategy meetings to develop effective responses to the monster waves were taking place all over the world. At one such meeting in Sydney, Network and military personnel were discussing the responses still being rolled out, less than a day 
+  CUE L3: ...onnel were discussing the responses still being rolled out, less than a day after the monster waves had begun. Sydney’s Director of Tactical ...
+  REG L37 [Kaito_Asano]: Jason and Akari ride in "Kaito's helicopter" with a strike team in Book 5.
+  REG L61 [Magic_and_Adventuring]: Akari's sword, adept and magic ;
+  REG L61 [NPC_Rosters_by_Era]: **Jason's family**: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy, Akari.
+## B5 Ch15 Another Step Forward
+  OPEN L3: Akari watched in horror as the leeches crawled off the dried-out remains of what had been, a short while ago, a very intimidating monster. The leeches formed a pile from which a bloody rag shot out to wrap around Jason’s hand. The pile then
+## B5 Ch16 Tactical Flexibility
+  OPEN L3: The residents of Asano Village spilled out of the hall into the blessed sunshine, freed from Jason’s domineering aura and the unnatural darkness they had been plunged into. Even though the darkness had faded, reaching sunlight under open sk
+  CUE L78: ...ities in Asano Village, but a motorcycle ride in the warm sun of late summer was a balm after the intensity that followed the grid’s col...
+  REG L103 [Familiars]: On reaching silver any shadow body can teleport to any other , and the bodies can form vehicles .
+  REG L103 [Familiars]: On reaching silver any shadow body can teleport to any other , and the bodies can form vehicles .
+## B5 Ch17 Broken
+  OPEN L3: Broken Hill was a carefully chosen target. One of the best-known locations in the Australian outback, its rich history and iconic desert landscapes had woven it into the fabric of Australia’s soul. It was also one of the centres in which is
+  CUE L7: ...twork had become known to the public as the Global Defense Network in the weeks since the monster waves began. The terrorist readiness exercises ...
+  CUE L17: ...In the general chaos of the monster waves, it took a full day before the Network realised that Broken Hill had become unreachabl...
+  REG L7 [Earth_Powers]: Going public  : known to the public as the  Global Defense Network  (GDN) in the weeks after the monster waves began.
+  REG L7 [Era_Selection]: **Live dangers**: the EOA has seized Perth and Melbourne; the Network is publicly known as the Global Defense Network after the monster waves begin; t
+  REG L7 [Spoiler_Management]: **Magic on Earth**: hidden until the monster waves bring the Network into public view; "less than fifteen years ago, no one knew magic existed". Level
+  REG L7 [00_Earth_Overview]: The Network** (known to the public as the Global Defense Network from the early weeks of the monster waves,
+## B5 Ch18 Never Enough
+  OPEN L3: Lauren Chamley and her family hunkered in their house with a family of monster wave refugees that the Chamleys had taken in, fearfully checking through the windows from time to time. Many of the families in Broken Hill had opened their home
+  CUE L22: ...In the almost two months since Shade had reached silver-rank, Jason and Shade had continue...
+  CUE L20: ...“It’s him,” Lauren said. “I saw him when he was here a couple of weeks ago. Thank God.”...
+## B5 Ch19 Media Landscape
+  OPEN L3: Smoke rose from smouldering buildings into an orange sunset over Broken Hill.
+## B5 Ch20 Instability
+  OPEN L3: In the Sydney Network branch’s media operations centre, Terrance was going through the footage Jason had stolen from the EOA at Broken Hill again, discussing it with his publicity staff.
+  CUE L24: ... turned twenty-six. I noticed that you didn’t celebrate your birthday last week.”...
+  REG L21 [Dawn]: When Jason has just punched her avatar she says "You realise that you could have asked that instead of punching my nose through my brain" and teases t
+  REG L21 [NPC_Rosters_by_Era]: **Returned**: Farrah is freed from Barbou and the EOA; Dawn returns in a new avatar.
+  REG L21 [Tone_and_Voice]: **Dawn**: formal, with a teasing edge.
+  REG L22 [Dawn]: "I killed and looted Dawn"; the replacement avatar is described in
+  REG L24 [Jason_Asano]: Birthday : 1 April .
+  REG L25 [Jason_Asano]: I never liked my birthday anyway" .
+## B5 Ch21 Supernatural
+  OPEN L3: “Really?” Dawn asked. Shade's motorcycle form made almost no noise, but she spoke loudly over the rush of air.
+  CUE L13: ...The roads were only months old but well made, the product of Ken's earth manipulation powe...
+## B5 Ch22 Arms Race
+  OPEN L3: Akari led Jason and Dawn into the clifftop house. What was remarkable about Asano Village's clifftop homes was that most of their space was underground, dug into solid rock. The underground portion then emerged from the cliff face with a gl
+## B5 Ch23 Sword-Fighting With No Shirt On
+  OPEN L3: “I know Broken Hill must have been rough,” Ketevan said, meeting Jason in her office.
+  CUE L74: ...dy. The result of some shady EOA/Cabal/Network joint research program from years ago. She had been forced into using the results of a long-cance...
+  CUE L75: ...A mothballed reincarnation program from years ago, she had privately left it in place as a personal contingen...
+  CUE L94: ...ennia old. The archaeologists thought they'd found an alien robot. It took decades before we figured out how to get anything out of it. Part of a joi...
+## B5 Ch24 Candid and Authentic
+  OPEN L3: Jason and Akari had arrived together in the main thoroughfare of the village, where Emi and Erika were speaking with one of the reporters. Jason was bringing Akari to be interviewed, but the reporter had been waylaid.
+  CUE L59: ...as been no small amount of inquiry into your background. Until just a few years ago, you were a relatively ordinary person, with an ordinary jo...
+  CUE L61: ...Then you're gone, presumed dead, for a year and a half. You come back ten months ago, and immediately, we get the first appearance of the Starli...
+  REG L3 [Emi_and_Nik]: In Book 5 she verbally spars with a reporter .
+  REG L3 [Tone_and_Voice]: **Emi**: sharp and political at thirteen. **Nik**: foul-mouthed. **Taika**: casual.
+  REG L15 [Emi_and_Nik]: Ritual magic: she is "a better ritualist than many Network members" at thirteen and is assigned to the Coffs Harbour Network as a "dimensional membran
+  REG L15 [Emi_and_Nik]: Ritual magic: she is "a better ritualist than many Network members" at thirteen and is assigned to the Coffs Harbour Network as a "dimensional membran
+  REG L140 [Akari_Asano]: Her father is the head of the Japanese clan.
+## B5 Ch25 Warmth and Levity
+  OPEN L3: As the plane flew north over Queensland, Asya looked to Jason sitting on the floor, meditating, as he had been since reaching cruising altitude. Akari stepped up next to her.
+  CUE L107: ...It had barely been days since Jason had been desperately fighting to save lives in Broken...
+  REG L26 [01_World_Primer]: A person cannot advance until all attributes have reached the next rank .
+  REG L26 [Magic_and_Adventuring]: A person cannot advance further until all attributes have reached the next rank .
+  REG L26 [Magic_and_Adventuring]: To rank up a person must have all attributes at the next rank .
+## B5 Ch26 An Intelligent King
+  OPEN L3: One proto-space had already disgorged its monstrous contents onto the city of Makassar. A second one, with even stronger magic, was on the verge of doing the same. This proto-space was a troubling reflection of the city it was about to open
+## B5 Ch27 Hunted
+  OPEN L3: The proto-space version of Makassar was overrun with rainforest growth, the sky filled with volcanic ash. Four humanoid dinosaur hybrids were moving through the city, the gold-rank King in the lead. There were more of the silver-rank dino-m
+## B5 Ch28 Gamble
+  OPEN L3: King stood on a rooftop, clutching Shade’s head in his hand.
+## B5 Ch29 Dying of Thirst in the Desert
+  OPEN L3: Outside of the collapsing second proto-space, the sky grew dark over the real city of Makassar. A beautiful sunset contrasted the horror below, with large portions looking like the bombed-out capital of a failed state. When the sun had rise
+  REG L68 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+  REG L77 [Soul_Bound_Items_and_Regalia]: **Soul-Imprinting Triune**: Jason receives it with a hoard of spirit coins in Book 5; it turns three soul-bound growth items into a set when all three
+## B5 Ch30 Enough Power
+  OPEN L3: As Jason drained the life force from the dead monsters around him, the drone came down to hover in front of him.
+  CUE L33: ...On the day after the gold-rank monster fell, enough strike teams made up of ...
+  REG L58 [Gilbert_Bertinelli]: Jason's combat robe is "custom made for him by Gilbert Bertinelli"; Gilbert supplied his armour.
+  REG L61 [Farrah_Hurin]: She keeps her friends close: in Book 5, away from Gary, she says "I miss Gary" .
+## B5 Ch31 Silver
+  OPEN L3: Jason was on the roof of the main residence in Asano Village. There was a helicopter pad and, as would soon become important, the facilities to clean a helicopter. He didn’t use the cloud house to meditate because the supply of diluted crys
+  CUE L136: ...her wouldn’t let him become an adventurer until he was seventeen. She spent years before and after he claimed his essences in training and preparati...
+  CUE L135: ... from the brother I grew up with. How much death have you seen in the last week? If you tell me that it didn’t mess you up, I’ll call you a...
+  REG L1 [Era_Selection]: **Scale**: bronze at the start, silver by the Book 5 chapter "Silver".
+  REG L187 [Familiars]: His orbs also deliver the Harbinger of Doom affliction and create shield orbs .
+  REG L187 [Familiars]: His orbs also deliver the Harbinger of Doom affliction and create shield orbs .
+  REG L187 [Jason_Asano]: Path of Shadows , Midnight Eyes , Castigate  and Verdict , Punition , Feast of Absolution  and Gordon's Harbinger of Doom (
+## B5 Ch32 Old Affairs
+  OPEN L3: The Four Cardinals of the EOA were sitting at the desk in their meeting chamber. On the wall, a news report was on the large screen.
+## B5 Ch33 End Run
+  OPEN L3: As Shade, in his plane form, continued winging towards Japan, Jason was lying on the bed in a small sleeping cabin. Fresh from the land of the dead that Makassar had become, his mind was troubled. He looked at the door; there was no knock, 
+## B5 Ch34 Giving Face
+  OPEN L3: “Are we landing at Kansai International Airport?” Emi asked as she emerged from the cockpit. “It’s on an artificial island.”
+  CUE L66: ... buildings that occupied it. Designed by Frank Lloyd Wright and built twenty years before World War Two began, the famous American architect’s master...
+## B5 Ch35 Not In a Position to Criticise
+  OPEN L3: In a quiet dojo, Akari and her father faced off. They each wore a gi and a suppression collar and were wielding wooden swords. The swords and the room were both parts of an integrated magical system where the swords would not deal damage bu
+  CUE L88: ...one to which we are connected. That link had been stable for billions of years before someone came along and interfered with it. Now, centuries l...
+## B5 Ch36 Honour
+  OPEN L3: “Where are our guests now?” Noriko asked. She was the strongest member of the Asano clan and the patriarch’s mother. Noriko and Shiro were in a room with the rest of the clan leadership, eight elders kneeling around a low table.
+## B5 Ch37 They Get to See What I’m Like
+  OPEN L3: The Tiwari clan seat was located in Arima Onsen Town, nestled in beauteous nature amongst thickly forested hills. They made their way north towards Kobe’s Kita-ku ward. The car taking Jason to meet the clan also contained the Asano clan pat
+## B5 Ch38 Fanboy
+  OPEN L3: The Arima Grand Resort was a palace hidden in a forest, the most opulent of the many accommodations in Arima Onsen Town. With magic now out in the open, Jason didn’t have to bother hiding it as he approached the resort. Shade transformed fr
+  REG L5 [Itsuki_Tiwari]: Introduces himself with a respectful bow: "My name is Tiwari Itsuki".
+  REG L50 [Itsuki_Tiwari]: His essences are dark, blood and omen, forming a doom confluence.
+## B5 Ch39 A Very Bad Mistake
+  OPEN L3: Itsuki left Jason with the three elders: the Tiwari clan patriarch and his two younger brothers. The patriarch was Denji, the middle brother Souta and the youngest, Itsuki’s father, was Koya. The office of the patriarch was a large room wit
+  CUE L103: ...“I am, Eri. But I also want to have a nice, fun day before I find myself annihilating monster victims animated as walk...
+  CUE L107: ... Looking at all this tropic beauty, the horrible things we saw just a few days ago seem so far away.”...
+## B5 Ch40 An Unexpected Direction
+  OPEN L3: Inside a partially submerged sea cave, Jason walked over the surface of the water. His cloak was wrapped around himself and Emi, keeping their bodies light. The Tiwari patriarch also walked over the water, while Itsuki and his father rode i
+  REG L49 [00_Cosmology_Overview]: The fundamental realm : the reality underneath physical reality, which Jason's Book 5 interface describes as "a space of combined physical and astral 
+  REG L79 [Earth_Powers]: Mr North  (Noreth) is the true leader, very old and not fully human; he was a rune spider and the Founder's familiar .
+  REG L79 [Mr_North]: Tells Jason "I was a rune spider, originally".
+## B5 Ch41 Parade of Delights
+  OPEN L3: “Saving the world the right way requires your guidance, does it?” Jason asked Mr North. “You’ll forgive me for not taking you at your word.”
+  REG L24 [The_Builders_Door_and_Fundament_Gate]: **The door**: Mr North tells Jason "It's not a literal door... It's an astral construct with the power to manifest in physical reality in the form of 
+  REG L28 [The_Builders_Door_and_Fundament_Gate]: **The door**: Mr North tells Jason "It's not a literal door... It's an astral construct with the power to manifest in physical reality in the form of 
+  REG L33 [Tone_and_Voice]: **Mr North**: amused and unhurried.
+  REG L52 [The_Builders_Door_and_Fundament_Gate]: **The Fundament Gate**: a ring of rough marble standing stones in a dell, "transcendent rank, legendary", whose window lets Jason incorporate it into 
+  REG L62 [The_Builders_Door_and_Fundament_Gate]: **The Fundament Gate**: a ring of rough marble standing stones in a dell, "transcendent rank, legendary", whose window lets Jason incorporate it into 
+## B5 Ch42 Collateral Damage
+  OPEN L3: Dawn, Erika, Yumi and Asya waited on the sandy beach of the lagoon for the others to emerge from the sea cave. Jason and the others appeared on black jet skis that dissolved into darkness as they beached themselves on the sand. Erika snatch
+## B5 Ch43 I Intend to Do Damage
+  OPEN L3: Annabeth Tilden and three silver-rankers were standing outside the main gate of Asano Village, facing Jason and Farrah.
+## B5 Ch44 A Chance to Control the Narrative
+  OPEN L3: Amy and Kaito had taken over the main residence of Asano Village when Erika's family was stashed away, cementing Amy's position as de facto mayor. Jason had claimed the bushland house previously occupied by his grandmother, where he dove in
+  CUE L34: ...“I would probably have said something similar a few years ago. It was only when things got hard and I was truly put to th...
+  CUE L13: ...It had been weeks since Jason had entered a proto-space to fight a monster while he...
+  REG L3 [Amy_Asano]: Amy is the village's "de facto mayor" and acts as mayor in the Book 5 evacuation; the notes add that she is mayor of the Casselton Regional Council an
+  REG L3 [NPC_Rosters_by_Era]: **Jason's family**: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy, Akari.
+  REG L44 [Spirit_Vault_and_Astral_Kingdom]: ); Erika, Emi, Ken and Hiro could enter, as later did Farrah, Asya and Ian (
+  REG L44 [Emi_and_Nik]: ); she is among the first of the family able to enter Jason's spirit vault (
+  REG L45 [Asya_Karadeniz]: She enters Jason's spirit vault "as her relationship with Jason deepened".
+  REG L45 [Ian_Evans]: Ian is one of only three people outside Jason's blood relatives who can enter his spirit vault; "I've known Jason since he was twelve years old".
+## B5 Ch45 You Shouldn’t Lie to Your Wife
+  OPEN L3: With the monster waves gone, recovery efforts were underway. The death toll continued to grow as the full depth of the monster wave catastrophe was assessed. It blew past early estimates to cross the two-million mark as abandoned rural area
+  REG L9 [Consumables_and_Trial_Rewards]: **Reality cores**: roughly the size and shape of an ostrich egg, dark crystal glowing with transcendent light; one appears in each affected zone and t
+  REG L9 [Plot_Hooks]: **Reality cores**: one appears in each affected zone and the factions scramble for it.
+## B5 Ch46 The Decision Has Been Made
+  OPEN L3: At Jason’s request, Kaito didn’t conjure a new helicopter upon entering the proto-space. Farrah carried a device that she and Jason had built together to find the optimal spot within the proto-space for Jason to conduct his ritual. They wou
+  CUE L31: ... year despite only having completed one semester of university a half-dozen years ago,” Greg told him....
+## B5 Ch47 First Priority
+  OPEN L3: In Switzerland, the resort town of Interlaken and the lakeshore villages around Lake Brienz had been evacuated during the monster waves. Determined an insufficiently populous area to warrant its own safe zone, the locals had been sent to th
+  CUE L4: ...A month after the last monster wave, people were cleared to return to the...
+## B5 Ch48 Node Space
+  OPEN L3: The Network team from the Potsdam branch reached the aperture on Babelsberg Park and found it already open. The residue of the ritual used to open it was on the ground and in front of it was a Japanese woman with a category three aura, medi
+  CUE L70: ...eeling feeble before an overwhelming power. It had only been a couple of years since Jason was freshly arrived in the other world, feeling vulne...
+  CUE L90: ...“China and the United States both had people reach gold rank several years ago,” Dawn explained. “They have been keeping them in magical s...
+  CUE L34: ...he upper echelons of the Network have been pushing the lower over the last year, it inclines them to give Asano leeway.”...
+## B5 Ch49 Loaded For Battle
+  OPEN L3: The alien landscape of the node space was an uncanny mix of familiar features washed out in metallic silver light. A close examination of the ground, rocks and plants did not help. Being made up of tiny blocks gave it the feel of a low-reso
+## B5 Ch50 Going For Gold
+  OPEN L3: Jason and Farrah both extended their senses when the arch remained empty and the portal failed to open. If they hadn’t been so shocked by their captured and dead companions, they might have paid more attention to their surroundings, but it 
+## B5 Ch51 Prepare For The Rematch
+  OPEN L3: The cloud house was in a vacant lot of an abandoned Austrian town. Inside, Farrah, Itsuki and the Asano sisters waited anxiously. The portal had closed right behind them and Jason’s fate was unknown. Farrah had taken out suppression collar 
+  REG L40 [Asya_Karadeniz]: Anna says of the Berlin deaths: "The bastards killed Asya"; Akari says Kaito, Asya and Greg died fighting for their world.
+  REG L40 [Greg]: Akari says Kaito, Asya and Greg were fighting for their world.
+  REG L40 [NPC_Rosters_by_Era]: **Check absence as well as presence.** Farrah is dead from the end of Book 1 until Book 4; Kaito, Asya and Greg die in Book 5.
+  REG L48 [Anna_Tilden]: Roles : Director of the Network's Sydney operation, a government-faceless "suit" who hunts magic events from a helicopter ; on the Steering Committee 
+  REG L48 [NPC_Rosters_by_Era]: **Network and allies**: Anna Tilden, Nigel Thornton, Asya Karadeniz, Greg, Travis Noble.
+  REG L52 [Asya_Karadeniz]: Anna says of the Berlin deaths: "The bastards killed Asya"; Akari says Kaito, Asya and Greg died fighting for their world.
+## B5 Ch52 Finish the Job
+  OPEN L3: No one paid attention to one more man in a dark suit and dark glasses. There was no shortage of them as the funeral was conducted under a bright, clear sky, despite the winter. Jason’s use of aura control had progressed to the point that in
+  CUE L93: ...“We built those defences a year ago, and since then, we’ve had the monster waves and the transf...
+  CUE L3: ...m as the funeral was conducted under a bright, clear sky, despite the winter. Jason’s use of aura control had progressed to the point th...
+  REG L20 [Kaito_Asano]: Dies in Book 5. At the funeral Jason says he "died for something that truly matters. To give his children a future"; Jason keeps the family in his spi
+## B5 Ch53 Inevitability
+  OPEN L3: As Jason and Farrah flew through the air in Shade’s plane form, the sudden manifestation of Dawn’s new silver-rank avatar took them aback. They shot out of their chairs.
+  CUE L17: ...“Yes,” Dawn said. “It will still be decades before the planet becomes uninhabitable, but even if the link is r...
+  CUE L67: ...me were made manifest for the people living inside his soul to see. A summer outing in Cape Cod was a blessed relief....
+  REG L67 [Kaito_Asano]: Dies in Book 5. At the funeral Jason says he "died for something that truly matters. To give his children a future"; Jason keeps the family in his spi
+## B5 Ch54 The Edge of Madness
+  OPEN L3: Jason, Farrah and Dawn travelled from place to place, in search of nodes to repair. They used the grid interface in the cloud house to choose their next destinations, refining their accuracy as they learned more from each proto-space and no
+  REG L52 [00_Peoples_Overview]: **Other peoples named**: merfolk, goblins, fairies and valash, the last three appearing as forms taken by people changed in Earth's transformation zon
+  REG L52 [Goblins_and_Fairies]: **Transformed humans**: in West Canfield, Detroit, people were "turned into goblins and their homes into underground warrens", which became a lawless 
+  REG L52 [Magic_and_Adventuring]: ); transformation zones change cities and their people into other races (
+  REG L55 [Goblins_and_Fairies]: **Cabal beings**: the Cabal's mythological beings include centaurs, ogres, fairies and more.
+## B5 Ch55 Trying to Be Merciful
+  OPEN L3: In Venezuela, Jason identified and repaired another node. He was starting to get used to the process and had gotten the time required down to under an hour. After leaving the node space, he opened a portal back to the cloud house, currently
+## B5 Ch56 Appreciation
+  OPEN L3: In Asano Village, a portal arch quietly rose up inside a house. Cheryl Asano, Jason’s mother, froze as if time had stopped. She had seen little of her youngest son since his return from apparent death, except on the news. She hadn’t seen hi
+  CUE L26: ...g with tears, but that was not something his body did anymore. It had been years since Jason had been a human, but he had never felt as inhuman as...
+  CUE L17: ...ason knew that for all his jovial personality, Taika had already seen dark days before Jason came along, having left New Zealand as a teenager to ...
+  CUE L42: ... brother asked. “He killed a bunch of people with his brain. That was two days ago.”...
+  REG L7 [Erika_Asano]: In Book 5 she and Emi mourn Kaito.
+  REG L24 [Asya_Karadeniz]: Her parents and siblings, the Karadeniz family, confront Jason; her mother slaps him.
+  REG L26 [Greg]: His family is among those taken in at Asano Village; Jason later bows his head before Greg's family.
+## B5 Ch57 Brooding Loner
+  OPEN L3: Vampires were neither strictly living nor strictly dead. Most of the undead were quite explicitly deceased, rendered animate by one force or another. In the case of vampires, however, that force was life energy, rendering them, to almost an
+## B5 Ch58 High Maintenance
+  OPEN L3: In the meeting hall of his cloud palace, Jason sat across from the spectre of his friend, Greg.
+  CUE L14: ... long, mediocre life. I lived more in the last six months than in the six years before it. Running around, fighting monsters with my magic powers....
+  REG L14 [Greg]: Says he was "never much more than an adequate lawyer" and had been pushed out of his father's practice; he had lived more in six months of magic than 
+## B5 Ch59 Treachery or Cowardice
+  OPEN L3: Nigel and his nine-person tactical section were retreating down a hallway on the fourth floor of the Network building. They had rushed downstairs in response to the Cabal’s attack, only to encounter the people of the lower floors coming up,
+## B5 Ch60 Comely Wenches
+  OPEN L3: Jason, Farrah and Dawn glided through the air towards the Network building. Twenty dark forms emerged from Jason, heading to the bottom half of the building. Shade couldn’t penetrate the magically protected upper floors, but his incorporeal
+## B5 Ch61 A Lot Like a Guess
+  OPEN L3: Jason stood in front of the Network building, the cyclops and other Cabal members still standing in front of him. The air stank of burned flesh from the one that had tried to flee and was slain by the cyclops for making the attempt. A dozen
+## B5 Ch62 It’s Okay to Laugh
+  OPEN L3: Jason, Dawn and Farrah looked at the burned, drained remains of the vampire lord Willoughby.
+## B5 Ch63 Dignified Moment
+  OPEN L3: “This is not going to plan, Craig,” Franklin said, sitting in the front passenger seat as Vermillion was driving.
+## B5 Ch64 When Someone is Under Your Gun
+  OPEN L3: Jason pushed himself to his feet with a groan, his body still tingling from the electrical attack. The magical APC, looking like something from a sci-fi movie, had left him behind and was roaring around a corner in pursuit of the others.
+## B5 Ch65 When, Not If
+  OPEN L3: Farrah dragged a vampire out of the lava by the foot. He was still alive, or at least undead, due to his silver-rank fortitude. His normal vampiric healing was not kicking in, though, due to the burn damage.
+  CUE L31: ...ng after reality cores is pulling down the roof to burn for warmth in winter.”...
+## B5 Ch66 Not Entirely Ethical
+  OPEN L3: Jason emerged from the water, up the ramp at the base of the cloud house that led into the ocean. The swim had been pleasant and relaxing, although his silver-rank body was far too heavy to float. He didn’t need to breathe, however, so he w
+  CUE L8: ...edia blackout for months with the ‘public protection measures’ put in place months before that let almost no information out. The rest of Asia, as we...
+## B5 Ch67 Ahead of Schedule
+  OPEN L3: “You want me to use this guy as a battery,” Jason said.
+## B5 Ch68 Open Wound
+  OPEN L3: As they walked through an army base in Germany, a handful of male Network troops threw up fists as they spotted the huge and hairy figure of Jack Gerling. The Germans had been avid about expelling the American Network forces from their coun
+  CUE L14: ...ties to new heights, refreshing the skills that had been drilled into him years ago and allowed to fall fallow. He kept his training quiet and ...
+  REG L30 [Glossary]: Dimensional ulceration : Dawn's term for a transformation zone forming in a space already coterminous with a proto-astral space: an open wound in the 
+  REG L34 [Transformation_Zones]: She adds that "in the best case it will establish a second source of magic that will start feeding into this world" .

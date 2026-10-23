@@ -1,0 +1,23 @@
+R0005|11|25|49|51|verified|Birthing trees: B10 Ch4 L53-55; the brand and enslavement: B11 Ch25 L51.
+R0007|2|42|96|96|verified|Objective "Reach the centre of the City of Fallen Echoes".
+R0012|11|59|79|84|verified|Zone safe space; Cardinas zone described.
+R0014|6|1|20|20|verified|Node space leaks dimensional energy, creating the zones; source of the reality cores.
+R0045|9|56|5|5|verified|Fal Vin Garath is free to treat the servant races as he pleases so long as it does not impinge on other messengers' interests.
+R0047|11|24|86|86|verified|Boris: "She has no idea that I'm Unorthodoxy."
+R0049|11|24|86|86|verified|"How many astral kings are outside the Council of Kings?"
+R0089|11|65|75|75|verified|Celestial Book and Seeker of Songs against the sundering; Clive clause removed from the document.
+R0098|8|49|89|91|verified|Token added to inventory and the ability to access the fundamental realm lost; the deal ending the invasion is not claimed.
+R0109|2|32|67|72|verified|Belinda's essences and Charlatan confluence.
+R0118|1|31|100|100|verified|Most core users do not make it to gold; the Musin Heath example is notes only.
+R0122|13|1001|9|9|verified|Quilido Procedure unlocks essence users trapped at silver.
+R0124|13|1001|9|9|verified|Quilido Procedure described.
+R0125|13|952|74|74|verified|Relic that can purge residual monster cores.
+R0126|1|54|35|35|verified|Vincent explains the field assessment procedure.
+R0129|3|29|86|86|verified|Personal crest; identifying a person from aura alone is unreliable without it. Tattoo form at B2 Ch70 L34-42.
+R0131|5|54|43|47|n/a|Claim replaced in the document; see the line-level rows for B5 Ch8 L44-47 and B5 Ch54 L52.
+R0132|6|47|3|5|n/a|Claim replaced in the document.
+R0133|5|54|43|47|n/a|Claim replaced in the document.
+R0134|6|1|20|20|n/a|Claim replaced in the document.
+R0135|11|1|16|21|n/a|Claim replaced in the document.
+R0137|9|42|80|80|verified|Messengers and military camps near Yaresh.
+R0145|1|64|3|3|verified|Every month the Adventure Society sends people to patrol outlying areas; a full month away from the city; unpopular.

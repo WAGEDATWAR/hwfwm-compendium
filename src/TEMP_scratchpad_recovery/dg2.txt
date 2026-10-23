@@ -1,0 +1,346 @@
+## B2 Ch1 Climbing Mountains
+  OPEN L3: Jason Asano walked through the halls of the cloud palace belonging to Emir Bahadir the powerful adventurer who had arrived in the city with such fanfare. The cloud palace was far from just white cloud-stuff, with the walls, floors and ceili
+  REG L3 [Emir_Bahadir]: Jason walks through "the halls of the cloud palace belonging to Emir Bahadir"; the team later move in.
+  REG L3 [Cloud_Constructs_and_Palaces]: **Emir's cloud palace**: floating just offshore on the north side of the Island, "fully exposed to the waves and currents, yet remained as immovable a
+  REG L77 [Sophie_Wexler]: Suspicious of kindness at first: "Are you trying to tell me that Jory is such a good friend to you that you'd go this far over some girl he likes?" .
+  REG L77 [Law_and_Indenture]: **Hearings**: indenture hearings are a normal legal event; the Greenstone court "was less like an American legal p[roceeding]".
+  REG L77 [Tone_and_Voice]: **Sophie**: wary of kindness, silent about pain.
+  REG L112 [Constance]: Jason meets "Emir and his chief of staff, Constance" returning to the cloud palace.
+## B2 Ch2 Nothing Can Hurt You Like Hope
+  OPEN L3: The door to Arella’s office at the Adventure Society opened as Jason approached and he walked right in. Sitting behind her desk, she made a gesture and the door closed behind him. He stood in front of the desk, looking around.
+## B2 Ch3 See You in Court
+  OPEN L3: Elspeth Arella was in the family home she had spent very little time in, even as a child. Raised by her mother in secret, now that the secret was finally out she was free to come and go as she pleased. Those precious, clandestine visits to 
+  CUE L21: ...“Ventress failed to deliver what she promised to Lamprey months ago. By the time we choose to act, I would be astounded to find...
+  CUE L69: ...en a good look at her. They’d met briefly under normal circumstances, months ago, but most of their encounters had come when she’d been corn...
+  REG L43 [Law_and_Indenture]: **Hearings**: indenture hearings are a normal legal event; the Greenstone court "was less like an American legal p[roceeding]".
+## B2 Ch4 Six-Month Lease
+  OPEN L3: The arrival of the expedition back into Greenstone was a mix of welcome, relief, commiseration and loss. Rufus and Gary waded into the chaos while Vincent headed for the administration building and the immense amount of work about to be dum
+  REG L19 [Cassandra_Mercer]: Falls into Jason's embrace in Book 2, and later ends it with him because her family wants a reliable match.
+## B2 Ch5 The Perks of Being an Essence User
+  OPEN L3: Jason led the two thieves into a meeting room that was only small by cloud palace standards. It had a wall open to one of the ubiquitous terraces and it’s ocean views, the cloud palace still floating just off Greenstone Island. The three ad
+  CUE L37: ...uired it. She had never gained a second ability in the more than half-dozen years since. It was more than enough to raise that one ability to bronz...
+  REG L37 [Sophie_Wexler]: Before Jason's help she had only the Swift essence and its single ability for more than half a dozen years (
+  REG L46 [Danielle_Geller]: a dimension essence, as Emir says (
+  REG L82 [Magic_and_Adventuring]: Emir's is Staff + Might + Magic, and Sophie's is Swift + Balance + Wind: Rufus asks what that combination produces and Clive answers "Mystic" .
+  REG L82 [Sophie_Wexler]: Essences : Swift, Balance and Wind, producing the Mystic confluence: Clive answers "Mystic" when Rufus asks what that combination produces .
+  REG L83 [Magic_and_Adventuring]: Clive adds that swapping Balance for Might gives Onslaught .
+  REG L83 [Magic_and_Adventuring]: Onslaught : Clive notes that swapping Balance for Might in a Mystic combination produces it ;
+## B2 Ch6 This is the Moment
+  OPEN L3: The Adventure Society campus became a continual series of memorial services. There were so many dead that group memorials were being held one after another. First came the largest groups, made up of the least influential adventurers who had
+## B2 Ch7 Iron Rank
+  OPEN L3: In the ritual room, Clive was rubbing his hands together. “Now for the good part.”
+  REG L62 [Clive_Standish]: He jokes about his background: "I'm the son of eel farmers" .
+## B2 Ch8 Getting Stoned
+  OPEN L3: Sophie and Belinda emerged from the side room, Sophie wearing a fresh outfit.
+  REG L168 [Emir_Bahadir]: Jason walks through "the halls of the cloud palace belonging to Emir Bahadir"; the team later move in.
+  REG L168 [Cloud_Constructs_and_Palaces]: **Team base**: Jason's team move into Emir's palace after the contest.
+  REG L170 [Sophie_Wexler]: Mirage Step and Wind Blade ; unarmed Way of the Reaper strikes.
+  REG L171 [Magic_and_Adventuring]: Each is raised by the essence abilities connected to it (an attribute advances in conjunction with the lowest-rank ability of its linked essence,
+## B2 Ch9 Children
+  OPEN L3: Sophie brushed a hand over the first of the three awakening stones Clive and Jason had laid out on the bench.
+  REG L21 [Clive_Standish]: A rune essence came to him as "an epic four-star essence" .
+## B2 Ch10 Star Seed
+  OPEN L3: In the Adventure Society marshalling yard, a portal opened and people started stepping through. There were fourteen in total, each bearing a pin marking them as Adventure Society officials. The woman at the front looked to be of early middl
+  REG L26 [Jonah_Geller]: After the desert astral-space expedition Danielle seeks legal permission from his family to have him examined for a star seed, as he refuses.
+  REG L26 [Plot_Hooks]: **Star seeds**: a captured adventurer will not consent to examination, and his family must authorise it. *Who else carries a seed?*
+## B2 Ch11 It’s About How You Use It
+  OPEN L3: While a cabal of the city’s most powerful plotted to get their hands on Thadwick Mercer and the other four suborned adventurers, Thadwick’s sister was on her family’s boat with Jason. Jason and Cassandra were—if the half-dozen Mercer family
+  CUE L29: ...sant little stretch of coastline. Just a little town, tourists in the summer.”...
+  CUE L33: ...es started popping up around us like mushrooms after the rain. Swanky summer homes and the kind of accommodation you can only afford if ...
+  CUE L37: ...you. Anyway, a lot of these rich people would only hang about for the summer, but enough stayed that they needed a place for their child...
+## B2 Ch12 We End Here
+  OPEN L3: As a week of ongoing memorial services came to a close, the adventuring community fell into a sober silence. The Adventure Society campus was quiet and, for the first time Jason had seen, largely occupied by adventurers who didn’t come from
+  CUE L90: ...It was another week before he returned to the city. He went straight to the jobs hall,...
+  REG L6 [Belinda_Callahan]: Grew up in the Old City with Sophie ; began working with Clive at the Magic Society after she was caught ; in Rakesh she works as the off-campus erran
+## B2 Ch13 Poison Pill
+  OPEN L3: It was late morning, the sun high in the sky. Clive arrived at the cloud palace, and found someone standing near the platform that touched the shore.
+  REG L57 [Tokens_Stones_and_Relics]: **Knowledge's token**: a small stone square like the World-Phoenix Token but washed-out blue, offered with two awakening stones; Jason is told it woul
+  REG L60 [00_Items_Overview]: **Tiers of power**: ordinary items are ranked iron to gold; astral blessing tokens and divine awakening stones are "transcendent rank".
+  REG L60 [Awakening_Stones]: **Divine awakening stones**: a god-made stone is "transcendent rank, epic" and bestows a specific aura power.
+  REG L60 [Tokens_Stones_and_Relics]: **Divine Awakening Stone of Inevitability**: "transcendent rank, epic", crafted by a god to bestow a specific aura power. The Soul-Purgation Tablet (a
+  REG L76 [Tokens_Stones_and_Relics]: **Divine Awakening Stone of Inevitability**: "transcendent rank, epic", crafted by a god to bestow a specific aura power. The Soul-Purgation Tablet (a
+## B2 Ch14 Let’s Just Fight Monsters
+  OPEN L3: Rufus opened the door to his suite to admit Clive inside.
+  CUE L35: ...lot,” he agreed. “You’ve been surviving the hard way your whole life. Six months ago, I was assistant manager at a retail bulk office supplier.”...
+  REG L35 [Jason_Asano]: He worked as an assistant manager at a retail bulk office supplier .
+  REG L116 [Jonah_Geller]: Humphrey says Jonah had quit Rick's team and was found with a new team in Hornis.
+## B2 Ch15 Damage You Shouldn’t Walk Away From
+  OPEN L3: Since Humphrey lacked extended movement powers and Jason’s stomach lacked a tolerance for movement powers, they hitched a ride into the delta on a trade wagon for a spirit coin each. Using supply crates as furniture, they bounced along in t
+  CUE L25: ...e it came together, though, all five up and vanished. They were found a week later in Hornis, on a boat bound for distant shores.”...
+## B2 Ch16 Picking Out the Good Ones
+  OPEN L3: Sophie, Jason and Humphrey left the wagon in the first town they came to. Being the closest town to the city, it was a busy distribution hub. Making their way through the town, Sophie was startled by how many people seemed to know Jason. So
+## B2 Ch17 Events Loom Large
+  OPEN L3: Rufus arrived at Arella’s office and knew she wasn’t there when the door didn’t swing itself open at his approach. When he knocked, it was opened by the deputy director. Rufus had few dealings with the elderly elf, Genevieve. He had heard s
+## B2 Ch18 What the Geller Name is Worth
+  OPEN L3: Rick led Clive and Belinda through the grounds. Clive and Belinda were both enraptured as Rick took them through pathways off the main thoroughfares, the visitors rapidly talking.
+  REG L25 [Clive_Standish]: His family sheltered in the Geller estate during the surge before last .
+## B2 Ch19 Cleansed
+  OPEN L3: “That should be the nest in there,” Humphrey said.
+  REG L93 [Emir_Bahadir]: His gold-rank reflexes catch Danielle before she lunges; he looks no more than thirty but ageless.
+## B2 Ch20 It Just Takes Practise
+  OPEN L3: In the late afternoon, Humphrey, Sophie and Jason were walking down a road with tall, leafy crops to either side. Finally starting to feel better, Jason let his head fall back as he drew a deep breath. He felt the warm sun of early autumn, 
+  CUE L23: ...“That’s an important lesson,” Humphrey said. “A couple of months ago, Jason and I went to retrieve the body of an adventurer kil...
+  CUE L3: ...ead fall back as he drew a deep breath. He felt the warm sun of early autumn, smelled the fresh, earthy scent of the crops. He let out a...
+  CUE L18: ...isty in the head like me. I grew up in a sleepy little beach town. In summer it fills up with people. Later I moved to a big city, altho...
+  REG L18 [Jason_Asano]: His father Ken is a landscape architect ; his mother Cheryl comes from a large family of mostly rural people ; his older sister Erika and her husband 
+  REG L18 [Cheryl_Asano]: Jason describes his mother's side as "a large family of mostly rural types".
+  REG L29 [Familiars]: A mirage dragon who takes small forms: a mouse in Humphrey's pocket, a bird on Jason's shoulder and a puppy .
+## B2 Ch21 World Building
+  OPEN L3: The sky was nearing full dark but the pathways of the Geller estate were lit up by magical lights, albeit ones selected and placed more for aesthetics than practicality. Rather than simple illumination, the discretely placed lights washed t
+  REG L26 [Consumables_and_Trial_Rewards]: **Star seeds**: great astral beings, not gods, "can send their followers star seeds"; once implanted and germinated the body transforms, "minor or maj
+  REG L26 [Era_Selection]: **Live dangers**: the church of Purity under an ecumenical inquiry; star seeds, implanted through the cult; energy ghouls.
+  REG L26 [Spoiler_Management]: **Star seeds and the Builder**: an archbishop explains that great astral beings send followers star seeds; Clive explains that great astral beings can
+  REG L94 [Clive_Standish]: He says he venerates, not worships, the Celestial Book: "There's a difference" ; an archbishop calls him a heretic for it .
+  REG L112 [Spoiler_Management]: **Star seeds and the Builder**: an archbishop explains that great astral beings send followers star seeds; Clive explains that great astral beings can
+  REG L112 [Great_Astral_Beings]: GABs cannot interact with physical reality directly; they recruit others to act for them (Clive on the Builder,
+## B2 Ch22 Fabulous Prizes
+  OPEN L3: The day’s first light found Jason meditating on a porch. It was attached to just one of the Geller family guest houses, each larger than the four-bedroom home Jason grew up in. Like most of the Geller estate building, it was nestled amongst
+  REG L127 [Clive_Standish]: Familiar : Onslow, a rune tortoise who sits at the prow of the airboat, carries Clive, and becomes a runic tattoo on his torso when called back .
+## B2 Ch23 Any Team Except Yours
+  OPEN L3: Jason walked up from the loop line into one the most verdant neighbourhoods on the Island, with streets and residences both full of vibrant greenery with long leaves and colourful flowers. The water-affinity of the green stone that was the 
+  CUE L3: ... the foundation of the Island helped the flowers deny the encroaching autumn. The houses didn’t have yards so much as grounds, with low ...
+## B2 Ch24 More Than One Clown
+  OPEN L3: Phoebe Geller walked through the Adventure Society campus to the north shore. The cloud palace loomed off the end of the dock, dwarfing any building in Greenstone. Emir’s chief of staff, Constance, came across the cloud bridge to meet her.
+## B2 Ch25 Resurrection
+  OPEN L3: Emir’s private study was a vast, domed area occupying the entire top floor of the cloud palace’s tallest and most central tower. As it was one of the restricted areas of the palace, the only access to his study was an elevating platform fro
+  REG L24 [Consumables_and_Trial_Rewards]: **Clockwork Core**: "iron rank, rare", the core of an artificial monster that simplifies the materials and processes of a construct creature; clockwor
+  REG L35 [Cults_and_Orders]: Beliefs and methods : the Builder recruits cults with gifts of power, uses  star seeds , constructs such as golems and clockwork animals, and  Clockwo
+  REG L37 [Great_Astral_Beings]: Clockwork Kings, gold-rank native creatures of the Builder's world, dragon-like and not monsters, whose cores make the cult's clockwork cores .
+  REG L37 [Cults_and_Orders]: the Builder recruits cults with gifts of power, uses **star seeds**, constructs such as golems and clockwork animals, and **Clockwork Kings**, whose c
+  REG L53 [Magic_and_Adventuring]: Resurrection : the soul lingers with the body from seconds to an hour and a gold-rank healer can reverse death in that grace period ; by Book 9 Neil s
+  REG L57 [Outworlders]: **Definition**: Clive: "An outworlder is someone whose soul has re-entered a physical reality, reflexively manifesting a body for itself"; the body is
+## B2 Ch26 Manifestation
+  OPEN L3: Four people were in Sophie and Belinda’s guest suite as images played on a crystal recording projector. Sophie and Belinda were both present, as were Phoebe and Jory. Phoebe had brought the recording crystal while Belinda had roped Jory int
+  CUE L43: ...“Still early days, for you,” Humphrey said. “Jason and I gained our essences months ago. Getting as many as you have in under a single month is a g...
+  REG L99 [Goblins_and_Fairies]: **Fairy manifestation**: a small hovering fairy-like figure with an androgynous body bites Clive in Book 2.
+## B2 Ch27 Potential
+  OPEN L3: In his guest suite in the cloud palace, Rufus was at a desk with papers arrayed in front of him. Ground assessments, potential designs, integration requirements. He wearily ran his hands over his face, trying to maintain concentration. Whil
+  REG L41 [Neil_Davone]: He grew up in the Mercer family's orbit: he started spending time at the Mercer compound as a boy because Thadwick needed friends his own age and the 
+  REG L41 [Neil_Davone]: At thirteen he had a crush on Cassandra Mercer, four years older .
+  REG L43 [Cassandra_Mercer]: Neil had a crush on her as a boy; she is four years older.
+  REG L46 [Neil_Davone]: He is nervous about joining Jason's team .
+  REG L46 [Tone_and_Voice]: **Neil**: tentative before he commits.
+  REG L59 [Neil_Davone]: He makes a stand in the Temple of the Healer , and after being rejected by the Mercers' circle the guards treat him as "just another iron-ranker" .
+## B2 Ch28 Weaponising a Barbecue
+  OPEN L3: Jason met Neil at the entrance to the cloud palace, along with one of Emir’s staff who added Neil’s aura signature to the access list for the palace.
+  REG L25 [Humphrey_Geller]: Book 2 : breaks up with Gabrielle, who is dogmatic about Knowledge ;
+  REG L25 [Gabrielle_Pellin]: Introduces herself as "just an acolyte, not a full priestess"; Humphrey breaks up with her in Book 2.
+  REG L32 [Humphrey_Geller]: That time is just coming to an end" .
+  REG L44 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+  REG L44 [Magic_and_Adventuring]: Prosperity** (Shield + Growth + Renewal; Neil,
+  REG L44 [Neil_Davone]: Shield, Growth and Renewal, producing the Prosperity confluence (Jason's notebook,
+## B2 Ch29 This Town Ain’t Big Enough
+  OPEN L3: The mirage chamber had created a sprawl of ancient, desert ruins. It was a town, long since dead and dry. Built into a hillside, crumbling buildings clung to the steep slope or were dug right into the yellow desert rock. Tunnels and stairwe
+  CUE L9: ...o replicate their previous strength but broadened their abilities. In the weeks since gaining their new members, the team had been working on str...
+## B2 Ch30 The Second-Best Iron Ranker
+  OPEN L3: After the initial chaos, the two clashing teams were starting to get their bearings. This was the moment that winged death plunged out of the sky in the form of Humphrey Geller. Careening downwards with his dive bomb special attack, wings s
+  REG L53 [Clive_Standish]: Abilities : Wrath of the Magister, a rune circle that triggers effects when attacked, the damage-reflecting buff Mantle of Retribution and the zone ab
+## B2 Ch31 Arrival
+  OPEN L3: “You can begin, candidate Wexler,” Vincent said. The Adventure Society official with the outrageous moustache was leading Sophie’s assessment, just as he had Jason’s. Sophie nodded as she stepped off the road and into the field of crops tal
+  CUE L26: ...“Oh, yeah,” Jason said. “A few weeks earlier I was assistant manager at an office supply store.”...
+## B2 Ch32 Full Jason
+  OPEN L3: As the boat was still moving into the dock, the aeronautical early arrival of Gabriel Remore drew quite a lot of attention. The curious crowd pressed in for only a moment, though, before he pressured them back with his gold-rank aura.
+  CUE L58: ...“We had an informal wake a couple of weeks ago,” Rufus said. “Now you’re here, I’ll arrange something more...
+  REG L52 [Arabelle_Remore]: With long hair dyed rainbow colours "in the Vitesse style".
+  REG L52 [Gabriel_Remore]: Appears in person at Farrah's wake with Rufus and Arabelle; Rufus's mother has even darker skin than her husband.
+  REG L67 [Magic_and_Adventuring]: Belinda's three essences are Magic, Trap and Adept .
+  REG L67 [Belinda_Callahan]: Essences : Magic, Trap and Adept, which she traded for in Book 2 , producing the Charlatan confluence .
+  REG L67 [Belinda_Callahan]: Essences : Magic, Trap and Adept, which she traded for in Book 2 , producing the Charlatan confluence .
+  REG L67 [NPC_Rosters_by_Era]: **Jason's circle**: Rufus, Gary, Farrah, Humphrey, Clive, Belinda, Jory, Sophie, Neil.
+## B2 Ch33 Versatile
+  OPEN L3: Jason was sitting in a meditation pose on one of the cloud palace’s open terraces when Rufus wandered along with his parents.
+## B2 Ch34 I Don’t Like This Plan
+  OPEN L3: The marshalling yard was full of adventurers, waiting for Emir Bahadir to arrive. The third and final boatload of iron-rankers had arrived the day before and a meeting had been called to finally explain the big job. Along with all the impor
+  CUE L3: ...r to arrive. The third and final boatload of iron-rankers had arrived the day before and a meeting had been called to finally explain the big jo...
+  CUE L45: ...: every one of you must be fit for action when the contract begins in three days. I don’t care what you do to one another, so long as you ca...
+  REG L55 [Hester_Maharala]: She is the Asiatic-looking person Jason sees first in this world, closer to South Asian than his own Japanese features.
+  REG L58 [Pranay_Culture]: **Geography**: Pranay is this world's equivalent of Sri Lanka, "larger and further south", a huge landmass in the Indian Ocean. Its northern coast has
+## B2 Ch35 Impossible to Subdue
+  OPEN L3: “What is it you need me for?” Sophie asked.
+## B2 Ch36 The Price We Pay Doesn’t Matter
+  OPEN L3: Jason and Sophie were sitting on a fallen log, eating sandwiches as they looked out over the pristine wetlands before them. They had largely avoided population centres, keeping themselves isolated to make the most tempting lure. Jason sighe
+## B2 Ch37 Make the Most of It
+  OPEN L3: Anisa stormed through the main hall of the temple of Purity making for the exit. The church functionary at the doors stepped out to meet her.
+  CUE L62: ...“Six months ago, I didn’t know anything that happened in the last five mont...
+  CUE L82: ... “How does Landemere Vane being a Builder cultist even matter now? He died months ago.”...
+  REG L67 [Landemere_Vane]: Jason killed him; Clive regrets losing his notes.
+## B2 Ch38 Wake
+  OPEN L3: Farrah hadn’t had a formal memorial, just a handful of dinners and informal gatherings, with storytelling and everyone getting blind drunk. With the unexpected appearance of her parents, Rufus had bounded into action, organising a formal me
+  CUE L45: ...ame into this world,” he said, then frowned. “That's was roughly half a year ago, not when I was a baby or something. I think everyone here ...
+  CUE L3: ...ents, Rufus had bounded into action, organising a formal memorial for the day before the adventurers left for Emir’s contest....
+  REG L29 [Draconians]: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  REG L29 [Leonids]: **Size**: draconians are larger even than male leonids.
+  REG L69 [Farrah_Hurin]: Daughter of Amelia and William Hurin of Vitesse; a member of the Burning Violet guild .
+## B2 Ch39 I Can’t Trust Any of It
+  OPEN L3: A crowd of hundreds was gathered at the Adventure Society campus, in front of the cloud palace as they waited for Emir to emerge. There was a sea of iron rankers, plus all manner of city luminaries and others eager to witness the commenceme
+  CUE L48: ...said, “which brings us to the next thing. You remember that commotion last week before the big meeting?”...
+  CUE L13: ...imate was to keep things hotter than elsewhere in the region, even as autumn moved closer to winter. To a smoulder, though, even the mos...
+  REG L15 [Draconians]: **Appearance**: "a member of the rare draconian race, larger even than male leonids and covered in glossy scales", the colour of dark leaves, green mo
+  REG L15 [Draconians]: **Rarity**: draconians are rare in Greenstone, where Maximilian is the only one present at a gathering.
+  REG L34 [Draconians]: **Pride in descent**: draconians "took pride in their claimed dragon ancestry and often had issues with other races wielding the dragon essence".
+## B2 Ch40 Legacy
+  OPEN L3: Emir and Constance walked through the vast atrium in the central tower of the cloud palace, a vast and grandiose chamber that had lush plants growing right out of the cloud-stuff walls and columns. They headed for the main entrance at a lei
+  CUE L61: ...fortune to come across when I, like you now, was only an iron ranker. Many years later I came across the man who created it, a diamond ranker. In ...
+  CUE L53: ...ssins was known as the Order of the Reaper. Going all the way back to the days before their organisation was wiped out, there have been stories o...
+  CUE L83: ...The next day, the locals set out tables and brought out food and drink e...
+## B2 Ch41 A Rash Decision
+  OPEN L3: “Now,” Jason said happily, “this is what adventuring should be like.”
+## B2 Ch42 It’s A Good One
+  OPEN L3: Jason and his team descended through the water as the daylight shining through the surface of the lake above grew increasingly dim. They stood close together on the platform as the magic sphere around them held off the water, encapsulating 
+  CUE L9: ...all mature,” Jason said. “What happened to that nervous guy from half a year ago?”...
+  REG L96 [01_World_Primer]: Astral spaces and zones : the City of Fallen Echoes , the desert astral space , Cardinas and the natural array , transformation zones .
+## B2 Ch43 The City of Fallen Echoes
+  OPEN L3: There was some pushing and jostling from the adventurers eager to pass through the aperture until a few low growls from Gary pulled the stroppy ones in line. Emir stood with Gary, watching from the side as they went through, one at a time. 
+  CUE L56: ...Silver should be extremely rare, but a silver rank monster can linger for years before breaking down back into magic, so there may be one or two a...
+  CUE L26: ...ld mostly see sky over the edges. A sun was high in a sky, blurred by summer haze. The air was humid and heavy, as much as the delta on ...
+## B2 Ch44 Shade
+  OPEN L3: Jason’s cloak fluttered around him as he drifted to the ground.
+  REG L8 [Gilbert_Bertinelli]: Jason's combat robe is "custom made for him by Gilbert Bertinelli"; Gilbert supplied his armour.
+  REG L37 [Familiars]: Who : a shadowy figure who appears in Book 2 as the entity that governs the trials of the City of Fallen Echoes .
+  REG L39 [City_of_Fallen_Echoes]: Shade administers five trials in order, with a hidden sixth at the end (
+  REG L47 [City_of_Fallen_Echoes]: The first trial** (
+  REG L72 [Cults_and_Orders]: The notes record that the Order were royal assassins (a knife in the dark for fool or mad rulers) and hunters of undead and of the Unliving church's n
+  REG L72 [Spoiler_Management]: Emir's account of the Order of the Reaper is contradicted by Shade's account; treat a character's story as belief unless a later line confirms it.
+## B2 Ch45 Seriously Hardcore
+  OPEN L3: To Jason’s eyes, the monster they had encountered seemed most like a leopard, except for the legs. They were still covered in spotted fur, like the rest of the creature, but there were eight of them, multi-jointed and emerging from the mons
+  REG L7 [City_of_Fallen_Echoes]: A sloth demon is a gold-rank monster with a soporific power that cripples speed (
+  REG L8 [City_of_Fallen_Echoes]: A sloth demon is a gold-rank monster with a soporific power that cripples speed ; the space's overall density is not stated in the passages I checked.
+  REG L69 [Sophie_Wexler]: She fights through pain without complaint; in Book 2, one-armed and struggling to her knees, she waves off the lesser miracle potion Jason offers .
+  REG L69 [Tone_and_Voice]: **Sophie**: wary of kindness, silent about pain.
+## B2 Ch46 Mixed Medication
+  OPEN L3: Sophie's arm injury was more serious than any of Jason's wounds. Her arm was severely damaged, and required an extended period to heal with her self-recovery power. Jason had been needled quite badly but it only took a few potions to elimin
+## B2 Ch47 Giving People Choices
+  OPEN L3: Sophie awoke to enticing breakfast smells. She was aching and tired; her damaged arm had given her a restless night. Only in the last few hours did she snatch some precious, uninterrupted slumber. She crawled delicately out of the tent and 
+## B2 Ch48 A Well-Informed Man
+  OPEN L3: The City of Fallen Echoes was teeming with monsters. On their second day, Jason and Sophie had an encounter almost hourly as they made their way to the centre of the city. Sometimes they followed streets, other times they went across roofto
+## B2 Ch49 The Danger is Us
+  OPEN L3: In the time they had spent allowing Sophie to recover, some other groups had moved deeper into the city. They started seeing traces as they went; the plants and buildings showed traces of essence abilities having been used on them. They kne
+## B2 Ch50 Surplus to Requirements
+  OPEN L3: Jason and Sophie continued their way through the City of Fallen Echoes. More cautious than ever, they exposed themselves to long sightlines as little as possible. Sometimes they used narrow streets to hide themselves from above, at other ti
+## B2 Ch51 A Worse Plan
+  OPEN L3: Clive’s team were making their way up through a building that became more precarious as they climbed. It was the tallest building they had encountered in the city, almost as tall as the archway towers on which they had arrived. This section
+## B2 Ch52 No One Has That Coming
+  OPEN L3: In the aftermath of the fight with the vorger, Jason and Sophie had no time to catch up with Neil and Jory. The flesh abomination lumbering in their direction posed a new, albeit slowly approaching, problem. They stood together, watching as
+## B2 Ch53 Part of Being a Team
+  OPEN L3: After defeating the flesh abomination, Jason’s temporary team had grown to five. With two defenders in Keane and Sophie, two healers in Neil and Jory, Jason was their only dedicated damage source. They were heavy on sustained but light on i
+  CUE L21: ...’t care. He’s spent a lot of money at the church of the Healer in the last year or so.”...
+## B2 Ch54 Making a Spectacle of Himself
+  OPEN L3: “We’re getting closer to the centre,” Jason said, looking at his map. “We could get there today if we went straight for it.”
+## B2 Ch55 Team Change
+  OPEN L3: Only seven groups had managed to breach the centremost region of the city before the blood root vine had been killed. One was made up of people with flight powers. Such abilities were mana intensive at iron-rank, requiring them to chug mana
+  REG L3 [Glossary]: Blood root vine : a plant-animal monster of Pallimustus .
+## B2 Ch56 Company Worth Keeping
+  OPEN L3: Since they were the impetus for the rooftop party, Jason and Valdis provided the supplies. Jason set up a buffet, putting out a couple of tables, an array of large bowls full of food, tongs and a stack of plates. He also laid out a good sup
+  CUE L45: ...flourish and laying it next to the others. It was the blue of an open summer sky, complete with clouds that seemed to float through the ...
+  CUE L70: ...The next day saw adventurers washing through the city centre like a floo...
+  CUE L72: ...uare in the evening. Most teams would be searching further afield the following day, returning to the outer city where treasure hunting that ha...
+## B2 Ch57 He Who Fights With Monsters
+  OPEN L3: In the heart of the city, a crowd of adventurers was gathered in the tower square as the sun dipped below the horizon. Clumped into teams, they formed a ring around the grand tower in the centre of the square. While the plain brickwork of t
+  CUE L74: ...,” Sophie said. “I’ve managed to avoid some unpleasant fates over the last year and I have no interest in some magic ghost lady throwing me...
+  REG L31 [Awakening_Stones]: **Naming and rarity**: stones are "unranked" and carry a rarity, such as the Awakening Stone of the Feast, of Adventure, of the Stars and of the Reape
+  REG L31 [Awakening_Stones]: **Affinity**: the Reaper stone "sharing affinity with the Reaper" is used in Jason's awakening ritual with the Reaper token, and it gives Humphrey, a 
+  REG L68 [City_of_Fallen_Echoes]: The third trial** (
+## B2 Ch58 Irreconcilable Ideals
+  OPEN L3: Shade led Jason upstairs into a square room. The stairs emerged from an alcove in the middle of one wall, with a sealed door on the opposite wall. The walls to either side were covered in square panels marked with what looked like scrambled
+  REG L9 [City_of_Fallen_Echoes]: The fourth trial, intellect** (
+  REG L53 [Consumables_and_Trial_Rewards]: **Summoner's Die: Form**: "iron rank [growth], legendary", it randomly alters the form of an iron-rank summon.
+  REG L70 [City_of_Fallen_Echoes]: The fifth trial, resolve** (
+  REG L100 [City_of_Fallen_Echoes]: the invigilator asks Jason to execute the Order's captive enemies; he refuses  and the reward is an Immortal Crest (
+  REG L102 [Consumables_and_Trial_Rewards]: **Immortal Crest**: "iron rank, rare", lets a mystical tattooist draw out a soul crest and only works on an iron-rank essence user.
+## B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone…
+  OPEN L3: Thalia Mercer was ill at ease. Most of the city’s iron-rankers had left a few days earlier and would be gone for weeks. She had hoped, in the quiet that settled over Greenstone in their absence, to start getting through to her son. She and 
+  CUE L3: ...ia Mercer was ill at ease. Most of the city’s iron-rankers had left a few days earlier and would be gone for weeks. She had hoped, in the quiet th...
+  REG L87 [Cults_and_Orders]: Timos is an embedded cultist in Greenstone .
+  REG L87 [Timos]: "Timos had been operating in Greenstone for years" and regrets going along with Thadwick's self-recruitment.
+  REG L87 [NPC_Rosters_by_Era]: **Builder cult**: Zato, Timos.
+  REG L106 [Timos]: Kills Frank with a conjured spear.
+## B2 Ch60 Take the Loot and Go
+  OPEN L3: The last set of stairs led Jason into a hallway that looped around in a ring, a huge circuit he estimated to be almost as wide as the full tower. The outer wall of the hallway was the familiar stone, while the inner wall was solid glass—a s
+  REG L120 [Cults_and_Orders]: The notes say the City of Fallen Echoes' final trial reveals that the Order now survives as a volunteer network of quiet allies who match jobs to peop
+  REG L120 [Spoiler_Management]: **The Order of the Reaper**: Emir says the churches "scoured" it away; Shade says it survives as a network of quiet allies and the trials are a lure. 
+  REG L173 [Tokens_Stones_and_Relics]: **Reaper Token**: an obsidian square engraved with a silver scythe, "transcendent rank, legendary". Jason takes the Scythe of the Reaper by placing hi
+## B2 Ch61 Making an Exit
+  OPEN L3: The shadow gate took Jason from the tower at the heart of the city to one of those at the city’s edge. He emerged at the base of one of the archway towers, not far from where ruins gave way to sea. He was surrounded by other adventurers, mi
+  REG L144 [Humans]: **Evolution**: Clive's blessing from the Celestial Book changes his human special attack affinity into a spell affinity; his Human Ambition becomes Th
+  REG L145 [Elves]: **Racial gift**: Neil's elf racial ability, Life Affinity, evolves into Life Guard.
+  REG L146 [Sophie_Wexler]: Racial gifts  (celestine): Mana Integrity evolves into Mana Wellspring , Astral Affinity into Boundary Breaker, which removes the damage reduction fro
+  REG L146 [Celestines]: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+  REG L147 [Familiars]: Special attack : Humphrey's racial ability evolves into Attack of the Mirage Dragon .
+  REG L147 [Humphrey_Geller]: Racial gift : his human gift Special Attack Affinity evolves into Attack of the Mirage Dragon (an illusory double of his attacks, Book 2) and later in
+## B2 Ch62 Shallow Earth
+  OPEN L3: Humphrey’s team had been eager to test out their new abilities as soon as they reached shore, but things were a little busy. While the iron-rankers were in the astral space, even more people had been awaiting their return. Many of the forei
+  REG L24 [Danielle_Geller]: Mother of Humphrey and wife of Keith Geller .
+  REG L24 [Henrietta_Geller]: Takes "her role of Humphrey's older sister seriously" and makes it clear that his teammates are yet to meet her approval.
+  REG L24 [Keith_Geller]: "Compared to Danielle, her husband, Keith, was more akin to their son: a solid and reliable counterpoint to her domineering charms".
+  REG L50 [Familiars]: A mirage dragon who takes small forms: a mouse in Humphrey's pocket, a bird on Jason's shoulder and a puppy .
+## B2 Ch63 Relief
+  OPEN L3: On his return to the cloud palace the next day, Emir’s first action was securing the scythe. His second was seeking out Jason and his team on the balcony terrace and enjoying a light lunch.
+  CUE L3: ...On his return to the cloud palace the next day, Emir’s first action was securing the scythe. His second wa...
+  REG L9 [Era_Selection]: **Turning points**: Farrah dies covering civilians; Emir's contest and the City of Fallen Echoes free 419 time-displaced priests.
+  REG L37 [Tokens_Stones_and_Relics]: **Reaper Token**: an obsidian square engraved with a silver scythe, "transcendent rank, legendary". Jason takes the Scythe of the Reaper by placing hi
+  REG L38 [00_Items_Overview]: **Tiers of power**: ordinary items are ranked iron to gold; astral blessing tokens and divine awakening stones are "transcendent rank".
+  REG L45 [Tokens_Stones_and_Relics]: **Astral blessing tokens**: Clive says they are "something great astral beings give out to bestow blessings, as signs of approval"; they trigger racia
+  REG L65 [Awakening_Stones]: **Affinity**: the Reaper stone "sharing affinity with the Reaper" is used in Jason's awakening ritual with the Reaper token, and it gives Humphrey, a 
+  REG L65 [Tokens_Stones_and_Relics]: **Reaper Token**: an obsidian square engraved with a silver scythe, "transcendent rank, legendary". Jason takes the Scythe of the Reaper by placing hi
+## B2 Ch64 Glory
+  OPEN L3: Despite the best efforts of his team to unnerve him, Jason used his final awakening stone, albeit with eyes closed and whispering to himself.
+  REG L55 [Neil_Davone]: Abilities : size-growth power and Armour of Renewal, which reduces damage taken and gives healing over time ; the Reaper's Redoubt .
+  REG L72 [Awakening_Stones]: **Affinity**: the Reaper stone "sharing affinity with the Reaper" is used in Jason's awakening ritual with the Reaper token, and it gives Humphrey, a 
+## B2 Ch65 Display of Gratitude
+  OPEN L3: The adventurer camp was divided into three areas. The first was the actual campsite, where opulent tents were set out for the prestigious visiting adventurers. The second was the market tents, plain but large, where Greenstone’s brokers and
+  REG L55 [Zara_Rimaros]: At first she is regal ("royal highness") and wary: in Book 2 Jason teleports into her tent and offers gem-berry and milk-nut squares .
+  REG L85 [Jason_Asano]: Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+  REG L96 [Magic_and_Adventuring]: Society representatives offer good trades for restricted essences to take them off the market: Sophie trades a death essence for two epic awakening st
+  REG L96 [Awakening_Stones]: **Restricted-essence trades**: Adventure Society representatives offer good trades for restricted essences, as when Sophie trades a death essence for 
+## B2 Ch66 The Person I Decided to Be
+  OPEN L3: In the cloud palace, the only person who could open a guest suite door they were not attuned to was Emir. He did so when Jason didn’t answer the chime. He entered, then walked out to where Jason was staring, shell-shocked, out over the lake
+  CUE L4: ...eeze sweeping over the water to refresh from the desert heat. Even as autumn turned to winter, the desert was unforgiving. More so than ...
+## B2 Ch67 You Have Friends to Help You
+  OPEN L3: In the ritual room, the group watched as Sophie continued through her awakening rituals. She had three unawakened abilities left, one from the wind essence and two from the balance, along with three legendary awakening stones to use on them
+## B2 Ch68 Blob Body
+  OPEN L3: After they had all gathered in the cloud palace’s ritual room once more , Clive performed the next essence ritual for Belinda.
+  CUE L119: ...our grandmother that smells like a cat died in a lavender field about thirty years ago.”...
+  REG L39 [Belinda_Callahan]: Abilities : Echo Spirit is her first charlatan ability ;
+## B2 Ch69 Particular Appetites
+  OPEN L3: In the old stone fortress in Old City, now a neutral ground of criminal delights, one of Cole Silva’s thugs knocked on the door of the crime lord’s office.
+  CUE L25: ...a person of interest to our royal family over a theft that took place several years ago,” Zara told him, her words formal but her voice unable to e...
+  REG L16 [Zara_Rimaros]: Celestine with caramel skin, sapphire eyes and waterfall-blue hair .
+  REG L17 [Tone_and_Voice]: **Zara**: courtly with a threat in the smile.
+  REG L17 [Zara_Rimaros]: 
+  REG L18 [Zara_Rimaros]: Vesper Rimaros, a silver-ranker about sixty-seven, is close to Zara and is a descendant of Pelli ;
+  REG L64 [Hester_Maharala]: "Hester was one of Emir's most important staff members", in charge of logistics and coordination between his operations.
+  REG L65 [Hester_Maharala]: Born in Jayapura, a port city of Pranay; she has a clifftop house with grotto rooms and a swim-access bar.
+## B2 Ch70 Domineering, Territorial and Robust
+  OPEN L3: For those who could afford them, personal transport in Jayapura consisted of platter-sized discs that floated in the air, underfoot, the rider directing them by shifting their weight. Hester brought a number of them out onto an open area of
+  CUE L57: ...ith polished wood, shining tiles and glass as pristine as a cloudless winter sky. Hung on the walls were pictures of various tattoos, so...
+  REG L3 [Pranay_Culture]: **Jayapura**: Hester's birth city; personal transport for those who can afford it is a platter-sized floating disc ridden by shifting weight.
+  REG L34 [01_World_Primer]: Soul crests  are magical tattoos printed on the soul, which appear on the body .
+  REG L34 [Magic_and_Adventuring]: Crests : a soul crest is a magical tattoo printed on the soul, which appears on the body ; it lets a person be identified without relying on the aura 
+  REG L70 [Hester_Maharala]: A shopkeeper calls her "Hester Maharala... The lady with the house on the hill".
+## B2 Ch71 More Shady as We Go Along
+  OPEN L3: Tilly provided the group with catalogues that took the form of recording crystals, allowing them to look through projections of the available magic tattoos.
+  CUE L26: ...Once all the tattoos were done, they made arrangements to return the day after next for Jason’s crest. After all their shopping, they sky ...
+  CUE L28: ...rly, in anticipation of using a sobering sixteen awakening stones the next day, plus summoning at least one familiar. Late in the evening,...
+  REG L14 [Neil_Davone]: Muscular (Sophie and Belinda comment on his "muscular body", Book 2), though the notes describe him as "chubby for an elf" .
+## B2 Ch72 Magnificent Entity
+  OPEN L3: “Moment of truth,” Jason said.
+  REG L15 [Familiars]: Let mine be the dark beyond darkness..." .
+  REG L34 [Familiars]: The notes give an iron-rank Shade up to three shadow bodies, incorporeal, hiding in other people's shadows, draining mana by touch ; the wiki says sev
+## B2 Ch73 I Try to Find the Truth, But That’s Your Hiding Place
+  OPEN L3: The city of Jayapura featured a vast mirage chamber complex that was larger and more sophisticated than the Geller family’s private chamber in Greenstone. The higher magical density of Jayapura meant that more advanced magical effects could
+  CUE L62: ...The next day, the team made their way through the streets of Jayapura, b...
+  REG L3 [Pranay_Culture]: **Mirage chambers**: Jayapura has a vast mirage chamber complex, more sophisticated than the Gellers' private chamber in Greenstone because the higher
+  REG L58 [Tokens_Stones_and_Relics]: **Knowledge's token**: a small stone square like the World-Phoenix Token but washed-out blue, offered with two awakening stones; Jason is told it woul
+## B2 Ch74 The Last Reward
+  OPEN L3: In the early morning, Jason stood at the edge of a platform in the underground grotto, looking out to the cave entrance and the ocean beyond. Daylight was yet to penetrate the west-facing cave and the illumination was still provided by the 
+  REG L34 [Soul_Bound_Items_and_Regalia]: **Cloud Flask**: iron rank growth item that Jason binds in Book 2; it creates cloud buildings and vehicles, with forms limited by rank. By Book 6 it i
+  REG L36 [00_Items_Overview]: **Bound items** "cannot be used by anyone else".
+  REG L43 [Cloud_Constructs_and_Palaces]: **Jason's Cloud Flask**: it creates buildings and vehicles of cloud, with forms limited by rank, iron cloud houses, bronze cloud vehicles and silver c
+  REG L45 [00_Items_Overview]: **Growth items** have a rank that can rise; soul-bound growth items are rare, Clive says, and the advancement requirements are "usually quite prohibit
+## B2 Ch75 Impossible Wasn’t Enough
+  OPEN L3: In a training hall within the Adventure Society campus, Prince Valdis was squaring off against Rufus. Both held training swords that would leave a painful sting but not inflict any permanent damage.
+  CUE L25: ...“That’s a little overdramatic, but a good enough point. Around half a year ago, I was in as bad a situation as I’ve ever been in. I though...
+  REG L81 [Familiars]: Powers : two floating orbs fire sustained beams: an orange beam of resonating-force damage that penetrates armour and a blue beam of disruptive-force 
+## B2 Ch76 Eclipse
+  OPEN L3: The strike force had been small, to restrict information: three gold-rankers, six silver-rankers and a dozen bronze-rankers. Rufus’s parents, Gabriel and Arabelle, along with their teammate, Callum, were the golds. The silvers were Danielle
+  REG L71 [Rufus_Remore]: Books 2-3 : assists in the Reaper contest and the Builder cult episode; confronts Farrah's killer .

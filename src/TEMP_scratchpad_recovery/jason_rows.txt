@@ -1,0 +1,120 @@
+R0490 [Book 1] verified B1 Ch1 L8-10
+   CL: ...On arrival : he wakes bald and naked in a hedge maze .
+   SRC: “I thought it was meant to look bigger when you trimmed.” | He pushed himself to his feet and started assessing his environment. Casting his gaze to the sky, he saw that the sun was high and the air was warm. The sky w
+R0491 [Book 1] verified B1 Ch8 L37-37
+   CL: ...se facial features, inherited from his father, look even sharper than usual, his face is gaunt, and his bald head and absent eyebrows make him look "manic and unhinged" .
+   SRC: It was the first time he’d gotten a look at himself since arriving. He’d been imagining himself looking like an action hero, heading into act three with masculine dirt stains reflecting enemies bested and challenges ov
+R0492 [Book 12] verified B11 Ch2 L63-63
+   CL: ...At gold his "strange, nebulous eyes" draw attention, though they return to the dark eyes he had at iron when he meets Zara .
+   SRC: Jason and Jali were floating in the air. Their heads were at the same level, which left the much shorter Jason’s feet somewhere around her thighs. He looked at her, his nebulous eyes searching for something within her ow
+R0493 [Book 3] partial B5 Ch30 L58-58
+   CL: ...Clothing : from Book 3 he buys a Vitesse-style wardrobe from the tailor Gilbert Bertinelli .
+   SRC: Jason had draped his heavily damaged combat robe over his chair and was standing, looking at it. The robe, custom made for him by Gilbert Bertinelli, had been a quiet champion for him, but the magic in it had died. Despite
+R0494 [Book 3] verified B3 Ch57 L87-87
+   CL: ...He tells the Builder it and Knowledge "should get together and play Mario Kart" ; he compares a projected face to Emperor Palpatine .
+   SRC: “You took possession of my brain for a little while,” Jason said. “It makes sense that you know all my tricks. You and the goddess of Knowledge should get together and play Mario Kart. Do gods and great astral beings
+R0495 [notes, Book 9] verified B9 Ch6 L17-17
+   CL: ...He tells the Builder it and Knowledge "should get together and play Mario Kart" ; he compares a projected face to Emperor Palpatine .
+   SRC: Farrah went to the elevating platform and left Jason alone in his suite. He moved inside and a crystal projector formed out of cloud stuff. It was a small plinth, capped by a pyramid, atop which was a slot for a recording 
+R0496 [Books 1, 13] verified B1 Ch38 L55-55
+   CL: ...He says "G'day" and "mate" .
+   SRC: “G’day, mate,” Jason said, sitting down next to him. “I like your dog.”
+R0497 [Books 1, 13] verified B13 Ch1016 L21-21
+   CL: ...He says "G'day" and "mate" .
+   SRC: “G’day Farrah,” Jason said. “I was just meeting Rufus’ new friend. Turns out he’s a doctor, but I didn’t catch his name yet.”
+R0498 [Book 1] verified B1 Ch25 L43-43
+   CL: ...Self-deprecation : "I'm only twenty-three but I've been pretty efficient about squandering my opportunities" .
+   SRC: “The way I look at things,” Jason said to Rufus, gesturing with an impaled egg, “is that coming here is like a fresh start. I can do the things I regretted never doing. I’m only twenty-three but I’ve been pretty 
+R0499 [Book 5] verified B5 Ch20 L25-25
+   CL: ...I never liked my birthday anyway" .
+   SRC: “It’s not a celebratory time. I never liked my birthday anyway.”
+R0501 [Book 1] verified B1 Ch99 L67-70
+   CL: ...His attributes are bound as Power (Blood), Speed (Dark), Spirit (Doom) and Recovery (the fourth essence) .
+   SRC: [Power] (Blood): [Iron 2] | [Speed] (Dark): [Iron 0]
+R0502 [Book 1] verified B1 Ch56 L49-52
+   CL: ...Weapons : a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Gary , later reforged with Virid Martine as Hegemon's Will .
+   SRC: Item: [Dread Salvation] (iron rank [growth], legendary) | A sword crafted with gratitude, in hope it would be of the greatest use in the moment of greatest need. It was forged with passion and expertise to be a reliable co
+R0503 [Book 1] verified B1 Ch52 L7-11
+   CL: ...Way of the Reaper martial arts .
+   SRC: Jason’s new art was different in many ways from what he had expected, although in hindsight such differences were obvious. In his own world, martial arts were designed to fight other humans, operating within a fixed rang
+R0504 [Book 6] verified B6 Ch4 L29-36
+   CL: ...The set Regalia of the Dark Hegemon includes the Amulet of the Dark Guardian .
+   SRC: The amulet had the strongest affinity to him already. As the last item produced by his old quest system before that ability evolved, the power had left him with a potent final gift. | [Amulet of the Dark Guardian] has been
+R0505 [Book 3] verified B3 Ch29 L35-35
+   CL: ...rt whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution and Gordon's Harbinger of Doom .
+   SRC: Effect (bronze): You can sense nearby shadows and teleport to them without requiring line of sight. By increasing the cost to moderate, small shadows can be enlarged to serve as viable portals at both the ingress and egres
+R0506 [Book 2] verified B1 Ch22 L115-120
+   CL: ...rt whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution and Gordon's Harbinger of Doom .
+   SRC: Ability: [Path of Shadows] (Dark) | Special ability (dimension, teleport)
+R0507 [Book 5] verified B5 Ch3 L202-210
+   CL: ...rt whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution and Gordon's Harbinger of Doom .
+   SRC: [Feast of Absolution] (spell): [Bronze 7] 66%. | [Sin Eater] (special ability): [Bronze 7] 79%.
+R0508 [Book 5] verified B5 Ch3 L205-205
+   CL: ...rt whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution and Gordon's Harbinger of Doom .
+   SRC: [Castigate] (spell): [Bronze 8] 83%.
+R0509 [Book 5] verified B5 Ch3 L205-205
+   CL: ...rt whose range is about two hundred kilometres at bronze, Book 4), Midnight Eyes , Castigate and Verdict , Punition , Feast of Absolution and Gordon's Harbinger of Doom .
+   SRC: [Castigate] (spell): [Bronze 8] 83%.
+R0510 [Book 1] verified B1 Ch1 L76-81
+   CL: ...Outworlder racial abilities  : Interface, Quest System, Inventory, Map, Astral Affinity and Mysterious Stranger.
+   SRC: [Map] | [Astral Affinity]
+R0511 [Book 2] verified B2 Ch65 L85-85
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: New Title: [Godless Prophet]
+R0512 [Book 3] verified B3 Ch21 L149-149
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: New Title: [Spirit Warrior]
+R0513 [Book 4] verified B4 Ch2 L22-22
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: Title: [Indomitable]
+R0514 [Book 5] verified B5 Ch29 L68-72
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: You have acquired a new title: [Giant Slayer]. | [King of the Dinosaurs] has been wholly annihilated. It has been looted automatically.
+R0515 [Book 6] verified B6 Ch15 L45-45
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: New Title: [Reality Hegemon]
+R0516 [Book 10] partial B10 Ch83 L67-73
+   CL: ...Titles : Godless Prophet , Spirit Warrior , Indomitable , Giant Slayer , Reality Hegemon , Keeper of the Cycle .
+   SRC: Jason was well-versed in the offensive methods of soul interaction. His first and most drastic lesson had been from the Builder, but he had developed those powers for himself, then alongside Amos Pensinata. This was doing 
+R0517 [Book 4] verified B4 Ch3 L100-100
+   CL: ...Home : Casselton Beach on the Mid North Coast of New South Wales .
+   SRC: “I need to work on my driving skills,” Jason said as he drove through the rain. It was a short half-hour to his hometown of Casselton Beach, the wet conditions only adding a few minutes.
+R0519 [Book 2] verified B2 Ch20 L18-18
+   CL: ...ral people ; his older sister Erika and her husband Ian live nearby with their daughter Emi; his brother Kaito and Kaito's wife Amy live next door to his parents' house .
+   SRC: “It has places like this,” Jason said. “My family used to take trips out into the country when I was younger. My mother has a large family of mostly rural types. Good, hardworking people, you know? Not all twisty in 
+R0521 [Book 4] verified B4 Ch1 L66-67
+   CL: ...His uncles are Hiro, the black sheep with minor involvement in organised crime, and Shiro, the favourite .
+   SRC: Jason had two uncles, one of which was estranged from the family. Hiro Asano was the family’s black sheep due to his hopefully minor involvement with organised crime. Hiro might simultaneously be a useful source of infor
+R0522 [notes, Book 1] verified B1 Ch7 L26-26
+   CL: ... political science, then a drop-out who stayed in Melbourne and saw little of his family apart from his sister's household , where he is "the cheapest childcare in town".
+   SRC: The rest of the drawers contained piles of notes and diagrams that seemed related to the magic circle. Oddly, Jason could read the individual words despite never having seen the language before, but they didn’t make any 
+R0523 [Book 2] verified B2 Ch14 L35-35
+   CL: ...He worked as an assistant manager at a retail bulk office supplier .
+   SRC: “You are better than me at a lot,” he agreed. “You’ve been surviving the hard way your whole life. Six months ago, I was assistant manager at a retail bulk office supplier.”
+R0524 [Book 5] verified B5 Ch20 L24-26
+   CL: ...Birthday : 1 April .
+   SRC: “Of course I wasn’t,” she lied. “I’m an ancient and powerful being, so I’m a little more mature than someone who just turned twenty-six. I noticed that you didn’t celebrate your birthday last week.” | “It
+R0525 [notes, Books 1, 4] verified B4 Ch3 L112-112
+   CL: ...Arrival : pulled from his bed in late November by Landemere Vane's failed summoning .
+   SRC: It had been late November when Jason left and now it was early June, a year and a half later. It was fully dark but, a little before nine, not too late. He wasn’t sure what he would do when he arrived at his parents’ h
+R0526 [Books 1, 4] verified B4 Ch3 L112-112
+   CL: ...Arrival : pulled from his bed in late November by Landemere Vane's failed summoning .
+   SRC: It had been late November when Jason left and now it was early June, a year and a half later. It was fully dark but, a little before nine, not too late. He wasn’t sure what he would do when he arrived at his parents’ h
+R0527 [Book 9] verified B8 Ch65 L85-93
+   CL: ...Books 7-9 (level 2) : returns to Pallimustus as the great surge begins; the One Day War; becomes an astral king ; the Battle of Yaresh; takes in messengers.
+   SRC: This was not Shade, although the shadow entity looked a lot like Shade’s earlier incarnations of a hooded figure, before he acquired his butler fetish. The difference was that inside the hood of this cloaked figure was t
+R0528 [Book 12] partial B12 Ch8 L97-104
+   CL: ...Books 12-13 (level 3) : a gold-rank "prime avatar of an astral nexus" who returns to Earth in 2038.
+   SRC: As their descent continued, Jason pulled up his character sheet, a screen floating in front of him. Looking over his abilities, he smiled at the effects of using great astral beings to grind levels. His abilities ranged fr
+R0529 [notes, Book 1] partial B1 Ch40 L31-35
+   CL: ...Rufus runs his assessment, Farrah teaches him aura control, perception and meditation .
+   SRC: The spirit attribute, Jason learned, governed not just magic strength, but also perception. Farrah subjected Jason to an array of unusual but often interesting and fun exercises. They would play memory games with cards, or
+R0530 [notes, Book 9] verified B7 Ch17 L104-105
+   CL: ...Level 2 : he has died four times by Book 6 (the Church of Death's certificate, Book 7; the card in Book 10); he is an astral king .
+   SRC: “No, but I saw his certification from the Church of Death and it said he's died four times. So far. It actually said ‘so far’ on the certification. I've never seen that before.” | “Four? You should ask the Church
+R0531 [Book 12] partial B12 Ch67 L196-199
+   CL: ...Level 3 : his transformation into a prime avatar of an astral nexus .
+   SRC: [Numen]: Your transcendent power has aspects of divinity that are imbued into the avatar that is the mortal embodiment of your will and power. Your avatar can express that power in ways that reflect your hegemonic and defi
+R0533 [Book 13] verified B13 Ch1024 L127-129
+   CL: ...his consciousness into the prime avatar, and Jason walks to the standing stones knowingly, promising Knowledge "the next time we meet, Goddess, will be the day you die" .
+   SRC: “The best part,” Umber added, “is that you’ll walk right into the cage, summoner, knowingly and willingly. I’ve incorporated some additions to the ritual to complete the bridge anchor point. It will bind your con

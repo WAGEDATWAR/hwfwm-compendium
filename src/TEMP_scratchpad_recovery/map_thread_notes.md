@@ -1,0 +1,1 @@
+Note: "Rules of Intrusion" is the Book 12 wording (B12 Ch63 L5, L7, L45); Book 13 says "Laws of Intrusion" (B13 Ch987 L38, Ch1017 L44, Ch1020 L98). Documents should use "Rules" and mention "Laws" as the Book 13 variant.

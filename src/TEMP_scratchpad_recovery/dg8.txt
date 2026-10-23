@@ -1,0 +1,217 @@
+## B8 Ch1 Band of Misfits
+  OPEN L3: The Storm Kingdom was primarily located within the Sea of Storms, occupying the space between the north and south continents. The kingdom’s territory included the coastal regions of those continents, along with the entire body of land that 
+  CUE L12: ...llowing the terrible casualties from the battles with the Builder. In the weeks since the battles, reduced adventurer numbers and the recovery ef...
+## B8 Ch2 The Pile of Disturbing Things
+  OPEN L3: The fortress town was a tragic disaster. The gates were intact, but the high stone walls were coated in deep gouges where the monsters had scrambled over them. Once the magic dome atop the walls had failed, the monsters had swarmed inside, 
+  CUE L50: ...Arabelle took the time to speak with Jason’s group in the days after their return, both as a whole and individually. Most of Jas...
+  REG L49 [Arabelle_Remore]: A member of the Church of the Healer specialising in mental health and trauma recovery, who has worked extensively with Jason.
+  REG L55 [Spirit_Vault_and_Astral_Kingdom]: The notes add a blood section like an artery, a sin section of black, red, white and gold, and a dark section in an underground cave with luminescent 
+## B8 Ch3 Information Exchange
+  OPEN L3: Clive had already been aware that in Jason's time away, his soul had undergone some extreme changes. While he had no knowledge of what a spirit domain was, he understood that something had saturated Jason’s cloud house with his presence in 
+  REG L8 [Spirit_Vault_and_Astral_Kingdom]: Inventory ; the Spirit Vault, an inventory he can enter and which others can enter by trust ; a spirit domain ; a spirit realm that travels along the 
+## B8 Ch4 Tampering With That Kind of Power
+  OPEN L3: Jason and Clive made their way down the stairs in the cloud house and into the waterfall room. The natural stone of the cave it occupied was hidden behind walls, floor and ceiling of cloud stuff, which radiated soft, ambient light. Sparklin
+  CUE L87: ...think all those people signed up voluntarily, though. Why would they? Months later, adventurers came through to investigate the whole thing. I...
+  REG L116 [Dawn]: Jason kills and loots one .
+## B8 Ch5 You Don’t Have it in You
+  OPEN L3: With his team needing to assemble for a contract mid-morning, Jason set out early to conduct his own affairs. He portalled to Livaros, arriving in one of the squares marked as legal teleport destinations. Another person followed him through
+  REG L7 [Estella_Warnock]: She has "made a career out of being a spy and urban scout in Livaros" and knows the island's streets, alleys and rooftops extremely well.
+## B8 Ch6 Good Luck Fighting Evil
+  OPEN L3: Before convening for their next contract, Jason's companions were conducting their own affairs around the city. Neil, as a priest of the Healer, had gone to church. Humphrey and Sophie followed Belinda to browse for items at the trade hall.
+  CUE L57: ...use it was in a lower magic zone. The local adventurers took it down, but days later, three world engineers emerged from the ruins.”...
+## B8 Ch7 Special Boy
+  OPEN L3: Jason’s team arrived with the others on the shore of the island that had once been a flying city. The city was severely damaged, with cracked streets and buildings in various states of repair. Even more noticeable was the cant of the city, 
+  CUE L45: ...ife. Clive’s combat training had been long ago and all but unused for a decade after he gave up adventuring for research....
+  CUE L47: ...sed tactics, but that was not the extent of their repertoires. It had been years since Jason pushed Clive back into the adventuring life and he ha...
+## B8 Ch8 Strictly Necessary
+  OPEN L3: “There’s something odd about this city,” Humphrey said, prompting the rest of the team to give him a confused look. Even Sophie stuck her head over the edge of the roof she stood on to look his way.
+  REG L43 [Belinda_Callahan]: Bait and Switch, Rune Trap, Force Tether, Lightning Tether and Pit of the Reaper ; shapeshifting .
+## B8 Ch9 Opportunists
+  OPEN L3: The Order of Redeeming Light had long travelled using underwater vehicles that were neither fast nor efficient but were very hard to detect. As such, they were able to avoid being spotted by the scouts watching the Builder island until they
+  REG L40 [Era_Selection]: **Live dangers**: a hundred and nineteen outworlders appear at once; the One Day War, after which "It had been a month"; the Order of Redeeming Light 
+  REG L40 [Plot_Hooks]: **Towns massacred under cover of monster attacks**: the Order of Redeeming Light disguises its conversions and killings.
+  REG L40 [Cults_and_Orders]: massacres of isolated fortress towns disguised as monster attacks while adventurers are busy (
+## B8 Ch10 A Bland Kind of Alchemy
+  OPEN L3: On the ruined island city that was once a flying Builder fortress, the adventurer expedition Jason and his team were part of regrouped. With multiple forces of Purity troops arriving on the island, the expedition commander, Liara, was chang
+## B8 Ch11 Ideal Enemy
+  OPEN L3: The Purity forces arrayed against Jason’s team and their adventurer allies numbered in the dozens, although more than half were only bronze rank. The key threats were the two gold-rank converted, the three silver-rank essence users and, to 
+## B8 Ch12 Trying to Kill Jason Again
+  OPEN L3: Sophie had one of the two gold-rank converted bound up in personal combat. The gold-rankers were the primary threat to the adventurers, so keeping them occupied while the adventurers took down the rest of the Purity forces was critical. Sop
+## B8 Ch13 Here to Steal
+  OPEN L3: The commander of the Purity forces on the island was Sendira. She had separated from most of the converted in her group, leaving them on the surface to delay and distract any adventurers that found the entrance to the underground complex th
+## B8 Ch14 Not Really a Rules Guy
+  OPEN L3: Belinda panned her gaze over the broken Builder constructs, destroyed not by adventurers but by the Purity worshippers that were their ostensible allies.
+  CUE L18: ...at Purity has spies in Rimaros. They were a major church until just a few years ago; they have to have informants and sympathisers left. Maybe ...
+## B8 Ch15 A Comparison He Could Avoid
+  OPEN L3: The moment Humphrey appeared in Jason’s spirit realm, he lost the protection of Jason’s aura. The artificial aura of the beacon wasn't attacking him, but being so close to its source felt like his soul being dangled upside down in a raging 
+## B8 Ch16 Portal Logistics
+  OPEN L3: Suffering the full effects of the aura beacon for only a few moments had left Humphrey spiritually exhausted, but by the time he finished talking with Jason, he was ready to get back into action. While Humphrey knew his silver-rank recovery
+## B8 Ch17 It Won’t Be a Good Reason
+  OPEN L3: The Sea of Storms has no shortage of small, uninhabited islands. One such island was a small scrap of land that was periodically scoured by the magical storms that passed through the region, stripping the land bare except for a gully where 
+## B8 Ch18 Bait and Switch
+  OPEN L3: Hidden inside a mountain was the Order of Redeeming Light’s submarine dock. There was a rare gathering of the order’s local forces and four of the cell leaders were confronting their overall leader, Melody Jain, in front of everyone. She lo
+  REG L3 [Cults_and_Orders]: People  : Melody Jain is the overall leader of the order's local operations, with her second Sendira and church adviser Laront (a Purity priest who ne
+  REG L3 [Melody_Jain]: Leads the Order's local forces in the Sea of Storms.
+  REG L3 [NPC_Rosters_by_Era]: **Church and order**: Gabrielle Pellin as priestess of Knowledge, Melody Jain and the Order of Redeeming Light.
+## B8 Ch19 That Kind of Power Can Be Lonely
+  OPEN L3: Jason and Clive were in the waterfall room in Jason’s cloud house. The walls were still covered in writing boards and they were looking at a section where Clive had scrawled small, densely packed notes.
+## B8 Ch20 Blame
+  OPEN L3: The Adventure Society functionary left Liara’s temporary office after informing her about the arrival of Lord Cassin Amouz. Once she was alone, Liara allowed shame to flash over her expression before schooling it. She had been determined to
+  REG L4 [Cults_and_Orders]: Operations : massacres of isolated fortress towns disguised as monster attacks while adventurers are busy ; recruitment of volunteers; the capture of 
+  REG L4 [Cults_and_Orders]: Operations : massacres of isolated fortress towns disguised as monster attacks while adventurers are busy ; recruitment of volunteers; the capture of 
+  REG L4 [Plot_Hooks]: **A kidnapped heir**: Gibson Amouz is spirited away from the island.
+## B8 Ch21 Speed
+  OPEN L3: Jason and his team were having a relatively relaxed time in the days after the Builder island expedition. The monster surge raged on and the Purity worshippers remained a lurking threat, but after a day off, the team was assigned to low-pri
+  CUE L3: ...Jason and his team were having a relatively relaxed time in the days after the Builder island expedition. The monster surge raged on a...
+  REG L40 [Celestines]: **Astral affinity**: astral affinity is a celestine racial gift; celestines are similar to elves and humans. The rare Child of the Celestial Wind appe
+## B8 Ch22 Delicate Flowers
+  OPEN L3: Sophie’s attempt to escape the clutches of the gold-rank monster did not go as planned. Her time-accelerating power, Eternal Moment, did not last as long as the name suggested. She did escape the tentacle forest rising from the water in her
+  REG L37 [Sophie_Wexler]: Racial gifts  (celestine): Mana Integrity evolves into Mana Wellspring , Astral Affinity into Boundary Breaker, which removes the damage reduction fro
+  REG L37 [Celestines]: **Gift evolutions**: Sophie's Mana Integrity becomes Mana Wellspring, her Astral Affinity becomes Boundary Breaker and her Celestial Swiftness becomes
+## B8 Ch23 Hope
+  OPEN L3: Liara sensed Cassin Amouz leave the Adventure Society administration building, her face filled with anger not at him but at herself.
+## B8 Ch24 Preferred Option
+  OPEN L3: Watching the skimmer from a hidden position in the jungle canopy, Sophie observed the eight men riding in it. Stealth was not her forte, but scouting was a key role for her, so she was at least adequate at hiding her aura. With the inexpert
+  REG L22 [Adventure_Society]: Neutrality : the Society is described as neutral in disputes between nations .
+## B8 Ch25 Sloppy Mistake
+  OPEN L3: Liara was flooded with a strange sensation the moment she stepped fully inside Jason Asano's cloud house. There was a sense of oppression, which only heightened as the open wall closed behind her, sealing her in. The aura pervading the plac
+  CUE L135: ...themselves after losing people while raiding the island just a couple of days ago.”...
+## B8 Ch26 Criteria
+  OPEN L3: A portal power at Jason’s current rank of silver four had a base range of two thousand and four hundred kilometres, which was true for every portal or long-range teleport ability. Jason was able to eke out some extra range because of the va
+## B8 Ch27 A Matter of Values
+  OPEN L3: Belinda repeatedly thwapped at Sophie’s head with a softcover notebook as Sophie fended her off with her arms. As Sophie shifted in her seat under the attacks, the puppy napping in her lap made a grumbling sound.
+## B8 Ch28 A Little Damage
+  OPEN L3: Sophie and Humphrey sat in cloud chairs facing one another, leaning forward with her hands held in his.
+  CUE L48: ...ften contradictory, including a confirmation notice of his death some three years ago....
+## B8 Ch29 Infiltrating the Stronghold
+  OPEN L3: After sensing Vidal’s approach, Jason had tamped down the aura of the cloud house to hide its nature as a spirit domain. Unlike with the people of Earth, anyone from Pallimustus with aura senses would immediately recognise the similarity to
+  CUE L23: ...Shade had been dwelling inside the facility for the last few days since infiltrating the stronghold in the shadow of an order membe...
+  REG L44 [Carlos_Quilido]: "The Healer Priest, Carlos Quilido, had helped Jason restore his damaged soul after it was besieged by the Builder's star seed".
+  REG L49 [Belinda_Callahan]: Aura disguise : her power gives her an edge in learning aura disguises, which she teaches Jason .
+## B8 Ch30 Coming in Hot
+  OPEN L3: A mining complex lay not just deep beneath the surface but even below the sea floor itself. A sprawling network of facilities linked by a tangled web of tunnels contained a process that went from mining rare ores to refining them and finall
+  CUE L5: ...der of Redeeming Light’s stronghold, where Shade had been dwelling in the days since the vehicle took him there. With the departure of the vehic...
+## B8 Ch31 We Are Fighting Monsters
+  OPEN L3: Jason returned to the submarine dock, again emerging from Shade’s body, behind the high stack of crates. He immediately strode out from behind the stack, the opposite of hiding as his aura flooded out. Its oppressive presence masked the app
+## B8 Ch32 Just Some Administrator
+  OPEN L3: Unsurprisingly, the Purity worshippers had no shortage of powers that could cleanse Jason’s afflictions. Those afflictions were unusually tenacious and inflicted harm as they were removed, but it was not an insurmountable task. This was esp
+## B8 Ch33 Family Issues
+  OPEN L3: Clive tossed a pinch of powdered lesser monster core against the wall, briefly causing runes to light up as the powder fell on them.
+  CUE L74: ...r tsunami. Even so, their silver-rank reflexes gave them each time to spring into action. Sophie reacted with unsurprisingly alacrity, m...
+  REG L18 [Cults_and_Orders]: Effects and tools  : the flames leave members with a distinct lack of imagination and a trend toward linear thinking.
+## B8 Ch34 A Power That You’ve Overlooked
+  OPEN L3: Jason and Melody faced one another in the magically sealed section of tunnel, both standing lightly on the water.
+  CUE L18: ...the Way of the Reaper is impressive for someone who only learned it a few years ago. Skill books?”...
+## B8 Ch35 Nostalgia
+  OPEN L3: When the two gold-rankers racing to the underwater mining facility arrived at the submarine dock, they found the surface of the water sealed with a magical barrier, shimmering red with shifting yellow runes. The barrier was only from a bron
+## B8 Ch36 Saving the Day With the Power of Quips
+  OPEN L3: That the two gold-rankers sent to the underwater facility had been available was a stroke of good fortune. Claud Ferringhaas was an expert manipulator of water and stone, with his earth, water, shovel and verdant essences. He was an agricul
+## B8 Ch37 Keep it Light
+  OPEN L3: The team was only one tunnel segment away from Baseph Rimaros, but that segment was filled with water.
+  CUE L27: ...mist for a few moments, which cleared to reveal him in a white casual summer suit and matching Panama hat....
+## B8 Ch38 Enough to Kill You With Power to Spare
+  OPEN L3: What was called a safe room was actually several rooms, set out like a dormitory. There was a communal room into which the entrance opened, with metal tables and chairs in uniform rows, all affixed to the floor. It reminded Jason of a priso
+## B8 Ch39 A Significantly Different Paradigm
+  OPEN L3: Jason’s team all looked to him with grim expressions.
+## B8 Ch40 Something Drastic
+  OPEN L3: Slipping Belinda into the ranks of the Order of Redeeming Light had been startlingly easy. The order had not anticipated the Adventure Society sending a response to the mining complex so quickly and their teams had been caught by surprise. 
+  REG L7 [Belinda_Callahan]: Disguises : she infiltrates the Order of Redeeming Light as "Keth Gino" and, in the jungle territory of the transformation zone, passes as the silver 
+## B8 Ch41 Ridiculous New Soul Power
+  OPEN L3: Liara’s marriage had never been one of great passion. A political arrangement made when she and Baseph were young, their relationship had nonetheless grown over the decades. Friends and often lovers, their true shared love was their childre
+  REG L58 [Carlos_Quilido]: A humble man in simple clothes, though the world will not let a gold-ranker be too humble.
+## B8 Ch42 The Awakening of Mr Asano
+  OPEN L3: Under the suppressing hood, Melody shouldn’t have been able to sense anything. Even the oppressive aura pervading the strange cloud building had been cut off once the hood was yanked back over her head. So when that aura punched through the
+  CUE L28: ...In Greenstone, several years ago, Carlos had once tested Jason, projecting his aura with a r...
+  CUE L34: ... were brief, the team knowing Carlos from the months he spent helping Jason years before....
+## B8 Ch43 We’re Adventurers
+  OPEN L3: “Clear,” Shade signalled Belinda.
+  REG L48 [Gods_and_Churches]: In Book 10 a goddess says she cannot see into the astral space Jason is holding prisoners in; in Book 8 a priest says his god cannot see inside a buil
+  REG L48 [Religion_in_Practice]: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  REG L48 [Spoiler_Management]: Gods are limited: a goddess cannot see into an astral space Jason holds, and a priest says his god cannot see into a hidden building. Characters often
+## B8 Ch44 The Person in My Care
+  OPEN L3: There was no one in the small lounge area when the bomb went off and it did nothing more than smash up and knock around some furniture. The goal was neither harm nor damage but to trigger the alarm and sow some chaos. People were quick to s
+  CUE L58: ...ways let me help you with that, but it seems that you’ve forgotten in the years since we were a team. Let me help you again, Cal.”...
+## B8 Ch45 I Love a Hypocrite
+  OPEN L3: Belinda’s escape from the Order of Redeeming Light’s stronghold, leaving a dock full of ruined submarines in her wake, was not made alone. Her companion was neither the one she hoped for nor intended, but she knew full well that no plan wen
+## B8 Ch46 I’ve Told You Everything
+  OPEN L3: “I’m about to ask you to do something,” Dawn said. “Before I do, I’m going to need some of you to leave. Clive, Taika and Travis. Rufus, Farrah and Gary. You can’t be here for this and I need you to not ask why.”
+## B8 Ch47 Faith is Soul-Deep
+  OPEN L3: “Everyone out,” Arabelle said, ushering the team from Jason’s room as Carlos approached the cloud bed.
+  REG L31 [Arabelle_Remore]: Examines Jason's body-matrix and soul with Carlos in Book 8.
+## B8 Ch48 Lest He Become a Monster Himself
+  OPEN L3: “You’re saying the God of Purity is pulling a Wizard of Oz?” Jason asked. He was reclined in a cloud chair while Carlos sat facing him on a cloud stool.
+  REG L22 [Gods_and_Churches]: Domains : gods cannot enter another's spirit domain ("higher rules for higher beings", notes, Book 6); gods cannot reveal other gods' deceptions, bein
+  REG L22 [Religion_in_Practice]: **Limits on gods**: a god's favour does not mean intervention; a goddess says she cannot see into the astral space where Jason holds prisoners; the go
+  REG L40 [Gods_and_Churches]: In Book 8 Jason and Dawn discuss the idea that the gods sanctioned Purity long before .
+  REG L40 [Spoiler_Management]: **Purity, Disguise and the Order of Redeeming Light**: the gods may already have sanctioned Purity; Disguise created the order. Level 2-3.
+## B8 Ch49 Quite a Lot of System Windows
+  OPEN L3: Carlos sat on a pew, head in his hands. He felt a warm hand rest on his shoulder.
+  REG L89 [Great_Astral_Beings]: Book 8 settlement : the Fundamental Realm Authority Token is returned in the deal that sees the Builder end his invasion of Pallimustus .
+  REG L105 [Era_Selection]: **Turning point**: the Astral Throne and Gate appear. **Spoiler level**: 2.
+  REG L105 [Spoiler_Management]: **Astral king**: Jason's astral kingdom appears with the Throne and Gate; a healer realises he is a silver-rank astral king. Level 2.
+  REG L105 [Astral_Kings_and_Messengers]: After the Astral Throne and Astral Gate appear (
+  REG L105 [Spirit_Vault_and_Astral_Kingdom]: ); an astral kingdom once the Astral Throne and Gate appear (
+## B8 Ch50 Reasons to Quietly Dread
+  OPEN L3: Jason’s body was rigid and tense, trembling with pain as he channelled mana, teeth gritted and fists clenched. Forcefully cycling mana through the matrix that was the magical framework on which his body was built accelerated Jason’s recover
+  REG L46 [Astral_Kings_and_Messengers]: After the Astral Throne and Astral Gate appear , Jason's spirit realm becomes an astral kingdom.
+  REG L82 [Tone_and_Voice]: Shade uses "Mr Asano" and "Master Nik".
+  REG L82 [Tone_and_Voice]: **Shade**: butler-formal courtesy.
+  REG L82 [Familiars]: Shade is butler-formal (
+  REG L87 [00_Items_Overview]: **Rarities seen**: common, uncommon, rare, epic, legendary, and "unavailable" for the Fundamental Realm Authority Token.
+  REG L87 [Tokens_Stones_and_Relics]: **Fundamental Realm Authority Token**: "transcendent rank, unavailable", bound to Jason and usable only by him and Zithis Carrow Vayel; it lets the wi
+## B8 Ch51 Authority
+  OPEN L3: Dawn’s dimensional vehicle, a garden cottage inside an orb, approached Jason’s cloud building. Standing at the edge of the garden, Dawn looked at what was now an architectural chimera of fluffy white cloud house and stark, black temple. Des
+  REG L68 [Tokens_Stones_and_Relics]: **Fundamental Realm Authority Token**: "transcendent rank, unavailable", bound to Jason and usable only by him and Zithis Carrow Vayel; it lets the wi
+  REG L68 [Great_Astral_Beings]: ); he looted it from the destroyed artefacts , and Dawn tells him he will need to give it back (
+## B8 Ch52 The Kind of Pain I’m Used To
+  OPEN L3: Jason Asano’s cloud house was currently part house and part dark temple; it was not a clean division but a disorienting mismatch of pieces. It was as if someone had taken the shattered remnants of two very different buildings and assembled 
+## B8 Ch53 A New Man
+  OPEN L3: “You are breathtakingly presumptuous,” Shako told Jason.
+  CUE L90: ... by his side, Dawn had also made an outfit change, to a simple yellow summer dress. Her brilliant red hair was no longer shining like fi...
+## B8 Ch54 Negotiating Position
+  OPEN L3: While Dawn and Shako stood eating fritters from the plate he had handed over to Dawn, Jason prepared for his imminent discussion. A floor of white cloud substance extended from the wall of the cloud house, covering the grass like a plush ca
+## B8 Ch55 No Points of Conflict
+  OPEN L3: Jason’s cloud house had undergone yet another transformation when he accidentally spent some of the authority he had taken from the Builder on it. It was currently in the form of a pagoda made from smoky crystal, which was dark but for spec
+  REG L92 [Great_Astral_Beings]: Gordon comes from its realm .
+  REG L92 [Familiars]: Origin : Colin comes from the border region between the realms of the All-Devouring Eye and Legion, Legion being the great astral being who administer
+  REG L92 [Familiars]: Origin : Gordon comes from the realm of the All-Devouring Eye, as the messenger Carmen says in Book 8 .
+## B8 Ch56 Quite Enough Transcendent Beings
+  OPEN L3: “That looks good,” Jason said, eyeing off the pink liquid in the delicate crystal bottle. It sat on the low table in front of the cloud couch where Jason and Dawn were still sitting, outside of Jason’s pagoda. Jason’s own drink was a tall b
+## B8 Ch57 Flavours of Authority
+  OPEN L3: Jason and Farrah stood at the balustrade of a balcony, looking out over the water as the sky grew dark.
+  CUE L56: ...“Yep. Then, thirteen billion years later, we have Earth and Pallimustus. The same starting point, bu...
+  REG L25 [00_Cosmology_Overview]: Jason's Book 8 lecture distinguishes a *set* state (authority put to a purpose, "clay turned into a bowl", as in his spirit domains) from a *potential
+  REG L28 [The_Builders_Door_and_Fundament_Gate]: **Consequences**: Jason used the Builder's door when he flooded himself with magic and later "accidentally trashed it for parts"; "the magic of the Bu
+## B8 Ch58 Mythmaking Was Within Expectations
+  OPEN L3: When Jason woke up, everything ached. Dawn had helped him recover a little, but then he went and used some of the authority he had before trading the rest away. The after-effects made his entire body feel like it had cramped up, leaving wha
+  CUE L20: ...“Well, we named our days after gods. The gods are real here and probably frown on that kin...
+## B8 Ch59 Dodging the Topic
+  OPEN L3: Jason’s spectacularly public escape from death, followed by his otherworldly visitors, left Jason holed-up in his cloud house, which remained in the form of a sinister tower. With a need to both avoid the many eyes on his home and convalesc
+  CUE L6: ...hat the Builder's forces effectively abandoned the Storm Kingdom as a battlefront weeks ago has lessened the local pandemonium,” Dawn said....
+## B8 Ch60 A Power That Did Not Belong to the World
+  OPEN L3: Carlos was nervous as he moved through the cloud pagoda. Jason’s familiar was clearly hostile, even as it guided him, and he worried that the entire building would be as well. He could sense its power, dormant for the moment, but he had alr
+  CUE L32: ...flexively turned to physiological responses his magical body had left behind decades ago....
+## B8 Ch61 A Gentleman Doesn’t Tell
+  OPEN L3: Carlos turned his attention to Jason as he sat opposite him. He hadn’t done more than glance at Jason since coming in, his attention arrested by Dawn. Even with his senses diminished, he could see that Jason was not in a good way. His skin 
+## B8 Ch62 Recalibrate Their Expectations
+  OPEN L3: “I want to try opening up some portals,” Jason said as Carlos was about to leave after his latest treatment session. They stood in the vast atrium, by the large double doors that served as the main entrance.
+  CUE L21: ...When she had been reassigned to the Builder response unit in Rimaros, several years earlier, Liara settled into her home for a longer stretch than she ...
+  REG L28 [Liara_Rimaros]: Her husband is Baseph and their three silver-rank children are Dara, Zareen and the youngest, Joseph, an administrative official.
+  REG L32 [Zara_Rimaros]: Liara Rimaros is a gold-ranker of the royal house, and Zareen Rimaros, Zara's lady in waiting and cousin, is Liara's daughter .
+  REG L36 [Storm_Kingdom_Culture]: **Royal looks**: the royal family's iconic feature is sapphire hair and eyes.
+## B8 Ch63 Deeds of Legend
+  OPEN L3: Liara’s family sat around a dining table filled with food in Jason’s cloud house. Liara glowered as Baseph held her hand under the table, his eyes sparkling with amusement.
+## B8 Ch64 A King Needs a Throne
+  OPEN L3: Rufus had instilled in Jason an appreciation for the fundamentals of training. Since those first days in Greenstone, Jason's life had been storms of activity, followed by downtime for various reasons. Whether it was waiting for the Reaper t
+  CUE L34: ...hem all the way to the roof, which had been flattened out compared to the day before. Jason was standing at the edge, looking out not at the sea...
+  REG L72 [Astral_Kings_and_Messengers]: The notes record that messengers are messengers of astral kings, whose message is "Kneel", and that astral kings rule through them rather than invadin
+## B8 Ch65 What Light Does
+  OPEN L3: “It changed again,” Jason said, looking around his soul space. “Not that I wasn’t expecting it. It’s been changing on the regular, and with losing the bridge and the door, plus gaining the throne and the…”
+  REG L85 [Spirit_Vault_and_Astral_Kingdom]: After the Astral Throne and Astral Gate appear , Jason is an astral king.
+  REG L85 [Jason_Asano]: Books 7-9 (level 2) : returns to Pallimustus as the great surge begins; the One Day War; becomes an astral king ; the Battle of Yaresh; takes in messe
+## B8 Ch66 Why Anyone Would Pick You
+  OPEN L3: The elevating platform stopped at the top floor of the pagoda, depositing Jason and Dawn at one end of a long throne room. She turned to look at him.
+## B8 Ch67 Astral Emperor
+  OPEN L3: Jason’s astral throne was a hammock chair. He made a spreading gesture and it became a hanging chair with room for two.
+## B8 Ch68 Goodbyes
+  OPEN L3: Jason and Dawn stood in front of the arch that would take them out of his soul space and back into normal reality.
