@@ -26,7 +26,7 @@ Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised o
 - **Essences**: Magic, Rune, Balance and the Karmic confluence (Book 2, Ch28 L56: "Clive has the magic, rune, balance and karmic essences"). A rune essence came to him as "an epic four-star essence" (Book 2, Ch9 L21).
 - **Abilities**: Wrath of the Magister, a rune circle that triggers effects when attacked, the damage-reflecting buff Mantle of Retribution and the zone ability Eye of Karma (Book 2, Ch30 L53); Mana Equilibrium (Book 1, Ch103 L44).
 - **Racial gift**: a blessing from the Celestial Book changed his human Special Attack Affinity into a spell affinity (Book 1, Ch85 L22-26).
-- **Familiar**: Onslow, a rune tortoise who sits at the prow of the airboat, carries Clive, and becomes a runic tattoo on his torso when called back (Book 1, Ch86 L115-116; Book 2, Ch22 L127-129).
+- **Familiar**: Onslow (see `Familiars/Onslow.md`), a rune tortoise who sits at the prow of the airboat, carries Clive, and becomes a runic tattoo on his torso when called back (Book 1, Ch86 L115-116; Book 2, Ch22 L127-129).
 - **Ritual and astral magic**: he leads the team's rituals and bridge research.
 
 ## 5. Background

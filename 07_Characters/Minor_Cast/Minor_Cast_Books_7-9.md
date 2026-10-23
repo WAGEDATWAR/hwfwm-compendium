@@ -37,6 +37,7 @@ Minor Storm Kingdom, Rimaros society and Purity-order figures with no file of th
 ### Autumn Leal
 
 - An adventurer Jason met before reaching Rimaros, with a frog essence and a frog familiar ritual (Book 7, Ch20 L21; Book 9, Ch1 L49; Book 9, Ch10 L102).
+- **Familiars**: she mourns her bonded companion (Book 9, Ch1 L50) and finds a new familiar, a long-tongue jumping hydra the size of a two-storey house that is closer to the frog-like end of the scale (Book 9, Ch10 L103, L106).
 
 ### Zolit Kreen
 

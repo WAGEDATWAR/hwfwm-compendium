@@ -1,11 +1,13 @@
 # The Familiars: Shade, Colin, Gordon and Stash
 
+Individual entries for the familiars with a personality are in the `Familiars/` folder: [Shade](Familiars/Shade.md), [Colin](Familiars/Colin.md), [Gordon](Familiars/Gordon.md), [Stash](Familiars/Stash.md), [Onslow](Familiars/Onslow.md) and [Shimmer](Familiars/Shimmer.md). This file stays as the overview.
+
 Status: Draft (book text, chapter notes and wiki; tiers marked: "Book N" = checked in the book text, "notes" = chapter notes, "wiki" = fan wiki)
 Spoiler level: 0 for Colin, Gordon, Stash and Shade's Book 2 role; 2-3 for evolutions
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1, 2, 3, 5, 6, 8, 9, 10, 11, 13
-Related: 00_Characters_Overview.md, Jason_Asano.md, Humphrey_Geller.md, ../03_Magic_and_Adventuring/Familiars_Summons_and_Conjurations.md
+Related: 00_Characters_Overview.md, Jason_Asano.md, Humphrey_Geller.md, Clive_Standish.md, Belinda_Callahan.md, Umber.md, Familiars/Shade.md, Familiars/Colin.md, Familiars/Gordon.md, Familiars/Stash.md, Familiars/Onslow.md, Familiars/Shimmer.md, ../03_Magic_and_Adventuring/Familiars_Summons_and_Conjurations.md
 
 ## 1. Summary
 

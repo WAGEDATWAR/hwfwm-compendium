@@ -29,7 +29,7 @@ Jason Asano is the series' protagonist: an Australian from the coastal town of C
 - **Weapons**: a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Gary (Book 1, Ch56 L49-52), later reforged by Gary with his mentor Virid and with Jason's soul-bond guiding the work (Book 7, Ch2 L73-74), becoming the sword [Hegemon's Will] with the scabbard Hegemon's Dominion (Book 7, Ch54 L108-120); Virid's surname Martine is Book 6, Ch47 L270. Way of the Reaper martial arts (Book 1, Ch52 L7-11). The set Regalia of the Dark Hegemon includes the Amulet of the Dark Guardian (Book 6, Ch4 L29-36).
 - **Abilities seen in the text**: Path of Shadows (a shadow-to-shadow teleport at iron, Book 1, Ch22 L120; at bronze a conjured shadow gate on a regional scale to a place already visited, Book 3, Ch29 L22-35; "a range of roughly two hundred kilometres" when he plans to reach Sydney from Casselton, Book 4, Ch1 L67), Midnight Eyes (awakened Book 1, Ch8 L35), Castigate (Book 1, Ch87 L85) and Verdict (Book 1, Ch99 L24), Punition (Book 1, Ch78 L54), Feast of Absolution (Book 1, Ch22 L84) and Gordon's Harbinger of Doom (Book 5, Ch31 L187).
 - **Outworlder racial abilities** (Book 1, Ch1 L76-81): Interface, Quest System, Inventory, Map, Astral Affinity and Mysterious Stranger. Mysterious Stranger gives language adaptation, absorption of essences, awakening stones and skill books, and immunity to identification and tracking effects. Astral Affinity increases resistance to dimension effects and astral forces and increases the effect of dimension abilities and transcendent damage.
-- **Familiars**: Shade, Colin and Gordon (see Familiars.md).
+- **Familiars**: Shade, Colin and Gordon (see `Familiars/Shade.md`, `Familiars/Colin.md` and `Familiars/Gordon.md`, and the hub `Familiars.md`).
 - **Titles**: Godless Prophet (Book 2, Ch65 L85), Spirit Warrior (Book 3, Ch21 L149), Indomitable (Book 4, Ch2 L22), Giant Slayer (Book 5, Ch29 L68-72), Reality Hegemon (Book 6, Ch15 L45), Keeper of the Cycle (Book 10, Ch83 L67-73).
 
 ## 5. Background
@@ -54,7 +54,7 @@ See the Master Timeline for dates.
 - **Mentors and early friends**: Rufus, Gary and Farrah; Rufus runs his field assessment (Book 1, Ch38 L45) and guides his first meditation (Book 1, Ch31 L120-133); Farrah trains his perception and aura projection with memory games and other exercises (Book 1, Ch40 L31, L50-52; Book 1, Ch41 L35).
 - **Team Biscuit**: Humphrey, Sophie, Belinda, Clive and Neil.
 - **Family**: Emi, Kaito (dies in Book 5), Amy, Erika.
-- **Familiars**: Shade, Colin and Gordon.
+- **Familiars**: Shade (a shadow, butler and driver), Colin (an apocalypse leech swarm) and Gordon (an Avatar of Doom); full entries in `Familiars/`.
 - **Others**: Dawn, Zara, Anna Tilden, Boris, Knowledge, the Builder.
 
 ## 8. Secrets and spoiler notes

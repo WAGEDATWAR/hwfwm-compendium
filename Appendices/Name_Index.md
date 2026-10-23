@@ -54,6 +54,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Calcifer Bynes** (B10): Aristocratic Faction political figure in Yaresh; son of Gormanston.
 - **Callum (Cal) Morse** (B2): gold-rank stealth hunter and Emir's old teammate; reveals in B6 that he is part of the Cult of the Reaper. See `07_Characters/Callum_Morse.md`.
 - **Carilo** (B9): healer in Rangel's party. See `07_Characters/Minor_Cast/Minor_Cast_Books_7-9.md`.
+- **Carlivexistrix (Carli)** (B6): a vast rainbow dragon, Stash's mother; the Gellers have been her companions since coming to Greenstone (Book 6, Ch47 L736-738, L751).
 - **Carlos Quilido** (B3): Healer priest, soul healer.
 - **Carmen** (B6): avatar of doom of the Sundered Throne who "just turns up" to collect, taking Shako away on the Last Ferry (B6, B8).
 - **Cas Vin Baral** (B11): silver-rank messenger used for ritual materials by the gold-rankers (Book 11, Ch7 L14; Book 11, Ch12 L56).
@@ -67,7 +68,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Clarissa Ventress** (B1): Greenstone crime lord; died in Book 3.
 - **Clive Standish** (B1): Magic Society researcher; Archchancellor of the MRA.
 - **Cole Silva** (B1): crime lord obsessed with Sophie; punished with skeletal suppression.
-- **Colin** (B1): Jason's apocalypse-leech swarm familiar.
+- **Colin** (B1): Jason's apocalypse-leech swarm familiar. See `07_Characters/Familiars/Colin.md`.
 - **Constance** (B1): Emir's wife and chief of staff.
 - **Craig Vermillion** (B4): vampire, Cabal front man.
 - **Crivens** (B2): Mercer butler.
@@ -123,7 +124,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 - **Gibson Amouz** (B8): Amouz heir.
 - **Gilbert Bertinelli** (B1): Greenstone tailor, one of octuplets; see `07_Characters/Gilbert_Bertinelli.md`.
 - **Gladys Erstweller** (B4): Network healer.
-- **Gordon** (B2): Doom familiar.
+- **Gordon** (B2): Jason's Avatar of Doom familiar. See `07_Characters/Familiars/Gordon.md`.
 - **Gordon Truffett** (B4): Network figure first named in Book 4; first Director of Operations of Dimensional Artefact Site One and, by Book 12, Australia's Prime Minister, known for fearmongering and for suggesting the seizure of Asano Village.
 - **Gormanston Bynes** (B10): prominent member of Yaresh's Aristocratic Faction. See `07_Characters/Gormanston_Bynes.md`.
 - **Greg** (B4): Jason's school friend; killed in Book 5.
@@ -223,7 +224,7 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 ## O
 
-- **Onslow** (B1): Clive's rune tortoise.
+- **Onslow** (B1): Clive's rune tortoise familiar. See `07_Characters/Familiars/Onslow.md`.
 - **Orin Pensinata** (B7): silver-ranker; Amos's nephew. See `07_Characters/Orin_Pensinata.md`.
 
 ## P
@@ -244,13 +245,14 @@ Related: Glossary.md, ../08_History_and_Timeline/Master_Timeline.md
 
 ## S
 
-- **Shade** (B2): Jason's shadow familiar.
+- **Shade** (B2): Jason's shadow familiar. See `07_Characters/Familiars/Shade.md`.
 - **Shako** (B3): diamond servant of the Builder.
+- **Shimmer** (B2): Belinda's astral lantern familiar. See `07_Characters/Familiars/Shimmer.md`.
 - **Sigrid Freyn** (B3): Mirror Kingdom healer. See `07_Characters/Sigrid_Freyn.md`.
 - **Simon McKean** (B13): Network scientist.
 - **Soramir Rimaros** (B7): founder, diamond.
 - **Sophie Wexler** (B1): the Nightingale.
-- **Stash** (B1): mirage dragon.
+- **Stash** (B1): Humphrey's baby mirage dragon familiar (Velitraxistaasch). See `07_Characters/Familiars/Stash.md`.
 
 ## T
 

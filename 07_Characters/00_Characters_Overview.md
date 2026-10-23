@@ -149,6 +149,15 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Zato](Zato.md) (spoiler level 1): The last silver-ranker of the Builder cult's local forces, who leads its survivors to the Vane Estate.
 - [Zithis Carrow Vayel](Zithis_Carrow_Vayel.md) (spoiler level 3): The messenger recruited as a sixteen-year-old diamond-ranker to become the new Builder, named on the Fundamental Realm Authority Token Jason loots.
 
+**Familiars/**
+
+- [Colin](Familiars/Colin.md) (spoiler level 1): Jason's first familiar: a swarm of apocalypse leeches that lives in his blood, sprays out over enemies to bite and drain them, and can take the shape of a...
+- [Gordon](Familiars/Gordon.md) (spoiler level 1): Jason's third familiar: an Avatar of Doom, a floating cloak holding a nebula in the shape of an eye, circled by blue and orange eye-orbs that fire beams.
+- [Onslow](Familiars/Onslow.md) (spoiler level 1): Clive Standish's familiar: a rune tortoise whose shell carries runes that throw elemental attacks, and whose shell the whole team rides in, shelters in and...
+- [Shade](Familiars/Shade.md) (spoiler level 1): Jason's shadow familiar, a formal, dry astral being who is one of the Reaper's shadows.
+- [Shimmer](Familiars/Shimmer.md) (spoiler level 1): Belinda Callahan's astral lantern: a small living lantern that orbits her, projects shields, fires force bolts and feeds mana to her team.
+- [Stash](Familiars/Stash.md) (spoiler level 1): Humphrey Geller's bonded familiar: a baby mirage dragon whose full name is Velitraxistaasch, who prefers "Stash".
+
 **Minor_Cast/**
 
 - [Minor Cast: Books 1-3](Minor_Cast/Minor_Cast_Books_1-3.md) (spoiler level 1): Recurring minor figures of the Greenstone books that have no file of their own. Entries: Albert Bertinelli ("Bert"), Genevieve Picot, Darryl Caruthers, Beaufort Mercer, Dean Tuckell and Clementson, Madam Landry, Janice, Ernest Geller, Jerrick, Imran Keane.

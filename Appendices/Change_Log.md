@@ -419,6 +419,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Cross-links added in `Great_Astral_Beings.md` and `00_Cosmology_Overview.md`. The folder overview was regenerated.
 - Observed: Shade has no individual character file and is covered only in `Familiars.md`; this belongs with the character promotions in Tier 2E.
 
+**Familiars folder, on request (2026-10-22)**
+- New `07_Characters/Familiars/` with individual entries for the familiars that have a personality: Shade, Colin, Gordon (Jason's), Stash (Humphrey's), Onslow (Clive's) and Shimmer (Belinda's). Each has a summary, line-cited facts and a "using this in a story" note, with Books 4 to 9 material under level 2 tags and Books 10 to 13 under level 3 tags. `Familiars.md` stays as the overview and links to them.
+- Character files now list their familiars: Jason (Shade, Colin, Gordon), Humphrey (Stash), Clive (Onslow), Belinda (Shimmer and an echo spirit), Landemere Vane (the native familiar Jason met first, Book 5, Ch40 L81) and Autumn Leal in `Minor_Cast_Books_7-9.md` (a lost bonded companion and a new hydra familiar). Name_Index entries point to the new files; Carlivexistrix (Stash's mother) is added.
+- Gordon's file notes the human "Other Gordon" of Books 4 and 5 to avoid confusion. Umber keeps his own file in `07_Characters/`.
+- The convention is recorded in `00_Project_Structure.md`: every character file lists the character's familiars.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

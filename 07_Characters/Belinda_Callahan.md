@@ -27,6 +27,8 @@ Playful and delighted by her own power: when she settles on the Charlatan conflu
 - **Aura disguise**: her power gives her an edge in learning aura disguises, which she teaches Jason (Book 8, Ch29 L49-56).
 - **Storage**: a personal storage space that even the Magic Society cannot peek into "without killing her first" (Book 6, Ch47 L660).
 
+- **Familiars**: Shimmer, a summoned astral lantern (Book 2, Ch71 L50; Book 2, Ch72 L62; see `Familiars/Shimmer.md`), and an echo spirit that looks like a blurry version of her (Book 12, Ch27 L23).
+
 ## 5. Background
 
 Grew up in the Old City with Sophie (notes, Book 2); began working with Clive at the Magic Society after she was caught (Book 2, Ch12 L6); the notes add that in Rakesh she works as the off-campus errand-runner while the caste system dismisses her as unimportant (notes, Book 6); she tracks a signal in the desert south of Rakesh (Book 6, Ch47 L651).

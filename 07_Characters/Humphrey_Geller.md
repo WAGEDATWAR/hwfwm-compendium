@@ -25,7 +25,7 @@ Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 (Book 1, Ch6
 
 - **Essences**: the dragon confluence, reached through the might and wing essences (Book 9, Ch33 L15). Abilities include dragon wings and a flaming dragon-wing sword, a Dragon's Might aura that turns fire into dragon fire, teleporting (Book 1, Ch88 L94-106), and the ability Spartoi, which at gold rank calls up a hundred dragon-tooth bone-golem warriors in blue and gold armour (notes, Book 13).
 - **Racial gift**: his human gift Special Attack Affinity evolves into Attack of the Mirage Dragon (an illusory double of his attacks, Book 2, Ch61 L147) and later into Hero's Drive, with the racial gift Hero's Sacrifice (Book 2, Ch61 L147).
-- **Familiar**: Stash (Velitraxistaasch), a mirage dragon (Book 1, Ch38 L56-63).
+- **Familiar**: Stash (Velitraxistaasch), a bonded baby mirage dragon (Book 1, Ch38 L56-63); see `Familiars/Stash.md`.
 - **Rank**: iron in Book 1; a gold-rank expedition leader by Book 13 (Book 13, Ch958 L48).
 
 ## 5. Background
