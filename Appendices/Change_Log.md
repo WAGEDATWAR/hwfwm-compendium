@@ -485,6 +485,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New folder `05_Organisations/Noble_Houses/` with `House_Geller.md`, `House_Remore.md` (with the Remore Academy), `House_Mercer.md`, `House_Rimaros.md`, `House_Headingway.md`, `House_Kettering.md`, `House_Davone.md` and `House_Amouz.md`. The Kettering and Davone files are short because the text gives those families little. `Guilds_and_Houses.md` points to them.
 - Observed: Hudson and Dustin Kettering are both called Ketterings (Book 2, Ch15 L44; Book 2, Ch29 L8); their relationship is not stated.
 
+**Essence catalogue growth, build plan item 2C.1 (2026-10-23)**
+- `Essence_Catalogue.md` gains a "More essences named in the text" section with 28 essences and their first cites: moon, sand, dimension, undeath, rat, plant, growth, bow, duck, whip, cloth, iron, transmutation, hunger, pure, skunk, light, wood, paper, frog, arsenal, song, axe, tooth, spear, skirmish and garuda. Rows from Books 4 to 9 are under a level 2 tag and those from Books 10 to 13 under level 3.
+- New `src/tools/ess_lists.py` finds essence lists in the chapter files and writes `ess_lists_report.md`. The scan is noisy; the report is a working list, and each row added was read against the line.
+- Not all essences are caught: the scan only finds essences named in a list or beside the word "essence". Single mentions in other phrasing may remain; `Wiki_Reference_Lists.md` still holds the wiki-only ones.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

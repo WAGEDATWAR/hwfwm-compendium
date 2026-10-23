@@ -93,6 +93,47 @@ The order follows first appearance in the series within each group.
 | Lightning | Offered to Amy (Book 4, Ch72 L22-23) |
 | Time (confluence) | Danielle Geller; "could be outright terrifying" for speed (Book 6, Ch14 L79; Book 11, Ch68 L1304) |
 
+### More essences named in the text, by first appearance
+
+Found by scanning the chapter files for essence lists (`src/tools/ess_lists.py`). Each row gives the first line that names the essence in an essence context; the wiki's fuller list is in `Wiki_Reference_Lists.md`.
+
+| Essence | First named, and what the text says |
+|---|---|
+| Moon | Jason: "Probably need the moon essence if I was going to make werewolves"; Rufus has it (Book 1, Ch38 L151) |
+| Sand | A bronze-ranker on the Ustei sand barge, "completely at home out in the desert", moves over sand faster than a skimmer (Book 1, Ch89 L64) |
+| Dimension | Danielle Geller fights with "a weapon conjured from her dimension essence called dimensional blade", a sword of black lightning (Book 1, Ch110 L10) |
+| Undeath | The confluence Farrah says pops out of a blood essence, a death essence "and pretty much anything else" (Book 1, Ch20 L20) |
+| Rat | Jason's find: "Rat essence? Appropriate, but not what I would have picked" (Book 1, Ch73 L48) |
+| Plant, growth | "Plant and growth essences... Both fairly common" (Book 2, Ch56 L43) |
+| Bow | The "most reliable way to get ranged special attacks" for a human (Book 2, Ch32 L63) |
+| Duck | Rufus: a man with the duck essence came through his family's academy; "if you know how to use it, every essence is a threat" (Book 2, Ch5 L65) |
+| Whip | Gabriel suggests it for a daughter after seeing a student do "very interesting things" with one (Book 3, Ch1 L74) |
+| Cloth | Gilbert's cloth essence abilities, all bronze years ago (Book 3, Ch2 L62) |
+| Iron, transmutation | A local smelter whose iron and transmutation essences make him "a human smelting machine" (Book 3, Ch9 L63) |
+
+<!-- level:2 -->
+| Essence | Books 4 to 9 |
+|---|---|
+| Hunger | The higher-rarity essence beside the common feast, more popular for its stronger combat role, often "an arsenal of drain attacks" (Book 4, Ch69 L83) |
+| Pure | Jason: "It has some specific connotations for me" (Book 4, Ch70 L8) |
+| Skunk | Jason: "I was going to give you the rat, snake and skunk essences" (Book 5, Ch7 L42) |
+| Light | Thanh's speed powers and ability to illuminate an area with his aura (Book 5, Ch1 L17) |
+| Wood, paper | "Most of the administrative assistant pool has wood and paper essences" (Book 8, Ch23 L31) |
+| Frog | Autumn Leal's essence for her frog familiar; the ability covers any magical frog or frog-like beast (Book 9, Ch10 L102) |
+| Arsenal | An elf opponent of Sophie's with sword, shield, myriad and arsenal essences, conjuring floating weapons (Book 9, Ch18 L54) |
+<!-- /level -->
+
+<!-- level:3 -->
+| Essence | Level 3 rows |
+|---|---|
+| Song | Korinne, on hearing music: "If someone is using a song essence aura to produce that, I'm worried about the state of their mind" (Book 10, Ch21 L46) |
+| Axe | A job application joke about "a diamond-rank axe essence" (Book 12, Ch19 L48) |
+| Tooth | An Earth conversation: a screen character "had a tooth essence, of all things" (Book 12, Ch31 L118) |
+| Spear | Mr Cobbo uses spears with his "spear essence powers" (Book 13, Ch1001 L56) |
+| Skirmish | Delia's set is Gun, Swift, Trap and Skirmish, built around traps (Book 13, Ch989 L9) |
+| Garuda | Taika advances his Wing and Garuda essences by flying with migratory birds (Book 13, Ch997 L38) |
+<!-- /level -->
+
 ## 5. Variations and misconceptions
 
 - **Names and concepts.** An essence name is a concept, not a promise of power: the bird essence might give "the power to talk to birds" rather than a combat power (Book 4, Ch65 L27).
