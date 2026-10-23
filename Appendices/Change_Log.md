@@ -360,6 +360,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Register deltas, build plan item 0.6 (2026-10-22)**
 - `build_register.py` now compares each run with the previous `register_new.json` (new module `src/tools/delta.py`) and prints one line: rows added, removed, edited and regraded, and newly weak or cleared weak rows. Details go to `src/tools/register_delta.md` (not committed). Tested by adding a deliberately unsupported sentence to a character file (flagged as a new weak row) and by rewording a sentence (reported as an edit), then reverting both.
 
+**Build plan decisions recorded (2026-10-22)**
+- The four open decisions in `TODO_Build_Plan.md` were settled by the project owner and written into the plan: full individual character files where the material justifies one (grouped files only for little-known figures), the chapter digest is committed, spoiler-level exports use tagged sections where convenient, and the Wiki Reference Lists move to `Appendices/` after the cross-reference matcher improves. New item 0.9 (spoiler tag syntax and linter support) was added; items 2E.2, 3.6, 5.3 and 5.5 carry the decisions.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

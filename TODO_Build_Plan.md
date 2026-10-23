@@ -37,6 +37,7 @@ Register: 3,445 ok, 210 near, 52 weak, 22 reviewed, 16 wiki, 1 notes rows. The p
 - **0.6 (Done 2026-10-22) Make the register builder report deltas (S).** Print rows added, removed and newly weak since the previous run, so a pass shows only what it changed.
 - **0.7 Add a per-folder overview check (S).** `06_Places/00_Places_Overview.md`, `07_Characters/00_Characters_Overview.md`, `04.../00_Peoples_Overview.md` and the others must list every file in their folder. Generate the lists from the folder contents so they cannot drift.
 - **0.8 Spelling and naming variants register (suggested, S).** One table in the Glossary's variants section for every in-text variant found so far: Hendren/Hedron, Sigrid Freyn/Volaire, Hurin/Huren, Jonah/Jonas, Beaufort (two people), Mose/Moses if any, Kaal/Kaal's title. Record the form used and why.
+- **0.9 Spoiler tag syntax and linter support (suggested, M; decision 3).** Define one tag form for spoiler-level sections inside a file, for example an HTML comment pair `<!-- level:2 -->` ... `<!-- /level -->` around the existing "Later developments" sections and any other section above the file's header level (comments do not render, so the files read normally). Document the form in section 6 of `00_Project_Structure.md`, add a linter check that tags are balanced, that levels are 0-3 and that no tagged section is lower than the file's header level, and retrofit the existing files section by section, starting with the 2026-10-22 character files. Only retrofit where it is convenient: a file whose header level already covers everything needs no tags.
 
 ## Tier 1: Close what is already open (small, high value, removes ambiguity)
 
@@ -88,7 +89,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 
 ### 2E. Characters (`07_Characters`)
 - **2E.1 Unfiled Name_Index entries (S each):** Adam Cosgrove, Arash, Argrave Mericulato, Barry Sinise, Ben Headingway, Brian, Calcifer Bynes, Cassie, Crivens, Dara Rimaros (covered in a family file; add a stub), Daryll, Delia DeWitt, Dink, Durrum, Fiorella, Franklin, Haliastur, Hiram, Jali Corrik Fen, Jamar, Ketis, Koa, Tabitha Gert, Vandrick Macarro, and Mr North / Noreth (has Mr_North.md; add the Noreth alias to its title).
-- **2E.2 Characters with many lines but no individual file (M each).** Candidates from counts: Lorenn (Cardinas), Kalif, Rosa, Valetta and Alice (Moon's Edge), Calcifer Bynes, Durrum and Kurik (brightheart earth aspects), Duke of Boko, Remy (Finnegan's portal specialist), Lindy, Magdalyn (vampire lord), Wassily and Klaus, Michael Mills (general), Barstow, Miriam Coyle, Natala (Jota's first officer), Hastor (Sigrid's father), Esteban Galo. Triage by hit count with `who.py`.
+- **2E.2 Characters with many lines but no individual file (M each).** Candidates from counts: Lorenn (Cardinas), Kalif, Rosa, Valetta and Alice (Moon's Edge), Calcifer Bynes, Durrum and Kurik (brightheart earth aspects), Duke of Boko, Remy (Finnegan's portal specialist), Lindy, Magdalyn (vampire lord), Wassily and Klaus, Michael Mills (general), Barstow, Miriam Coyle, Natala (Jota's first officer), Hastor (Sigrid's father), Esteban Galo. Triage by hit count with `who.py`. **Decision 1:** write a full individual file for any character with enough material to fill the character template (rule of thumb: about 15 or more distinct cited facts, or a role across more than one book) and keep grouped `Minor_Cast/` entries only for characters with little information. Review every current grouped entry against that rule, promote those that qualify (candidates: Hudson Kettering, Niko, Emily, Dara and Zareen Rimaros, Sendira, Laront, Beaufort the cult commander, Kreegle, Killian's later scenes, Hils Jaramaris), and move a promoted entry's facts into the new file and delete it from the group file.
 - **2E.3 Re-verify the 2026-10-22 character files (M, suggested).** Those 32 files and four group files were verified by cite only (each cited line was read when written). Run `cc2.py` at a lower threshold and sample 3 cites per file against the chapter text.
 - **2E.4 Bring older character files up to the new standard (L).** The earlier ~80 supporting files are mostly 3-line stubs (Pelli, Itsuki Tiwari). Expand each to the full character template (Appearance, Voice, Relationships, Secrets, Roleplay) in order of narrative importance.
 - **2E.5 Relationship files (M, suggested).** Family trees (Asano, Remore, Geller, Mercer, Rimaros royals, Evans/Asano line), romances and rivalries, teams and their members by era (Team Biscuit, Moon's Edge, Storm Shredder, Shining Scabbard, Rick's team, Beth's team). Generate from the character files' cites where possible.
@@ -111,7 +112,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 - **3.3 A consolidated Master Timeline v2 (M).** Rebuild `Master_Timeline.md` from the per-book files, with a month-count table, rank/level checkpoints for core characters and the corrections already found. The Book 11 Part II intervals still need a combined clock decision (TODO_Verification section D).
 - **3.4 Rank and progression tracks (M, suggested).** For Jason and the core team: the book and chapter where each rank, essence, confluence and major ability was gained (the Jason Power Set file is a start).
 - **3.5 Who-knows-what-when matrix (M, suggested).** Rows are secrets (Jason's origin, the Builder, the System, Knowledge's plan, the Network founder); columns are books; cells give the line where each group learns it. Feeds `Spoiler_Management.md`.
-- **3.6 A chapter digest (L, suggested).** One or two sentences per chapter for all ~987 chapters, with cite, as `08_History_and_Timeline/Chapter_Digest_Book_NN.md`. This turns the corpus into a lookup layer and makes every later verification pass faster. Generate a first draft with the chapter-title index already in `Source_Map.md` section 5.
+- **3.6 A chapter digest (L, suggested).** One or two sentences per chapter for all ~987 chapters, with cite, as `08_History_and_Timeline/Chapter_Digest_Book_NN.md`. This turns the corpus into a lookup layer and makes every later verification pass faster. Generate a first draft with the chapter-title index already in `Source_Map.md` section 5. **Decision 2:** the digest is committed to the repository. It is the project's own short summary (one or two sentences and a cite per chapter, no quoted passages), so it is safe to push; keep it out of any export that would reproduce chapter text.
 - **3.7 Recurring motifs and in-world sayings (S-M, suggested).** Phrases used as incantations ("Feed me your sins"), running jokes (biscuits, Handsome Doctor) and cultural references, with cites; supports `Tone_and_Voice.md`.
 
 ## Tier 4: Roleplay and use-ready products
@@ -128,9 +129,9 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 
 - **5.1 A second full verification pass on each section, using a different reader (L each).** Method as before: read each cited line, confirm it supports the claim, grade near/weak rows. Suggested order: 07 (largest), 06, 03, 08, 05, 02, 04, 09, 10, 01.
 - **5.2 Spot-check `Source_Map.md` section 6, the keyword-generated state-change list (M).**
-- **5.3 Wiki list refresh (M).** Re-run `wiki_lists.py` and `compose_wiki.py` when the wiki cache is refreshed; extend the book cross-references in `Wiki_Reference_Lists.md` (the current matcher only finds "<name> essence" patterns).
+- **5.3 Wiki list refresh (M).** Re-run `wiki_lists.py` and `compose_wiki.py` when the wiki cache is refreshed; extend the book cross-references in `Wiki_Reference_Lists.md` (the current matcher only finds "<name> essence" patterns). **Decision 4:** once the cross-reference matcher is improved (for example by also matching phrases such as "<name> confluence", "stone of <name>" and "god of <name>", and by checking spellings in `Name_Index.md`), move `03_Magic_and_Adventuring/Wiki_Reference_Lists.md` to `Appendices/Wiki_Reference_Lists.md`: change the output path in `compose_wiki.py`, the Related lines that point at it, and the references in the Change_Log, Glossary and Gods_and_Churches.
 - **5.4 Lorebook derivation (M, per structure document section 2).** The lorebook JSON is derived and not a source. After Tiers 1-2 are done, regenerate it from the compendium and not the other way round.
-- **5.5 Exports (S-M, suggested).** A script that concatenates the compendium into one Markdown or PDF per spoiler level (0 only, 0-1, 0-2, all), so a narrator can hand a player only what they should read.
+- **5.5 Exports (S-M, suggested).** A script that concatenates the compendium into one Markdown or PDF per spoiler level (0 only, 0-1, 0-2, all), so a narrator can hand a player only what they should read. **Decision 3:** exports respect spoiler levels through tagged sections inside each file (item 0.9) where tags are convenient, falling back to the file's header level elsewhere; the exporter keeps a section only when its level is at or below the requested level.
 - **5.6 Link and anchor checks in CI-style script (S).** Part of the linter in 0.5.
 - **5.7 Redundancy audit (M, suggested).** The same fact is stated in several documents (calendar, coin table, the Network's founding). Pick one home file for each, replace the repeats with pointers, and record the home in the Glossary.
 - **5.8 Change_Log housekeeping (S).** The log now exceeds 340 lines; split into one file per month and keep the last two months in `Change_Log.md`.
@@ -156,9 +157,11 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 5. Tier 4 products depend on Tier 2E and 3.
 6. Run the register builder and the linter at the end of every item; log the item in `Appendices/Change_Log.md`.
 
-## Open decisions that need the project owner
+## Decisions made (2026-10-22)
 
-- Whether to keep the 2026-10-22 character stubs in grouped files or promote any of them to individual files (see 2E.2).
-- Whether the chapter digest (3.6) should be committed to the repository or kept as a generated file.
-- Whether exports (5.5) should respect spoiler levels by concatenation or by tagged sections inside each file.
-- Whether the Wiki Reference Lists should stay at the compendium root or move under `Appendices/` once the cross-reference matcher is improved.
+1. **Characters**: full individual files for characters with enough information to justify one; grouped files only for minor characters with little information (see 2E.2 for the rule of thumb and the promotion review).
+2. **Chapter digest (3.6)**: committed to the repository.
+3. **Spoiler-level exports (5.5)**: tagged sections inside each file, used where convenient (see 0.9); the header level covers the rest.
+4. **Wiki Reference Lists**: to move under `Appendices/` after the cross-reference matcher is improved (see 5.3); no move yet.
+
+No open decisions remain. Add new ones here as they arise.
