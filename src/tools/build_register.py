@@ -475,6 +475,10 @@ def write_map(out, cnt):
 if __name__ == "__main__":
     main()
 
+# regenerate the folder overview file lists (src/tools/overviews.py), then lint
+import overviews
+_ch = overviews.run()
+print("overviews rewritten:", ", ".join(_ch) if _ch else "none")
 # document lint (src/tools/lint.py): report errors and warnings after every build
 import lint
 _e, _w, _n = lint.run()

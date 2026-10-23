@@ -116,7 +116,7 @@ When writing, put level-2 and level-3 facts in clearly marked sections ("Later d
 - Name every person once in full, then by their usual name.
 - Prefer concrete detail from the books (colours, phrasing, habits) over generalisation.
 - Distinguish **fact**, **in-world belief** and **rumour** explicitly. Many things characters say are wrong or lies.
-- Use the series' own terms and spellings (see the glossary in the primer). Spellings that vary in the text: Hurin/Huren, Jonah/Jonas, Hendren/Hedron, Daryll/Darryl, Carlivexistrix/Carli, Sigrid Freyn/Volaire; choose the form most used and note the variant once (the planned variants table is item 0.8 of `TODO_Build_Plan.md`).
+- Use the series' own terms and spellings (see the glossary in the primer). Spellings that vary in the text: Hurin/Huren, Jonah/Jonas, Hendren/Hedron, Daryll/Darryl, Carlivexistrix/Carli, Sigrid Freyn/Volaire; choose the form most used and note the variant once in the Glossary's variants table (`Appendices/Glossary.md`, last section).
 - No mechanics: do not invent numbers for damage, probabilities or costs. Quote numbers only where the books give them as world facts (lifespans, population, timeframes, distances, coin exchange rates).
 - Do not copy long passages from the books; summarise and paraphrase.
 

@@ -26,7 +26,7 @@ Recurring minor figures of the Greenstone books that have no file of their own.
 ### Darryl Caruthers
 
 - A cultist who loudly demands worship in the Vane estate ("the magic of Darryl Caruthers", Book 1, Ch11 L73) and says "I'm the Darryl" (Book 1, Ch14 L18).
-- In Book 12 a Darryl among the Earth refugees ranked up without cores and grows naturally powerful (Book 12, Ch53 L61); the text checked does not state they are the same man.
+- In Book 12 a Darryl among the Earth refugees ranked up without cores and grows naturally powerful (Book 12, Ch53 L61); the text checked does not state they are the same man, and a High Priest Darryl lies dead in Book 1, Ch13 L3.
 
 ### Beaufort Mercer
 
