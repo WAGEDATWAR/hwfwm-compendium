@@ -65,7 +65,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Aura**: the physical, intangible extension of a person's soul and will. Can be projected, retracted, suppressed, masked, blended. **[0]**
 
-**Authority**: the fundamental power of transcendent beings: their flesh, blood and soul, and the currency by which they act. Exists in *set-state* (put to a purpose) or *potential-state* (raw). **[2/3]**
+**Authority**: the fundamental power of transcendent beings: their flesh, blood and soul, and the currency by which they act. Exists in *set-state* (put to a purpose) or *potential-state* (raw). See `02_Cosmology_and_Powers/Authority_and_Sanctioning.md`. **[2/3]**
 
 **Avatar**: (1) a god's or astral being's temporary body; (2) Jason's *prime avatar*; (3) *Avatar of Doom*, a familiar. **[1/3]**
 

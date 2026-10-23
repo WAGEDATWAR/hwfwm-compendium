@@ -414,6 +414,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Triaged the 17 names from the 2026-10-22 scan into entries: Madam Landry, Janice, Ernest Geller, Jerrick and Imran Keane (`Minor_Cast_Books_1-3.md`); Thanh, Ingrid, Loth, Night Stalker and Higgy (`Minor_Cast_Books_4-6.md`); Merrick Harlowe, Eric Maldonado, Rangel and Tellez, Carilo, Emresh and Lancet de Varco (`Minor_Cast_Books_7-9.md`); Finneus Gallow, Geneva Andros and Kol Kelis Vel (`Minor_Cast_Books_10-13.md`). Rejector is a Glossary term (Jason's title among Builder cultists). Later-book facts in the lower-level files sit inside level 2 or 3 tags.
 - Also covered the scan's remaining hits: Glossary entries for Ancestral Majesty (Soramir Rimaros), the nicknames Hump and Soph, and "the Shades"; Name Index entries for Bruce Corwin, Cas Vin Baral and Relia Vin Vala. All 20 new Name Index lines carry a pointer or cites.
 
+**Authority and sanctioning, build plan item 2A.1 (2026-10-22)**
+- New `02_Cosmology_and_Powers/Authority_and_Sanctioning.md` in the Topic template: what authority is (set-state against potential-state, Book 8, Ch57), why it must be traded and cannot be taken (Book 8, Ch52 and Ch54), the role of will and affinity (Book 11, Ch33), and sanctioning with its cases (the original Builder, the Boundary and the World-Phoenix, Shade, Hero, Purity, Undeath's avatar), its limits (Jason cannot sanction a god, Book 13, Ch1024 L141) and the confusion with the Sanction affliction. Book 11-13 material is in level 3 tags.
+- Cross-links added in `Great_Astral_Beings.md` and `00_Cosmology_Overview.md`. The folder overview was regenerated.
+- Observed: Shade has no individual character file and is covered only in `Familiars.md`; this belongs with the character promotions in Tier 2E.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
