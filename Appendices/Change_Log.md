@@ -404,6 +404,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - One-line rulings added in `Confluences.md`, `Awakening_Stones.md`, `Tokens_Stones_and_Relics.md`, `Melody_Jain.md` and `Master_Timeline.md`. Hendren/Hedron and the two Beauforts were already in the variants tables.
 - `00_Project_Structure.md` section 9: Gary's death timing ("almost a year later", Book 11, Ch68 L703; Book 11 has no Ch74), the clan hiding period and the soul forge listing are marked resolved.
 
+**Unwritten short entries, build plan item 1.7 (2026-10-22)**
+- New in `09_Items_and_Artefacts/`: `Hegemons_Will_and_Dominion.md` (the scabbard Hegemon's Dominion as its own entry, with the sword's invocations and the Book 11 reforging as a level 3 section; it notes that the item screen lists corrosive damage for Ruin while the invocation message says necrotic), `Dimensional_Storage_and_Portals.md` (inventory, bags, storage limits, portal rules and networks), `Badges_and_Guild_Membership.md` (how badges are made, tracked and replaced; the Book 12 diamond badge; the Burning Violet guild) and `Desert_Transport_Skimmers_and_Barges.md` (Emir's skimmers and sand barges, the Ustei war barge).
+- Glossary entries for Hegemon's Will / Dominion and Burning Violet now point to the new files. The folder overview was regenerated. Orin Pensinata already has a full file, and Hudson Kettering keeps his grouped entry because a search of Books 3 to 13 finds no further appearance.
+- The register gains 68 rows, all ok or near, no weak rows.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

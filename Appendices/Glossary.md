@@ -95,7 +95,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Builder, the**: the great astral being of construction and world-forging. The *old Builder* created the twin universes and was sanctioned; the *new Builder* is a mortal messenger (Zithis Carrow Vayel) raised to the post. Its servants are the *Builder cult*. **[1/3]**
 
-**Burning Violet**: an elite adventuring guild of the Remore family. **[1/2]**
+**Burning Violet**: an elite adventuring guild of the Remore family; membership is by application and interview (`09_Items_and_Artefacts/Badges_and_Guild_Membership.md`). **[1/2]**
 
 **Butterflies of Makassar**: the name broadcasters gave to the public spectacle in Book 5 in which Jason's familiar Gordon spread the *Harbinger of Doom* affliction through a horde of undead at Makassar. Filmed from high in the air, the swarm of blue and orange eye-patterned butterflies looked beautiful; it left only black-stained bones. Jason was credited with it, and it made many people fear what he might do. **[2]**
 
@@ -223,7 +223,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Hegemon / Hegemony**: Jason's aura ability (Sin essence) and public name. **[1/3]**
 
-**Hegemon's Will / Dominion**: the reforged sword and scabbard. **[2]**
+**Hegemon's Will / Dominion**: the reforged sword and scabbard; the scabbard moves afflictions from Jason to the sword's next target (`09_Items_and_Artefacts/Hegemons_Will_and_Dominion.md`). **[2]**
 
 **Hierophant**: a former prime vessel who still serves, e.g. Dawn. **[3]**
 
