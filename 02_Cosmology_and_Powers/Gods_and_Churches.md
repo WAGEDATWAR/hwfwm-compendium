@@ -75,6 +75,8 @@ The fan wiki records the 43 gods below with the chapter of first mention (wiki).
 
 ## 4. Gods and churches in the story
 
+Each of the following has its own file in `Gods/`: [Knowledge](Gods/Knowledge.md), [Death](Gods/Death.md), [the Healer](Gods/The_Healer.md), [Hero](Gods/Hero.md), [Purity and Disguise](Gods/Purity_and_Disguise.md), [Dominion](Gods/Dominion.md), [Undeath](Gods/Undeath.md), [Fertility](Gods/Fertility.md), [Hearth](Gods/Hearth.md), [Destruction](Gods/Destruction.md) and [Pain and Discord](Gods/Pain_and_Discord.md). The notes below are the short form.
+
 ### The Healer
 God of medicine and healing. The Greenstone temple was corrupt and had to be corrected by divine intervention; Neil makes a stand in the temple in Book 1, where a priest tells those who stand against the church that they are no longer welcome (Book 1, Ch94 L3-7). After the revelations about Purity, "the church of the Healer has taken over from Purity in dealing with the star seeds" (Book 3, Ch21 L73); a Healer priest, Carlos, specialises in soul damage from star seeds (Book 8, Ch17 L45). Hana Shavar, an elf and High Priestess of the Healer, is in charge of operations that use Jason's cloud palace as a base after the messenger attack (Book 10, Ch3 L29; the city's priestess, Book 9, Ch74 L43); during the attack she avoided Jason's bunker and sent her priests into Emir Bahadir's (Book 9, Ch80 L6-13); Carlos Quilido is a Healer priest who joins the Cardinas expedition (Book 11, Ch67 L6).
 

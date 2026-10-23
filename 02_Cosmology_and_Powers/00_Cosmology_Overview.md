@@ -69,4 +69,18 @@ Gods answer prayers and send miracles; great astral beings are rarely named outs
 - [The System](The_System.md) (spoiler level 3): The System is the interface of windows, ranks and messages that Jason carried alone from Book 1.
 - [The Unorthodoxy](The_Unorthodoxy.md) (spoiler level 3): The Unorthodoxy is the messenger resistance: the descendants of the free messengers who lost the old war, who live in hiding without the brand and the...
 
+**Gods/**
+
+- [Death](Gods/Death.md) (spoiler level 1): The god of Death on Pallimustus governs the passage of souls into the astral, and is distinct from the Reaper, the great astral being who is "very big on...
+- [Destruction](Gods/Destruction.md) (spoiler level 3): Destruction is a god of the hidden kind, worshipped by those who want to destroy rather than rule.
+- [Dominion](Gods/Dominion.md) (spoiler level 1): Dominion is the god of rulership, the god "of deciding who gets to be king".
+- [Fertility](Gods/Fertility.md) (spoiler level 1): Fertility is the god of growth and birth, and his church is far more practical than its murals suggest.
+- [Hearth](Gods/Hearth.md) (spoiler level 3): Hearth is a god of home and shelter.
+- [Hero](Gods/Hero.md) (spoiler level 3): Hero is the god of heroes, the only core deity without subordinate gods.
+- [Knowledge](Gods/Knowledge.md) (spoiler level 1): The goddess of Knowledge is the god Jason meets first and speaks to most.
+- [Pain and Discord](Gods/Pain_and_Discord.md) (spoiler level 2): Pain and Discord belong to the "hidden" gods, the gods people pray to for what they want to avoid.
+- [Purity and Disguise](Gods/Purity_and_Disguise.md) (spoiler level 1): Purity is the god of cleanliness, with both gentle and extreme aspects; his church is rich, strict and prominent in Greenstone.
+- [The Healer](Gods/The_Healer.md) (spoiler level 1): The god of medicine and healing, the Healer is kind, modest in manner and strict with those who exploit the sick.
+- [Undeath](Gods/Undeath.md) (spoiler level 3): Undeath is the god of the unliving, the dark counterpart of Death.
+
 <!-- files:end -->

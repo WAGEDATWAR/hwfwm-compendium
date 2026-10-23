@@ -440,6 +440,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `02_Cosmology_and_Powers/The_Unorthodoxy.md` (origin, hiding, birthing planets, its own astral kings, the overcharged-mana secret, members and associates, the Earth colony) and `The_Council_of_Kings.md` (what it is and is not, membership and rivals, Vesta Carmis Zell's changing position, Jamis Fran Muskar's role, the détente with the originals, and the Boko and Book 13 episodes). Both are level 3. `Astral_Kings_and_Messengers.md` now points to them.
 - Member lists are limited to the named figures in the text; the full Council membership is not given anywhere, which is recorded in Open_Questions 3.
 
+**One file per major god, build plan item 2A.6 (2026-10-22)**
+- New folder `02_Cosmology_and_Powers/Gods/` with `Knowledge.md`, `Death.md`, `The_Healer.md`, `Hero.md`, `Purity_and_Disguise.md`, `Dominion.md`, `Undeath.md`, `Fertility.md`, `Destruction.md`, plus two stubs, `Hearth.md` and `Pain_and_Discord.md`, which record everything the text says (very little). Discord has no entry of its own: the text names it only as a hidden god. Each file has line-cited facts, with later-book material under level 2 or 3 tags, and a note on using the god in a story. `Gods_and_Churches.md` now links to them.
+- Open_Questions 6 (Hero's sanction) is resolved: Hero plans to sanction himself to add a gentler miracle option and make the relics of dead demigods usable (Book 11, Ch68 L707-709).
+- Observed: Death appears as a woman, a pale male elf and a plain woman in different scenes; the files record all three.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
