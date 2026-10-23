@@ -1,10 +1,10 @@
 # Monsters
 
 Status: Draft (book text; facts carry a reference "Book N, ChX LY" to Source_Text)
-Spoiler level: 0 for sections 1 to 5; section 6 carries levels 1 to 3
+Spoiler level: 0 for sections 1 to 5, apart from tagged rows from Books 4 to 13; section 6 carries levels 1 to 3
 Valid from: Book 1, Ch19
 Valid through: Book 13
-Sources: Book 1 (Ch19, Ch30, Ch57, Ch58, Ch84, Ch87), Book 2 (Ch45, Ch53, Ch57, Ch75), Book 3 (Ch10, Ch15, Ch36, Ch40), Book 8 (Ch6), Book 10 (Ch32, Ch61), Book 12 (Ch47), Book 13
+Sources: Book 1 (Ch19, Ch30, Ch57, Ch58, Ch84, Ch87, Ch92, Ch108, Ch111), Book 2 (Ch25, Ch45, Ch51, Ch53, Ch57, Ch75), Book 3 (Ch2, Ch8, Ch10, Ch13, Ch15, Ch36, Ch40, Ch47, Ch69), Book 4, Book 5, Book 6, Book 7, Book 8 (Ch6), Book 10 (Ch32, Ch60, Ch61), Book 12 (Ch47), Book 13
 Related: 00_Magic_Overview.md, Ranks_and_Advancement.md, Adventuring_Profession.md, Astral_Spaces_Zones_and_Surges.md, Monster_Cores_and_Training.md
 
 ## 1. Summary
@@ -60,6 +60,35 @@ A bestiary of the monsters with rank named in the text (not exhaustive; "no rank
 | Blood oak | gold | "No match for four gold-rank adventuring teams" but elusive (Book 13, Ch958 L79) |
 | Nightmare hag | diamond | Astral entity of the courage trial (Book 2, Ch57 L68) |
 | World engineer | diamond | Builder golems larger than buildings (Book 8, Ch6 L21) |
+| Marsh wyrm | iron, top of the scale, "or maybe even bronze" | Humphrey: a monster strong enough to kill a lone hunter "will be at the top of the iron-rank power scale" (Book 1, Ch84 L56) |
+| Fergax | no rank | Monster archive: "a highly aggressive, bear-like creature. High strength, moderate speed and fortitude, no exotic abilities" (Book 1, Ch92 L49) |
+| Clockwork cat | bronze | A giant steel-cog tiger, faster than its simpler brethren (Book 1, Ch108 L97) |
+| Silver-rank constructs | silver | Builder constructs Emir smashes apart (Book 1, Ch111 L79) |
+| Clockwork king | gold | Creates cores for blocks of wood, stone and metal; "gold-rank entities" (Book 2, Ch25 L41) |
+| Mountain wyrm | bronze (probably) | "A little one, only bronze rank, probably" (Book 2, Ch51 L41) |
+| Umbral snake (mountain variety) | bronze | "Strong affinities for darkness and poison"; its venom is an iron-rank poison (Book 3, Ch2 L99; Book 1, Ch28 L83) |
+| Oasis tyrant | silver | The manifestation that threatens a village is "definitely going to be silver rank" (Book 3, Ch13 L5-6, L17) |
+| Elemental tyrant | no rank in the line | The elemental that claimed Jason's original iron-rank vessel (Book 3, Ch47 L4) |
+| Stormshard pangolin | silver | Sends steel-hard razor-sharp scales flying and controls them (Book 3, Ch69 L795) |
+| Bronze-rank apes | bronze | One emerges "faster and stronger than the others" (Book 3, Ch40 L47) |
+
+<!-- level:2 -->
+More named monsters from Books 4 to 9:
+
+| Monster | Rank | Notes and source |
+|---|---|---|
+| Jungle troll | silver | Half again the height of a human; "physically weakest" of the varieties, but recovery "incredible", so the bodies must be burned (Book 4, Ch41 L18, L32) |
+| Vortex elemental | silver | Gives silver-rank quintessence gems (Book 4, Ch21 L137) |
+| Silver-rank black lizard | silver | A giant black lizard with silver-white eyes, with iron and bronze elementals around it (Book 5, Ch6 L85) |
+| Bone feaster | silver | Small, light, agile; "silver-rank fortitude" endures a fall, heals quickly (Book 7, Ch25 L83) |
+| Smoke dragon | diamond | Switches between solid and amorphous states (Book 7, Ch37 L59) |
+| Desolation locust | no rank | A "swarm-type apocalypse beast" carried by another adventurer (Book 3, Ch8 L35); Colin is the apocalypse beast in Jason's own set (Book 4, Ch18 L114) |
+| Nightmare hag (second appearance) | diamond | "A diamond-rank entity that had little direct power but could manifest people's fears" (Book 6, Ch46 L31) |
+<!-- /level -->
+
+<!-- level:3 -->
+- **Elemental tyrant** (Book 10, Ch60 L42): the elemental tyrant is a silver-rank water elemental that left Jason's first and largest scar.
+<!-- /level -->
 
 The fan wiki's rank pages list further monsters by rank (wiki); they are copied, tier-marked, into `Wiki_Reference_Lists.md`, section 4.
 

@@ -490,6 +490,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `src/tools/ess_lists.py` finds essence lists in the chapter files and writes `ess_lists_report.md`. The scan is noisy; the report is a working list, and each row added was read against the line.
 - Not all essences are caught: the scan only finds essences named in a list or beside the word "essence". Single mentions in other phrasing may remain; `Wiki_Reference_Lists.md` still holds the wiki-only ones.
 
+**Monsters by rank, build plan item 2C.2 (2026-10-23)**
+- `Monsters.md` bestiary gains 11 level-1 rows (marsh wyrm, fergax, clockwork cat, silver constructs, clockwork king, mountain wyrm, umbral snake, oasis tyrant, elemental tyrant, stormshard pangolin, bronze apes), 7 level-2 rows (jungle troll, vortex elemental, silver black lizard, bone feaster, smoke dragon, desolation locust, nightmare hag second appearance) and a level-3 note on the elemental tyrant. Each has one cite.
+- Not added because the text states no rank in the lines read: reef giant, reef kraken, mud lord, emperor ooze, belch bug, bog shambler, mangrove snatcher, margoll, pixelax, rat gorger, spotted tree cat, siege golem, grizzard and stormspire drake (wiki-only ranks stay in `Wiki_Reference_Lists.md`). "Rejector" is a title, not a monster, in the lines read.
+- New `src/tools/monster_scan.py` writes a noisy working list of "X-rank <name>" phrases; the rows above were read against the lines.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
