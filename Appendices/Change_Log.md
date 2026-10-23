@@ -393,6 +393,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - `Neil_Davone.md`: the wiki lines are replaced by book lines (Thadwick's lackey; Cassandra is not Neil's ex-girlfriend, he admired her and she was Jason's girlfriend). The wiki "ex?" line was a mis-assignment.
 - `Name_Index.md` and `Gabrielle_Pellin.md`: Gabrielle Pellin as Travis Noble's wife and Ian Evans as a doctor now carry book lines; the Gabrielle file gains the Book 12 and 13 marriage facts.
 
+**Open questions retested against the text, build plan item 1.5 (2026-10-22)**
+- Resolved: 4 (the silver cap is a function of the messenger brand, Book 11, Ch25 L51-53), 9 (the Firmamental Bridge Anchor is a single-use item that establishes the bridge, Book 8, Ch51 L66), 10 (Jason trades the authority token back to the Builder, Book 8, Ch54 L54, L99) and 11 (the fake Purity brought the founder into his church as payment, Book 13, Ch1017 L17-19).
+- Narrowed: 1 (the northern astral space failed and the oases could no longer feed the tribes, Book 1, Ch97 L19-21), 2 (Marek leads a band that subordinates itself to Boris, not the movement), 3 (the Unorthodoxy has many astral kings, one named by Navise's king, Book 12, Ch26 L19), 5 (the debt is owed to the Council of Kings for the ritual magic and ends with the planet's move), 6 (a sanction changes an immortal; self-sanction means retire and be reborn), 8 (Legion, the Celestial Book and the Reaper's domains), 19 (the renewed war is "two years" old at Book 13, Ch995 L69, so the earlier timeline note that it was missing is withdrawn) and 20.
+- Still open: 7 stays resolved; 13 (a figure for Vitesse's magic; more context added); 22 is rewritten as a recorded inconsistency, because Book 6 (Ch47 L604) puts the council in Vitesse and Book 7 (Ch43 L58) puts it in Cyrion; the compendium avoids naming a city. This feeds build plan item 1.6.
+- `Book_13_Timeline.md` and `Master_Timeline.md` now cite the Ch995 line instead of the open note.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

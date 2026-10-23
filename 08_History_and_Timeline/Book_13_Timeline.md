@@ -17,7 +17,7 @@ Book 13 is set almost entirely on Earth, and its chapters carry on the series-wi
 - **The Network**: it fragmented into four "well over a decade ago" (Book 13, Ch964 L9).
 - **The initiative**: Jason has been "pushing the Earth Defence Joint Initiative for a decade" (Book 13, Ch1001 L6), and Neil says the team has "been running around this planet for a decade" (Book 13, Ch1003 L91).
 - **Clan research**: the clan has not been experimenting on humans for "a decade and a half" (Book 13, Ch987 L37).
-- **Open note**: the chapter-summary notes mention a "two years into the renewed vampire war" line at Ch995; the lines checked here (the symposium exchange and the report of Bahrain's vanished government) do not show it, so it is not asserted.
+- **The renewed vampire war**: a character places the symposium "two years into the renewed vampire war" (Book 13, Ch995 L69). The first vampire war ended without conclusion (Book 13, Ch987 L63), and the renewed phase ended in the months before the farewell (Book 13, Ch1023 L12).
 
 ## 2. Arrival and the first meetings (Ch950 to Ch962)
 
