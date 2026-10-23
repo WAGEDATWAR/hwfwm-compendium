@@ -85,7 +85,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2D.2 (Done 2026-10-23) Thin people files (S-M):** Merfolk (one line only), Goblins and Fairies (Earth-side), Runics, Valash, plus a new file for the lehenik (Nik's kind, Book 11, Ch23 L42 and Book 13, Ch991 L5) and the messengers as a people (cross-link to 02).
 - **2D.3 (Done 2026-10-23) Clothing, food, festivals and transport by region (M).** Collect every line that describes a meal, outfit or festival (the Rimaros festival of Book 9 Ch3, Yaresh, Kurdansk, Pranay, Estercost).
 - **2D.4 (Done 2026-10-23) Education (M, suggested).** Remore Academy, the Magic Society research wing, Kazlahk University of Medicine, Jason's school in Book 13.
-- **2D.5 Calendar, holidays, naming customs (S, suggested).** The six-day week, the five extra days, palindromic names in Rimaros (Book 7, Ch18 L42), titles and forms of address (`Tone_and_Voice.md` has a start).
+- **2D.5 (Done 2026-10-23) Calendar, holidays, naming customs (S, suggested).** The six-day week, the five extra days, palindromic names in Rimaros (Book 7, Ch18 L42), titles and forms of address (`Tone_and_Voice.md` has a start).
 
 ### 2E. Characters (`07_Characters`)
 - **2E.1 Unfiled Name_Index entries (S each):** Adam Cosgrove, Arash, Argrave Mericulato, Barry Sinise, Ben Headingway, Brian, Calcifer Bynes, Cassie, Crivens, Dara Rimaros (covered in a family file; add a stub), Daryll, Delia DeWitt, Dink, Durrum, Fiorella, Franklin, Haliastur, Hiram, Jali Corrik Fen, Jamar, Ketis, Koa, Tabitha Gert, Vandrick Macarro, and Mr North / Noreth (has Mr_North.md; add the Noreth alias to its title).

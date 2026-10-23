@@ -525,6 +525,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `04_Peoples_and_Cultures/Education.md`: the Remore Academy and Geller training, Magic Society research wings and temple libraries, Boko's universities, the Kazlahk University of Medicine (KazMed), the Magical Research Association, the Asano clan's schools, the Asano Academy on Earth and New Water's schools, with cites.
 - "Jason's school in Book 13" is taken to be the Asano Academy (Book 13, Ch1016 L106); his Earth schooling is the Casselton Educational Institute (Book 2, Ch11 L37).
 
+**Calendar, holidays and naming customs, build plan item 2D.5 (2026-10-23)**
+- New `04_Peoples_and_Cultures/Calendar_Holidays_and_Naming_Customs.md`: the twelve-month calendar, five extra days and six-day week, the "super-simple" day names (only Fifthday and Fourthday appear), Rimaros palindromic names (Book 7, Ch18 L42), mononyms, forms of address with cites. The text names no Pallimustus religious holiday in the lines read; festivals are in `Clothing_Food_Festivals_and_Transport_by_Region.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
