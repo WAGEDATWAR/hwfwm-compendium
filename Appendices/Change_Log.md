@@ -460,6 +460,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `05_Organisations/Engineers_of_Ascension.md`: nature and aims, the Four Cardinals, Barbou's rise to Mr East, the Grid plan and Mrs South's refusal, splintering after the sabotage, and the Book 13 account of Noreth, Plans A and B, Audrey Blaine, North's vault and the superhero legacy. Book 13 material is under level 3 tags. `Earth_Powers.md` points to it.
 - Gerling is a Network category four, not an EOA member; he appears as the EOA's opponent and is covered in his own file.
 
+**The EDJI and post-reveal institutions, build plan item 2B.4 (2026-10-23)**
+- New `05_Organisations/EDJI_and_Post_Reveal_Institutions.md` (level 3): national Supernatural Affairs bodies, the UN Office (Anna Tilden, Holly Macrossan), the Asano Village taskforce under Lenora Coleman, Jason's proposal and the Saint-Étienne Summit Accords, the EDJI and the Quilido Procedure, the Joint Magitech Weapons Research Institute, and the Asano clan as an organisation (Yumi, Ketevan, Noriko). `Earth_Powers.md` points to it.
+- The Accords are cited only from Book 13 mentions; their negotiation is not narrated in the lines read.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

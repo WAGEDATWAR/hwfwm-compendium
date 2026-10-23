@@ -38,6 +38,8 @@ See [Engineers_of_Ascension.md](Engineers_of_Ascension.md) for the full account.
 
 ## 5. The Asano clan
 
+See [EDJI_and_Post_Reveal_Institutions.md](EDJI_and_Post_Reveal_Institutions.md) for the clan as an organisation and the institutions built around it.
+
 Jason's family becomes a faction. Matriarch Yumi (his paternal grandmother) looks a third of her age through flesh-shaping essences (Book 11, Ch36 L8) and forbids members to leave the domain. The clan's administration is run by Ketevan Arziani. It lives inside Jason's Nitra and Saint-Étienne domains from Book 11 and takes on the EOA's super-soldier programme. A rival Japanese line, the "true Asano clan" under Noriko (her rank was not rechecked), holds Asano Village after the Australian government gives it to her in Book 12. Akari Asano and Mei are of that line (see Name Index).
 
 ## 6. Governments and the UN

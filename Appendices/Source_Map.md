@@ -943,7 +943,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch33 | He Likes to Name-Drop | Familiars_Summons_and_Conjurations L4; Book_11_Timeline L4; Authority_and_Sanctioning L9-13, L140, L140-157, L152-153, L155-157, L157; Miriam_Vance L20; Open_Questions L20; Familiars L50; Undeath L99; 00_Cosmology_Overview L112 … | 15 |
 | Ch34 | He Isn’t Always Evil and He is Not Always Wrong | Book_11_Timeline L15, L33, L124; Master_Timeline L33; 00_Cosmology_Overview L97, L103; Great_Astral_Beings L97, L103; All_Devouring_Eye L97 | 9 |
 | Ch35 | New Power and a Freshly Cooked Batch of Smugness | Book_11_Timeline L39; Undeath L42-47; Authority_and_Sanctioning L43-47, L43-48; Death L45-46 | 5 |
-| Ch36 | Instinctively Protected | Book_11_Timeline L3; Earth_Powers L7, L8; NPC_Rosters_by_Era L8; Yumi_Asano L8-12; Nitra L12; Engineers_of_Ascension L14; Nik_Asano L40-42, L40-45; Familiars L43 … | 12 |
+| Ch36 | Instinctively Protected | Book_11_Timeline L3; Earth_Powers L7, L8; EDJI_and_Post_Reveal_Institutions L8, L13, L54; NPC_Rosters_by_Era L8; Yumi_Asano L8-12; Nitra L12; Engineers_of_Ascension L14; Nik_Asano L40-42, L40-45 … | 15 |
 | Ch37 | No Limit | Book_11_Timeline L58 | 1 |
 | Ch38 | The Hegemon | Nik_Asano L3, L33; Book_11_Timeline L61 | 3 |
 | Ch39 | Miracles Work on a Different Scale | Book_11_Timeline L3 | 1 |
@@ -974,7 +974,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch65 | A Power That No One and Nothing Should Have | Cosmic_Throne_and_the_Sundering L3, L6, L8, L8-9, L20, L28 …; 01_World_Primer L8; Book_11_Timeline L8, L34; Master_Timeline L8; World_Phoenix L34-36; Undeath L43; Keeper_of_Moments L47; 00_Cosmology_Overview L55, L57-58, L75 … | 31 |
 | Ch66 | Party to Betrayal | Book_11_Timeline L22, L89; Open_Questions L95 | 3 |
 | Ch67 | Farewells | Book_11_Timeline L5; Gods_and_Churches L6; Carlos_Quilido L6; Open_Questions L9; The_Unorthodoxy L18; Nik_Asano L19; Gwydion_Remore L20 | 7 |
-| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Great_Astral_Beings L171-175, L707-709, L1793-1795, L2209, L2209-2214, L2526 … … | 206 |
+| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Great_Astral_Beings L171-175, L707-709, L1793-1795, L2209, L2209-2214, L2526 … … | 209 |
 
 ### Book 12
 
@@ -1020,7 +1020,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch37 | I Know You Can't Control Yourself Any Longer | Book_12_Timeline L36, L128; Badges_and_Guild_Membership L128; Adventure_Society L128-131 | 4 |
 | Ch38 | Truly Outrageous Things | Hornis L49; Book_12_Timeline L61 | 2 |
 | Ch39 | A Framework For Leadership | Nik_Asano L3, L15, L30-35, L31; Boko L37, L40, L61, L80, L80-91, L85-89 …; Artefact_Site_One L47; Open_Questions L47; 00_Places_Overview L61; Spirit_Vault_and_Astral_Kingdom L61, L61-65; Book_12_Timeline L61; Hearth L103 | 18 |
-| Ch40 | It’s More Complicated Than That | Book_12_Timeline L5, L6; Anna_Tilden L20; Ketevan_Arziani L52 | 4 |
+| Ch40 | It’s More Complicated Than That | Book_12_Timeline L5, L6; EDJI_and_Post_Reveal_Institutions L6, L15; Anna_Tilden L20; Ketevan_Arziani L52 | 6 |
 | Ch41 | A Long Few Days | Book_12_Timeline L3, L7, L42, L45, L61; Ketevan_Arziani L3-14; Saint-Etienne L27 | 7 |
 | Ch42 | A Thing That Makes the Car Work | Book_12_Timeline L4, L21, L65, L70, L72, L82; The_System L92, L99-101; Anna_Tilden L99, L100, L104 | 11 |
 | Ch43 | A Long Time Coming | Open_Questions L46, L47; Nik_Asano L46-50; Estercost_Culture L47; Book_12_Timeline L62, L64; Badges_and_Guild_Membership L62, L64; Guilds_and_Houses L64, L64-68; Vitesse L64 | 11 |
@@ -1041,9 +1041,9 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch58 | A City With No Dawn | The_Deep_Astral_and_Interstice L39; Gabrielle_Pellin L41; Book_12_Timeline L41; Name_Index L41; Emi_Evans_Asano L49 | 5 |
 | Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Master_Timeline L5; Glossary L5; Essence_Catalogue L9 | 12 |
 | Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93; Cosmic_Throne_and_the_Sundering L16; World_Phoenix L16, L19-20; The_Rules_of_Intrusion L52, L52-54; The_Deep_Astral_and_Interstice L68, L70-71 | 13 |
-| Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21 | 20 |
+| Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21; EDJI_and_Post_Reveal_Institutions L22 | 21 |
 | Ch62 | It Sets a Tone | Book_12_Timeline L3, L4, L51, L98, L101, L117; Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28; Artefact_Site_One L45, L53 | 12 |
-| Ch63 | We Already Know Who You Are | Book_12_Timeline L3, L15, L16, L42, L61, L79 …; The_Rules_of_Intrusion L5, L6, L7, L9, L45; 01_World_Primer L7; 00_Cosmology_Overview L7; Cosmic_Throne_and_the_Sundering L9; Jota_Withers L16-19; Noriko_Asano L19, L30; Yumi_Asano L19 … | 21 |
+| Ch63 | We Already Know Who You Are | Book_12_Timeline L3, L15, L16, L42, L61, L79 …; The_Rules_of_Intrusion L5, L6, L7, L9, L45; 01_World_Primer L7; 00_Cosmology_Overview L7; Cosmic_Throne_and_the_Sundering L9; Jota_Withers L16-19; EDJI_and_Post_Reveal_Institutions L19, L26-30; Noriko_Asano L19, L30 … | 23 |
 | Ch64 | Good Luck in Your Battle | Minor_Cast_Books_10-13 L12; The_Rules_of_Intrusion L20; Artefact_Site_One L21, L22-24; Book_12_Timeline L21, L48, L60, L74, L87, L93 …; Jota_Withers L76-79 | 14 |
 | Ch65 | Second Chance to Make a First Impression | Minor_Cast_Books_10-13 L4; Book_12_Timeline L11, L53, L55 | 4 |
 | Ch66 | The Right Move | Book_12_Timeline L5, L13, L34, L53, L62, L63 …; Dimensional_Storage_and_Portals L6; Hegemons_Will_and_Dominion L63-66, L67 | 12 |
@@ -1053,7 +1053,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
-| Ch950 | A Person the Other Used to Know | Erika_Asano L1-14; Emi_Evans_Asano L27; Amy_Asano L29; Kaito_Asano L29, L33; Master_Timeline L29; Book_13_Timeline L41; Artefact_Site_One L45; Minor_Cast_Books_4-6 L47 | 9 |
+| Ch950 | A Person the Other Used to Know | Erika_Asano L1-14; Emi_Evans_Asano L27; Amy_Asano L29; Kaito_Asano L29, L33; Master_Timeline L29; Book_13_Timeline L41; Artefact_Site_One L45; Minor_Cast_Books_4-6 L47 … | 10 |
 | Ch951 | Messy but Delicious | Nik_Asano L4-11, L7, L11; Dimensional_Storage_and_Portals L25; Hearth L33; Book_12_Timeline L50; Book_13_Timeline L50; Master_Timeline L50; Era_Selection L50; Open_Questions L50 | 10 |
 | Ch952 | All Your Well-Learned Politesse | Book_13_Timeline L35 | 1 |
 | Ch953 | Perfect Humanoid Specimens | Book_13_Timeline L3; Anna_Tilden L9; Engineers_of_Ascension L23; Sigrid_Freyn L39; Chloe_Baudrillard L84; Emi_Evans_Asano L84 | 6 |
@@ -1063,7 +1063,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch957 | When the Screaming Began | Book_13_Timeline L32 | 1 |
 | Ch958 | A Lot Harder Than Anticipated | Familiars_Summons_and_Conjurations L25; Familiars L25; Book_13_Timeline L25; Hannah_and_Claire_Adeah L39, L61; Sigrid_Freyn L39; Glossary L39, L68; Humphrey_Geller L48; Tone_and_Voice L48 … | 14 |
 | Ch959 | Without Consequences | Lorelei_Grantham L3; NPC_Rosters_by_Era L3, L60; Engineers_of_Ascension L36-38, L38, L92, L96; Audrey_Blaine L50, L60; Book_13_Timeline L59; The_Cabal L114 | 11 |
-| Ch960 | What It Will Do to Itself | Spirit_Vault_and_Astral_Kingdom L3; Emi_Evans_Asano L3-5; Casselton_and_Asano_Village L14; Glossary L14-16; Li_Li_Mei L16; Book_13_Timeline L16, L23 | 7 |
+| Ch960 | What It Will Do to Itself | Spirit_Vault_and_Astral_Kingdom L3; Emi_Evans_Asano L3-5; EDJI_and_Post_Reveal_Institutions L14; Casselton_and_Asano_Village L14; Glossary L14-16; Li_Li_Mei L16; Book_13_Timeline L16, L23 | 8 |
 | Ch961 | The Scary Demigod Side | Book_13_Timeline L3, L6, L58; Natalie_Park L8; NPC_Rosters_by_Era L8; Minor_Cast_Books_10-13 L59; Glossary L73 | 7 |
 | Ch962 | I Know What You Are | Book_13_Timeline L5, L6, L44, L62 | 4 |
 | Ch963 | Minimum Collateral Damage | Hannah_and_Claire_Adeah L24; Glossary L24; Book_13_Timeline L56, L96; The_Reaper L57; Gary L63-68 | 6 |
@@ -1085,7 +1085,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch979 | Unequivocally My Thing | Book_13_Timeline L3, L64, L76; Emi_Evans_Asano L7, L17, L59; Marie_Finnegan L64, L72 | 8 |
 | Ch980 | The Only Cure is Death | Emi_Evans_Asano L73-77; Afflictions_Boons_and_Damage L93; Book_13_Timeline L93 | 3 |
 | Ch981 | What Forever Means | Book_13_Timeline L3, L5, L7, L11; Gordon L26, L37, L52; Shade L33-35, L37, L51, L62; The_Reaper L37, L62-64; Umber L37, L62-64; Colin L37, L51, L52; The_Deep_Astral_and_Interstice L47 | 19 |
-| Ch982 | The Stuff of Faith and Madness | Book_13_Timeline L4; Earth_Powers L30; Anna_Tilden L30; Holly_Macrossan L30; NPC_Rosters_by_Era L30 | 5 |
+| Ch982 | The Stuff of Faith and Madness | Book_13_Timeline L4; EDJI_and_Post_Reveal_Institutions L30; Earth_Powers L30; Anna_Tilden L30; Holly_Macrossan L30; NPC_Rosters_by_Era L30 | 6 |
 | Ch983 | Something Worse | Book_13_Timeline L3, L15, L24, L84, L92 | 5 |
 | Ch984 | What Slumbers Under the Mountain | Book_13_Timeline L3, L12, L62; Marie_Finnegan L34 | 4 |
 | Ch985 | Better Natures | Book_13_Timeline L3; Marie_Finnegan L32-102 | 2 |
@@ -1097,19 +1097,19 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch991 | This Offer Kind of Sucks | Book_13_Timeline L3; Keeper_of_Moments L7-11, L60-62, L66-68, L84-86; The_Rules_of_Intrusion L34 | 6 |
 | Ch992 | Battle of the Plants | Book_13_Timeline L62; The_Deep_Astral_and_Interstice L63; Authority_and_Sanctioning L63-64; Audrey_Blaine L116; Lorelei_Grantham L122-124 | 5 |
 | Ch993 | True to Yourself | Book_13_Timeline L3, L109 | 2 |
-| Ch994 | Not Open to Outside Consultation | Earth_Powers L39; Holly_Macrossan L39; Book_13_Timeline L51; Essence_Catalogue L78 | 4 |
-| Ch995 | Symposium | Miriam_Vance L14; Travis_Noble L14; Glossary L14; Book_13_Timeline L57, L69, L76; Minor_Cast_Books_4-6 L64; Natalie_Park L69; Master_Timeline L69; Open_Questions L69 | 10 |
+| Ch994 | Not Open to Outside Consultation | EDJI_and_Post_Reveal_Institutions L39, L40, L45, L51, L53, L59-61 …; Earth_Powers L39; Holly_Macrossan L39; Book_13_Timeline L51; Essence_Catalogue L78 | 11 |
+| Ch995 | Symposium | EDJI_and_Post_Reveal_Institutions L14, L15-16, L57, L84; Miriam_Vance L14; Travis_Noble L14; Glossary L14; Book_13_Timeline L57, L69, L76; Minor_Cast_Books_4-6 L64; Natalie_Park L69; Master_Timeline L69 … | 14 |
 | Ch996 | The More I Listen, The More I Hear | NPC_Rosters_by_Era L3; Nik_Asano L5-9, L181; Book_13_Timeline L71 | 4 |
 | Ch997 | The Man Who Fought the Monsters | Emi_Evans_Asano L11; Nik_Asano L11, L23; Sophie_Wexler L28-31; Clive_Standish L32; NPC_Rosters_by_Era L32; Neil_Davone L37-38; Book_13_Timeline L41 | 8 |
 | Ch998 | Sitting on a Volcano | Emi_Evans_Asano L3-4, L4; Nik_Asano L4; Book_13_Timeline L4, L99; Master_Timeline L4; Natalie_Park L105; Plot_Hooks L105; Audrey_Blaine L109 | 9 |
 | Ch999 | An Interesting Message | Thalia_Mercer L3; Book_13_Timeline L3; The_Council_of_Kings L77 | 3 |
 | Ch1000 | Cosmic Tyrant Warlord Cult Leader | Boris_Ket_Lundi L3-7; The_Council_of_Kings L34-36, L36, L38, L40, L74; The_Unorthodoxy L36, L65-74, L65-76; Book_13_Timeline L37; The_Rules_of_Intrusion L72; Simon_McKean L104 | 12 |
-| Ch1001 | It’s All Quite Australian | Book_13_Timeline L6; Master_Timeline L6; Rufus_Remore L8; NPC_Rosters_by_Era L8; Earth_Magic L8-9, L9; Monster_Cores_and_Training L9, L10; Carlos_Quilido L9; Engineers_of_Ascension L92 … | 11 |
+| Ch1001 | It’s All Quite Australian | Book_13_Timeline L6; Master_Timeline L6; EDJI_and_Post_Reveal_Institutions L6-7, L8, L9, L44, L45, L46 …; Rufus_Remore L8; NPC_Rosters_by_Era L8; Earth_Magic L8-9, L9; Monster_Cores_and_Training L9, L10; Carlos_Quilido L9 … | 21 |
 | Ch1002 | The One Who Gets to Decide | Book_13_Timeline L3, L68; Yumi_Asano L23, L31; Simon_McKean L40; Open_Questions L64, L69; Master_Timeline L69 | 8 |
 | Ch1003 | Stare Down the Devil | Minor_Cast_Books_10-13 L3; Nik_Asano L67-72, L72; Book_13_Timeline L91; Master_Timeline L91 | 5 |
 | Ch1004 | Scheduling Your Callous Dumping | Book_13_Timeline L18; Zara_Rimaros L44-52 | 2 |
 | Ch1005 | A Distant God | Book_13_Timeline L3, L10, L80 | 3 |
-| Ch1006 | What You Gave Us Was Never Freedom | Book_13_Timeline L34; Plot_Hooks L59 | 2 |
+| Ch1006 | What You Gave Us Was Never Freedom | EDJI_and_Post_Reveal_Institutions L31; Book_13_Timeline L34; Plot_Hooks L59 | 3 |
 | Ch1007 | That Will Keep Them Dead | Book_13_Timeline L3, L6, L13, L41; Tone_and_Voice L22; Itsuki_Tiwari L23; Nigel_Thornton L23, L45; Minor_Cast_Books_4-6 L39; Nik_Asano L48; Saint-Etienne L62; Onslow L77 | 12 |
 | Ch1008 | A Sufficient Spectacle | Book_13_Timeline L10; Saint-Etienne L31-33; The_Deep_Astral_and_Interstice L65 | 3 |
 | Ch1009 | Kung-Fu Wizard is Not a Verb | Book_13_Timeline L4; The_Cabal L81 | 2 |
@@ -1118,13 +1118,13 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1012 | We Have to Kill Clive | Gordon L26; Book_13_Timeline L64 | 2 |
 | Ch1013 | Something Jasony | Book_13_Timeline L34 | 1 |
 | Ch1014 | A Satisfying Day | Book_13_Timeline L3, L17, L34, L72, L91; The_System L28-30 | 6 |
-| Ch1015 | A Fight She’s Already Won | Colin L26; Li_Li_Mei L40; Nik_Asano L48; The_Cabal L49; Book_13_Timeline L49; Master_Timeline L49; 01_World_Primer L78; Jason_Asano L78 | 8 |
+| Ch1015 | A Fight She’s Already Won | Colin L26; EDJI_and_Post_Reveal_Institutions L39; Li_Li_Mei L40; Nik_Asano L48; The_Cabal L49; Book_13_Timeline L49; Master_Timeline L49; 01_World_Primer L78 … | 9 |
 | Ch1016 | Worse Things | Hassan_Dukhtar L3, L23-31, L31; Book_13_Timeline L3, L21, L107, L119; Jason_Asano L21; NPC_Rosters_by_Era L23; Rufus_Remore L23-27; Farrah_Hurin L48; Gabrielle_Pellin L68, L74; Name_Index L68 … | 15 |
 | Ch1017 | A Room Full of Hands | Book_13_Timeline L5; 00_Cosmology_Overview L6-8; Spoiler_Management L6-8, L14-24; Cosmic_Throne_and_the_Sundering L9, L9-11; The_Builder L9-11, L27; Authority_and_Sanctioning L11, L15-16; Open_Questions L11, L17-19, L18; Plot_Hooks L14 … | 42 |
 | Ch1018 | I Don’t Need Hope | Book_13_Timeline L52 | 1 |
-| Ch1019 | Blatantly Ignoring Laws | Book_13_Timeline L3 | 1 |
-| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Minor_Cast_Books_10-13 L85; Glossary L85-91; Knowledge L95; Artefact_Site_One L95; Open_Questions L95; The_Rules_of_Intrusion L96-101, L99-100, L100 | 12 |
-| Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; The_Cabal L36; Cosmic_Throne_and_the_Sundering L69-71 | 3 |
+| Ch1019 | Blatantly Ignoring Laws | Book_13_Timeline L3; EDJI_and_Post_Reveal_Institutions L64 | 2 |
+| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Minor_Cast_Books_10-13 L85; Glossary L85-91; EDJI_and_Post_Reveal_Institutions L91; Knowledge L95; Artefact_Site_One L95; Open_Questions L95 … | 13 |
+| Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; The_Cabal L36; EDJI_and_Post_Reveal_Institutions L40; Cosmic_Throne_and_the_Sundering L69-71 | 4 |
 | Ch1022 | While We Have the Chance | Book_13_Timeline L3; Rimaros L20; Knowledge L25; Thadwick_Mercer L35, L62; Dimensional_Storage_and_Portals L35 | 6 |
 | Ch1023 | Broken What Matters Most | Book_13_Timeline L3, L12; Open_Questions L12, L103; Artefact_Site_One L103; Knowledge L131, L139; Gods_and_Churches L139; Gabrielle_Pellin L139; Knowledge L139 | 10 |
 | Ch1024 | The Next Time We Meet | Book_13_Timeline L3, L82; Artefact_Site_One L57; Helsveth L75-81; World_Phoenix L90; Umber L100-104, L118, L118-127, L138; Name_Index L101; NPC_Rosters_by_Era L102; Familiars L127-130 … | 23 |
