@@ -34,6 +34,7 @@ Treat race as a matter of body, gifts and culture, not value: gifts are real adv
 
 - [Boko: Culture of a City of Scholars and Artists](Boko_Culture.md) (spoiler level 3): Boko is an old desert city north of Greenstone with a native population, known for its scholars and artists.
 - [Celestines](Celestines.md) (spoiler level 0): Metallic-haired, metallic-eyed people with an astral affinity, produced when two outworlders have a child.
+- [Clothing, Food, Festivals and Transport by Region](Clothing_Food_Festivals_and_Transport_by_Region.md) (spoiler level 2): A regional table of how people dress, eat, celebrate and travel.
 - [Daily Life: Calendar, Food, Clothing and Transport](Daily_Life.md) (spoiler level 0): The practical texture of life in Greenstone and the delta: the calendar, what people wear and eat, how they travel and what runs on spirit coins.
 - [Draconians](Draconians.md) (spoiler level 0): Large, scaled humanoids who claim descent from dragons and whose homeland is the Dragon Lands.
 - [The Dragon Lands: Culture of the Draconian Homeland](Dragon_Lands_Culture.md) (spoiler level 3): The Dragon Lands are the volcanic island continent that is the native land of the draconians, a largely isolationist people who export agricultural produce...
