@@ -1,0 +1,35 @@
+# Compendium tools
+
+Scripts and data that build and check the compendium. This folder replaced `src/TEMP_scratchpad_recovery` on 2026-10-22. The old Gmod-Decompilation scratchpad must never be used. Run every tool from the compendium root, for example `python3 src/tools/rd.py r 1 1 1 5`; each tool finds its own data by path, so the working directory does not matter.
+
+## Core tools
+
+| Tool | What it does |
+|---|---|
+| `build_register.py` | Reads every compendium `.md` (except the generated and log files), grades each cited claim against `src/Source_Text/`, and writes `Appendices/Source_Register.md`, `Appendices/Source_Map.md` and `register_new.json`. Run after any document edit. Reads `chapter_index.json`, `old_register.json` (hand notes carried over), `map_log.tsv`, `map_thread.tsv`, `map_thread_notes.md`. |
+| `rd.py` | Read and search chapter text. `rd.py r BOOK CH LO HI WIDTH` prints lines; `rd.py g REGEX BOOK_FROM BOOK_TO WIDTH MAX` greps. |
+| `who.py` | Samples every line that matches a name across all books: `who.py "REGEX" N` prints a count by book and N evenly spaced lines. |
+| `cc2.py` | Citation checker: for each `(Book N, ChX LY)` cite in the given documents, reports claims whose terms overlap the cited lines below a threshold. `THR=0.30 python3 src/tools/cc2.py 01_World_Primer.md`. |
+| `loc2.py` | Locator that ranks chapters for a description (`loc2.py BOOK SPECFILE`). |
+| `chk.py` | Name checker: confirms that names occur near cited lines (`chk.py SPECFILE` with lines `name|book|chapter|line`). |
+| `common.py` | Shared helpers (paths, chapter index, term overlap) used by `cc2.py` and `loc2.py`. |
+| `mkchar.py`, `grplib.py` | Templates for writing a character file (`mk`) or a grouped minor-cast file (`grp`) in the standard layout. |
+| `wiki_lists.py`, `compose_wiki.py` | Rebuild the wiki-tier lists in `03_Magic_and_Adventuring/Wiki_Reference_Lists.md` and the gods table in `02_Cosmology_and_Powers/Gods_and_Churches.md` from `wiki/pages.json`. |
+| `fetchwiki.py` | Refreshes the fan-wiki cache in `wiki/` (ignored by git). |
+| `ess_scan.py` | Counts "<name> essence" phrases in the chapter text. |
+
+## Data in this folder
+
+`chapter_index.json` (chapter titles and filenames), `old_register.json`, `map_log.tsv`, `map_thread.tsv`, `map_thread_notes.md` (inputs to the register and map), `register_new.json` (output), `wiki_*_table.md` (generated tables), `wiki/` (cached wiki pages; not committed).
+
+## Related folders
+
+- `src/Source_Text/`: the book text, one file per chapter. Not committed to git (copyright).
+- `src/Chapter_Notes/`: the per-book chapter summaries (the "notes" tier), moved here from the old scratchpad.
+- `archive/`: retired one-off scripts and intermediate files from earlier passes (document generators, audit scripts, lorebook builders, `hwfwm_lorebook.json`). Kept for reference only; they may reference paths that no longer exist.
+
+## Conventions
+
+- Cite as `(Book N, ChX LY)`. Mark other tiers `(notes, Book N)` and `(wiki)`.
+- After a tool changes a document, run `build_register.py` and add a Change_Log entry.
+- Scripts that write documents should be written to a file and run, not passed as shell heredocs, because apostrophes in the text break heredocs.

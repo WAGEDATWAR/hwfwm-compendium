@@ -1,6 +1,6 @@
 import re, os, sys, json, math
 sys.stdout = __import__("io").TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
-exec(open("newrows.py", encoding="utf-8").read().split("skipdocs")[0])
+from common import *
 # usage: python3 loc2.py BOOK specfile ; spec lines "ChA[-ChB] || description"
 b = int(sys.argv[1])
 K = int(os.environ.get("K", "2")); W = int(os.environ.get("W", "190"))

@@ -1,5 +1,5 @@
 import re,os,sys,glob
-ST="../Source_Text"
+ST=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","Source_Text")
 def lines(b,c):
     d=os.path.join(ST,"Book_%02d"%b)
     for fn in os.listdir(d):

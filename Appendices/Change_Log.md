@@ -343,6 +343,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Corrected: Ramona of Moon's Edge is not linked to the Order of Redeeming Light's Ramona in the text; Allayeth, Yaresh_Culture and the Glossary no longer say she leads the team.
 - New: `07_Characters/Miriam_Vance.md` (a major Book 10-11 commander who had no file), `TODO_Build_Plan.md` (tiered build plan), Open_Questions 23 and 24.
 
+**Tools folder cleanup, build plan item 0.2 (2026-10-22)**
+- Renamed the living scratchpad `src/TEMP_scratchpad_recovery` to `src/tools`; earlier Change_Log entries that mention the old name refer to this folder.
+- Kept 12 working tools and their data in `src/tools`, moved 210 one-off scripts and intermediate files to `src/tools/archive/`, wrote `src/tools/README.md`, and moved the chapter summaries to `src/Chapter_Notes/`.
+- Made the tools path-independent (no hard-coded absolute paths or reliance on the working directory); `cc2.py` and `loc2.py` now use the new `common.py` instead of the retired `newrows.py`.
+- Verified: `build_register.py` reproduces 3,746 rows with identical grade counts, and `compose_wiki.py` changes no document.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

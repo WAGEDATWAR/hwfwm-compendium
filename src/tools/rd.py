@@ -1,5 +1,5 @@
 import sys, os, re, glob
-st = r"C:\Users\Gabriel\Documents\World Stuff\HWFWM Compendium\src\Source_Text"
+st = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Source_Text")
 sys.stdout = __import__("io").TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 def path(b, c):
     return glob.glob(os.path.join(st, "Book_%02d" % b, "Ch_%03d_*.txt" % c)) or glob.glob(os.path.join(st, "Book_%02d" % b, "Ch_%d_*.txt" % c))

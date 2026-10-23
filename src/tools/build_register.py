@@ -392,7 +392,7 @@ def write_map(out, cnt):
          "- `src/Source_Text/Book_NN/Ch_NNN_Title.txt`: the book text, one file per chapter.",
          "- `Appendices/Source_Register.md`: one row per cited claim in the compendium, graded for how well the cited lines support it.",
          "- This file: the rules, the timeline thread (section 4), the chapter index (section 5), the state-change list (section 6) and the log of source-checking work (section 7).",
-         "- The register and sections 4 to 6 are regenerated together by `src/TEMP_scratchpad_recovery/build_register.py`; run it after editing any document.", "",
+         "- The register and sections 4 to 6 are regenerated together by `src/tools/build_register.py`; run it after editing any document.", "",
          "## 3. Rules", "",
          "1. Reference format: `B7 Ch31 L12-15` (book, chapter, lines of the chapter file). In documents the form is `(Book 7, Ch31 L12-15)`.",
          "2. Hierarchy stays Book Files > Chapter Summaries > Wiki. A claim tagged `notes` or `wiki` should be narrowed to a book location when possible and retagged `Book N`.",

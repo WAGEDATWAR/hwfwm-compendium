@@ -1,5 +1,5 @@
 import re, os, collections, sys
-st = r"C:\Users\Gabriel\Documents\World Stuff\HWFWM Compendium\src\Source_Text"
+st = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Source_Text")
 rx = re.compile(r"\b([A-Z][a-z]+(?: [A-Z][a-z]+)?|[a-z]+) essences?\b")
 cnt = collections.Counter(); first = {}
 for b in range(1, 14):

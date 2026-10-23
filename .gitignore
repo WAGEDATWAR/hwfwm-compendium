@@ -1,7 +1,7 @@
 # Large or regenerable working data
-src/TEMP_scratchpad_recovery/wiki/
-src/TEMP_scratchpad_recovery/*.pkl
-src/TEMP_scratchpad_recovery/__pycache__/
+src/tools/wiki/
+src/tools/*.pkl
+src/tools/__pycache__/
 __pycache__/
 *.pyc
 

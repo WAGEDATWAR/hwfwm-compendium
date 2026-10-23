@@ -16,7 +16,7 @@ The Source Map ties compendium claims to book, chapter and lines so that facts c
 - `src/Source_Text/Book_NN/Ch_NNN_Title.txt`: the book text, one file per chapter.
 - `Appendices/Source_Register.md`: one row per cited claim in the compendium, graded for how well the cited lines support it.
 - This file: the rules, the timeline thread (section 4), the chapter index (section 5), the state-change list (section 6) and the log of source-checking work (section 7).
-- The register and sections 4 to 6 are regenerated together by `src/TEMP_scratchpad_recovery/build_register.py`; run it after editing any document.
+- The register and sections 4 to 6 are regenerated together by `src/tools/build_register.py`; run it after editing any document.
 
 ## 3. Rules
 
