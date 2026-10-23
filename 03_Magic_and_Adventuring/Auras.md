@@ -41,7 +41,7 @@ An aura is the projection of a ranked person's soul. It grows with rank, is read
 
 ## 4. Examples from the books
 
-- **Titles from soul scars.** Jason's Interface uses titles to translate soul scars into game terms (Book 4, Ch2 L26). Resolute raises resistance to suppression from higher-ranked auras (Book 3, Ch14 L82); Indomitable enhances resistance and "ignores rank disparity", and adds a resistance bonus to allies in his aura (Book 4, Ch2 L23-24); Spirit Warrior increases both suppressive force and resistance, lets him resist other magical suppression, and lets him "attack their soul directly" after fully suppressing their aura (Book 3, Ch21 L151-152); Godless Prophet records the refinement after gods press on him (Book 2, Ch65 L85-86). Each changes his aura signature (Book 3, Ch14 L83; Book 3, Ch21 L153).
+- **Titles from soul scars** (full list in Titles_and_Blessings.md). Jason's Interface uses titles to translate soul scars into game terms (Book 4, Ch2 L26). Resolute raises resistance to suppression from higher-ranked auras (Book 3, Ch14 L82); Indomitable enhances resistance and "ignores rank disparity", and adds a resistance bonus to allies in his aura (Book 4, Ch2 L23-24); Spirit Warrior increases both suppressive force and resistance, lets him resist other magical suppression, and lets him "attack their soul directly" after fully suppressing their aura (Book 3, Ch21 L151-152); Godless Prophet records the refinement after gods press on him (Book 2, Ch65 L85-86). Each changes his aura signature (Book 3, Ch14 L83; Book 3, Ch21 L153).
 - **Rank disparity.** Aura strength is "the inherently superior strength of higher-rank auras", which some of Jason's titles do not cancel (Book 3, Ch21 L110).
 
 ## 5. Common misconceptions in-world

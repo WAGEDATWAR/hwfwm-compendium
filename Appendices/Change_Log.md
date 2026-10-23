@@ -501,6 +501,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Observed: Spirit Reaper (Book 2, Ch64 L72-75) is introduced after a line naming Humphrey but is a magic essence ability, which Humphrey lacks; it is recorded under Clive with the discrepancy noted. Gary's essence list varies (Book 9, Ch82 L22; Book 10, Ch67 L122; Book 10, Ch79 L63); his golem is called foundry and forge golem.
 - Not done: silver and gold rewrites for abilities the text never shows; Jason's set remains in `Jason_Power_Set_Reference.md`.
 
+**Titles and blessings, build plan item 2C.4 (2026-10-23)**
+- New `03_Magic_and_Adventuring/Titles_and_Blessings.md`: the seven titles the text shows with their window text (Godless Prophet, Resolute, Spirit Warrior, Indomitable, Giant Slayer, Reality Hegemon, Keeper of the Cycle), how Jason explains titles in Book 13, and how blessings, tokens and star seeds differ, with the World-Phoenix blessing, Farrah's chain of blessings and Sophie's Boundary Breaker. `Auras.md` points to it.
+- Titles are shown only for Jason (and Delia's Resolute in Book 13); the text gives no list for others.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

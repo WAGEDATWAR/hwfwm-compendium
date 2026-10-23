@@ -102,6 +102,7 @@ Magic in the world is raw power from the astral. In a magic-rich world it conden
 - [Rituals, Arrays and Formations](Rituals_Arrays_and_Formations.md) (spoiler level 0): Ritual magic is the practice of drawing a diagram, a circle with lines and glyphs, and powering it with external magic to do something an essence ability...
 - [Skill Books and Learning](Skill_Books_and_Learning.md) (spoiler level 0): A skill book is a consumable magical book that implants knowledge directly into the reader.
 - [Souls, Death and Healing](Souls_Death_and_Healing.md) (spoiler level 0): A soul is the part of a person that essences and ranks change.
+- [Titles and Blessings](Titles_and_Blessings.md) (spoiler level 2): A **title** is how the System writes down a change to the soul: it appears as a window after a soul has been scarred or tested and usually changes the...
 - [Unusual and Unique Magic](Unusual_and_Unique_Magic.md) (spoiler level 0): Most magic in the setting follows the essence-and-rank structure described elsewhere in this folder.
 - [Wiki Reference Lists](Wiki_Reference_Lists.md) (spoiler level 3): The wiki lists the essences below by rarity, with the abilities and users it records for each.
 
