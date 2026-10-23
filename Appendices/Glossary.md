@@ -141,7 +141,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Dark Rider**: Jason's evolved language-adaptation and tracking-immunity gift. **[1]**
 
-**Deep astral**: pure magic where bodies cannot survive. **[1]**
+**Deep astral**: pure magic where bodies cannot survive; see `02_Cosmology_and_Powers/The_Deep_Astral_and_Interstice.md`. **[1]**
 
 **Defiant**: Jason's evolved quest system: ignores rank-disparity resistance. **[1]**
 
@@ -243,7 +243,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Interface (Jason's)**: his early outworlder user-interface; became the System. **[0]**
 
-**Interstice**: the city-universe at the cosmic centre. **[1]**
+**Interstice**: the city-universe at the cosmic centre; see `02_Cosmology_and_Powers/The_Deep_Astral_and_Interstice.md`. **[1]**
 
 **Intrinsic-mandate magic**: high-order magic where the user's will is law within their domain. **[3]**
 

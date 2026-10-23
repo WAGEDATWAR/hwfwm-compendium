@@ -433,6 +433,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **The Rules of Intrusion, build plan item 2A.3 (2026-10-22)**
 - New `02_Cosmology_and_Powers/The_Rules_of_Intrusion.md` (level 3): the rules' scope (holy wars and dimensional invasion), closed worlds, rank-based flexibility and pretexts, invitations and the host-guest principle, the stricter regime since the throne was restored, Knowledge's need for a holy war, and why the Earth bridge anchor sits outside Jason's domains. Cross-linked from the Cosmology overview.
 
+**The deep astral and Interstice, build plan item 2A.4 (2026-10-22)**
+- New `02_Cosmology_and_Powers/The_Deep_Astral_and_Interstice.md`: Clive's dumpling-soup account, astral spaces, why Jason's body ceased to exist, Interstice as shown at Book 3, Ch69, Dawn's and Jota's descriptions of it, the regions of the deep astral, travel in dimension ships and the dock into the astral from Jason's kingdom. Books 5 to 9 material is under level 2 tags and Books 11 to 13 under level 3 tags.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
