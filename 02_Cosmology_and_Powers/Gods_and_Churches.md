@@ -13,6 +13,8 @@ Gods are transcendent beings outside physical reality, each focused on a single 
 
 ## 2. What gods can and cannot do
 
+The churches as institutions have their own files in `../05_Organisations/Churches/`: [Healer](../05_Organisations/Churches/Church_of_the_Healer.md), [Knowledge](../05_Organisations/Churches/Church_of_Knowledge.md), [Purity](../05_Organisations/Churches/Church_of_Purity.md), [Dominion](../05_Organisations/Churches/Church_of_Dominion.md), [Death](../05_Organisations/Churches/Church_of_Death.md), [Undeath](../05_Organisations/Churches/Church_of_Undeath.md) and [Hero](../05_Organisations/Churches/Church_of_Hero.md).
+
 - **Sight**: gods cannot see into an astral space that is not part of their world. In Book 10 a goddess says she cannot see into the astral space Jason is holding prisoners in; in Book 8 a priest says his god cannot see inside a building hidden from the gods (Book 10, Ch31 L69-75; Book 8, Ch43 L48-53).
 - **Domains**: gods cannot enter another's spirit domain ("higher rules for higher beings", Book 6, Ch24 L86); gods cannot reveal other gods' deceptions, being bound by rules of interplay (Book 8, Ch48 L22-26).
 - **Miracles**: "if you want a miracle, you need one of my servants or a grand sacrifice" (a god to Jason, Book 10, Ch82 L72).

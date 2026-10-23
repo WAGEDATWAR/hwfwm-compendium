@@ -472,6 +472,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `05_Organisations/Alchemy_Association.md`, `Mirage_Chamber_Association.md` and `Magical_Research_Association.md`, each line-cited and short. `Magic_Society_and_Associations.md` points to them.
 - The Mirage Chamber Association is named only in Book 2, Ch73 (Jayapura); the Geller chamber in Greenstone is a family facility. The Artifice Association has no file because the text gives it almost nothing; its mentions are recorded in the Alchemy file.
 
+**Churches as organisations, build plan item 2B.7 (2026-10-23)**
+- New folder `05_Organisations/Churches/` with `Church_of_the_Healer.md`, `Church_of_Knowledge.md`, `Church_of_Purity.md` (with the Lasalle family), `Church_of_Dominion.md`, `Church_of_Death.md`, `Church_of_Undeath.md` and `Church_of_Hero.md`. Each records institutional facts (temples, clergy, roles, relations), and leaves the gods themselves to the existing `Gods/` files. `Gods_and_Churches.md` links to them.
+- Observed: the archbishop of Purity is Nicolas Hendren in Book 2, Ch19 and Book 3, Ch31, "Herston" in Book 2, Ch21 L21, and "Hedron" in Book 3, Ch1 L106 (Purity_and_Disguise.md follows that spelling); the Purity church file records the inconsistency and uses Hendren.
+- The Hero temple in Book 12, Ch13 is in the Worship Ring of Outer Rexion, not Yaresh.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
