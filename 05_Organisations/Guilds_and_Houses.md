@@ -13,6 +13,8 @@ A guild is an adventuring organisation that recruits, trains and backs its membe
 
 ## 2. Burning Violet
 
+Separate files in `Guilds/`: [Burning_Violet.md](Guilds/Burning_Violet.md), [Sapphire_Crown.md](Guilds/Sapphire_Crown.md), [Guild_Quotas_and_Contribution.md](Guilds/Guild_Quotas_and_Contribution.md) and [Team_Shining_Scabbard.md](Guilds/Team_Shining_Scabbard.md).
+
 - **Where and what**: an elite guild whose house is a large but unassuming building directly across from Remore Academy in Vitesse (Book 12, Ch43 L64-68). It moved there after Roland Remore, a diamond-ranker, took over the guild long ago; he no longer manages it but his presence looms large (Book 12, Ch43 L64).
 - **Relationship to the Academy**: after Rufus's grandfather became guild leader it became more associated with the Remore Academy (Book 6, Ch47 L125-129). Members are Rufus's family plus allies such as Gary and Farrah; most prestige-family graduates do not join, so it is mostly graduates without power or money. Farrah introduces herself in Rimaros as Burning Violet out of Vitesse (Book 7, Ch7 L53-54).
 - **Standards** (Book 12, Ch44 L26-30): "elite amongst elites", yet not prejudicial about background; large enough to need head-breakers as well as politicians and ritualists. The staff includes the receptionist Monica; a screener tells Jason that one star at gold rank is not disqualifying.

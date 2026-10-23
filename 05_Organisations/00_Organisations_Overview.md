@@ -61,4 +61,11 @@ Churches and gods are in `02_Cosmology_and_Powers/Gods_and_Churches.md`; messeng
 - [The Church of the Healer](Churches/Church_of_the_Healer.md) (spoiler level 1): The church of the Healer is the institution through which most healing on Pallimustus is done, with its priests drawing their abilities from the god's...
 - [The Church of Undeath](Churches/Church_of_Undeath.md) (spoiler level 2): The church of Undeath serves the god of undeath and raises the unliving.
 
+**Guilds/**
+
+- [The Burning Violet Guild](Guilds/Burning_Violet.md) (spoiler level 2): Burning Violet is an old, elite guild based in Vitesse, tied to the Remore family and the Remore Academy.
+- [Guild Quotas and the Contribution Board](Guilds/Guild_Quotas_and_Contribution.md) (spoiler level 2): During a monster surge the Adventure Society assigns every adventurer a minimum action quota, and runs a contribution board as an incentive on top.
+- [The Sapphire Crown Guild](Guilds/Sapphire_Crown.md) (spoiler level 2): The Sapphire Crown is the royal guild of Rimaros: a guild that works directly for the royal family, whose members rotate through the royal guard.
+- [Team Shining Scabbard and the Mirror Kingdom's Backing](Guilds/Team_Shining_Scabbard.md) (spoiler level 1): Team Shining Scabbard is the adventuring team of Prince Valdis of the Mirror Kingdom, built around the healer Sigrid Freyn.
+
 <!-- files:end -->

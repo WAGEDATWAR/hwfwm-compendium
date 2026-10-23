@@ -70,7 +70,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2B.5 (Done 2026-10-23) Order of the Reaper and Cult of the Reaper (M).** The history told in Book 9, Ch27 and Book 10, Ch36; Callum's, Melody's and Marta's roles; Open_Questions 20.
 - **2B.6 (Done 2026-10-23) Alchemy Association, Mirage Chamber Association, Magical Research Association (S each).** Each is mentioned in `Magic_Society_and_Associations.md`; split out with cites.
 - **2B.7 (Done 2026-10-23) Churches as organisations (M).** One short file per church that appears as an institution: Healer, Knowledge, Purity (and the Lasalle family), Dominion, Death, Undeath, Hero.
-- **2B.8 Guilds (M).** Burning Violet, Sapphire Crown, Team Shining Scabbard's backers; the guild quota system (Book 7, Ch12).
+- **2B.8 (Done 2026-10-23) Guilds (M).** Burning Violet, Sapphire Crown, Team Shining Scabbard's backers; the guild quota system (Book 7, Ch12).
 - **2B.9 Noble houses (M).** Geller, Remore, Mercer, Rimaros, Headingway, Kettering, Davone, Amouz.
 
 ### 2C. Magic and adventuring (`03_Magic_and_Adventuring`)

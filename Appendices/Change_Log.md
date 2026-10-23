@@ -477,6 +477,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Observed: the archbishop of Purity is Nicolas Hendren in Book 2, Ch19 and Book 3, Ch31, "Herston" in Book 2, Ch21 L21, and "Hedron" in Book 3, Ch1 L106 (Purity_and_Disguise.md follows that spelling); the Purity church file records the inconsistency and uses Hendren.
 - The Hero temple in Book 12, Ch13 is in the Worship Ring of Outer Rexion, not Yaresh.
 
+**Guilds, build plan item 2B.8 (2026-10-23)**
+- New folder `05_Organisations/Guilds/` with `Burning_Violet.md`, `Sapphire_Crown.md`, `Guild_Quotas_and_Contribution.md` (Book 7, Ch12 and related lines) and `Team_Shining_Scabbard.md`. `Guilds_and_Houses.md` points to them.
+- Observed: the text names no "backers" for Team Shining Scabbard other than the Mirror Kingdom's royal family; it is a royal-backed team, not a guild. The file records this.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
