@@ -436,6 +436,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **The deep astral and Interstice, build plan item 2A.4 (2026-10-22)**
 - New `02_Cosmology_and_Powers/The_Deep_Astral_and_Interstice.md`: Clive's dumpling-soup account, astral spaces, why Jason's body ceased to exist, Interstice as shown at Book 3, Ch69, Dawn's and Jota's descriptions of it, the regions of the deep astral, travel in dimension ships and the dock into the astral from Jason's kingdom. Books 5 to 9 material is under level 2 tags and Books 11 to 13 under level 3 tags.
 
+**The Unorthodoxy and the Council of Kings, build plan item 2A.5 (2026-10-22)**
+- New `02_Cosmology_and_Powers/The_Unorthodoxy.md` (origin, hiding, birthing planets, its own astral kings, the overcharged-mana secret, members and associates, the Earth colony) and `The_Council_of_Kings.md` (what it is and is not, membership and rivals, Vesta Carmis Zell's changing position, Jamis Fran Muskar's role, the détente with the originals, and the Boko and Book 13 episodes). Both are level 3. `Astral_Kings_and_Messengers.md` now points to them.
+- Member lists are limited to the named figures in the text; the full Council membership is not given anywhere, which is recorded in Open_Questions 3.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

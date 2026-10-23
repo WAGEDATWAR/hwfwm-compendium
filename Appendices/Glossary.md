@@ -133,7 +133,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Cosmic Throne**: the embodied cosmic law that governed the great astral beings; sundered by them, restored by Jason in Book 11. See also *Sundered Throne*; full account in `02_Cosmology_and_Powers/Cosmic_Throne_and_the_Sundering.md`. **[3]**
 
-**Council of Kings**: the ruling body of astral kings. **[3]**
+**Council of Kings**: the loose body of the strongest astral kings, which guides the messengers but does not rule them; see `02_Cosmology_and_Powers/The_Council_of_Kings.md`. **[3]**
 
 **Crystal wash**: a cleaning liquid, always in short supply. **[0]**
 
@@ -449,7 +449,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Umber**: a figure who "likes to play games" and told of trapping a servant of the Reaper's kind in an astral space for centuries (Book 8, Ch55 L85-89); that he is Shade's brother and plans against Jason in Book 13 is from notes. **[3]**
 
-**Unorthodoxy**: free messengers. **[2]**
+**Unorthodoxy**: the messenger resistance of free messengers who live without the brand; see `02_Cosmology_and_Powers/The_Unorthodoxy.md`. **[3]**
 
 **Unranked / normal**: no rank above ordinary. **[0]**
 

@@ -63,8 +63,10 @@ Gods answer prayers and send miracles; great astral beings are rarely named outs
 - [The Cosmic Throne and the Sundering](Cosmic_Throne_and_the_Sundering.md) (spoiler level 3): The Cosmic Throne was the ultimate authority that regulated the great astral beings.
 - [Gods and Churches](Gods_and_Churches.md) (spoiler level 0): Gods are transcendent beings outside physical reality, each focused on a single concept (Dominion, Healer, Knowledge, Death and more).
 - [Great Astral Beings](Great_Astral_Beings.md) (spoiler level 1): A great astral being (GAB) is a cosmic-scale transcendent: an aspect of the cosmos that embodies a concept such as construction, finality of death, time,...
+- [The Council of Kings](The_Council_of_Kings.md) (spoiler level 3): The Council of Kings is the nearest thing the messengers have to central leadership: a loose body of the strongest astral kings, the heirs of the side that...
 - [The Deep Astral and Interstice](The_Deep_Astral_and_Interstice.md) (spoiler level 1): The astral is the space between worlds, the source of all magic, and the home of the beings who govern the cosmos.
 - [The Rules of Intrusion](The_Rules_of_Intrusion.md) (spoiler level 3): The Rules (or Laws) of Intrusion govern who may invade a world and on what terms.
 - [The System](The_System.md) (spoiler level 3): The System is the interface of windows, ranks and messages that Jason carried alone from Book 1.
+- [The Unorthodoxy](The_Unorthodoxy.md) (spoiler level 3): The Unorthodoxy is the messenger resistance: the descendants of the free messengers who lost the old war, who live in hiding without the brand and the...
 
 <!-- files:end -->

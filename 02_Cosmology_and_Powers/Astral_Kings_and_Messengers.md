@@ -35,6 +35,9 @@ After the Astral Throne and Astral Gate appear (Book 8, Ch49 L105), Jason's spir
 
 ## 5. The Unorthodoxy
 
+Full account in `The_Unorthodoxy.md`; the Council of Kings has its own file, `The_Council_of_Kings.md`.
+
+
 Dissenting messengers who want to live without astral kings. Boris Ket Lundi tells Jason (Book 11, Ch24 L86) that he is Unorthodoxy and that his astral king's allies do not know; Book 12 confirms that Navise Den Rigal, a Voice of the Will, serves a minor astral king who is secretly one of the Unorthodoxy's rare astral kings, and that Boris was slipped into the service of Vesta Carmis Zell. Marek Nior Vargas leads a breach force against Yaresh in Book 9, has misgivings about the operation and the politics, and later brings his people into Jason's realm; whether Marek leads the Unorthodoxy is unchecked. Tera Jun Casta is a branded messenger whose brand Jason removes (Book 10, Ch42 L7: it was the brand of her astral king master, Vesta Carmis Zell, and it traumatises her).
 
 ## 6. Jamis Fran Muskar
