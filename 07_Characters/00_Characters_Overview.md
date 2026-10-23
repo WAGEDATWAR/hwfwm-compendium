@@ -31,6 +31,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 0): A school friend of Jason's and Network administrator who crews Kaito's helicopter and is killed in Book 5.
 - [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): A Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's energy-vampire research.
 - [Baseph, Dara, Zareen and Joseph](Baseph_and_the_Rimaros_Children.md) (spoiler level 2): Liara Rimaros's husband and their three silver-rank children.
+- [Beaufort (Builder Cult Commander)](Beaufort_Builder_Cult_Commander.md) (spoiler level 3): Beaufort is the gold-rank elf who leads the Cult of the Builder's forces in Cardinas, an uneasy ally of the brighthearts and then of Jason's expedition.
 - [Belinda Callahan](Belinda_Callahan.md) (spoiler level 0): Belinda "Lindy" Callahan is Sophie's oldest friend, a thief from Greenstone's Old City who becomes Clive's assistant and, in time, the team's planner,...
 - [Benella](Benella.md) (spoiler level 2): A servant of the messengers who works as Zolit's aide and brings Jason to their attention.
 - [Beth Cavendish](Beth_Cavendish.md) (spoiler level 1): A bronze-rank Greenstone adventurer and water healer who leads a team in the Ustei campaign and the City of Fallen Echoes.
@@ -49,6 +50,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Cressida Vane](Cressida_Vane.md) (spoiler level 0): The matriarch of the blood-cult family that holds Jason and his friends in Book 1.
 - [Danielle Geller](Danielle_Geller.md) (spoiler level 0): Danielle Geller is Humphrey's mother and the head of the Geller family's household in Greenstone.
 - [Dawn](Dawn.md) (spoiler level 2): Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel (Book 3, Ch69 L1036-1040 describes the post; the notes identify Dawn...
+- [Durrum](Durrum.md) (spoiler level 3): Durrum is a massive earth-aspect brightheart, one of two leaders who claim territory in Jason's unified battlefield.
 - [Dustin Kettering](Dustin_Kettering.md) (spoiler level 1): An ice-armoured defender from the Kettering family who starts as one of Thadwick Mercer's offsiders, joins Rick's team in Book 2 and later fights beside...
 - [Elizabeth (vampire queen)](Elizabeth.md) (spoiler level 3): The gold-rank leader of the vampires who take Europe.
 - [Elspeth Arella](Elspeth_Arella.md) (spoiler level 0): The director of the Greenstone branch of the Adventure Society.
@@ -78,9 +80,11 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
 - [Hiro Asano](Hiro_Asano.md) (spoiler level 1): Jason's estranged uncle, the family's black sheep, who runs a Sydney bar and later manages the clan's relocation programme.
 - [Holly Macrossan](Holly_Macrossan.md) (spoiler level 2): Anna Tilden's successor at the UN Office of Supernatural Affairs, later liaison to the Multinational Supernatural Response Taskforce.
+- [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
 - [Humphrey Geller](Humphrey_Geller.md) (spoiler level 0): Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for...
 - [Ian Evans](Ian_Evans.md) (spoiler level 0): Jason's brother-in-law, Erika's husband and Emi's father, who can enter Jason's spirit vault.
 - [Itsuki Tiwari](Itsuki_Tiwari.md) (spoiler level 1): A young Japanese essence user who idolises Jason and has a doom confluence.
+- [Jameela](Jameela.md) (spoiler level 3): Jameela is a priestess of Undeath, Garth Larosse's most trusted subordinate, tall and elegant, capable and quick to learn.
 - [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): An astral king whose avatar attends the Builder's observation scene and who berates defiant messengers.
 - [Jason Asano](Jason_Asano.md) (spoiler level 0): Jason Asano is the series' protagonist: an Australian from the coastal town of Casselton Beach who, at twenty-three, is pulled across the cosmos to...
 - [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): A gold-rank expedition leader who runs a mixed surge expedition and seals an astral aperture with Jason's help.
@@ -89,6 +93,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jory Tillman](Jory_Tillman.md) (spoiler level 0): A Greenstone alchemist who gives Jason a ride into the city and later builds a miracle-potion facility.
 - [Jota Withers](Jota_Withers.md) (spoiler level 3): A gold-rank dimension ship captain in a pirate admiral's service who is sent to Earth in Book 12.
 - [Kaito Asano](Kaito_Asano.md) (spoiler level 1): Jason's brother, married to Amy; he is killed in Book 5.
+- [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
 - [Kasper Irios](Kasper_Irios.md) (spoiler level 0): A peak-bronze heir of House Irios whom Jason meets after the Zara marriage scandal.
 - [Keith Geller](Keith_Geller.md) (spoiler level 0): Humphrey's father, a solid and reliable counterpoint to Danielle.
 - [Ken Asano](Ken_Asano.md) (spoiler level 1): Jason's father, a Japanese-born Australian landscape architect.
@@ -101,12 +106,15 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Li Li Mei](Li_Li_Mei.md) (spoiler level 2): A Chinese silver-ranker and daughter of Li Ning who deals with Jason on Earth in Books 4-6, ends up in Pallimustus, is found hiding in Boko, and becomes a...
 - [Liara Rimaros](Liara_Rimaros.md) (spoiler level 1): A gold-rank member of the Rimaros royal house who screens adventurers for Builder cultists.
 - [Lorelei Grantham](Lorelei_Grantham.md) (spoiler level 1): A researcher and later Vice-Dean and Vice Chancellor of astral magic research who recruits Clive, covers for his escape from Rakesh and becomes his partner...
+- [Lorenn](Lorenn.md) (spoiler level 3): Lorenn is the last councilwoman of the brighthearts of Cardinas and, after Jason's intervention, the leader of her people.
+- [Lorus](Lorus.md) (spoiler level 3): Lorus is a fire-aspect brightheart who claims a territory in the unified battlefield and wants all the power.
 - [Lucian Lamprey](Lucian_Lamprey.md) (spoiler level 0): The corrupt director of Greenstone's Magic Society branch.
 - [Marcus Hargrave Xenoria](Marcus_Hargrave_Xenoria.md) (spoiler level 2): A massive leonid troubleshooter for the Adventure Society's continental council, sent to Yaresh to break the aristocrats' hold and an ally of Jason there.
 - [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 2): A messenger who leads the breach force over Yaresh's entertainment district and later a free messenger.
 - [Marie Finnegan](Marie_Finnegan.md) (spoiler level 3): The expelled director of the Zurich Network branch who ran a secret programme working with Elizabeth and Simon McKean.
 - [Marla](Marla.md) (spoiler level 3): A fire-aspect brightheart who commands the brightheart military defending Cardinas.
 - [Melody Jain](Melody_Jain.md) (spoiler level 2): Sophie's mother, who faked her death twenty years ago and leads the Order of Redeeming Light in the Storm Kingdom.
+- [General Michael Mills](Michael_Mills.md) (spoiler level 3): General Michael Mills of the United States Army is the operational commander of the EDJI's largest military action to date, the war against the vampires in...
 - [Miles Cotezee](Miles_Cotezee.md) (spoiler level 1): A senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the surge.
 - [Miriam Vance](Miriam_Vance.md) (spoiler level 3): The gold-rank leader of Team Moon's Edge and Tactical Commander of the Cardinas expedition, who shares overall command with Jason.
 - [Mr North (Noreth)](Mr_North.md) (spoiler level 3): The EOA Cardinal Mr North, who is the Network founder's former familiar Noreth.
@@ -123,9 +131,12 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Phoebe Geller](Phoebe_Geller.md) (spoiler level 0): A distant Geller cousin who is Humphrey's contemporary and later Rick's teammate.
 - [Pochard Finn](Pochard_Finn.md) (spoiler level 0): Lamprey's deputy director, an elf and a local who keeps the city campus running.
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
+- [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
 - [Rick Geller](Rick_Geller.md) (spoiler level 0): A Geller adventurer who demands a rematch with Jason's team and leads his own team of Gellers and elves.
 - [Roland Remore](Roland_Remore.md) (spoiler level 0): Rufus's grandfather, a diamond-rank sword master and the archchancellor of Remore Academy in Vitesse.
+- [Rosa Liselos](Rosa_Liselos.md) (spoiler level 3): Rosa Liselos is the scout of Korinne's Team Storm Shredder, with the best perception on the team.
 - [Rufus Remore](Rufus_Remore.md) (spoiler level 0): Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the diamond-ranker Roland Remore.
+- [Sendira](Sendira.md) (spoiler level 2): Sendira is Melody Jain's second in command in the Order of Redeeming Light's local enclave: a silver-rank zealot and the person Melody trusts most.
 - [Shako](Shako.md) (spoiler level 2): A diamond-rank servant of the Builder who kills Jason in Book 6.
 - [Sigrid Freyn (Volaire)](Sigrid_Freyn.md) (spoiler level 1): A celestine healer and the leader of Valdis's team, who becomes his wife.
 - [Simon McKean](Simon_McKean.md) (spoiler level 3): The head of the Earth researchers in the Network's grid workgroup, who becomes Jason's final enemy on Earth.
@@ -146,6 +157,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Vincent Trenslow](Vincent_Trenslow.md) (spoiler level 0): An Adventure Society official with a magnificent moustache who runs Jason's field assessment.
 - [Yumi Asano](Yumi_Asano.md) (spoiler level 1): Jason's paternal grandmother and the matriarch of the Asano clan.
 - [Zara Rimaros (Zara Nareen)](Zara_Rimaros.md) (spoiler level 1): Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess".
+- [Zareen Rimaros](Zareen_Rimaros.md) (spoiler level 3): Zareen Rimaros is Liara and Baseph's middle child: a three-star adventurer and political enthusiast with the royal family's sapphire hair and eyes.
 - [Zato](Zato.md) (spoiler level 1): The last silver-ranker of the Builder cult's local forces, who leads its survivors to the Vane Estate.
 - [Zithis Carrow Vayel](Zithis_Carrow_Vayel.md) (spoiler level 3): The messenger recruited as a sixteen-year-old diamond-ranker to become the new Builder, named on the Fundamental Realm Authority Token Jason loots.
 
@@ -161,11 +173,11 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 **Minor_Cast/**
 
 - [Minor Cast: Books 1-3](Minor_Cast/Minor_Cast_Books_1-3.md) (spoiler level 1): Recurring minor figures of the Greenstone books that have no file of their own. Entries: Albert Bertinelli ("Bert"), Genevieve Picot, Darryl Caruthers, Beaufort Mercer, Dean Tuckell and Clementson, Madam Landry, Janice, Ernest Geller, Jerrick, Imran Keane, Arash, Dink, Hiram, Ketis ....
-- [Minor Cast: Books 10-13](Minor_Cast/Minor_Cast_Books_10-13.md) (spoiler level 3): Minor figures of the Yaresh, Cardinas and return books with no file of their own. Entries: Beaufort (Builder cult commander), Hils Jaramaris, Garret Headingway, Neiman Bassingthwaite, Kreegle, Navise Den Rigal, Jacinta Adeline, Barstow, General Michael Mills, Finneus Gallow, Geneva Andros, Kol Kelis Vel, Calcifer Bynes, Jali Corrik Fen ....
+- [Minor Cast: Books 10-13](Minor_Cast/Minor_Cast_Books_10-13.md) (spoiler level 3): Minor figures of the Yaresh, Cardinas and return books with no file of their own. Entries: Hils Jaramaris, Garret Headingway, Neiman Bassingthwaite, Kreegle, Navise Den Rigal, Jacinta Adeline, Barstow, Finneus Gallow, Geneva Andros, Kol Kelis Vel, Calcifer Bynes, Jali Corrik Fen, Barry Sinise, Brian (priest of Dominion) ....
 - [Minor Cast: Books 4-6](Minor_Cast/Minor_Cast_Books_4-6.md) (spoiler level 2): Minor Network, government and Earth figures of the Earth books that have no file of their own. Entries: Kylie Chen, Chen (category four), Gordon Truffett, Emerson Cleary, Gladys Erstweller, Hector De Lange, Todd "The Necromancer" Halverson, Thanh, Ingrid, Loth, Night Stalker, Higgy, Franklin.
 - [Minor Cast: Books 7-9](Minor_Cast/Minor_Cast_Books_7-9.md) (spoiler level 2): Minor Storm Kingdom, Rimaros society and Purity-order figures with no file of their own. Entries: Zila Rimaros, Baseph and the Rimaros children, Gibson Amouz, Alejandro Albericci, Havi Estos, Autumn Leal, Zolit Kreen, Order of Redeeming Light personnel, Merrick Harlowe, Eric Maldonado, Rangel and Tellez, Carilo, Emresh, Lancet de Varco ....
-- [Order of Redeeming Light Members](Minor_Cast/Minor_Cast_Order_of_Redeeming_Light.md) (spoiler level 2): The named members of Melody Jain's Sea of Storms contingent. Entries: Sendira, Laront, Esteban Galo, Fila, Ramona, Rhett and Jaime, Caitlyn, Heston, Marika and Elise, Kelleigh.
-- [Greenstone and Academy Team Members](Minor_Cast/Minor_Cast_Remore_Academy_and_Greenstone_Teams.md) (spoiler level 1): The named members of Beth Cavendish's and Padma Parsell's teams. Entries: Mose Cavendish, Hudson Kettering, Niko, Emily, Lance and Oscar.
+- [Order of Redeeming Light Members](Minor_Cast/Minor_Cast_Order_of_Redeeming_Light.md) (spoiler level 2): The named members of Melody Jain's Sea of Storms contingent. Entries: Laront, Esteban Galo, Fila, Ramona, Rhett and Jaime, Caitlyn, Heston, Marika and Elise, Kelleigh.
+- [Greenstone and Academy Team Members](Minor_Cast/Minor_Cast_Remore_Academy_and_Greenstone_Teams.md) (spoiler level 1): The named members of Beth Cavendish's and Padma Parsell's teams. Entries: Mose Cavendish, Niko, Emily, Lance and Oscar.
 
 <!-- files:end -->
 

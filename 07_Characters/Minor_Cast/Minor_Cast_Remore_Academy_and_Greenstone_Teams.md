@@ -5,7 +5,7 @@ Spoiler level: 1
 Valid from: Book 1
 Valid through: Book 4
 Sources: Books 1-4 (chapter files)
-Related: ../Beth_Cavendish.md, ../Padma_Parsell.md, ../Dustin_Kettering.md, ../Rufus_Remore.md
+Related: ../Beth_Cavendish.md, ../Padma_Parsell.md, ../Dustin_Kettering.md, ../Rufus_Remore.md, ../Hudson_Kettering.md
 
 ## 1. Summary
 
@@ -16,10 +16,6 @@ The named members of Beth Cavendish's and Padma Parsell's teams.
 ### Mose Cavendish
 
 - Beth's cousin and teammate, who asks Jason questions about where he comes from (Book 1, Ch80 L5-48) and enters the Adventure Society looking flustered (Book 1, Ch83 L38). A bolt hits him in the Ustei fight (Book 1, Ch89 L72).
-
-### Hudson Kettering
-
-- A huge human, "Humphrey with twenty percent bonus person" (Book 1, Ch89 L54), front-liner who conjures stone hammers and shields (Book 1, Ch90 L12; Book 2, Ch30 L15). He is cousin of Dustin Kettering and the only defender who could match Jonah (Book 2, Ch15 L44). Humphrey finishes him in the Fallen Echoes fight (Book 2, Ch30 L4, L22).
 
 ### Niko
 

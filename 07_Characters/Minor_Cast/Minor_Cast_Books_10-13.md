@@ -5,18 +5,13 @@ Spoiler level: 3
 Valid from: Book 10
 Valid through: Book 13
 Sources: Books 10-13 (chapter files)
-Related: ../00_Characters_Overview.md, ../Allayeth.md, ../Jota_Withers.md, ../../05_Organisations/Earth_Powers.md
+Related: ../00_Characters_Overview.md, ../Allayeth.md, ../Jota_Withers.md, ../../05_Organisations/Earth_Powers.md, ../Beaufort_Builder_Cult_Commander.md, ../Durrum.md, ../Michael_Mills.md
 
 ## 1. Summary
 
 Minor figures of the Yaresh, Cardinas and return books with no file of their own.
 
 ## 2. Entries
-
-### Beaufort (Builder cult commander)
-
-- A gold-rank elf who heads the Cult of the Builder's forces, gave up his essence powers and is a semi-artificial monstrosity with a fifteen-foot metal skeleton war form (Book 10, Ch65 L30; Book 10, Ch69 L3-5).
-- He calls Jason "the Defier", allies with the brighthearts and Jason's expedition and leads the cultists in Book 11 (Book 10, Ch65 L39; Book 11, Ch23 L78; Book 11, Ch44 L39). He shares his name with Thadwick Mercer's father, but is not him (Book 10, Ch72 L41).
 
 ### Hils Jaramaris
 
@@ -46,10 +41,6 @@ Minor figures of the Yaresh, Cardinas and return books with no file of their own
 
 - The CIA director who briefs the international group on Pakistan and Jason (Book 13, Ch961 L59; Book 13, Ch967 L18-57).
 
-### General Michael Mills
-
-- A general who leads a Book 13 meeting and raises the idea that McKean siphons power from Jason's domains (Book 13, Ch1003 L3; Book 13, Ch1011 L41), and enters a later meeting in an EDJI service dress uniform (Book 13, Ch1020 L85).
-
 ### Finneus Gallow
 
 - A monster-core user from Gormanston's aristocratic faction, confronted by Marcus over who keeps Adventure Society membership after the messenger invasion (Book 10, Ch48 L15, L31, L41).
@@ -69,10 +60,6 @@ Minor figures of the Yaresh, Cardinas and return books with no file of their own
 ### Jali Corrik Fen
 
 - A silver-rank messenger, unhappy that she has been placed on the chopping block; she was "born" at her rank limit and is too unimportant to be caught between Jes Fin Kaal and Jason (Book 10, Ch51 L53-57). She fought during the attack on Yaresh and knows "the lesser races had members that weren't so lesser at all" (Book 10, Ch51 L60).
-
-### Durrum
-
-- A massive earth brightheart who leads his followers from the front and rivals Lorus; he hates the Builder cult but tries to reconcile the cult and the brighthearts (Book 11, Ch10 L8-14). Lorus's attack on the cult prompts Durrum to roar "Are you betraying us?" (Book 11, Ch10 L16).
 
 ### Barry Sinise
 

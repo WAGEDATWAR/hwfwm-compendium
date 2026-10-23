@@ -5,17 +5,13 @@ Spoiler level: 2
 Valid from: Book 7
 Valid through: Book 11
 Sources: Books 7, 8, 11 (chapter files)
-Related: ../Melody_Jain.md, ../../05_Organisations/Cults_and_Orders.md
+Related: ../Melody_Jain.md, ../../05_Organisations/Cults_and_Orders.md, ../Sendira.md
 
 ## 1. Summary
 
 The named members of Melody Jain's Sea of Storms contingent. Compare Melody's own file for the order's history.
 
 ## 2. Entries
-
-### Sendira
-
-- Melody's second in command and the person she trusts most, not the most imaginative subordinate (Book 7, Ch58 L38; Book 8, Ch9 L17; Book 8, Ch33 L15). She defends Melody against rivals (Book 8, Ch9 L50) and activates the aura beacon in the grab (Book 8, Ch13 L51; Book 8, Ch16 L86).
 
 ### Laront
 
