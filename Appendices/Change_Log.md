@@ -452,6 +452,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - New `05_Organisations/The_Network.md`: the federation structure (International Committee, branches, steering committees, divisions, tactical teams), spirit coin supply, categories and cores, the Grid and the concealed Saint-Étienne sector, going public as the GDN and the split into four blocs. Book 13 material is under level 3 tags. `Earth_Powers.md` points to it.
 - The plan's "committees (Mr North, Mrs West, Mr/Mrs East and South)" are the EOA's four cardinals, not Network committees; they belong with item 2B.3.
 
+**The Cabal, build plan item 2B.2 (2026-10-23)**
+- New `05_Organisations/The_Cabal.md`: nature and structure, the Book 5 to 6 growth, vampire rush and splintering, and the Book 10 to 13 schism, territory, Boris's leadership and the named vampire lords. Book 10 to 13 material is under level 3 tags. `Earth_Powers.md` and the Glossary point to it.
+- No individual files exist for Wassily, Klaus or Magdalyn; the text gives them little beyond their names (Book 6, Ch40 L18; Book 13, Ch1009 L81).
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

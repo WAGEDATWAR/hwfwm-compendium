@@ -103,7 +103,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 ## C
 
-**Cabal**: Earth's old magical society, with vampire members (Book 4, Ch11 L4-8; wiki). **[2]**
+**Cabal**: Earth's old magical society, with vampire members (Book 4, Ch11 L4-8; wiki); see The_Cabal.md. **[2]**
 
 **Category**: Earth's Network term for rank (0-5). **[2]**
 

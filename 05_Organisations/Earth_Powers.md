@@ -23,6 +23,8 @@ The full account is in `The_Network.md`; the notes below are the short form.
 
 ## 3. The Cabal
 
+See [The_Cabal.md](The_Cabal.md) for the full account.
+
 Vermillion, the Cabal's front man in Sydney in Book 4 (Ch10 L116), says "the Cabal is everywhere". Vermillion describes the Cabal as the oldest of Earth's three dominant magical forces, tied to the "old magic" of vampires and things older than history, with "a tight grip on old money literally since the invention of money" (Book 4, Ch11 L101; the three dominant forces, Book 4, Ch10 L127); its tier-four members have entered hibernation (Book 4, Ch11 L21). Messengers hid among its leaders: "even many amongst the Cabal had considered the angelic founders of their collective a myth" (Book 13, Ch954 L3-6). By Book 11 Elizabeth has taken over Venice and rules it among the vampire lords, who resent her policy of treating humans better and her warnings (Book 11, Ch68 L2256-2261, L2266); in Book 6 she keeps the peace among the vampire lords Wassily and Klaus and questions Jason about the changes (Book 6, Ch39 L71-74); Anna describes a new leader among the vampires who has separated from the Cabal, and Jason answers "I've met Elizabeth" (Book 6, Ch47 L27 to L28). Later the Cabal is said to have unambiguously split from the vampire lords and those who followed them (Book 11, Ch68 L1496). Vermillion has been a vampire for seventy years, which has brought him to the second tier (Book 4, Ch11 L19; the seventy years is not yet located). In Book 11 the Cabal holds some of the UK and Scandinavia and displaces Network factions in areas such as Russia, Africa, Sulawesi and Papua (Book 11, Ch42 L59-65).
 
 ## 4. The Engineers of Ascension (EOA)
