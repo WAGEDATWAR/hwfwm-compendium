@@ -13,7 +13,7 @@ Sophie's mother, who faked her death twenty years ago and leads the Order of Red
 
 ## 2. Facts
 
-- Faked her death twenty years before Book 6, using a wall panel in Marta Fries's house in Kurdansk (Book 6, Ch47 L510-513).
+- Faked her death twenty years before Book 6, using a wall panel in Marta Fries's house in Kurdansk (Book 6, Ch47 L510-513). Arabelle dates the start of the same story "around a quarter of a century ago" (Book 9, Ch27 L24); the two figures count different moments (the story's beginning, then the faked death) and are consistent.
 - "The leader of the enclave" of the Order with Sendira as second in command; she wants to lure her daughter to Rimaros (Book 7, Ch58 L38-46).
 - Leads the Order's local forces in the Sea of Storms (Book 8, Ch18 L3-6).
 - Sophie's mother Melody Jain is subjected to the mind-warping effects of the Order of Redemption (Book 9, Ch19 L3).

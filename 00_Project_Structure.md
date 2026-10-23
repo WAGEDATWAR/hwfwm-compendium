@@ -140,12 +140,12 @@ The original recommended order has been followed: the primer; the glossary and n
 The cited questions live in `Appendices/Open_Questions.md` (24 entries); unconfirmed claims live in `TODO_Verification.md`. The items below are the ones that shape how the project is written.
 
 - **Length of the Cardinas zone and Jason's soul battle (Book 11)** *(narrowed)*: about six to eleven months for the zone (Nik is "six months old" at Book 11, Ch50 L15; Gary is "almost a year" past the Cup of Heroes at Book 11, Ch68 L703); the Part II intervals (a year, almost a year, two years, two years) are on separate clocks. The earlier wiki-based nine-month and twelve-year figures are not asserted. See `08_History_and_Timeline/Book_11_Timeline.md` and Open_Questions 15.
-- **Gary's death timing**: "about a year" after the Cup of Heroes in the notes; confirm the exact wording (Book 11, Ch74).
-- **Clan hiding period (Book 12)**: described as "half a decade" in one place and "two years" in another.
+- **Gary's death timing** *(resolved)*: "Almost a year later" after he became a demigod (Book 11, Ch68 L703); Book 11 has no Ch74.
+- **Clan hiding period** *(resolved)*: "two years" (Book 11, Ch68 L2260) and "half a decade" (Book 12, Ch1 L93) are snapshots at different dates; see the Master Timeline, section 7.
 - **Jason's father**: Ken Asano (not Hiro); Hiro is an uncle and Shiro another uncle.
 - **Zara and the Storm King** *(resolved)*: Emiliano is her brother and also her adoptive cousin; both statements are accurate.
 - **Spelling variants**: see section 7.
-- **Soul forge**: Jason's realm lacks one until the Book 11 reintegration, although Book 8 and Book 12 appendices list soul forge among the Relics of the King.
+- **Soul forge** *(resolved)*: Jason's realm lacks one until the Book 11 reintegration (Book 10, Ch53 L17), and the Relics of the King gift gives access to the astral throne, astral gate and soul forge only "to limited degrees" (Book 12, Ch67 L198), so the appendix lists do not conflict.
 - **Book 12 present** *(narrowed)*: the roundings of "fifteen", "seventeen" and "almost twenty" years fit a Pallimustus tour in late 2037 to early 2038, with the Earth arrival and Book 13 in 2038 ("seventeen years" and Jason's forty-four years, Book 12, Ch67 L65, L113); see Open_Questions 18 and `08_History_and_Timeline/Master_Timeline.md`, section 12.
 - **Wiki timeline errors**: Asano Village timing (the text says about six months of building), the surge delay (five years, not fifteen), and the Book 5-6 month counts, which do not fit the seasonal cues; see the Master Timeline.
 - **Butterflies of Makassar** *(resolved)*: the name news broadcasts give to the public spectacle of Gordon's Harbinger of Doom swarm over the Makassar undead (Book 5).

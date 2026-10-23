@@ -220,7 +220,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch10 | Star Seed | Adventure_Society L16; Jonah_Geller L26-50; Plot_Hooks L26-50; Book_02_Timeline L51, L62; Open_Questions L51; Greenstone L92; Anisa_Lasalle L92, L102; NPC_Rosters_by_Era L92 | 10 |
 | Ch11 | It’s About How You Use It | Book_02_Timeline L3; Jason_Asano L41 | 2 |
 | Ch12 | We End Here | Belinda_Callahan L6; Book_02_Timeline L82, L88, L102 | 4 |
-| Ch13 | Poison Pill | Book_02_Timeline L8, L60, L95, L128; Neil_Davone L19; Tokens_Stones_and_Relics L57, L60, L76-78; Gods_and_Churches L60, L103; 00_Items_Overview L60; Awakening_Stones L60; Awakening_Stones L60-62, L70, L71-76, L76-78, L83-85, L96 …; 00_Magic_Overview L60-90 … | 21 |
+| Ch13 | Poison Pill | Book_02_Timeline L8, L60, L95, L128; Neil_Davone L19; Tokens_Stones_and_Relics L57, L60, L62, L66, L76-78; Gods_and_Churches L60, L103; 00_Items_Overview L60; Awakening_Stones L60; Awakening_Stones L60-62, L62, L66, L70, L71-76, L76-78 …; 00_Magic_Overview L60-90 … | 27 |
 | Ch14 | Let’s Just Fight Monsters | Hornis L16, L116; Book_02_Timeline L20, L35; Jason_Asano L35; Jonah_Geller L116 | 6 |
 | Ch15 | Damage You Shouldn’t Walk Away From | Hornis L25; Minor_Cast_Books_1-3 L27; Book_02_Timeline L29; Adventuring_Profession L38; Dustin_Kettering L44; Minor_Cast_Remore_Academy_and_Greenstone_Teams L44 | 6 |
 | Ch16 | Picking Out the Good Ones | Book_02_Timeline L75 | 1 |
@@ -424,7 +424,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch62 | A Lot of Anomalies | Incursion_Sites L23; Book_04_Timeline L83 | 2 |
 | Ch63 | Pitch Meetings | Book_04_Timeline L8, L25; NPC_Rosters_by_Era L25; Li_Li_Mei L25-28 | 4 |
 | Ch64 | Moving Forward | Confluences L57, L70; Essence_Catalogue L70; Book_04_Timeline L80, L82 | 5 |
-| Ch65 | Flemish Baroque | Confluences L22, L28, L29; Essence_Catalogue L22-27, L27, L28; Book_04_Timeline L84 | 7 |
+| Ch65 | Flemish Baroque | Confluences L22, L28, L29; Glossary L22, L28; Essence_Catalogue L22-27, L27, L28; Book_04_Timeline L84 | 9 |
 | Ch66 | Not Ready to Leave | Book_04_Timeline L82 | 1 |
 | Ch67 | Decision | Book_04_Timeline L27 | 1 |
 | Ch68 | What You Have to Do | Book_04_Timeline L59, L139, L170; Earth_Magic L59-61, L63-65; 01_World_Primer L79, L97, L131-135 | 8 |
@@ -557,7 +557,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch44 | The Very Opposite of Fantastical | Book_06_Timeline L4; Saint-Etienne L25-31; Open_Questions L25-31 | 3 |
 | Ch45 | Small Mercies | Saint-Etienne L3; Book_06_Timeline L34; Elizabeth L39-40 | 3 |
 | Ch46 | Salus Mundi Suprema Lex Esto | Saint-Etienne L31; Book_06_Timeline L31, L53, L81, L104 | 5 |
-| Ch47 | Something Other Than Human | 01_World_Primer L3, L390, L623, L703; Book_06_Timeline L3, L4, L5, L14, L16, L93 …; Master_Timeline L4, L155; Anna_Tilden L16-18; Earth_Powers L27; Adrien_Barbou L46; Hiro_Asano L53; Yumi_Asano L58 … | 114 |
+| Ch47 | Something Other Than Human | 01_World_Primer L3, L390, L623, L703; Book_06_Timeline L3, L4, L5, L14, L16, L93 …; Master_Timeline L4, L155; Anna_Tilden L16-18; Earth_Powers L27; Adrien_Barbou L46; Hiro_Asano L53; Yumi_Asano L58 … | 117 |
 
 ### Book 7
 
@@ -605,7 +605,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch40 | An Object Lesson in Foolish Risks | Rimaros L4; Book_07_Timeline L7, L9; Alchemy_Artifice_and_Magical_Materials L54 | 4 |
 | Ch41 | Murky Waters | Kasper_Irios L3, L11-12, L26, L40-41; Book_07_Timeline L3, L73; NPC_Rosters_by_Era L3; Palisaros L61 | 8 |
 | Ch42 | Integrity is Forever | Book_07_Timeline L29, L92; Minor_Cast_Books_7-9 L61 | 3 |
-| Ch43 | How Deep a Hole | Vitesse L18, L58; Rimaros L47; Minor_Cast_Books_7-9 L47; Estercost_Culture L58; Cyrion L58; Open_Questions L58; Danielle_Geller L61, L61-62; Book_07_Timeline L62, L84 | 11 |
+| Ch43 | How Deep a Hole | Vitesse L18, L58; Rimaros L47; Minor_Cast_Books_7-9 L47; Estercost_Culture L58; Cyrion L58; Glossary L58; Open_Questions L58; Danielle_Geller L61, L61-62 … | 12 |
 | Ch44 | The Part That Knows How to Quit | Adventuring_Profession L7; Book_07_Timeline L23, L30; Amos_Pensinata L30; Travis_Noble L61-62 | 5 |
 | Ch45 | Bad Apples | NPC_Rosters_by_Era L54; Book_07_Timeline L61 | 2 |
 | Ch46 | Idiot Plan | Book_07_Timeline L19, L40; Trenchant_Moore L81 | 3 |
@@ -732,7 +732,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch24 | A Chance For Some Relative Quiet | Book_09_Timeline L30, L44, L49; Amos_Pensinata L35; Orin_Pensinata L35, L49; Master_Timeline L44; Korinne_Pescos L49-52 | 8 |
 | Ch25 | Surplus to Requirements | 00_Places_Overview L4; Hornis L4; Book_09_Timeline L4; Korinne_Pescos L31-63, L58; Orin_Pensinata L79 | 6 |
 | Ch26 | Bad at Crime | Girlano L3; Book_09_Timeline L26, L64; Master_Timeline L26 | 4 |
-| Ch27 | An Evil God Sitting on Her Shoulder | Kurdansk_Culture L24; Kurdansk L24-26; Book_09_Timeline L26, L63; Callum_Morse L63, L91 | 6 |
+| Ch27 | An Evil God Sitting on Her Shoulder | Kurdansk_Culture L24; Melody_Jain L24; Glossary L24; Kurdansk L24-26; Book_09_Timeline L26, L63; Callum_Morse L63, L91 | 8 |
 | Ch28 | A Responsibility as Much as a Privilege | Book_09_Timeline L31, L45, L108; Cults_and_Orders L45; Minor_Cast_Books_7-9 L45; Orin_Pensinata L87-112 | 6 |
 | Ch29 | Fighting the Power | Book_09_Timeline L13, L14; 00_Places_Overview L17; Cartise L17-18, L18-19 | 5 |
 | Ch30 | Make Jason Great Again | Book_09_Timeline L27, L119; Cartise L59 | 3 |
@@ -970,14 +970,14 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch65 | A Power That No One and Nothing Should Have | 01_World_Primer L8; Book_11_Timeline L8, L34; Master_Timeline L8; 00_Cosmology_Overview L55, L57-58, L75; Great_Astral_Beings L55, L57-59, L75; Raythe L55; Open_Questions L75 | 12 |
 | Ch66 | Party to Betrayal | Book_11_Timeline L22, L89; Open_Questions L95 | 3 |
 | Ch67 | Farewells | Book_11_Timeline L5; Gods_and_Churches L6; Carlos_Quilido L6; Open_Questions L9; Nik_Asano L19; Gwydion_Remore L20 | 6 |
-| Ch68 | Compassionate Strangers | Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918; Open_Questions L115, L159, L703, L707-709, L782, L1580; Great_Astral_Beings L171-175, L707-709, L1793-1795, L2209, L2209-2214, L2526 …; Boris_Ket_Lundi L305, L481, L493-498; Taika L305; Carlos_Quilido L367; Amos_Pensinata L378 … | 127 |
+| Ch68 | Compassionate Strangers | Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Great_Astral_Beings L171-175, L707-709, L1793-1795, L2209, L2209-2214, L2526 …; Boris_Ket_Lundi L305, L481, L493-498; Taika L305; Carlos_Quilido L367; Amos_Pensinata L378 … | 129 |
 
 ### Book 12
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
 | Ch0 | Don’t Tell Humphrey | Zara_Rimaros L14; Book_12_Timeline L19 | 2 |
-| Ch1 | Why He Hasn’t | Raythe L5-11; Book_12_Timeline L10, L53; Great_Astral_Beings L26; 01_World_Primer L34, L36; Anna_Tilden L36, L80; Miles_Cotezee L53; Magic_Society_and_Associations L55-57, L55-59, L57, L58, L76; Gods_and_Churches L58 … | 18 |
+| Ch1 | Why He Hasn’t | Raythe L5-11; Book_12_Timeline L10, L53; Great_Astral_Beings L26; 01_World_Primer L34, L36; Anna_Tilden L36, L80; Miles_Cotezee L53; Magic_Society_and_Associations L55-57, L55-59, L57, L58, L76; Gods_and_Churches L58 … | 19 |
 | Ch2 | If We Can’t Change For the Better | Book_12_Timeline L7, L107; Raythe L9; Miles_Cotezee L50; Yumi_Asano L92; Master_Timeline L107; Spoiler_Management L107; Open_Questions L107 | 8 |
 | Ch3 | We’re All Stuck in a Hole | Book_12_Timeline L3, L5, L7, L13, L82; Earth_Powers L3-8; Nigel_Thornton L3-8; Anna_Tilden L7 | 8 |
 | Ch4 | A Silent City | Book_12_Timeline L3, L14, L28, L40, L49; Saint-Etienne L20, L41 | 7 |
@@ -1035,7 +1035,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch56 | The End of What Can Be Productively Achieved Here | Artefact_Site_One L3-4, L124; Open_Questions L3-4; 01_World_Primer L4; Book_12_Timeline L117; Magic_Society_and_Associations L119; Lorelei_Grantham L119 | 7 |
 | Ch57 | Someone Got Sucked Off | 00_Cosmology_Overview L3; 00_Astral_Overview L3; Jota_Withers L3, L7-12, L14; Book_12_Timeline L3, L7, L22, L24, L36, L58; Era_Selection L3; NPC_Rosters_by_Era L3; Plot_Hooks L12 | 14 |
 | Ch58 | A City With No Dawn | Gabrielle_Pellin L41; Book_12_Timeline L41; Name_Index L41; Emi_Evans_Asano L49 | 4 |
-| Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Essence_Catalogue L9 | 10 |
+| Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Master_Timeline L5; Glossary L5; Essence_Catalogue L9 | 12 |
 | Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93 | 6 |
 | Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21 | 20 |
 | Ch62 | It Sets a Tone | Book_12_Timeline L3, L4, L51, L98, L101, L117; Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28; Artefact_Site_One L45, L53 | 12 |

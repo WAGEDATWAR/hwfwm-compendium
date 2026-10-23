@@ -399,6 +399,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Still open: 7 stays resolved; 13 (a figure for Vitesse's magic; more context added); 22 is rewritten as a recorded inconsistency, because Book 6 (Ch47 L604) puts the council in Vitesse and Book 7 (Ch43 L58) puts it in Cyrion; the compendium avoids naming a city. This feeds build plan item 1.6.
 - `Book_13_Timeline.md` and `Master_Timeline.md` now cite the Ch995 line instead of the open note.
 
+**Shorter-term inconsistencies ruled on, build plan item 1.6 (2026-10-22)**
+- Added a "Text inconsistencies and rulings" table to the Glossary's variants section: the Garuda route (one change of plan, Book 4, Ch65 L22 and L28), the Inevitability stone's two ability names (use Inevitable Demise; the effect line says Inescapable Doom), Melody Jain's quarter century against two decades (different moments), the clan's hiding period (two years, half a decade and more than a decade are snapshots at different dates) and the continental council's seat (a true inconsistency: Vitesse, Rakesh or Cyrion; do not name a city).
+- One-line rulings added in `Confluences.md`, `Awakening_Stones.md`, `Tokens_Stones_and_Relics.md`, `Melody_Jain.md` and `Master_Timeline.md`. Hendren/Hedron and the two Beauforts were already in the variants tables.
+- `00_Project_Structure.md` section 9: Gary's death timing ("almost a year later", Book 11, Ch68 L703; Book 11 has no Ch74), the clan hiding period and the soul forge listing are marked resolved.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

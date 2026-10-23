@@ -56,7 +56,7 @@ The known pairings of essences and confluences, with sources, are in the table. 
 | Onslaught | might, swift, hand | a silver-rank crew member (Book 5, Ch7 L16) |
 | Onslaught | might, potent, swift | Thalia Mercer (Book 2, Ch59 L83) |
 | Dragon | might, wing | Humphrey Geller (Book 4, Ch65 L28; Book 9, Ch33 L15) |
-| Garuda | might, swift, bird; or might, wing | Taika (Book 4, Ch65 L22, L28; Book 9, Ch78 L107) |
+| Garuda | might, swift, bird (Taika's first choice); might, swift, wing (what Jason traded for) | Taika (Book 4, Ch65 L22, L28; Book 9, Ch78 L107). The two passages are one change of plan, not a contradiction |
 | Time | (not stated) | Danielle Geller (Book 6, Ch14 L79) |
 | Bounty | feast, knife, dance | Erika (Book 4, Ch69 L102, L106) |
 | Ministration | (not stated) | Ian Evans (Book 4, Ch71 L30) |

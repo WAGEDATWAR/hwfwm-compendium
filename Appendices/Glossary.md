@@ -508,6 +508,16 @@ The text itself is inconsistent in places. This section records each variant onc
 | Darryl | Darryl Caruthers of the Vane estate (a High Priest Darryl lies dead in Book 1, Ch13 L3) and the Book 12-13 Earthling; not shown to be the same | Book 1, Ch11 L73; Book 12, Ch53 L62 |
 | Amos / Orin Pensinata | uncle and nephew, not variants of one name | Book 7, Ch47 L39 |
 
+### Text inconsistencies and rulings
+
+| Item | The two readings | Ruling |
+|---|---|---|
+| Taika's garuda route | might, swift, bird (Book 4, Ch65 L22) against might, swift, wing (Book 4, Ch65 L28) | One change of plan: Jason traded for the wing essence. Not a contradiction |
+| The Inevitability stone's ability | [Inescapable Doom] (Book 2, Ch13 L62) against [Inevitable Demise] (Book 2, Ch13 L66) | Use Inevitable Demise; treat Inescapable Doom as a variant |
+| Melody Jain's dates | "a quarter of a century ago" (Book 9, Ch27 L24) against two decades (Book 6, Ch47 L510) | Different moments of one story; consistent |
+| The clan's hiding | two years (Book 11, Ch68 L2260), half a decade (Book 12, Ch1 L93), more than a decade (Book 12, Ch59 L5) | Snapshots at different dates |
+| Seat of the Adventure Society's continental council | Vitesse (Book 6, Ch47 L604), Rakesh (Book 6, Ch47 L623), Cyrion (Book 7, Ch43 L58) | An inconsistency in the text; do not name a city (Open_Questions 22) |
+
 ### Not variants
 
 - **Culie**: Elseth Culie is a surname (Book 9, Ch89 L43), not a spelling of Clive.
