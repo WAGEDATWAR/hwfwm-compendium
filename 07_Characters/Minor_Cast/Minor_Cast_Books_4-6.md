@@ -66,6 +66,11 @@ Minor Network, government and Earth figures of the Earth books that have no file
 - He is still with the team in Book 12, steering a conversation back on topic (Book 12, Ch3 L38), and in Book 13 calls "CONTACT!" as the squad guards Itsuki (Book 13, Ch1007 L39).
 <!-- /level -->
 
+### Franklin
+
+- A peaceful Cabal vampire who "did not share the ambitions of many others in the Cabal" and spends as little time in the transformation zone as his role requires (Book 5, Ch57 L12). He declined Craig Vermillion's invitation to leave and bitterly regrets it (Book 5, Ch57 L14-15).
+- He later fights beside Vermillion as a bronze-rank vampire (Book 5, Ch64 L68).
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

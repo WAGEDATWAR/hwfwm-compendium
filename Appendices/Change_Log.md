@@ -528,6 +528,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Calendar, holidays and naming customs, build plan item 2D.5 (2026-10-23)**
 - New `04_Peoples_and_Cultures/Calendar_Holidays_and_Naming_Customs.md`: the twelve-month calendar, five extra days and six-day week, the "super-simple" day names (only Fifthday and Fourthday appear), Rimaros palindromic names (Book 7, Ch18 L42), mononyms, forms of address with cites. The text names no Pallimustus religious holiday in the lines read; festivals are in `Clothing_Food_Festivals_and_Transport_by_Region.md`.
 
+**Unfiled Name_Index entries, build plan item 2E.1 (2026-10-23)**
+- Entries added to the Minor_Cast group files: Books 1-3 (Arash, Dink, Hiram, Ketis, Tabitha Gert, Crivens, Adam Cosgrove), Books 4-6 (Franklin), Books 7-9 (Argrave Mericulato, Haliastur, Dara Rimaros), Books 10-13 (Calcifer Bynes, Jali Corrik Fen, Durrum, Barry Sinise, Brian, Cassie, Daryll, Delia DeWitt, Fiorella, Jamar, Koa, Vandrick Macarro, Ben Headingway). `Mr_North.md` already carries the Noreth alias in its title.
+- Corrections noted: the Name_Index calls Arash a juice vendor and Haliastur the Garuda, but the lines read show Arash as a runic man in the temple district and do not link Haliastur to Taika's confluence; the entries say so. Franklin is a peaceful Cabal vampire who regrets not following Vermillion, not a manservant.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

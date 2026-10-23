@@ -73,6 +73,19 @@ Minor Storm Kingdom, Rimaros society and Purity-order figures with no file of th
 
 - A tournament duellist of House de Varco and sometime adventurer, well known in the mirage arenas (Book 9, Ch15 L14), who is touchy about being called a coward (Book 9, Ch15 L53, L67).
 
+### Argrave Mericulato
+
+- An arrogant silver-team member who announces "I am Argrave Mericulato, son of Ramon Mericulato. You think you can talk to me like that?" and storms out when Jason suppresses his aura (Book 7, Ch30 L5-17).
+- In Book 9 an Adventure Society functionary of that name pushes a food trolley in the secure residence building, hiding "seething anger" at his menial work behind an aura mask (Book 9, Ch77 L13).
+
+### Haliastur
+
+- A man who introduces himself in a rumbling voice and sees through Jason at once; he says "the most powerful in any given region are relatively few in number and immortal, so we all meet eventually" and that Shade can guide Jason to Interstice once he reaches diamond (Book 9, Ch78 L11-25). The Name_Index calls him the Garuda; the lines read do not state a link to Taika's garuda confluence.
+
+### Dara Rimaros
+
+- Liara and Baseph's eldest child, a one-star adventurer happy to hunt monsters, with Liara's height, Baseph's dark copper hair and eyes and a muscular frontline build (Book 8, Ch62 L39). Her later remark about "the one from up north" with the elf twins refers to Rick (Book 9, Ch11 L60). See Baseph_and_the_Rimaros_Children.md.
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

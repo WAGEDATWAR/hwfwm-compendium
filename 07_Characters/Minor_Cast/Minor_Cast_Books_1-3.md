@@ -65,6 +65,40 @@ Recurring minor figures of the Greenstone books that have no file of their own.
 
 - A guardian-type who conjures heavy armour and a huge shield, added to a party with Jory in the Reaper trials (Book 2, Ch46 L42) and then to Jason's party (Book 2, Ch53 L64).
 
+### Arash
+
+- A short, stocky runic man, blue-black skin with glowing markings, whom Jason asks about the temples of the Divine Square; he explains "Dominion issues the divine right to kings and nobles" (Book 1, Ch45 L14-18). When Hero appears he drops to his knees and drags at Jason's sleeve to make him kneel (Book 1, Ch45 L35-45).
+- In Book 12 an Arash, whose nephew Jamar is a bartender, has "never been further than Hornis, down south" (Book 12, Ch38 L49, L61). The Name_Index calls the Book 1 Arash a juice vendor; the lines read do not show that.
+
+### Dink
+
+- An Old City thug who tries to beat Jason, certain he is weak: "that Geller lady set up a fight so you could beat all her fancy trainees... the whole thing was rigged, and really you're weak" (Book 1, Ch71 L25). One of his companions doubts him after feeling Jason's aura (Book 1, Ch71 L16, L23).
+
+### Hiram
+
+- A man "of late-middle years", shorter than Jason with a barrel chest and ropy muscle, who watches the aperture that is the source of the waterfall and guides Jason up the track (Book 1, Ch26 L4-5, L12). He has a might essence that "makes me strong" (Book 1, Ch27 L15).
+
+### Ketis
+
+- Emir Bahadir's granddaughter, the child of his dead son; she was raised by her grandmother, "not a woman of means", and never sought Emir out for money (Book 2, Ch64 L151). Emir greets her warmly (Book 2, Ch32 L41) and says she will "get the best of everything" (Book 2, Ch64 L152).
+- Arabelle says she got her essences so young she has been waiting longer than most to go out into the world: "She's full of rebellious ideas" (Book 3, Ch69 L477).
+
+### Tabitha Gert
+
+- A stern Adventure Society official, plain in dress apart from her black Adventure Society pin, who leads the inquiry team into the Greenstone events (Book 2, Ch10 L16). She is the de facto head of the Society while the inquiry lasts and chairs the meeting on the Builder cult's next moves (Book 2, Ch36 L19-25).
+
+### Crivens
+
+- The Mercer family butler, in "uncharacteristic panic" when Thadwick is missed (Book 2, Ch59 L15). Thalia has him gather the team tracking Thadwick (Book 2, Ch59 L35-36).
+
+### Adam Cosgrove
+
+- A thirty-one-year-old Melbourne detective sergeant who "looked like a detective from a TV show", investigating the missing chunk of Jason's apartment building (Book 3, Ch69 L602-606). A woman with a swelling presence offers him the answers: "come work for us" (Book 3, Ch69 L696-700).
+
+<!-- level:2 -->
+- By Book 6 he is "a former detective and a former EOA member", an ordinary man among powerful company (Book 6, Ch24 L87; Book 6, Ch25 L18-21).
+<!-- /level -->
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.

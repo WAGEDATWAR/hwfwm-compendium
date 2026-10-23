@@ -62,6 +62,58 @@ Minor figures of the Yaresh, Cardinas and return books with no file of their own
 
 - A gold-rank messenger in the Cardinas zone alongside Galis Jay Vahal (Book 11, Ch6 L50). Belinda's hidden circle leaves her badly hurt (Book 11, Ch14 L10, L20).
 
+### Calcifer Bynes
+
+- Director of the Office of External Affairs in Yaresh, who insists on being addressed "Lord Bynes" at all times (Book 10, Ch12 L11-14). Arabelle pointedly invites him through a portal to see messengers for himself (Book 10, Ch12 L24-25); Allayeth says he lacks the perception his rank should give (Book 10, Ch12 L26).
+
+### Jali Corrik Fen
+
+- A silver-rank messenger, unhappy that she has been placed on the chopping block; she was "born" at her rank limit and is too unimportant to be caught between Jes Fin Kaal and Jason (Book 10, Ch51 L53-57). She fought during the attack on Yaresh and knows "the lesser races had members that weren't so lesser at all" (Book 10, Ch51 L60).
+
+### Durrum
+
+- A massive earth brightheart who leads his followers from the front and rivals Lorus; he hates the Builder cult but tries to reconcile the cult and the brighthearts (Book 11, Ch10 L8-14). Lorus's attack on the cult prompts Durrum to roar "Are you betraying us?" (Book 11, Ch10 L16).
+
+### Barry Sinise
+
+- Deputy to Lenora Coleman at the Australian artefact site; he phones the Minister for Supernatural Affairs from the Asano Circle's monitoring station (Book 11, Ch68 L439) and appears as deputy director in Book 12 and Book 13 (Book 12, Ch62 L64; Book 13, Ch989 L50).
+
+### Brian (priest of Dominion)
+
+- A priest of Dominion who greets Ben Headingway, leads him into a plain tent with an altar and kneeling mats, and explains that his church does not venerate power itself, "but the establishment of power over others" (Book 12, Ch52 L50-62, L72). See the Church of Dominion file.
+
+### Cassie
+
+- A new, competent and frazzled assistant to Lenora and Barry at the artefact site (Book 12, Ch61 L103-104; Book 12, Ch62 L45).
+
+### Daryll (Darryl)
+
+- A troll were-crocodile from the rainforests of Far North Queensland and the only Earth outworlder who is not an essence user; he is aligned with the Cabal (Book 12, Ch53 L58-63). He grows more powerful naturally and wants to be near Asano and his team (Book 12, Ch53 L61-62). In Book 13 he is in the Cabal contingent led by Boris, with Koa (Book 13, Ch1016 L110-113). Compare the cultist Darryl in Minor_Cast_Books_1-3.md.
+
+### Delia DeWitt
+
+- A young silver Welsh adventurer with the Global Defence Network, whose childhood hero was the man she saw fighting monsters on television (Book 13, Ch989 L3-5). Her set is Gun, Swift, Trap and Skirmish, built around laying traps (Book 13, Ch989 L9), and she holds a stand while her team runs (Book 13, Ch989 L12, L90). Jason later gives her a System window for her soul and the title Resolute (Book 13, Ch990 L66-70).
+
+### Fiorella
+
+- A brightheart militia member in Rexion who enjoys portal duty, "the most coveted posting in the militia" (Book 12, Ch6 L23). Her aura senses are a little stronger than most brighthearts', and she joins the militia after feeling a protection go away, though she has little talent for combat (Book 12, Ch6 L29-30).
+
+### Jamar
+
+- The young bartender on Jason's cloud ship, Arash's nephew; Jason warns him the job will be "danger adjacent" and pays him well for discretion (Book 12, Ch38 L49, L61; Book 12, Ch43 L16, L31-34).
+
+### Koa
+
+- A Māori Earth refugee, a friend of Darryl, who rides a stormspire drake and has the Absorb Electricity power; he offers Jason a lift: "Can you fly, or will you need a piggyback or something?" (Book 12, Ch53 L81; Book 12, Ch54 L3-6; Book 13, Ch1016 L110).
+
+### Vandrick Macarro
+
+- A diamond-rank arbiter who arrives at Jason's cloud palace and feels threatened by it for the first time in a long time; he tells Jason "you may call me Van" (Book 12, Ch51 L3-23).
+
+### Ben Headingway
+
+- The top gold-ranker of House Headingway, who speaks for the noble houses of Cyrion (Book 12, Ch52 L6, L49; Book 12, Ch53 L8). See House_Headingway.md.
+
 ## 3. Using this in a story
 
 These are minor figures: give each one only the facts above. A character with more scenes belongs in its own file in `../`.
