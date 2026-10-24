@@ -20,7 +20,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 
 - [Adrien Barbou](Adrien_Barbou.md) (spoiler level 2): The Network's Lyon Operations Director, who imprisons Farrah in the dimensional fortress, rises to be the second "Mr East" and later follows Gerling.
 - [Adris Dorgan](Adris_Dorgan.md) (spoiler level 1): A crime lord of Old City who seeks legitimacy.
-- [Akari Asano](Akari_Asano.md) (spoiler level 1): A silver-rank swordmaster of the Japanese Asano clan who comes to Asano Village in Book 5.
+- [Akari Asano](Akari_Asano.md) (spoiler level 3): Akari Asano is a silver-rank swordswoman of the Japanese Asano clan, daughter of its patriarch, who is sent to Asano Village in Book 5.
 - [Allayeth](Allayeth.md) (spoiler level 3): Allayeth is one of Yaresh's two diamond-rank elves, the more reclusive of the pair.
 - [Amos Pensinata](Amos_Pensinata.md) (spoiler level 2): A gold-rank adventurer with a soul-damaged aura who teaches Jason aura and soul techniques and is lost to an orb in Cardinas.
 - [Amy Asano](Amy_Asano.md) (spoiler level 1): Kaito's wife and Jason's childhood best friend from next door.
@@ -62,9 +62,9 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Fal Vin Garath](Fal_Vin_Garath.md) (spoiler level 2): A silver-rank messenger master who is abusive but within the bounds his peers accept.
 - [The Familiars: Shade, Colin, Gordon and Stash](Familiars.md) (spoiler level 0): A familiar is a purely magical creature from the deep astral given a body by a summoning (Clive, Book 1, Ch69 L85-107).
 - [Farrah Hurin](Farrah_Hurin.md) (spoiler level 0): Farrah Hurin (also spelt Huren) is a small, pale, strawberry-blonde ritual magician from Vitesse.
-- [Gabriel Remore](Gabriel_Remore.md) (spoiler level 1): Rufus's father, a strong adventurer who is among the first to answer when Jason's team is in trouble.
-- [Gabrielle Pellin](Gabrielle_Pellin.md) (spoiler level 0): An acolyte of Knowledge who is Humphrey's girlfriend and later a priestess.
-- [Garth Larosse](Garth_Larosse.md) (spoiler level 3): The High Priest of Undeath, a nine-foot skeletal undead built from the skeletons of a dozen monsters.
+- [Gabriel Remore](Gabriel_Remore.md) (spoiler level 3): Gabriel Remore is Rufus's father, a gold-rank fire-and-sword adventurer and academy teacher who reforms his old team with Emir and Arabelle when Jason needs...
+- [Gabrielle Pellin](Gabrielle_Pellin.md) (spoiler level 3): Gabrielle Pellin is an acolyte of Knowledge who begins as Humphrey's girlfriend, becomes a stern and strikingly beautiful priestess, and ends as Travis...
+- [Garth Larosse](Garth_Larosse.md) (spoiler level 3): Garth Larosse is the High Priest of Undeath, a nine-foot skeletal undead built from the skeletons of a dozen monsters, who leads the undead host against...
 - [Gary (Gareth Xandier) and Gary Sharpton](Gary.md) (spoiler level 0): Gareth "Gary" Xandier is an enormous leonid smith and warrior from Vitesse.
 - [Gerling (Jack Gerling)](Gerling.md) (spoiler level 3): Jack Gerling is a US Network category-four (gold-rank) essence user with an explosion-based power set, who kills Jason's brother, lover and best friend in...
 - [Gilbert Bertinelli](Gilbert_Bertinelli.md) (spoiler level 0): A Greenstone tailor who sells Jason his combat robe and later suits.
@@ -110,7 +110,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Lorus](Lorus.md) (spoiler level 3): Lorus is a fire-aspect brightheart who claims a territory in the unified battlefield and wants all the power.
 - [Lucian Lamprey](Lucian_Lamprey.md) (spoiler level 0): The corrupt director of Greenstone's Magic Society branch.
 - [Marcus Hargrave Xenoria](Marcus_Hargrave_Xenoria.md) (spoiler level 2): A massive leonid troubleshooter for the Adventure Society's continental council, sent to Yaresh to break the aristocrats' hold and an ally of Jason there.
-- [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 2): A messenger who leads the breach force over Yaresh's entertainment district and later a free messenger.
+- [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 3): Marek Nior Vargas is a gold-rank messenger commander who leads the breach force over Yaresh's entertainment district in Book 9.
 - [Marie Finnegan](Marie_Finnegan.md) (spoiler level 3): The expelled director of the Zurich Network branch who ran a secret programme working with Elizabeth and Simon McKean.
 - [Marla](Marla.md) (spoiler level 3): A fire-aspect brightheart who commands the brightheart military defending Cardinas.
 - [Melody Jain](Melody_Jain.md) (spoiler level 3): Melody Jain is Sophie's mother, who faked her death twenty years before Book 6 and then led the Order of Redeeming Light in the Storm Kingdom, brainwashed...
@@ -141,7 +141,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Sigrid Freyn (Volaire)](Sigrid_Freyn.md) (spoiler level 1): A celestine healer and the leader of Valdis's team, who becomes his wife.
 - [Simon McKean](Simon_McKean.md) (spoiler level 3): The head of the Earth researchers in the Network's grid workgroup, who becomes Jason's final enemy on Earth.
 - [Sophie Wexler](Sophie_Wexler.md) (spoiler level 0): Sophie Wexler is a celestine fighter known as the Nightingale in the Greenstone fighting pits.
-- [Soramir](Soramir.md) (spoiler level 2): A palindromically named Rimaros royal.
+- [Soramir (Soramir Rimaros)](Soramir.md) (spoiler level 3): Soramir Rimaros is the founder of the Rimaros royal house, a diamond-rank ruler with a palindromic name, who guides Jason through the Builder crisis.
 - [Taika (Taika Williams)](Taika.md) (spoiler level 3): Taika is a huge Māori man who works for Hiro Asano, befriends Jason on his return to Earth and becomes one of the Asano clan's core fighters.
 - [Tera Jun Casta](Tera_Jun_Casta.md) (spoiler level 2): A branded messenger who challenges Jason to a duel and later has her seal removed.
 - [Thadwick Mercer](Thadwick_Mercer.md) (spoiler level 3): Thadwick Mercer is the arrogant heir of House Mercer, who torments his two "offsiders" Neil and Dustin, feuds with Jason, takes a Builder star seed and...
@@ -158,7 +158,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Yumi Asano](Yumi_Asano.md) (spoiler level 1): Jason's paternal grandmother and the matriarch of the Asano clan.
 - [Zara Rimaros (Zara Nareen)](Zara_Rimaros.md) (spoiler level 1): Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess".
 - [Zareen Rimaros](Zareen_Rimaros.md) (spoiler level 3): Zareen Rimaros is Liara and Baseph's middle child: a three-star adventurer and political enthusiast with the royal family's sapphire hair and eyes.
-- [Zato](Zato.md) (spoiler level 1): The last silver-ranker of the Builder cult's local forces, who leads its survivors to the Vane Estate.
+- [Zato](Zato.md) (spoiler level 1): Zato is the silver-rank leader of the Builder cult's local forces in Book 3, a metal-bodied shapeshifter who recruits Thadwick, drives the cult's survivors...
 - [Zithis Carrow Vayel](Zithis_Carrow_Vayel.md) (spoiler level 3): The messenger recruited as a sixteen-year-old diamond-ranker to become the new Builder, named on the Fundamental Realm Authority Token Jason loots.
 
 **Familiars/**
