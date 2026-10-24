@@ -13,7 +13,7 @@ Farrah Hurin (also spelt Huren) is a small, pale, strawberry-blonde ritual magic
 
 ## 2. Appearance
 
-Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage (Book 1, Ch12 L11). Physically small but "prodigiously strong": she hauls the standing stones into place in Book 7 (Book 7, Ch1 L16).
+Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage (Book 1, Ch12 L11). Physically small but of "prodigious strength": she hauls the standing stones into place in Book 7 (Book 7, Ch1 L16).
 
 ## 3. Personality and voice
 
@@ -25,7 +25,7 @@ A lecturer by habit: whenever she is not pointing out something specific, she is
 - **Abilities** (Book 1, Ch19 L1; Book 4, Ch41 L31): lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and columns, and obsidian armour (Book 1, Ch108 L94).
 - **Ritual magic**: she adjusts circles for ambient magic (Book 1, Ch23 L15-17) and builds the infrastructure of Asano Village and the Grid repairs (Book 5, Ch5 L83-89).
 - **Aura teaching**: perception and memory games, meditation and aura control (Book 1, Ch40 L31-35).
-- **Rank**: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of the Will or a Defier of the Will (Book 12, Ch21 L43-46); she accepts and becomes the Defier, immortal and "still a step or two from gold" (Book 12, Ch21 L43-46).
+- **Rank**: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of the Will or a Defier of the Will (Book 12, Ch21 L43-46); she accepts and becomes the Defier, immortal and "still a step or two from gold" (Book 12, Ch21 L43-46, L89).
 
 ## 5. Background
 

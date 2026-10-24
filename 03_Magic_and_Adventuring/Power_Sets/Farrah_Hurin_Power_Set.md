@@ -25,7 +25,7 @@ Farrah is a volcano-themed battlemage and ritualist: Earth, Fire and Potent, whi
 <!-- level:3 -->
 ## 3. Late development (Book 12)
 
-- Farrah is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts the Defier path and becomes immortal, still "a step or two from gold" (Book 12, Ch21 L43-46, per Farrah_Hurin.md).
+- Farrah is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts the Defier path and becomes immortal, still "a step or two from gold" (Book 12, Ch21 L43-46, L89, per Farrah_Hurin.md).
 <!-- /level -->
 
 ## 4. How the set plays

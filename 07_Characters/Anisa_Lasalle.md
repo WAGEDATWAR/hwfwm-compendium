@@ -23,7 +23,7 @@ Anisa Lasalle is a zealous elf priestess of Purity from the Lasalle family who g
 
 ## 4. Powers and skills as world facts
 
-- In the Book 3 fight she is "a near-perfect counter to Jason", protecting herself and cleansing afflictions (Book 3, Ch58 L30).
+- In the Book 3 fight she is "something of a perfect weapon against Jason's powers", able to protect herself and cleanse afflictions (Book 3, Ch58 L30).
 
 ## 5. Background
 

@@ -14,7 +14,7 @@ Twin elf sisters on Rick Geller's team: Hannah the archer and Claire the healer.
 ## 2. Facts
 
 - The elf twins Hannah and Claire Adeah are the archer and the team healer, with Claire the most important member to protect (Book 1, Ch67 L15; Book 2, Ch29 L6-8).
-- Hannah's arrows pin trap weavers and she has "the best eyes" (Book 1, Ch67 L18-33); Claire cleanses afflictions and cuts a team mate from a web with her wand (Book 1, Ch66 L31; Book 1, Ch67 L71-95).
+- Hannah's arrows pin trap weavers to trees (Book 1, Ch67 L18); Claire cleanses afflictions and cuts a team mate from a web with her wand (Book 1, Ch66 L31; Book 1, Ch67 L71-95).
 - In the Book 1 mock battle against Jason, Claire's body is left floating in the water after she focused her healing on the others, and they swear revenge (Book 1, Ch67 L126-128).
 - Claire resented Jason's tactics in the mock battle the most (Book 2, Ch4 L10).
 - By Book 10 Hannah is Rick's girlfriend and then fiancée (Book 10, Ch1 L77-80; Book 10, Ch51 L3); by Book 12 his wife (Book 12, Ch15 L6).

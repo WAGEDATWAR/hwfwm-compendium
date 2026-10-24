@@ -22,7 +22,7 @@ The church of Purity is the church of cleansing: it supplies the healers who tre
 ## 3. The fall of the Greenstone leadership
 
 - **Vanishing**: following the revelation of Purity's apparent involvement with the Builder cult, the archbishop vanishes along with other key members on "previously scheduled sabbaticals" (Book 3, Ch31 L57; Book 3, Ch1 L106). The Healer's new Chief Priest takes his seat at the war council (Book 3, Ch31 L57).
-- **The Lasalle family**: Anisa and "much of the Lasalle family" vanish with the archbishop (Book 3, Ch1 L106; see Anisa_Lasalle.md). The vanished include Anisa, who joins the Builder's cult.
+- **The Lasalle family**: Anisa and "almost the entire Lasalle family" vanish with the archbishop (Book 3, Ch1 L106; see Anisa_Lasalle.md). The vanished include Anisa, who joins the Builder's cult.
 
 <!-- level:2 -->
 ## 4. The ecumenical council and the false god

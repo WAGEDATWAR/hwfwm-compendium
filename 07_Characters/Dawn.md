@@ -32,7 +32,7 @@ Mentoring and slightly arch. When Jason has just punched her avatar she says "Yo
 - **Book 5**: arrives at Asano Village in a new avatar; explains the danger of transformation zones as dimensional ulceration; tells him the Reaper "was the one who offered" Farrah's return (Book 5, Ch20 L40-41).
 - **Book 6**: arrives in her true body to negotiate with the Builder after Shako kills Jason (Book 6, Ch18 L3-9).
 - **Book 7**: her full-power intervention and the arrival of Humphrey's team in Rimaros.
-- **Book 13**: Boris says "Dawn exceeded mandate" (Book 13, Ch954 L19).
+- **Book 13**: Boris is certain she had "taken actions beyond the mandate of her great astral being" (Book 13, Ch954 L19).
 
 ## 6. Relationships
 

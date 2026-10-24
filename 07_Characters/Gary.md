@@ -25,7 +25,7 @@ His characteristic line when facing death: "I don't want to be a ghost, rattling
 - **Equipment**: conjured full-body dark-steel plate armour (Book 1, Ch16 L28); the notes add a hammer and shield and the runes.
 - **Smithing**: he forges Dread Salvation (Book 1, Ch56 L46-51); he reforges it with his mentor Virid Martine (Book 6, Ch47 L270) as Hegemon's Will (Book 7, Ch2 L71-74; Book 7, Ch54 L108-120).
 - **Rank**: bronze at the start; "almost silver" by Book 3 (Book 3, Ch21 L60); silver after using a core (notes, Book 6).
-- **Demigod**: Hero's power gives him divine strength; he says "I'm only a demigod" (Book 11, Ch68 L703).
+- **Demigod**: Hero's power makes him a demigod, "a vision of physical might, wreathed in divine power" (Book 11, Ch68 L703).
 
 ## 5. Background
 

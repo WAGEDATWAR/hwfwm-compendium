@@ -19,7 +19,7 @@ Not described in detail in the lines read; he wears headphones on the cloud ship
 
 - **Wary**: he compares the dangerous Vermillion with the returned Jason and "knew that fear" in how Ari reacted (Book 4, Ch8 L47).
 - **Black sheep**: "Hiro's criminal connections had made him a black sheep of the family" (Book 4, Ch4 L52).
-- **Long-suffering and jokey**: he teases at the family gathering about marrying your brother being "acceptable in many cultures" (Book 13, Ch1022 L19).
+- **Long-suffering and jokey**: he teases at the family gathering that "There have been many cultures where it's acceptable to marry your brother" (Book 13, Ch1022 L19).
 - **Does not like fuss**: he rubs a hand over his face unsure where to start (Book 4, Ch8 L47).
 
 ## 4. Powers and skills as world facts
@@ -40,7 +40,7 @@ Not described in detail in the lines read; he wears headphones on the cloud ship
 
 ## 7. Relationships
 
-- **Jason**: nephew; Hiro's "lot more than just a portal away from home" worry is family-wide (Book 13, Ch951 L66).
+- **Jason**: nephew; Hiro stands beside him at the family gathering on his return (Book 13, Ch951 L66).
 - **Taika**: his employee and friend (Book 11, Ch68 L647).
 - **Ken**: brother, who slings a possessive arm over his son (Book 13, Ch951 L66).
 

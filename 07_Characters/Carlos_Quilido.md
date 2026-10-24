@@ -14,7 +14,7 @@ Carlos Quilido is a gold-rank priest of the Healer and the world's leading speci
 ## 2. Appearance
 
 - A broad-shouldered, swarthy man with the polished perfection of gold rank, who wears casual clothes rather than Healer robes (Book 3, Ch22 L6).
-- "A humble man in simple clothes, though the world will not let a gold-ranker be too humble" (Book 8, Ch41 L58).
+- "A humble man by nature", though only so humble as the world would allow a gold-ranker to be; he is unassuming in simple clothes of light brown (Book 8, Ch41 L58).
 
 ## 3. Personality and voice
 

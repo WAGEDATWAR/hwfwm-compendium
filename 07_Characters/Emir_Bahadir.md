@@ -14,7 +14,7 @@ Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and ow
 ## 2. Appearance
 
 - Dark-skinned, with dark curly hair tied back behind his head, "midnight skin" and sleek clothes (Book 2, Ch31 L90; Book 1, Ch101 L64). He wears his hair in colourful beads, close to the head (Book 10, Ch57 L93).
-- He "looked no more than thirty but ageless" and dresses well, largely thanks to Constance (Book 1, Ch108 L35; Book 3, Ch2 L65).
+- He "didn't look to be more than thirty years old", with an "agelessness" to him, and dresses well, largely thanks to Constance (Book 1, Ch108 L35; Book 3, Ch2 L65).
 - He carries a staff he can extend and shrink (Book 10, Ch92 L44).
 
 ## 3. Personality and voice

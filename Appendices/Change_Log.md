@@ -642,6 +642,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Place changes between eras, build plan item 4.7 (2026-10-24)**
 - Added `10_Roleplay_Support/Place_Changes_Between_Eras.md`: before-and-after tables for Greenstone (with Boko), Vitesse, Rimaros and Yaresh, each row keyed to a period and a cited line. Rows the books do not cover (Greenstone in Eras 3-6) say so. Linked from `Era_Selection.md`.
 
+**Second verification pass begun, build plan item 5.1 (2026-10-24)**
+- Added `src/tools/verify2.py`, an independent check of every register row (quoted text and numbers against the cited lines, with a closest-span suggestion). First run: 9,252 rows checked, 487 flagged, 347 after the first fixes; roughly 100 of the rest are benign (quote split by a speech tag) and the timelines' numbers are chapter numbers or derived figures.
+- Fixed 20 claims whose quotation marks surrounded a paraphrase or a wrong line: Anisa Lasalle, Carlos Quilido, Emir Bahadir, Gary, Dawn, Taika, Farrah Hurin (and her power set), Zara Rimaros, Hiro Asano, Jason Asano, Gerling, Estella Warnock, Jes Fin Kaal, Hannah and Claire Adeah, Thadwick Mercer, Remy and Church of Purity. NPC cards regenerated.
+- Still open under 5.1: the remaining flagged rows in `src/tools/verify2_report.md` (about 245 after filtering benign ones, 104 of them in `08_History_and_Timeline`, mostly line-reference drift), and the manual reading pass by section.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

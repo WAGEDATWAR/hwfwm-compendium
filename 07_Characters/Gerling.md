@@ -35,7 +35,7 @@ Jack Gerling is a US Network category-four (gold-rank) essence user with an expl
 
 - **A category four**: one of two chosen by the US branches pooling cores for years (Book 5, Ch47 L29).
 - **The Network's killer**: the Network "dug up Jack Gerling and sent him to kill Asano's brother, his lover and his best friend" (Book 13, Ch967 L25).
-- **Trained afterwards**: he gets a team of trainers to "refresh the skills drilled into him years ago", keeps his training quiet and his recreation loud (Book 5, Ch68 L14).
+- **Trained afterwards**: he gets a team of trainers "refreshing the skills that had been drilled into him years ago", keeps his training quiet and his recreation loud (Book 5, Ch68 L14).
 
 ## 6. Timeline of involvement
 

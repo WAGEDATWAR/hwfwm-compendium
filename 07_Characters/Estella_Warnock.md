@@ -17,7 +17,7 @@ Not described in the lines read.
 
 ## 3. Personality and voice
 
-- **Hard to surprise, prefers anonymity**: she tells a contact she would rather keep her identity from someone who "doesn't know who I am" (Book 7, Ch62 L41).
+- **Hard to surprise, prefers anonymity**: she tells a contact she says of someone "I don't think he knows who I am and I'd rather keep it that way" (Book 7, Ch62 L41).
 - **Nervous in waiting**: she fails to concentrate on a book on a rooftop while a monster manifestation is expected (Book 7, Ch62 L79).
 
 ## 4. Powers and skills as world facts

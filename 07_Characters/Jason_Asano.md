@@ -35,7 +35,7 @@ Jason Asano is the series' protagonist: an Australian from the coastal town of C
 ## 5. Background
 
 - **Home**: Casselton Beach on the Mid North Coast of New South Wales (Book 4, Ch3 L100). His father Ken is a landscape architect (Book 2, Ch11 L41); his mother Cheryl comes from a large family of mostly rural people (Book 2, Ch20 L18); his older sister Erika and her husband Ian live nearby with their daughter Emi; his brother Kaito and Kaito's wife Amy live next door to his parents' house (notes, Book 4). His uncles are Hiro, the black sheep with minor involvement in organised crime, and Shiro, the favourite (Book 4, Ch1 L66-67).
-- **Before Pallimustus**: "a brief stint at university" studying political science (Book 1, Ch7 L26), then Melbourne "the last couple of years" (Book 1, Ch36 L87), seeing little of his family apart from his sister's household (Book 1, Ch52 says only that he had little contact with his family after they fell out), where he is "the cheapest childcare in town". He worked as an assistant manager at a retail bulk office supplier (Book 2, Ch14 L35).
+- **Before Pallimustus**: "a brief stint at university" studying political science (Book 1, Ch7 L26), then Melbourne "the last couple of years" (Book 1, Ch36 L87), seeing little of his family apart from his sister's household (Book 1, Ch52 says only that he had little contact with his family after they fell out), where he is "the cheapest childcare in town" (Book 1, Ch52 L27). He worked as an assistant manager at a retail bulk office supplier (Book 2, Ch14 L35).
 - **Birthday**: 1 April (Book 5, Ch20 L24-26).
 - **Arrival**: pulled from his bed in late November by Landemere Vane's failed summoning (Book 4, Ch3 L112).
 

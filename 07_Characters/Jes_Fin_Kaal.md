@@ -29,7 +29,7 @@ Jes Fin Kaal is a gold-rank messenger ritualist and Voice of the Will who leads 
 
 ## 5. Background
 
-- "New to the stronghold, referred to by the other messengers as Voice Kaal" (Book 9, Ch55 L19).
+- "Relatively new to the stronghold" and "referred to by the other messengers as Voice Kaal" (Book 9, Ch55 L19).
 
 ## 6. Timeline of involvement
 

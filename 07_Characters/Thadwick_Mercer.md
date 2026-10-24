@@ -30,7 +30,7 @@ Not described in detail in the lines read; his gear includes a blade with a ruby
 ## 5. Background
 
 - **Family**: his father Beaufort Mercer is the Duke of Greenstone's brother; his mother Thalia is an adventurer (Book 1, Ch77 L47; Book 2, Ch59 L4).
-- **Companions by obligation**: "Neil and Dustin were forced to train and work with Thadwick through the obligation of their families" (Book 11, Ch6 L57, L61).
+- **Companions by obligation**: Dustin, like Neil, was "forced to train and work with Thadwick through the obligation of his family to the Mercers" (Book 11, Ch6 L57, L61).
 - **Sister**: Cassandra Mercer is four years older than Neil and the object of his youthful affection (Book 2, Ch27 L43).
 
 ## 6. Timeline of involvement

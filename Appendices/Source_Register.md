@@ -21,7 +21,7 @@ Every claim in the compendium that carries a line citation (`Book N, ChX LY`), a
 
 Each reference in the Cited lines column shows its own grade in brackets. The overlap grade is a heuristic: a high grade does not prove the claim, and a low one does not disprove it.
 
-**Totals**: ok 8790, near 548, reviewed 21, notes 2, wiki 17 (9378 rows in 423 documents).
+**Totals**: ok 8796, near 542, reviewed 21, notes 2, wiki 17 (9378 rows in 423 documents).
 
 ## 01_World_Primer.md
 
@@ -2120,7 +2120,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R1791 | Finisher: she turns the obsidian fragments left in an enemy into lava. | B5 Ch60 L68 (ok) | B5 Ch60 Comely Wenches | ok |  |
 | R1792 | Magma elemental summon: a pile of black and red magma with arms, summoned from a ritual circle like Gary's golem. | B1 Ch17 L72 (ok) | B1 Ch17 A Conservative Pillage | ok |  |
 | R1793 | Ritual magic: she adjusts circles for ambient magic and teaches Emi, Hiro and others magical theory. | B1 Ch23 L15-17 (ok); B7 Ch55 L35 (ok) | B1 Ch23 I May have Made a Huge Mistake; B7 Ch55 A Story About a Magic Trowel | ok |  |
-| R1794 | Farrah is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts the Defier path and becomes immortal, still "a step or two from gold" (per Farrah_Hurin.md). | B12 Ch21 L43-46 (near) | B12 Ch21 Defier | near |  |
+| R1794 | Farrah is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts the Defier path and becomes immortal, still "a step or two from gold" (per Farrah_Hurin.md). | B12 Ch21 L43-46 (near); B12 Ch21 L89 (near) | B12 Ch21 Defier | near |  |
 | R1795 | Jason notes she has a "peak bronze-rank speed attribute" and sweeping attacks that clear clusters but lacks mobility. | B4 Ch70 L48 (ok) | B4 Ch70 The Dangers of What I Do | ok |  |
 | R1796 | Against a gold-ranked vampire, her sword hits "nothing but air" because of the speed difference. | B5 Ch60 L50 (ok) | B5 Ch60 Comely Wenches | ok |  |
 
@@ -3258,7 +3258,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R2619 | The archbishop: the book calls him Nicolas Hendren but also "Herston, the archbishop of Purity" in one scene, and Book 3 spells it "Hedron" once. | B2 Ch19 L73 (ok); B3 Ch31 L57 (ok); B2 Ch21 L21 (ok); B3 Ch1 L106 (ok) | B2 Ch19 Cleansed; B3 Ch31 Evil Detector; B2 Ch21 World Building; B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
 | R2620 | Vanishing: following the revelation of Purity's apparent involvement with the Builder cult, the archbishop vanishes along with other key members on "previously scheduled sabbaticals". | B3 Ch31 L57 (ok); B3 Ch1 L106 (ok) | B3 Ch31 Evil Detector; B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
 | R2621 | The Healer's new Chief Priest takes his seat at the war council. | B3 Ch31 L57 (ok) | B3 Ch31 Evil Detector | ok |  |
-| R2622 | The Lasalle family: Anisa and "much of the Lasalle family" vanish with the archbishop (see Anisa_Lasalle.md). | B3 Ch1 L106 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R2622 | The Lasalle family: Anisa and "almost the entire Lasalle family" vanish with the archbishop (see Anisa_Lasalle.md). | B3 Ch1 L106 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
 | R2623 | Council: the churches convene an ecumenical council to judge the church's behaviour; it finds the church "had been operating well outside its dictates for some time". | B8 Ch48 L32 (ok) | B8 Ch48 Lest He Become a Monster Himself | ok |  |
 | R2624 | People from the church are detained under its authority. | B3 Ch5 L67 (ok) | B3 Ch5 Departures | ok |  |
 | R2625 | The Order of Redeeming Light is a creation of Disguise masquerading as Purity; its "Flames of Redemption" are an extreme modification of lesser vampirism. | B10 Ch36 L14 (ok) | B10 Ch36 Mothers | ok |  |
@@ -4287,7 +4287,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R3338 | Zealous: Rufus calls her "Zealous girl. Dangerously committed". | B1 Ch65 L132 (ok) | B1 Ch65 Curious Urges | ok |  |
 | R3339 | Ruthless: Farrah says "Anisa killed him before he could get a word out". | B1 Ch30 L26 (ok) | B1 Ch30 Closing the Door Too Hard | ok |  |
 | R3340 | Defiant of correction: Gary tells her "You don't get a say in what we do anymore, Anisa... You're out". | B1 Ch30 L86-93 (ok) | B1 Ch30 Closing the Door Too Hard | ok |  |
-| R3341 | In the Book 3 fight she is "a near-perfect counter to Jason", protecting herself and cleansing afflictions. | B3 Ch58 L30 (ok) | B3 Ch58 The True Danger | ok |  |
+| R3341 | In the Book 3 fight she is "something of a perfect weapon against Jason's powers", able to protect herself and cleanse afflictions. | B3 Ch58 L30 (ok) | B3 Ch58 The True Danger | ok |  |
 | R3342 | A temporary addition to Rufus's party at the start of the books. | B1 Ch19 L74 (ok) | B1 Ch19 I Want a Lava Cannon | ok |  |
 | R3343 | After Purity is implicated in the cult she vanishes with the archbishop and much of the Lasalle family. | B3 Ch1 L106 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
 | R3344 | Book 2: runs the temple's response to a star seed incident ("We are evacuating no one"); leads church militants to claim an abandoned site. | B2 Ch10 L102 (weak); B2 Ch37 L105-114 (ok) | B2 Ch10 Star Seed; B2 Ch37 Make the Most of It | ok |  |
@@ -4509,7 +4509,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
 | R3497 | A broad-shouldered, swarthy man with the polished perfection of gold rank, who wears casual clothes rather than Healer robes. | B3 Ch22 L6 (ok) | B3 Ch22 Lingering Doubts | ok |  |
-| R3498 | "A humble man in simple clothes, though the world will not let a gold-ranker be too humble". | B8 Ch41 L58 (ok) | B8 Ch41 Ridiculous New Soul Power | ok |  |
+| R3498 | "A humble man by nature", though only so humble as the world would allow a gold-ranker to be; he is unassuming in simple clothes of light brown. | B8 Ch41 L58 (ok) | B8 Ch41 Ridiculous New Soul Power | ok |  |
 | R3499 | Priest first: "First and foremost, though I am a priest of the Healer. Before anything else, I'm here to help you, not for you to help me". | B3 Ch22 L73 (ok) | B3 Ch22 Lingering Doubts | ok |  |
 | R3500 | Uneasy at society events: Arabelle plays guide to "Carlos, a priest of the Healer who was not comfortable at fancy social events". | B9 Ch14 L7 (ok) | B9 Ch14 All Singer and No Song | ok |  |
 | R3501 | Dogged: he once harangued Jason to be an experimental subject when Jason had barely woken from a coma, and Jason threw him across the room with his aura; Carlos backing down since is called "considerable progress". | B10 Ch39 L41 (ok) | B10 Ch39 Faith is the Bane of Intellect | ok |  |
@@ -4756,7 +4756,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R3682 | Home: Interstice, the city-universe at the cosmos's centre. | B5 Ch20 L65-67 (ok) | B5 Ch20 Instability | ok |  |
 | R3683 | Book 5: arrives at Asano Village in a new avatar; explains the danger of transformation zones as dimensional ulceration; tells him the Reaper "was the one who offered" Farrah's return. | B5 Ch20 L40-41 (near) | B5 Ch20 Instability | near |  |
 | R3684 | Book 6: arrives in her true body to negotiate with the Builder after Shako kills Jason. | B6 Ch18 L3-9 (ok) | B6 Ch18 A Sliver of Hope | ok |  |
-| R3685 | Book 13: Boris says "Dawn exceeded mandate". | B13 Ch954 L19 (ok) | B13 Ch954 Misgivings | ok |  |
+| R3685 | Book 13: Boris is certain she had "taken actions beyond the mandate of her great astral being". | B13 Ch954 L19 (ok) | B13 Ch954 Misgivings | ok |  |
 | R3686 | Jason, the World-Phoenix (Helsveth is the current prime vessel), Shako ("I cared about you very deeply, once", notes, Book 6), Soramir Rimaros. | B11 Ch68 L2527-2530 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
 | R3687 | Cue: "You realise that you could have asked that instead of punching my nose through my brain". | B5 Ch20 L21 (ok) | B5 Ch20 Instability | ok |  |
 
@@ -4917,7 +4917,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 |---|---|---|---|---|---|
 | R3814 | Dark-skinned, with dark curly hair tied back behind his head, "midnight skin" and sleek clothes. | B2 Ch31 L90 (ok); B1 Ch101 L64 (ok) | B2 Ch31 Arrival; B1 Ch101 Fantasy World Goodness | ok |  |
 | R3815 | He wears his hair in colourful beads, close to the head. | B10 Ch57 L93 (ok) | B10 Ch57 Welcome Aboard | ok |  |
-| R3816 | He "looked no more than thirty but ageless" and dresses well, largely thanks to Constance. | B1 Ch108 L35 (weak); B3 Ch2 L65 (near) | B1 Ch108 You Don’t Have the Strength; B3 Ch2 Looking Forward | near |  |
+| R3816 | He "didn't look to be more than thirty years old", with an "agelessness" to him, and dresses well, largely thanks to Constance. | B1 Ch108 L35 (ok); B3 Ch2 L65 (near) | B1 Ch108 You Don’t Have the Strength; B3 Ch2 Looking Forward | ok |  |
 | R3817 | He carries a staff he can extend and shrink. | B10 Ch92 L44 (near) | B10 Ch92 What He Wants For Himself | near |  |
 | R3818 | Likes grand entrances: "I'm hosting a grand event. It requires grandeur". | B2 Ch49 L67 (ok) | B2 Ch49 The Danger is Us | ok |  |
 | R3819 | He announces a competition and a grand-prize cloud palace in a speech that throws the crowd into turmoil. | B2 Ch40 L65 (ok) | B2 Ch40 Legacy | ok |  |
@@ -4983,7 +4983,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R3867 | Hard to surprise, prefers anonymity: she tells a contact she would rather keep her identity from someone who "doesn't know who I am". | B7 Ch62 L41 (near) | B7 Ch62 A Normal Man | near |  |
+| R3867 | Hard to surprise, prefers anonymity: she tells a contact she says of someone "I don't think he knows who I am and I'd rather keep it that way". | B7 Ch62 L41 (ok) | B7 Ch62 A Normal Man | ok |  |
 | R3868 | Nervous in waiting: she fails to concentrate on a book on a rooftop while a monster manifestation is expected. | B7 Ch62 L79 (ok) | B7 Ch62 A Normal Man | ok |  |
 | R3869 | Fourfold senses: Jason says they make her "even better than I am" at spotting messenger agents; she maps messenger agents in the city. | B10 Ch42 L41 (ok); B10 Ch42 L39 (ok) | B10 Ch42 Exactly Where I Want to Be | ok |  |
 | R3870 | She "made a career out of being a spy and urban scout in Livaros" and knows the island's streets, alleys and rooftops. | B8 Ch5 L7 (ok) | B8 Ch5 You Don’t Have it in You | ok |  |
@@ -5045,14 +5045,14 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
 | R3913 | Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage. | B1 Ch12 L11 (ok) | B1 Ch12 Sanguine Horror | ok |  |
-| R3914 | Physically small but "prodigiously strong": she hauls the standing stones into place in Book 7. | B7 Ch1 L16 (ok) | B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
+| R3914 | Physically small but of "prodigious strength": she hauls the standing stones into place in Book 7. | B7 Ch1 L16 (ok) | B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
 | R3915 | A lecturer by habit: whenever she is not pointing out something specific, she is explaining. | B1 Ch23 L15-17 (ok) | B1 Ch23 I May have Made a Huge Mistake | ok |  |
 | R3916 | She keeps her friends close: in Book 5, away from Gary, she says "I miss Gary". | B5 Ch30 L61 (ok) | B5 Ch30 Enough Power | ok |  |
 | R3917 | Essences: Earth, Fire and Potent, which form the Volcano confluence; she explains this herself in Book 1. | B1 Ch19 L30 (ok) | B1 Ch19 I Want a Lava Cannon | ok |  |
 | R3918 | Abilities: lava cannon (the Book 1 chapter title is "I Want a Lava Cannon"), a magma golem, lava streams and fire orbs, obsidian domes, shards and columns, and obsidian armour. | B1 Ch19 L1 (near); B4 Ch41 L31 (near); B1 Ch108 L94 (ok) | B1 Ch19 I Want a Lava Cannon; B4 Ch41 What You Call Observing; B1 Ch108 You Don’t Have the Strength | ok |  |
 | R3919 | Ritual magic: she adjusts circles for ambient magic and builds the infrastructure of Asano Village and the Grid repairs. | B1 Ch23 L15-17 (ok); B5 Ch5 L83-89 (near) | B1 Ch23 I May have Made a Huge Mistake; B5 Ch5 Grand Tour | ok |  |
 | R3920 | Aura teaching: perception and memory games, meditation and aura control. | B1 Ch40 L31-35 (ok) | B1 Ch40 Eyebeams and the Ethics of Adventuring | ok |  |
-| R3921 | Rank: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts and becomes the Defier, immortal and "still a step or two from gold". | B12 Ch21 L43-46 (near) | B12 Ch21 Defier | near |  |
+| R3921 | Rank: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of the Will or a Defier of the Will; she accepts and becomes the Defier, immortal and "still a step or two from gold". | B12 Ch21 L43-46 (near); B12 Ch21 L89 (ok) | B12 Ch21 Defier | ok |  |
 | R3922 | Daughter of Amelia and William Hurin of Vitesse; a member of the Burning Violet guild. | B2 Ch38 L69 (near); B7 Ch7 L53 (ok) | B2 Ch38 Wake; B7 Ch7 Surge Protocols | ok |  |
 | R3923 | Book 1: rescued with Rufus and Gary from the cult; dies covering civilians in the desert astral-space ambush ("Farrah died covering those people"). | B1 Ch113 L41 (ok) | B1 Ch113 You Need to Work on Making Enemies | ok |  |
 | R3924 | Book 4: Jason finds that she is alive in his world, held captive by the Network's Lyon branch; the Reaper let her go in a negotiation with the World-Phoenix, which was worried that Jason would let Earth die (captive of Barbou and the EOA; the Reaper's negotiation is from the notes, Book 10). Jason rescues her. | B4 Ch51 L62 (near) | B4 Ch51 The Long Game | near |  |
@@ -5138,7 +5138,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R3984 | Equipment: conjured full-body dark-steel plate armour; the notes add a hammer and shield and the runes. | B1 Ch16 L28 (ok) | B1 Ch16 Rescue Party | ok |  |
 | R3985 | Smithing: he forges Dread Salvation; he reforges it with his mentor Virid Martine as Hegemon's Will. | B1 Ch56 L46-51 (near); B6 Ch47 L270 (near); B7 Ch2 L71-74 (near); B7 Ch54 L108-120 (weak) | B1 Ch56 Gary’s Gift; B6 Ch47 Something Other Than Human; B7 Ch2 Connotations; B7 Ch54 Hegemon’s Will | near |  |
 | R3986 | Rank: bronze at the start; "almost silver" by Book 3; silver after using a core. | B3 Ch21 L60 (ok) | B3 Ch21 What Doesn’t Kill You | ok |  |
-| R3987 | Demigod: Hero's power gives him divine strength; he says "I'm only a demigod". | B11 Ch68 L703 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R3987 | Demigod: Hero's power makes him a demigod, "a vision of physical might, wreathed in divine power". | B11 Ch68 L703 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
 | R3988 | A friend of Rufus and Farrah, and a Vitesse adventurer. | B1 Ch30 L47 (ok) | B1 Ch30 Closing the Door Too Hard | ok |  |
 | R3989 | In Book 6 he meets the gold-rank smith Virid Martine, who becomes his master. | B6 Ch47 L270-272 (near) | B6 Ch47 Something Other Than Human | near |  |
 | R3990 | Book 11: refuses Jason's offer to bind his power to the natural array; dies; Hero decides to sanction himself (Gwydion tells Gary). | B11 Ch68 L707-709 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
@@ -5165,7 +5165,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4006 | Immortality (after McKean): when he dies he liquefies, and the substance burns on exposure to air; he has been killed several times (per Farrah). | B13 Ch998 L110 (ok) | B13 Ch998 Sitting on a Volcano | ok |  |
 | R4007 | A category four: one of two chosen by the US branches pooling cores for years. | B5 Ch47 L29 (ok) | B5 Ch47 First Priority | ok |  |
 | R4008 | The Network's killer: the Network "dug up Jack Gerling and sent him to kill Asano's brother, his lover and his best friend". | B13 Ch967 L25 (ok) | B13 Ch967 What I Present to the World | ok |  |
-| R4009 | Trained afterwards: he gets a team of trainers to "refresh the skills drilled into him years ago", keeps his training quiet and his recreation loud. | B5 Ch68 L14 (ok) | B5 Ch68 Open Wound | ok |  |
+| R4009 | Trained afterwards: he gets a team of trainers "refreshing the skills that had been drilled into him years ago", keeps his training quiet and his recreation loud. | B5 Ch68 L14 (ok) | B5 Ch68 Open Wound | ok |  |
 | R4010 | Book 5: he says he does not mind "kicking their asses back and forth a little" in the war with the vampires; his explosion flight outpaces Kaito's helicopter; he fights Jason and Farrah. | B5 Ch47 L110 (ok); B5 Ch48 L103 (ok); B5 Ch50 L35-41 (near) | B5 Ch47 First Priority; B5 Ch48 Node Space; B5 Ch50 Going For Gold | ok |  |
 | R4011 | Book 6: in the Slovakian dome with Chen and Guo; he is influenced by the vampire Tran; with Jason's push he agrees to join the coalition. He grabs Barbou and flies him back. | B6 Ch1 L3 (weak); B6 Ch6 L26 (near); B6 Ch8 L48 (near); B6 Ch42 L66 (weak); B6 Ch43 L7 (weak); B6 Ch30 L29-44 (weak) | B6 Ch1 Looting a House as it Burns Down Around You; B6 Ch6 One More Secret; B6 Ch8 Step Back; B6 Ch42 Time to Choose … | near |  |
 | R4012 | Book 6 end: Noreth kills him in the crater, but his immortality brings him back. | B6 Ch46 L112-127 (ok) | B6 Ch46 Salus Mundi Suprema Lex Esto | ok |  |
@@ -5267,7 +5267,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
 | R4080 | The elf twins Hannah and Claire Adeah are the archer and the team healer, with Claire the most important member to protect. | B1 Ch67 L15 (ok); B2 Ch29 L6-8 (ok) | B1 Ch67 This is What it Means to Fight Me; B2 Ch29 This Town Ain’t Big Enough | ok |  |
-| R4081 | Hannah's arrows pin trap weavers and she has "the best eyes"; Claire cleanses afflictions and cuts a team mate from a web with her wand. | B1 Ch67 L18-33 (ok); B1 Ch66 L31 (near); B1 Ch67 L71-95 (ok) | B1 Ch67 This is What it Means to Fight Me; B1 Ch66 A Stronger Weapon Than the One in Your Hand | ok |  |
+| R4081 | Hannah's arrows pin trap weavers to trees; Claire cleanses afflictions and cuts a team mate from a web with her wand. | B1 Ch67 L18 (ok); B1 Ch66 L31 (near); B1 Ch67 L71-95 (ok) | B1 Ch67 This is What it Means to Fight Me; B1 Ch66 A Stronger Weapon Than the One in Your Hand | ok |  |
 | R4082 | In the Book 1 mock battle against Jason, Claire's body is left floating in the water after she focused her healing on the others, and they swear revenge. | B1 Ch67 L126-128 (ok) | B1 Ch67 This is What it Means to Fight Me | ok |  |
 | R4083 | Claire resented Jason's tactics in the mock battle the most. | B2 Ch4 L10 (ok) | B2 Ch4 Six-Month Lease | ok |  |
 | R4084 | By Book 10 Hannah is Rick's girlfriend and then fiancée; by Book 12 his wife. | B10 Ch1 L77-80 (ok); B10 Ch51 L3 (ok); B12 Ch15 L6 (ok) | B10 Ch1 Aftermath; B10 Ch51 Unmistakeable; B12 Ch15 Like an Adventurer | ok |  |
@@ -5360,7 +5360,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4141 | Not described in detail in the lines read; he wears headphones on the cloud ship deck. | B4 Ch30 L74 (near) | B4 Ch30 Discretion is a Good Idea | near |  |
 | R4142 | Wary: he compares the dangerous Vermillion with the returned Jason and "knew that fear" in how Ari reacted. | B4 Ch8 L47 (ok) | B4 Ch8 More Plausible Than the Reality | ok |  |
 | R4143 | Black sheep: "Hiro's criminal connections had made him a black sheep of the family". | B4 Ch4 L52 (ok) | B4 Ch4 Some Secrets Change You Forever | ok |  |
-| R4144 | Long-suffering and jokey: he teases at the family gathering about marrying your brother being "acceptable in many cultures". | B13 Ch1022 L19 (ok) | B13 Ch1022 While We Have the Chance | ok |  |
+| R4144 | Long-suffering and jokey: he teases at the family gathering that "There have been many cultures where it's acceptable to marry your brother". | B13 Ch1022 L19 (ok) | B13 Ch1022 While We Have the Chance | ok |  |
 | R4145 | Does not like fuss: he rubs a hand over his face unsure where to start. | B4 Ch8 L47 (ok) | B4 Ch8 More Plausible Than the Reality | ok |  |
 | R4146 | He leads a Sydney criminal organisation and meets its leaders. | B4 Ch9 L18 (ok) | B4 Ch9 I Suggest You Be Very Polite | ok |  |
 | R4147 | Hiro's contacts in the magical world, including the EOA's pressure on Sydney, are why Jason gets him out of the way. | B4 Ch9 L76 (ok); B4 Ch12 L41 (near) | B4 Ch9 I Suggest You Be Very Polite; B4 Ch12 Underworld Bargain | ok |  |
@@ -5369,7 +5369,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4150 | Book 4: Jason arrives at his office; the EOA threat and Victor Tollman's request; the buyout and Jason's plan. | B4 Ch4 L52-54 (near); B4 Ch9 L76 (near); B4 Ch12 L41 (ok); B4 Ch13 L3 (near) | B4 Ch4 Some Secrets Change You Forever; B4 Ch9 I Suggest You Be Very Polite; B4 Ch12 Underworld Bargain; B4 Ch13 Time to Rip Off the Band-Aid | ok |  |
 | R4151 | Book 11: he takes Emi home after lunch; Taika warns "Boss" not to talk back. | B11 Ch68 L659 (ok); B11 Ch68 L647 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
 | R4152 | Book 13: at the family gathering. | B13 Ch951 L66 (ok) | B13 Ch951 Messy but Delicious | ok |  |
-| R4153 | Jason: nephew; Hiro's "lot more than just a portal away from home" worry is family-wide. | B13 Ch951 L66 (ok) | B13 Ch951 Messy but Delicious | ok |  |
+| R4153 | Jason: nephew; Hiro stands beside him at the family gathering on his return. | B13 Ch951 L66 (ok) | B13 Ch951 Messy but Delicious | ok |  |
 | R4154 | Taika: his employee and friend. | B11 Ch68 L647 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
 | R4155 | Ken: brother, who slings a possessive arm over his son. | B13 Ch951 L66 (ok) | B13 Ch951 Messy but Delicious | ok |  |
 | R4156 | Jason arranges for the EOA to buy Hiro out "generously" as "the only safe way out". | B4 Ch13 L3-4 (ok) | B4 Ch13 Time to Rip Off the Band-Aid | ok |  |
@@ -5524,7 +5524,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4265 | Home: Casselton Beach on the Mid North Coast of New South Wales. | B4 Ch3 L100 (near) | B4 Ch3 The Single Greatest Thing on This Planet | near |  |
 | R4266 | His father Ken is a landscape architect; his mother Cheryl comes from a large family of mostly rural people; his older sister Erika and her husband Ian live nearby with their daughter Emi; his brother Kaito and Kaito's wife Amy live next door to his parents' house. | B2 Ch11 L41 (near); B2 Ch20 L18 (near) | B2 Ch11 It’s About How You Use It; B2 Ch20 It Just Takes Practise | near |  |
 | R4267 | His uncles are Hiro, the black sheep with minor involvement in organised crime, and Shiro, the favourite. | B4 Ch1 L66-67 (ok) | B4 Ch1 A Better Pants Solution | ok |  |
-| R4268 | Before Pallimustus: "a brief stint at university" studying political science, then Melbourne "the last couple of years", seeing little of his family apart from his sister's household (Book 1, Ch52 says only that he had little contact with his family after they fell out), where he is "the cheapest childcare in town". | B1 Ch7 L26 (near); B1 Ch36 L87 (near) | B1 Ch7 Spoils; B1 Ch36 The Island | near |  |
+| R4268 | Before Pallimustus: "a brief stint at university" studying political science, then Melbourne "the last couple of years", seeing little of his family apart from his sister's household (Book 1, Ch52 says only that he had little contact with his family after they fell out), where he is "the cheapest childcare in town". | B1 Ch7 L26 (near); B1 Ch36 L87 (near); B1 Ch52 L27 (ok) | B1 Ch7 Spoils; B1 Ch36 The Island; B1 Ch52 Pain | ok |  |
 | R4269 | He worked as an assistant manager at a retail bulk office supplier. | B2 Ch14 L35 (ok) | B2 Ch14 Let’s Just Fight Monsters | ok |  |
 | R4270 | Birthday: 1 April. | B5 Ch20 L24-26 (ok) | B5 Ch20 Instability | ok |  |
 | R4271 | Arrival: pulled from his bed in late November by Landemere Vane's failed summoning. | B4 Ch3 L112 (near) | B4 Ch3 The Single Greatest Thing on This Planet | near |  |
@@ -5563,7 +5563,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4294 | Keeps things back: Jason says she played things mostly straight but kept things from them. | B10 Ch59 L38 (ok) | B10 Ch59 What We’re Walking Into | ok |  |
 | R4295 | Gold rank ritualist; a Voice of the Will. | B10 Ch9 L49 (ok) | B10 Ch9 Unstable | ok |  |
 | R4296 | Boris says she believed Destruction wanted a massive explosion once the messengers claimed the soul forge. | B10 Ch81 L36 (ok) | B10 Ch81 Put Up or Shut Up | ok |  |
-| R4297 | "New to the stronghold, referred to by the other messengers as Voice Kaal". | B9 Ch55 L19 (ok) | B9 Ch55 The Face of Insurmountable Power | ok |  |
+| R4297 | "Relatively new to the stronghold" and "referred to by the other messengers as Voice Kaal". | B9 Ch55 L19 (ok) | B9 Ch55 The Face of Insurmountable Power | ok |  |
 | R4298 | Book 10: the messengers' leadership at Yaresh. | B10 Ch9 L49 (ok); B10 Ch59 L38 (ok); B10 Ch81 L36 (ok) | B10 Ch9 Unstable; B10 Ch59 What We’re Walking Into; B10 Ch81 Put Up or Shut Up | ok |  |
 | R4299 | Benella: servant she questions. | B9 Ch56 L22 (ok) | B9 Ch56 Even Though You Fear | ok |  |
 | R4300 | Fal Vin Garath and Hess Jor Nasala: subordinates. | B9 Ch90 L3 (near); B9 Ch66 L3 (ok) | B9 Ch90 Win a Fight; B9 Ch66 Imperfect Responses | ok |  |
@@ -6381,7 +6381,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R4897 | After a glance, Sebastian kills her with metal hummingbirds and a kick; Remy says "A personality like that is practically a suicide note". He reports to Adrien by phone. | B4 Ch49 L16-18 (ok); B4 Ch49 L19-26 (ok) | B4 Ch49 The Time For Bold, Decisive Men | ok |  |
 | R4898 | Book 5: "Hi, I'm Remy. You two came in pretty hot", and he takes Jason and a companion through a portal to a command post near Paotere Harbour. | B5 Ch26 L39-44 (ok) | B5 Ch26 An Intelligent King | ok |  |
 | R4899 | Book 13: Finnegan's portal man: he opens a portal "About time... If any gold-rankers turned up, I was just going to bail", is careful around "that guy", and follows Marie, Gerling and the blood orb through it. | B13 Ch973 L73-82 (ok) | B13 Ch973 A Cruelty or a Mercy | ok |  |
-| R4900 | Hurt by Jason's field: a teleport attempt leaves him "doubled over in pain" in Book 13, after which the portal flickers like an old TV. He recovers on a bus roof. | B13 Ch975 L102 (ok); B13 Ch975 L113 (near); B13 Ch977 L48 (weak) | B13 Ch975 Your Terms Are Acceptable; B13 Ch977 Getting Complicated Fast | ok |  |
+| R4900 | Hurt by Jason's field: a teleport attempt leaves him "doubled over, coughing" in Book 13, after which the portal flickers like an old TV. He recovers on a bus roof. | B13 Ch975 L102 (ok); B13 Ch975 L113 (near); B13 Ch977 L48 (weak) | B13 Ch975 Your Terms Are Acceptable; B13 Ch977 Getting Complicated Fast | ok |  |
 | R4901 | Old job: he did a job for the Lyon branch "back when Asano had just returned to Earth the first time" and explains how a silver-rank was sent to kidnap Jason; Sebastian kicked her off a rock in Kakadu. | B13 Ch977 L96-111 (ok) | B13 Ch977 Getting Complicated Fast | ok |  |
 | R4902 | Interrogated: Jason reads a spike of panic in his aura when asked who he is protecting and tells him "Give me a name, Remy". | B13 Ch977 L118-125 (ok) | B13 Ch977 Getting Complicated Fast | ok |  |
 | R4903 | Finnegan and Elizabeth: Jason learns from Remy that Marie has been working "intimately" with Elizabeth, the vampire queen increasingly on the outs with her subjects. | B13 Ch979 L72 (ok) | B13 Ch979 Unequivocally My Thing | ok |  |
@@ -6600,7 +6600,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R5061 | He tells Jason "I don't normally like watching people's holiday videos, but they were pretty sweet". | B7 Ch37 L25 (ok) | B7 Ch37 Something He Could Never Get Back | ok |  |
 | R5062 | Sharp-eyed: his "narrowed eyes lingered on Boris" before he got to work. | B11 Ch68 L580 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
 | R5063 | Rank: he races up through the proto-spaces and monster waves, "especially with being human as an accelerating factor". | B9 Ch33 L14 (ok) | B9 Ch33 Asset | ok |  |
-| R5064 | He is "on the very cusp of silver" at the end of the surge (per the Power Sets file). | B9 Ch71 L43 (near) | B9 Ch71 An Egg Starting to Hatch | near |  |
+| R5064 | At the end of the surge his aura is "so close to breaking through to silver that it was like an egg starting to hatch" (per the Power Sets file). | B9 Ch71 L43 (ok) | B9 Ch71 An Egg Starting to Hatch | ok |  |
 | R5065 | A mobility brawler: Farrah teaches him to fight "like Taika", adapting to his new abilities, and his performance helps convince the Network to grant him a place. | B4 Ch65 L30 (ok) | B4 Ch65 Flemish Baroque | ok |  |
 | R5066 | He is "Taika Williams", employed by Hiro in Sydney and knows the ropes of the Asano family business. | B7 Ch44 L61 (near); B4 Ch5 L40 (near) | B7 Ch44 The Part That Knows How to Quit; B4 Ch5 It Would Be Weirder If Magic Wasn’t Responsible | near |  |
 | R5067 | When offered the renewal essence and immortal confluence Jason picked out, he chose a different combination after discussion. | B4 Ch65 L22 (ok) | B4 Ch65 Flemish Baroque | ok |  |
@@ -6649,7 +6649,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R5100 | He fights from behind his protectors: Dustin used his powers to protect while Neil healed him, and Thadwick "had been blasting powers". | B1 Ch110 L17 (ok) | B1 Ch110 Help Arrives | ok |  |
 | R5101 | After the star seed he becomes a vessel for the Builder and later "some weird vampire". | B3 Ch46 L61 (weak); B11 Ch68 L160 (near); B9 Ch26 L57-58 (ok) | B3 Ch46 Anyone Can Be Useful; B11 Ch68 Compassionate Strangers; B9 Ch26 Bad at Crime | ok |  |
 | R5102 | Family: his father Beaufort Mercer is the Duke of Greenstone's brother; his mother Thalia is an adventurer. | B1 Ch77 L47 (ok); B2 Ch59 L4 (ok) | B1 Ch77 Group Cohesion; B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone… | ok |  |
-| R5103 | Companions by obligation: "Neil and Dustin were forced to train and work with Thadwick through the obligation of their families". | B11 Ch6 L57 (ok); B11 Ch6 L61 (ok) | B11 Ch6 Lackeys | ok |  |
+| R5103 | Companions by obligation: Dustin, like Neil, was "forced to train and work with Thadwick through the obligation of his family to the Mercers". | B11 Ch6 L57 (ok); B11 Ch6 L61 (ok) | B11 Ch6 Lackeys | ok |  |
 | R5104 | Sister: Cassandra Mercer is four years older than Neil and the object of his youthful affection. | B2 Ch27 L43 (ok) | B2 Ch27 Potential | ok |  |
 | R5105 | Book 1: his entourage at the Mercer gatherings; the expedition. | B1 Ch77 L46-57 (near); B1 Ch110 L17 (weak) | B1 Ch77 Group Cohesion; B1 Ch110 Help Arrives | near |  |
 | R5106 | Book 2: he faces Timos and wipes the sneer off his face; he is missing and hunted. | B2 Ch41 L80-89 (ok); B2 Ch59 L4-36 (weak) | B2 Ch41 A Rash Decision; B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone… | ok |  |
@@ -6865,9 +6865,9 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 |---|---|---|---|---|---|
 | R5257 | Celestine with caramel skin, sapphire eyes and waterfall-blue hair. | B2 Ch69 L16 (ok) | B2 Ch69 Particular Appetites | ok |  |
 | R5258 | After her adoption into her mother's House Nareen she has milky teal hair and eyes; by Book 12 she is still "turning your hair and eyes copper". | B9 Ch40 L7-13 (ok); B12 Ch12 L10 (ok) | B9 Ch40 Inventing a Man in Your Head; B12 Ch12 Mandatory Team Activity | ok |  |
-| R5259 | At first she is regal ("royal highness") and wary: in Book 2 Jason teleports into her tent and offers gem-berry and milk-nut squares. | B2 Ch65 L55 (ok) | B2 Ch65 Display of Gratitude | ok |  |
-| R5260 | She invents a fiancé and seeks "a place to belong". | B9 Ch40 L55 (near) | B9 Ch40 Inventing a Man in Your Head | near |  |
-| R5261 | In Book 13 she advises Jason to keep a consistent persona: "a good lord, not a good leader". | B13 Ch969 L56-63 (ok) | B13 Ch969 Good Lord | ok |  |
+| R5259 | At first she is regal ("royal highness") and wary: in Book 2 Jason teleports into her tent and offers gem-berry and milk-nut squares. | B2 Ch65 L47 (near); B2 Ch65 L55 (ok) | B2 Ch65 Display of Gratitude | ok |  |
+| R5260 | She invents a fiancé and tells Korinne "I'm looking for a place to belong". | B9 Ch40 L55 (weak); B9 Ch40 L32 (ok) | B9 Ch40 Inventing a Man in Your Head | ok |  |
+| R5261 | In Book 13 she tells Jason he is a terrible leader but "a good lord" and advises him to keep a consistent persona. | B13 Ch969 L56-63 (ok) | B13 Ch969 Good Lord | ok |  |
 | R5262 | Powers: wind and water, big storms (says she has "been blowing things up with big storms"); recovery, speed, astral and holy affinity. | B12 Ch0 L14 (near) | B12 Ch0 Don’t Tell Humphrey | near |  |
 | R5263 | Rank: gold by Book 12: she stays in a suite fit for gold-rank adventurers and calls up a storm of gold-rank force; her rank when she first meets Jason is not stated in the chapters read. | B12 Ch12 L3 (near); B13 Ch965 L86 (ok) | B12 Ch12 Mandatory Team Activity; B13 Ch965 This Is Kind of How Team Biscuit Operates | ok |  |
 | R5264 | Firstborn daughter of the Storm King, called the Hurricane Princess; her brother Emiliano becomes Storm King, and the notes for Book 13 call him her "adopted cousin-brother", an adopted baby shielded from the parents' treason; Zara herself is adopted into her mother's House Nareen. | B7 Ch5 L68-69 (near); B12 Ch12 L17-20 (ok) | B7 Ch5 I’ve Seen Your Best; B12 Ch12 Mandatory Team Activity | ok |  |

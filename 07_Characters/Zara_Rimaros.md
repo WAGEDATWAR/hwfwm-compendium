@@ -17,7 +17,7 @@ Celestine with caramel skin, sapphire eyes and waterfall-blue hair (Book 2, Ch69
 
 ## 3. Personality and voice
 
-At first she is regal ("royal highness") and wary: in Book 2 Jason teleports into her tent and offers gem-berry and milk-nut squares (Book 2, Ch65 L55). She invents a fiancé and seeks "a place to belong" (Book 9, Ch40 L55). In Book 13 she advises Jason to keep a consistent persona: "a good lord, not a good leader" (Book 13, Ch969 L56-63).
+At first she is regal ("royal highness", Book 2, Ch65 L47) and wary: in Book 2 Jason teleports into her tent and offers gem-berry and milk-nut squares (Book 2, Ch65 L55). She invents a fiancé (Book 9, Ch40 L55) and tells Korinne "I'm looking for a place to belong" (Book 9, Ch40 L32). In Book 13 she tells Jason he is a terrible leader but "a good lord" and advises him to keep a consistent persona (Book 13, Ch969 L56-63).
 
 ## 4. Powers and skills as world facts
 

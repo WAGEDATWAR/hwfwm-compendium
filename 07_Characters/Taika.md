@@ -25,7 +25,7 @@ Taika is a huge Māori man who works for Hiro Asano, befriends Jason on his retu
 
 ## 4. Powers and skills as world facts
 
-- Rank: he races up through the proto-spaces and monster waves, "especially with being human as an accelerating factor" (Book 9, Ch33 L14). He is "on the very cusp of silver" at the end of the surge (Book 9, Ch71 L43, per the Power Sets file).
+- Rank: he races up through the proto-spaces and monster waves, "especially with being human as an accelerating factor" (Book 9, Ch33 L14). At the end of the surge his aura is "so close to breaking through to silver that it was like an egg starting to hatch" (Book 9, Ch71 L43, per the Power Sets file).
 - A mobility brawler: Farrah teaches him to fight "like Taika", adapting to his new abilities, and his performance helps convince the Network to grant him a place (Book 4, Ch65 L30).
 - Garuda confluence and bird form: see Taika_Power_Set.md (Book 9, Ch93; Book 10, Ch21).
 
