@@ -79,7 +79,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): Hess Jor Nasala is a silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
 - [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
 - [Hiro Asano](Hiro_Asano.md) (spoiler level 3): Hiro Asano is Jason's uncle, a Sydney crime figure and the family's black sheep, who knew about hidden magic and the factions around it before Jason returned.
-- [Holly Macrossan](Holly_Macrossan.md) (spoiler level 2): Anna Tilden's successor at the UN Office of Supernatural Affairs, later liaison to the Multinational Supernatural Response Taskforce.
+- [Holly Macrossan](Holly_Macrossan.md) (spoiler level 3): Holly Macrossan succeeds Anna Tilden as Under-Secretary-General of the UN Office of Supernatural Affairs.
 - [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
 - [Humphrey Geller](Humphrey_Geller.md) (spoiler level 0): Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for...
 - [Ian Evans](Ian_Evans.md) (spoiler level 3): Ian Evans (Evans-Asano) is Jason's brother-in-law, Erika's husband and Emi's father.
@@ -130,7 +130,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Pelli](Pelli.md) (spoiler level 2): Pelli is a sharp-tongued core-using gold-ranker who keeps the town of Palisaros quiet and safe, is "Aunt Pelli" to the royal family, and is a contact for...
 - [Phoebe Geller](Phoebe_Geller.md) (spoiler level 3): Phoebe Geller is a distant Geller cousin of Humphrey's, Rick Geller's sister, and a pugilist on Rick's team.
 - [Pochard Finn](Pochard_Finn.md) (spoiler level 3): Pochard Finn is Lucian Lamprey's long-time deputy director in Greenstone, an elf and local who does the actual work while Lamprey enjoys the title.
-- [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
+- [Raythe](Raythe.md) (spoiler level 3): Raythe is the prime vessel of the Keeper of Moments, a peak diamond-ranker from beyond Pallimustus who steps in on Jason's behalf in Yaresh and stays after...
 - [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
 - [Rick Geller](Rick_Geller.md) (spoiler level 3): Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone.
 - [Roland Remore](Roland_Remore.md) (spoiler level 3): Roland Remore is Rufus's grandfather, a diamond-rank sword master, archchancellor of Remore Academy in Vitesse and leader of Burning Violet.
@@ -154,7 +154,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Velius](Velius.md) (spoiler level 3): A tall celestine diamond-ranker, the prime vessel of the Reaper.
 - [Vesta Carmis Zell](Vesta_Carmis_Zell.md) (spoiler level 3): The astral king who rules the messenger forces around Yaresh and keeps her servants capped with seals.
 - [Vincent Baudrillard](Vincent_Baudrillard.md) (spoiler level 3): A French swordsman from Saint-Étienne whom Rufus picked out young, now an upper-silver adventurer and Emi's love interest in 2038.
-- [Vincent Trenslow](Vincent_Trenslow.md) (spoiler level 0): An Adventure Society official with a magnificent moustache who runs Jason's field assessment.
+- [Vincent Trenslow](Vincent_Trenslow.md) (spoiler level 3): Vincent Trenslow is an Adventure Society official in Greenstone with a magnificent moustache, who runs Jason's field assessment and speaks to him with...
 - [Yumi Asano](Yumi_Asano.md) (spoiler level 3): Yumi Asano is Jason's paternal grandmother and the matriarch of the Asano clan.
 - [Zara Rimaros (Zara Nareen)](Zara_Rimaros.md) (spoiler level 1): Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess".
 - [Zareen Rimaros](Zareen_Rimaros.md) (spoiler level 3): Zareen Rimaros is Liara and Baseph's middle child: a three-star adventurer and political enthusiast with the royal family's sapphire hair and eyes.
