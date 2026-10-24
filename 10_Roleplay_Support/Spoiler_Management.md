@@ -5,7 +5,7 @@ Spoiler level: 0 for the method; each secret is marked by level
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1-13 (chapter files); levels defined in ../00_Project_Structure.md section 6
-Related: Who_Knows_What_When.md, 00_Roleplay_Overview.md, Era_Selection.md, ../00_Project_Structure.md, ../08_History_and_Timeline/Master_Timeline.md
+Related: Who_Knows_What_When.md, Spoiler_Safe_Summaries/Level_0_Public_Setting.md, Spoiler_Safe_Summaries/Level_1_Books_1-3.md, Spoiler_Safe_Summaries/Level_2_Books_4-9.md, Spoiler_Safe_Summaries/Level_3_Books_10-13.md, 00_Roleplay_Overview.md, Era_Selection.md, ../00_Project_Structure.md, ../08_History_and_Timeline/Master_Timeline.md
 
 ## 1. Summary
 

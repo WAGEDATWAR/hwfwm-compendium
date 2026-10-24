@@ -45,6 +45,13 @@ Start from the era table, then check each character's "valid from" book before y
 - [NPC Cards: Characters First Appearing in Books 7-9](NPC_Cards/NPC_Cards_Books_07-09.md) (spoiler level 2): One card per character, in alphabetical order.
 - [NPC Cards: Characters First Appearing in Books 10-13](NPC_Cards/NPC_Cards_Books_10-13.md) (spoiler level 3): One card per character, in alphabetical order.
 
+**Spoiler_Safe_Summaries/**
+
+- [Spoiler-Safe Summary: Level 0, Public Setting](Spoiler_Safe_Summaries/Level_0_Public_Setting.md) (spoiler level 0): This page uses only facts visible in the world from the first chapters.
+- [Spoiler-Safe Summary: Level 1, Books 1-3](Spoiler_Safe_Summaries/Level_1_Books_1-3.md) (spoiler level 1): Everything here is known by the end of Book 3.
+- [Spoiler-Safe Summary: Level 2, Books 4-9](Spoiler_Safe_Summaries/Level_2_Books_4-9.md) (spoiler level 2): Everything here is known by the end of Book 9, on top of levels 0 and 1.
+- [Spoiler-Safe Summary: Level 3, Books 10-13](Spoiler_Safe_Summaries/Level_3_Books_10-13.md) (spoiler level 3): This is the full-knowledge page.
+
 **Starter_Packs/**
 
 - [Starter Pack: Era 1, Greenstone (Books 1-2)](Starter_Packs/Era_1_Greenstone.md) (spoiler level 1)

@@ -633,6 +633,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Secrets and rumours by era, build plan item 4.4 (2026-10-24)**
 - Added `10_Roleplay_Support/Secrets_and_Rumours.md`: for each of the seven eras, a table of true facts, common beliefs and cover stories or rumours, each with a cited line. Level 3 header because Era 7 truths reach Book 13. Items the books did not support cleanly (Zara's public claim) were left out; open question noted for further Jason rumours.
 
+**Spoiler-safe summaries, build plan item 4.5 (2026-10-24)**
+- Added `10_Roleplay_Support/Spoiler_Safe_Summaries/` with one page per spoiler level (Level_0_Public_Setting, Level_1_Books_1-3, Level_2_Books_4-9, Level_3_Books_10-13). Each page uses only facts at or below its level, with cites already used elsewhere, and ends with a "Do not state" list. Linked from `Spoiler_Management.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
