@@ -21,7 +21,7 @@ Every claim in the compendium that carries a line citation (`Book N, ChX LY`), a
 
 Each reference in the Cited lines column shows its own grade in brackets. The overlap grade is a heuristic: a high grade does not prove the claim, and a low one does not disprove it.
 
-**Totals**: ok 8635, near 542, reviewed 21, notes 2, wiki 17 (9217 rows in 411 documents).
+**Totals**: ok 8675, near 543, reviewed 21, notes 2, wiki 17 (9258 rows in 412 documents).
 
 ## 01_World_Primer.md
 
@@ -10757,540 +10757,586 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R8763 | Fixed points: Gary drinks from the Cup of Heroes; Jason claims the soul forge; Boris reveals he is Unorthodoxy; Boris takes Rufus and Taika to Earth. | B10 Ch86 L59-61 (near); B11 Ch61 L21 (near); B11 Ch24 L85 (weak); B11 Ch66 L89 (near) | B10 Ch86 Insufficient Vessel; B11 Ch61 You Know It’s Trouble; B11 Ch24 Another Astral King; B11 Ch66 Party to Betrayal | near |  |
 | R8764 | Fixed points: Boko is destroyed; the System appears and its administrator gift goes to Jason; the last vampire lord dies at McKean's castle; Jason tells the world of Knowledge's plan. | B12 Ch33 L3 (weak); B11 Ch68 L2540 (weak); B12 Ch10 L14-17 (ok); B13 Ch1013 L34 (near); B13 Ch1017 L13-47 (near) | B12 Ch33 The Benevolence of a Nightmare God; B11 Ch68 Compassionate Strangers; B12 Ch10 Just Some Guy; B13 Ch1013 Something Jasony … | ok |  |
 
+## 10_Roleplay_Support/Secrets_and_Rumours.md
+
+| ID | Claim | Cited lines | Chapter | Check | Note |
+|---|---|---|---|---|---|
+| R8765 | True — Jason is an outworlder, known to his team — | B1 Ch21 L82-87 (near) | B1 Ch21 I Have the Power | near |  |
+| R8766 | True — The Order of the Reaper survives and the trials are a lure — | B2 Ch44 L72-78 (ok) | B2 Ch44 Shade | ok |  |
+| R8767 | True — Star seeds are creations of entities that exist only in the deep astral — | B2 Ch21 L26-28 (ok) | B2 Ch21 World Building | ok |  |
+| R8768 | Believed — The churches scoured the Order away — | B2 Ch25 L73 (ok) | B2 Ch25 Resurrection | ok |  |
+| R8769 | Believed — Jason is missing, so his name is on the demotion list — | B2 Ch12 L82-88 (ok) | B2 Ch12 We End Here | ok |  |
+| R8770 | Told or hidden — Cole Silva's father "went in his sleep"; rumours but nothing came of them — | B1 Ch51 L37 (ok) | B1 Ch51 Song of the Nightingale | ok |  |
+| R8771 | Told or hidden — A hooded Builder cultist posing as the foreman — | B2 Ch37 L24 (ok) | B2 Ch37 Make the Most of It | ok |  |
+| R8772 | Told or hidden — Rumours about Jonah, Thadwick and others disrupt the upper crust — | B2 Ch16 L75 (ok) | B2 Ch16 Picking Out the Good Ones | ok |  |
+| R8773 | True — The astral space is artificial, "a giant boarding vessel" — | B3 Ch65 L79 (ok) | B3 Ch65 Good News, Bad News | ok |  |
+| R8774 | True — Jason dies at the climax — | B3 Ch69 L900 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8775 | Believed — The church of Purity is the cult's accomplice under scrutiny — | B3 Ch1 L105 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R8776 | Told or hidden — Key Purity figures vanish on "previously scheduled sabbaticals" — | B3 Ch1 L106 (ok); B3 Ch31 L57 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask; B3 Ch31 Evil Detector | ok |  |
+| R8777 | Told or hidden — Lucian Lamprey scrambles to absolve himself over the star seed — | B3 Ch1 L107 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R8778 | True — The link between worlds has been siphoning magic from Pallimustus for centuries — | B4 Ch68 L59 (ok) | B4 Ch68 What You Have to Do | ok |  |
+| R8779 | True — The Reaper offered Farrah's return — | B5 Ch20 L41 (ok) | B5 Ch20 Instability | ok |  |
+| R8780 | True — The Network's founder used the door to create the imbalance — | B5 Ch42 L59 (ok) | B5 Ch42 Collateral Damage | ok |  |
+| R8781 | Believed — The Network's safe-zone claim caused the Broken Hill tragedy — | B5 Ch17 L28 (ok) | B5 Ch17 Broken | ok |  |
+| R8782 | Believed — The Four Cardinals of the EOA are "a modern myth" — | B5 Ch3 L57 (ok) | B5 Ch3 A Modern Myth | ok |  |
+| R8783 | Told or hidden — A "gas explosion" in Jason's Melbourne building and army "terrorist response exercises" — | B4 Ch4 L87 (ok); B4 Ch4 L94 (ok) | B4 Ch4 Some Secrets Change You Forever | ok |  |
+| R8784 | Told or hidden — The media story of the Starlight Rider and Starlight Angel personas — | B5 Ch11 L12 (ok) | B5 Ch11 Media Blitz | ok |  |
+| R8785 | True — The Builder cities' attacks were the perfect chance for the Order to move openly on its targeted towns, forcibly converting the reluctant — | B8 Ch9 L40 (ok) | B8 Ch9 Opportunists | ok |  |
+| R8786 | Believed — "Some guy told the Builder to go away and he did" — | B8 Ch63 L76 (ok) | B8 Ch63 Deeds of Legend | ok |  |
+| R8787 | Believed — The gods may have sanctioned Purity long ago — | B8 Ch48 L41 (ok) | B8 Ch48 Lest He Become a Monster Himself | ok |  |
+| R8788 | Told or hidden — The thugs hired against Sophie are probably "another level of cut-out" for the Order — | B8 Ch25 L135 (ok) | B8 Ch25 Sloppy Mistake | ok |  |
+| R8789 | True — Jason is a silver-rank astral king — | B9 Ch62 L30-34 (ok) | B9 Ch62 Apocalypse | ok |  |
+| R8790 | True — The Healer says Purity sanctioned himself, though most mortals believe the gods did it — | B9 Ch73 L41 (ok) | B9 Ch73 A Mortal Perspective | ok |  |
+| R8791 | Believed — Asano is responsible for the messenger invasion; Humphrey corrects that Jason and Farrah triggered the surge, not the invasion — | B9 Ch42 L75-77 (ok) | B9 Ch42 Quiet Professionalism | ok |  |
+| R8792 | Told or hidden — An Adventure Society functionary hides seething anger behind an aura mask — | B9 Ch77 L13 (ok) | B9 Ch77 The Better Adventurer | ok |  |
+| R8793 | Told or hidden — Kaal "played things mostly straight but kept things" from them — | B10 Ch59 L38 (ok) | B10 Ch59 What We’re Walking Into | ok |  |
+| R8794 | Told or hidden — Emir expects Kaal to betray an alliance — | B10 Ch10 L64 (ok) | B10 Ch10 Dark Bargain | ok |  |
+| R8795 | True — The birthing tree is the result of a failed attempt to create a soul forge — | B10 Ch80 L29 (ok) | B10 Ch80 Come Like a Tsunami | ok |  |
+| R8796 | True — Boris is of the Unorthodoxy — | B11 Ch24 L85 (ok) | B11 Ch24 Another Astral King | ok |  |
+| R8797 | Believed — Beaufort is an uneasy ally of the allies — | B10 Ch65 L30 (ok) | B10 Ch65 The Greatest Enemy of All | ok |  |
+| R8798 | Told or hidden — The Builder still watches Beaufort and told him to exploit a weakness — | B10 Ch73 L32 (ok) | B10 Ch73 The Impossible | ok |  |
+| R8799 | Told or hidden — A messenger consolidates strength while passing it off as a show of humility — | B11 Ch26 L82 (ok) | B11 Ch26 Messengers Don’t Have Hearts | ok |  |
+| R8800 | True — Knowledge has prepared for around half a millennium; the Order's destruction was arranged to help Disguise take Purity's place — | B13 Ch1017 L14 (ok); B13 Ch1017 L18 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8801 | True — Mr North was a magic spider familiar, not a theorist — | B13 Ch987 L16 (ok) | B13 Ch987 Consistent Agent of Chaos | ok |  |
+| R8802 | Believed — The world believed Knowledge used her knowledge to prepare for the messenger invasion, not that she plotted it — | B13 Ch1017 L42 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8803 | Believed — Many Earthlings believed Jason dead — | B12 Ch30 L75 (ok) | B12 Ch30 Posturing Children | ok |  |
+| R8804 | Believed — Noriko dismisses Jason as an opportunist — | B12 Ch63 L41 (ok) | B12 Ch63 We Already Know Who You Are | ok |  |
+| R8805 | Told or hidden — Marie Finnegan ran a tight operation with Elizabeth and McKean, with few in the know — | B13 Ch979 L72 (ok) | B13 Ch979 Unequivocally My Thing | ok |  |
+
 ## 10_Roleplay_Support/Spoiler_Management.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8765 | Jason is an outworlder: he tells Rufus that coming to this world is "a fresh start"; Danielle later investigates him at Gabriel Remore's request. Level 1. | B1 Ch25 L43 (ok); B1 Ch48 L101-102 (near) | B1 Ch25 Blasphemy is Kind of My Thing; B1 Ch48 An Endless, Inescapable Nightmare | ok |  |
-| R8766 | Star seeds and the Builder: an archbishop explains that great astral beings send followers star seeds; Clive explains that great astral beings cannot act in physical reality directly and recruit others. Level 1. | B2 Ch21 L26-28 (ok); B2 Ch21 L112 (ok) | B2 Ch21 World Building | ok |  |
-| R8767 | The Order of the Reaper: Emir says the churches "scoured" it away; Shade says it survives as a network of quiet allies and the trials are a lure. Level 1. | B2 Ch25 L73 (ok); B2 Ch60 L120-122 (ok) | B2 Ch25 Resurrection; B2 Ch60 Take the Loot and Go | ok |  |
-| R8768 | Dawn's role: the World-Phoenix's First Servant is its primary vessel; her true body is a celestine with ruby eyes. Level 1-2. | B3 Ch69 L1036 (ok); B7 Ch54 L87 (ok) | B3 Ch69 A War of Stolen Moments; B7 Ch54 Hegemon’s Will | ok |  |
-| R8769 | Jason's deaths: the Church of Death's certificate reads "died four times. So far.". Level 2. | B7 Ch17 L104 (ok) | B7 Ch17 It Will Not Be Fine | ok |  |
-| R8770 | Magic on Earth: hidden until the monster waves bring the Network into public view; "less than fifteen years ago, no one knew magic existed". Level 2. | B5 Ch17 L7 (near); B12 Ch2 L107 (ok) | B5 Ch17 Broken; B12 Ch2 If We Can’t Change For the Better | ok |  |
-| R8771 | Purity, Disguise and the Order of Redeeming Light: the gods may already have sanctioned Purity; Disguise created the order. Level 2-3. | B8 Ch48 L39-41 (ok); B10 Ch36 L14-17 (ok) | B8 Ch48 Lest He Become a Monster Himself; B10 Ch36 Mothers | ok |  |
-| R8772 | Astral king: Jason's astral kingdom appears with the Throne and Gate; a healer realises he is a silver-rank astral king. Level 2. | B8 Ch49 L105 (near); B9 Ch62 L30-34 (near) | B8 Ch49 Quite a Lot of System Windows; B9 Ch62 Apocalypse | near |  |
-| R8773 | The Builder's identity: the new Builder is the mortal messenger Zithis Carrow Vayel. Level 3. | B10 Ch26 L55 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps | ok |  |
-| R8774 | The messengers' brand and the Unorthodoxy: rank limits are a function of the brand. Level 3. | B11 Ch25 L51 (ok) | B11 Ch25 Unorthodoxy | ok |  |
-| R8775 | The Cosmic Throne's sundering: told by Raythe and Velius and in Jason's briefing. Level 3. | B11 Ch64 L24-27 (ok); B13 Ch1017 L6-8 (ok) | B11 Ch64 Unique in the Entire Cosmos; B13 Ch1017 A Room Full of Hands | ok |  |
-| R8776 | Knowledge's plan and the Network's founder: Knowledge has been preparing for around half a millennium. Level 3. | B13 Ch1017 L14-24 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R8777 | The System as Jason's: the System administrator gift. Level 3. | B12 Ch10 L14-17 (ok) | B12 Ch10 Just Some Guy | ok |  |
-| R8778 | Emir's account of the Order of the Reaper is contradicted by Shade's account; treat a character's story as belief unless a later line confirms it. | B2 Ch25 L73 (near); B2 Ch44 L72-78 (near) | B2 Ch25 Resurrection; B2 Ch44 Shade | near |  |
-| R8779 | Gods are limited: a goddess cannot see into an astral space Jason holds, and a priest says his god cannot see into a hidden building. Characters often assume they can. | B10 Ch31 L69-75 (ok); B8 Ch43 L48-53 (ok) | B10 Ch31 Ordinary Everyday Adventuring; B8 Ch43 We’re Adventurers | ok |  |
-| R8780 | A great astral being need not fear a god's retribution because gods cannot see into an astral space outside their world. | B3 Ch62 L33 (ok) | B3 Ch62 Losing the Battle to Win the War | ok |  |
+| R8806 | Jason is an outworlder: he tells Rufus that coming to this world is "a fresh start"; Danielle later investigates him at Gabriel Remore's request. Level 1. | B1 Ch25 L43 (ok); B1 Ch48 L101-102 (near) | B1 Ch25 Blasphemy is Kind of My Thing; B1 Ch48 An Endless, Inescapable Nightmare | ok |  |
+| R8807 | Star seeds and the Builder: an archbishop explains that great astral beings send followers star seeds; Clive explains that great astral beings cannot act in physical reality directly and recruit others. Level 1. | B2 Ch21 L26-28 (ok); B2 Ch21 L112 (ok) | B2 Ch21 World Building | ok |  |
+| R8808 | The Order of the Reaper: Emir says the churches "scoured" it away; Shade says it survives as a network of quiet allies and the trials are a lure. Level 1. | B2 Ch25 L73 (ok); B2 Ch60 L120-122 (ok) | B2 Ch25 Resurrection; B2 Ch60 Take the Loot and Go | ok |  |
+| R8809 | Dawn's role: the World-Phoenix's First Servant is its primary vessel; her true body is a celestine with ruby eyes. Level 1-2. | B3 Ch69 L1036 (ok); B7 Ch54 L87 (ok) | B3 Ch69 A War of Stolen Moments; B7 Ch54 Hegemon’s Will | ok |  |
+| R8810 | Jason's deaths: the Church of Death's certificate reads "died four times. So far.". Level 2. | B7 Ch17 L104 (ok) | B7 Ch17 It Will Not Be Fine | ok |  |
+| R8811 | Magic on Earth: hidden until the monster waves bring the Network into public view; "less than fifteen years ago, no one knew magic existed". Level 2. | B5 Ch17 L7 (near); B12 Ch2 L107 (ok) | B5 Ch17 Broken; B12 Ch2 If We Can’t Change For the Better | ok |  |
+| R8812 | Purity, Disguise and the Order of Redeeming Light: the gods may already have sanctioned Purity; Disguise created the order. Level 2-3. | B8 Ch48 L39-41 (ok); B10 Ch36 L14-17 (ok) | B8 Ch48 Lest He Become a Monster Himself; B10 Ch36 Mothers | ok |  |
+| R8813 | Astral king: Jason's astral kingdom appears with the Throne and Gate; a healer realises he is a silver-rank astral king. Level 2. | B8 Ch49 L105 (near); B9 Ch62 L30-34 (near) | B8 Ch49 Quite a Lot of System Windows; B9 Ch62 Apocalypse | near |  |
+| R8814 | The Builder's identity: the new Builder is the mortal messenger Zithis Carrow Vayel. Level 3. | B10 Ch26 L55 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps | ok |  |
+| R8815 | The messengers' brand and the Unorthodoxy: rank limits are a function of the brand. Level 3. | B11 Ch25 L51 (ok) | B11 Ch25 Unorthodoxy | ok |  |
+| R8816 | The Cosmic Throne's sundering: told by Raythe and Velius and in Jason's briefing. Level 3. | B11 Ch64 L24-27 (ok); B13 Ch1017 L6-8 (ok) | B11 Ch64 Unique in the Entire Cosmos; B13 Ch1017 A Room Full of Hands | ok |  |
+| R8817 | Knowledge's plan and the Network's founder: Knowledge has been preparing for around half a millennium. Level 3. | B13 Ch1017 L14-24 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8818 | The System as Jason's: the System administrator gift. Level 3. | B12 Ch10 L14-17 (ok) | B12 Ch10 Just Some Guy | ok |  |
+| R8819 | Emir's account of the Order of the Reaper is contradicted by Shade's account; treat a character's story as belief unless a later line confirms it. | B2 Ch25 L73 (near); B2 Ch44 L72-78 (near) | B2 Ch25 Resurrection; B2 Ch44 Shade | near |  |
+| R8820 | Gods are limited: a goddess cannot see into an astral space Jason holds, and a priest says his god cannot see into a hidden building. Characters often assume they can. | B10 Ch31 L69-75 (ok); B8 Ch43 L48-53 (ok) | B10 Ch31 Ordinary Everyday Adventuring; B8 Ch43 We’re Adventurers | ok |  |
+| R8821 | A great astral being need not fear a god's retribution because gods cannot see into an astral space outside their world. | B3 Ch62 L33 (ok) | B3 Ch62 Losing the Battle to Win the War | ok |  |
 
 ## 10_Roleplay_Support/Tone_and_Voice.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8781 | Deadpan humour inside the setting: Jason answers an unreadable item description with "Question marks. That's enlightening. Do I have to pay a wizard to identify items?". | B1 Ch1 L108 (ok) | B1 Ch1 Strange Business | ok |  |
-| R8782 | Modern references in a fantasy world: he suggests the Builder and Knowledge "play Mario Kart" and likens a projected face to Emperor Palpatine. | B3 Ch57 L87 (ok); B9 Ch6 L17 (near) | B3 Ch57 Thadwick; B9 Ch6 Dear John | ok |  |
-| R8783 | Australian idiom: "G'day" and "mate", "Strewth" and "yonks". | B1 Ch38 L55 (near); B2 Ch44 L130 (near); B13 Ch1007 L22 (ok) | B1 Ch38 Just Another Adventurer; B2 Ch44 Shade; B13 Ch1007 That Will Keep Them Dead | ok |  |
-| R8784 | Bleeped profanity: Nik's swearing is bleeped on the page: "[Bleep]ing rubes". | B11 Ch8 L102 (ok) | B11 Ch8 Rock Climbing | ok |  |
-| R8785 | Humour does not cancel stakes: Jason jokes about kneeling to the Storm King, and then answers a threat of execution flatly: "Die on my feet. I've done it before". | B7 Ch59 L81-83 (near) | B7 Ch59 One Battle at a Time | near |  |
-| R8786 | Titles for officials: "Instructor Trenslow" and "Instructor Spalding" during an assessment; "Priestess Pellin". | B1 Ch54 L36 (ok); B7 Ch9 L18 (near) | B1 Ch54 Field Assessment; B7 Ch9 More Paperwork | ok |  |
-| R8787 | Shade uses "Mr Asano" and "Master Nik". | B8 Ch50 L82 (near); B11 Ch36 L43 (ok) | B8 Ch50 Reasons to Quietly Dread; B11 Ch36 Instinctively Protected | ok |  |
-| R8788 | Messengers are addressed as lord whatever their sex, and a Voice of the Will as "Voice Kaal". | B9 Ch56 L13 (ok); B9 Ch56 L14 (ok) | B9 Ch56 Even Though You Fear | ok |  |
-| R8789 | Jason: sarcastic, deferential only when rank forces it, with a dry understatement when he is grieving ("It's not a celebratory time"). | B5 Ch20 L25 (near) | B5 Ch20 Instability | near |  |
-| R8790 | Rufus: courteous and formal, apologising for discourtesy to a priestess, gesturing with a sausage on a stick while explaining guild quotas. | B7 Ch9 L18 (near); B7 Ch12 L22-23 (ok) | B7 Ch9 More Paperwork; B7 Ch12 Contribution | ok |  |
-| R8791 | Farrah: lectures on any subject and is blunt when angry ("Barbou belongs to me"). | B1 Ch23 L15-17 (weak); B6 Ch26 L9 (ok) | B1 Ch23 I May have Made a Huge Mistake; B6 Ch26 Wash Them First | ok |  |
-| R8792 | Gary: deep and growling, plain about death ("rattling around in a hole"). | B1 Ch9 L121 (ok); B11 Ch57 L60 (ok) | B1 Ch9 Escape; B11 Ch57 Different Enough | ok |  |
-| R8793 | Humphrey: precise and a little shy about romance, then crisp in command. | B1 Ch47 L88-89 (ok); B13 Ch958 L48 (near) | B1 Ch47 Mirage Chamber; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
-| R8794 | Sophie: wary of kindness, silent about pain. | B2 Ch1 L77-80 (near); B2 Ch45 L69-72 (ok) | B2 Ch1 Climbing Mountains; B2 Ch45 Seriously Hardcore | ok |  |
-| R8795 | Clive: a lecturer who loses the thread and apologises and jokes about wrestling an eel. | B11 Ch68 L748 (weak); B1 Ch68 L92-94 (near) | B11 Ch68 Compassionate Strangers; B1 Ch68 Good News For Clive | near |  |
-| R8796 | Neil: tentative before he commits. | B2 Ch27 L46 (ok) | B2 Ch27 Potential | ok |  |
-| R8797 | Belinda: delighted by her own power and teasing. | B2 Ch32 L72 (near); B7 Ch6 L42 (near) | B2 Ch32 Full Jason; B7 Ch6 Responsible Dad | near |  |
-| R8798 | Danielle: blunt and quick on a weakness, certain that "diplomacy is war". | B1 Ch47 L89 (ok); B12 Ch23 L79 (near) | B1 Ch47 Mirage Chamber; B12 Ch23 Objectives | ok |  |
-| R8799 | Emir: smooth and showy, fond of grand entrances and a polished aside. | B3 Ch5 L9 (near); B3 Ch69 L509 (weak) | B3 Ch5 Departures; B3 Ch69 A War of Stolen Moments | near |  |
-| R8800 | Dawn: composed and dry, lying lightly to Jason's face ("Of course I wasn't"). | B5 Ch20 L24 (near) | B5 Ch20 Instability | near |  |
-| R8801 | Shade: butler-formal courtesy. | B8 Ch50 L82 (weak); B11 Ch36 L43 (near) | B8 Ch50 Reasons to Quietly Dread; B11 Ch36 Instinctively Protected | near |  |
-| R8802 | Zara: courtly with a threat in the smile. | B2 Ch69 L17-19 (ok) | B2 Ch69 Particular Appetites | ok |  |
-| R8803 | Boris: measured and careful. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R8804 | Emi: sharp and political at thirteen, telling a reporter his story on mining deregulation was "an exercise in buffoonery". | B5 Ch24 L3-5 (ok) | B5 Ch24 Candid and Authentic | ok |  |
-| R8805 | Nik: foul-mouthed, a four-foot rabbit in a top hat and tuxedo whose swearing is bleeped. He says his name is "NIK, no C". | B11 Ch8 L102-106 (ok); B11 Ch23 L42 (weak) | B11 Ch8 Rock Climbing; B11 Ch23 Small, Easy or Inconsequential | ok |  |
-| R8806 | Taika: casual, as in "That legit sucked, bro". | B11 Ch68 L472 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R8807 | Mr North: amused and unhurried. | B5 Ch41 L33 (ok) | B5 Ch41 Parade of Delights | ok |  |
-| R8808 | Raythe: terse and final. Knowledge: "detached and untouchable". | B9 Ch97 L80 (near); B1 Ch46 L16 (ok) | B9 Ch97 An Extremely Annoying Catalyst; B1 Ch46 Blatant Manipulation | ok |  |
+| R8822 | Deadpan humour inside the setting: Jason answers an unreadable item description with "Question marks. That's enlightening. Do I have to pay a wizard to identify items?". | B1 Ch1 L108 (ok) | B1 Ch1 Strange Business | ok |  |
+| R8823 | Modern references in a fantasy world: he suggests the Builder and Knowledge "play Mario Kart" and likens a projected face to Emperor Palpatine. | B3 Ch57 L87 (ok); B9 Ch6 L17 (near) | B3 Ch57 Thadwick; B9 Ch6 Dear John | ok |  |
+| R8824 | Australian idiom: "G'day" and "mate", "Strewth" and "yonks". | B1 Ch38 L55 (near); B2 Ch44 L130 (near); B13 Ch1007 L22 (ok) | B1 Ch38 Just Another Adventurer; B2 Ch44 Shade; B13 Ch1007 That Will Keep Them Dead | ok |  |
+| R8825 | Bleeped profanity: Nik's swearing is bleeped on the page: "[Bleep]ing rubes". | B11 Ch8 L102 (ok) | B11 Ch8 Rock Climbing | ok |  |
+| R8826 | Humour does not cancel stakes: Jason jokes about kneeling to the Storm King, and then answers a threat of execution flatly: "Die on my feet. I've done it before". | B7 Ch59 L81-83 (near) | B7 Ch59 One Battle at a Time | near |  |
+| R8827 | Titles for officials: "Instructor Trenslow" and "Instructor Spalding" during an assessment; "Priestess Pellin". | B1 Ch54 L36 (ok); B7 Ch9 L18 (near) | B1 Ch54 Field Assessment; B7 Ch9 More Paperwork | ok |  |
+| R8828 | Shade uses "Mr Asano" and "Master Nik". | B8 Ch50 L82 (near); B11 Ch36 L43 (ok) | B8 Ch50 Reasons to Quietly Dread; B11 Ch36 Instinctively Protected | ok |  |
+| R8829 | Messengers are addressed as lord whatever their sex, and a Voice of the Will as "Voice Kaal". | B9 Ch56 L13 (ok); B9 Ch56 L14 (ok) | B9 Ch56 Even Though You Fear | ok |  |
+| R8830 | Jason: sarcastic, deferential only when rank forces it, with a dry understatement when he is grieving ("It's not a celebratory time"). | B5 Ch20 L25 (near) | B5 Ch20 Instability | near |  |
+| R8831 | Rufus: courteous and formal, apologising for discourtesy to a priestess, gesturing with a sausage on a stick while explaining guild quotas. | B7 Ch9 L18 (near); B7 Ch12 L22-23 (ok) | B7 Ch9 More Paperwork; B7 Ch12 Contribution | ok |  |
+| R8832 | Farrah: lectures on any subject and is blunt when angry ("Barbou belongs to me"). | B1 Ch23 L15-17 (weak); B6 Ch26 L9 (ok) | B1 Ch23 I May have Made a Huge Mistake; B6 Ch26 Wash Them First | ok |  |
+| R8833 | Gary: deep and growling, plain about death ("rattling around in a hole"). | B1 Ch9 L121 (ok); B11 Ch57 L60 (ok) | B1 Ch9 Escape; B11 Ch57 Different Enough | ok |  |
+| R8834 | Humphrey: precise and a little shy about romance, then crisp in command. | B1 Ch47 L88-89 (ok); B13 Ch958 L48 (near) | B1 Ch47 Mirage Chamber; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
+| R8835 | Sophie: wary of kindness, silent about pain. | B2 Ch1 L77-80 (near); B2 Ch45 L69-72 (ok) | B2 Ch1 Climbing Mountains; B2 Ch45 Seriously Hardcore | ok |  |
+| R8836 | Clive: a lecturer who loses the thread and apologises and jokes about wrestling an eel. | B11 Ch68 L748 (weak); B1 Ch68 L92-94 (near) | B11 Ch68 Compassionate Strangers; B1 Ch68 Good News For Clive | near |  |
+| R8837 | Neil: tentative before he commits. | B2 Ch27 L46 (ok) | B2 Ch27 Potential | ok |  |
+| R8838 | Belinda: delighted by her own power and teasing. | B2 Ch32 L72 (near); B7 Ch6 L42 (near) | B2 Ch32 Full Jason; B7 Ch6 Responsible Dad | near |  |
+| R8839 | Danielle: blunt and quick on a weakness, certain that "diplomacy is war". | B1 Ch47 L89 (ok); B12 Ch23 L79 (near) | B1 Ch47 Mirage Chamber; B12 Ch23 Objectives | ok |  |
+| R8840 | Emir: smooth and showy, fond of grand entrances and a polished aside. | B3 Ch5 L9 (near); B3 Ch69 L509 (weak) | B3 Ch5 Departures; B3 Ch69 A War of Stolen Moments | near |  |
+| R8841 | Dawn: composed and dry, lying lightly to Jason's face ("Of course I wasn't"). | B5 Ch20 L24 (near) | B5 Ch20 Instability | near |  |
+| R8842 | Shade: butler-formal courtesy. | B8 Ch50 L82 (weak); B11 Ch36 L43 (near) | B8 Ch50 Reasons to Quietly Dread; B11 Ch36 Instinctively Protected | near |  |
+| R8843 | Zara: courtly with a threat in the smile. | B2 Ch69 L17-19 (ok) | B2 Ch69 Particular Appetites | ok |  |
+| R8844 | Boris: measured and careful. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R8845 | Emi: sharp and political at thirteen, telling a reporter his story on mining deregulation was "an exercise in buffoonery". | B5 Ch24 L3-5 (ok) | B5 Ch24 Candid and Authentic | ok |  |
+| R8846 | Nik: foul-mouthed, a four-foot rabbit in a top hat and tuxedo whose swearing is bleeped. He says his name is "NIK, no C". | B11 Ch8 L102-106 (ok); B11 Ch23 L42 (weak) | B11 Ch8 Rock Climbing; B11 Ch23 Small, Easy or Inconsequential | ok |  |
+| R8847 | Taika: casual, as in "That legit sucked, bro". | B11 Ch68 L472 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R8848 | Mr North: amused and unhurried. | B5 Ch41 L33 (ok) | B5 Ch41 Parade of Delights | ok |  |
+| R8849 | Raythe: terse and final. Knowledge: "detached and untouchable". | B9 Ch97 L80 (near); B1 Ch46 L16 (ok) | B9 Ch97 An Extremely Annoying Catalyst; B1 Ch46 Blatant Manipulation | ok |  |
 
 ## 10_Roleplay_Support/Who_Knows_What_When.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8809 | Jason's team (Rufus, Farrah, Gary, Humphrey, Clive) —; — A | B1 Ch21 L82-87 (ok); B1 Ch80 L7 (near); B1 Ch68 L81 (near) | B1 Ch21 I Have the Power; B1 Ch80 It’s Not Work if You Love What You Do; B1 Ch68 Good News For Clive | ok |  |
-| R8810 | Greenstone's elite (Danielle Geller, Emir) — Danielle investigates him; Emir: "This is why I like outworlders" — A | B1 Ch48 L101-105 (weak); B1 Ch108 L6 (near) | B1 Ch48 An Endless, Inescapable Nightmare; B1 Ch108 You Don’t Have the Strength | near |  |
-| R8811 | The Builder cult — Book 3 cultists call him "the Rejector"; that he is an outworlder is not shown — A (as an enemy) | B3 Ch32 L105 (ok) | B3 Ch32 The World Needs People Like You | ok |  |
-| R8812 | The Network — Aram: "If you really are an outworlder"; Anna suspects — B | B4 Ch18 L29 (ok); B4 Ch19 L69 (ok) | B4 Ch18 Brown Trousers Time; B4 Ch19 The Complete Set | ok |  |
-| R8813 | Earth's public — The media storm over the Starlight Rider and Angel personas — B | B5 Ch11 L12 (ok) | B5 Ch11 Media Blitz | ok |  |
-| R8814 | The Rimaros royals — Soramir tells him he sensed his arrival — C | B7 Ch18 L42 (near) | B7 Ch18 A Story of War | near |  |
-| R8815 | The messengers — Marek confirms the man he suspected is Jason Asano — C | B9 Ch97 L51 (ok) | B9 Ch97 An Extremely Annoying Catalyst | ok |  |
-| R8816 | Jason and Dawn — The astral throne and gate appear; Dawn says he is an astral king because he has both — C | B8 Ch49 L105 (ok); B8 Ch65 L88 (ok) | B8 Ch49 Quite a Lot of System Windows; B8 Ch65 What Light Does | ok |  |
-| R8817 | Soramir — Warns him the messengers will not like it if people find out — C | B9 Ch23 L44 (ok) | B9 Ch23 Put the Extraordinary Aside | ok |  |
-| R8818 | A messenger healer — Realises he is a silver-rank astral king — C | B9 Ch62 L30-34 (ok) | B9 Ch62 Apocalypse | ok |  |
-| R8819 | The wider messenger forces — They feel his aura as the unmistakable feel of an astral king — D | B11 Ch42 L9 (ok) | B11 Ch42 A Decision Made Poorly and in Haste | ok |  |
-| R8820 | Emir and the churches' story — Emir says it was scoured away — A (as belief) | B2 Ch25 L73 (ok) | B2 Ch25 Resurrection | ok |  |
-| R8821 | Jason's team — Shade says it survives and the trials are a lure — A | B2 Ch44 L72-78 (ok); B2 Ch60 L120 (ok) | B2 Ch44 Shade; B2 Ch60 Take the Loot and Go | ok |  |
-| R8822 | Emir's old team — Callum says the Order is an offshoot of the cult — B | B6 Ch47 L590 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R8823 | The churches generally — Their belief that the Order was wiped out is corrected only in Jason's lecture — D | B13 Ch1017 L18 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R8824 | Greenstone's elite — A star seed killed Jonah; the cult aims to seal an astral space — A | B2 Ch21 L19-28 (ok); B2 Ch21 L123 (near) | B2 Ch21 World Building | ok |  |
-| R8825 | Adventure Society and the Continental Council — The inquiry team arrives and works on a captured cultist — A | B2 Ch10 L51 (ok); B3 Ch32 L105 (ok) | B2 Ch10 Star Seed; B3 Ch32 The World Needs People Like You | ok |  |
-| R8826 | Jason alone — Dawn tells him the link between worlds is siphoning magic and that Purity has bargained with the Builder — B | B4 Ch68 L59 (ok); B4 Ch68 L139 (near) | B4 Ch68 What You Have to Do | ok |  |
-| R8827 | The Rimaros authorities — The Builder cult response team; invasion platforms — C | B7 Ch11 L5 (ok); B7 Ch8 L36 (near) | B7 Ch11 Don’t Say You Weren’t Warned; B7 Ch8 Disappointed or Relieved | ok |  |
-| R8828 | Farrah — Jason tells her the Builder-and-outworlder story — C | B8 Ch57 L53-59 (ok) | B8 Ch57 Flavours of Authority | ok |  |
-| R8829 | Allayeth — Jason tells her the Builder was a messenger, Zithis Carrow Vayel — D | B10 Ch26 L54-55 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps | ok |  |
-| R8830 | Jason's side — Dawn: the outworlder who brought the door likely modified the link first and was not a Builder follower; the team's understanding is that the founder used the door — B | B5 Ch22 L46-48 (ok); B5 Ch42 L59 (ok) | B5 Ch22 Arms Race; B5 Ch42 Collateral Damage | ok |  |
-| R8831 | The Network — Mr North was originally a rune spider — B | B5 Ch40 L79 (ok) | B5 Ch40 An Unexpected Direction | ok |  |
-| R8832 | The lecture-hall audience — Jason explains the founder, Disguise-as-Purity and his fate — D | B13 Ch1017 L19-24 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R8833 | Jason's party — The party interface — A | B1 Ch87 L157-163 (ok) | B1 Ch87 Can’t Lose | ok |  |
-| R8834 | The whole world — The System message; the Adventure Society links it to Jason — D | B11 Ch68 L2540 (weak); B12 Ch1 L44-54 (ok) | B11 Ch68 Compassionate Strangers; B12 Ch1 Why He Hasn’t | ok |  |
-| R8835 | Anna Tilden — Suspects the System might be a cosmic force rather than Jason — D | B12 Ch42 L99 (ok) | B12 Ch42 A Thing That Makes the Car Work | ok |  |
-| R8836 | The Book 13 audience — Knowledge's plan, the founder and the holy war — D | B13 Ch1017 L13-47 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R8837 | Knowledge's church — Travis's talks over Earth magitech are part of the plan; not shown as knowing — D | B9 Ch13 L85 (ok) | B9 Ch13 A Difficult Child | ok |  |
-| R8838 | Jason's team — Jason dies in Book 3 and is memorialised — A | B3 Ch69 L378 (near); B3 Ch69 L409 (near) | B3 Ch69 A War of Stolen Moments | near |  |
-| R8839 | Erika and family — Jason says he has died twice already — B | B4 Ch56 L22 (ok) | B4 Ch56 A Wizard Did It | ok |  |
-| R8840 | The wider world — The Church of Death's certificate reads "died four times. So far" — C | B7 Ch17 L104 (ok) | B7 Ch17 It Will Not Be Fine | ok |  |
+| R8850 | Jason's team (Rufus, Farrah, Gary, Humphrey, Clive) —; — A | B1 Ch21 L82-87 (ok); B1 Ch80 L7 (near); B1 Ch68 L81 (near) | B1 Ch21 I Have the Power; B1 Ch80 It’s Not Work if You Love What You Do; B1 Ch68 Good News For Clive | ok |  |
+| R8851 | Greenstone's elite (Danielle Geller, Emir) — Danielle investigates him; Emir: "This is why I like outworlders" — A | B1 Ch48 L101-105 (weak); B1 Ch108 L6 (near) | B1 Ch48 An Endless, Inescapable Nightmare; B1 Ch108 You Don’t Have the Strength | near |  |
+| R8852 | The Builder cult — Book 3 cultists call him "the Rejector"; that he is an outworlder is not shown — A (as an enemy) | B3 Ch32 L105 (ok) | B3 Ch32 The World Needs People Like You | ok |  |
+| R8853 | The Network — Aram: "If you really are an outworlder"; Anna suspects — B | B4 Ch18 L29 (ok); B4 Ch19 L69 (ok) | B4 Ch18 Brown Trousers Time; B4 Ch19 The Complete Set | ok |  |
+| R8854 | Earth's public — The media storm over the Starlight Rider and Angel personas — B | B5 Ch11 L12 (ok) | B5 Ch11 Media Blitz | ok |  |
+| R8855 | The Rimaros royals — Soramir tells him he sensed his arrival — C | B7 Ch18 L42 (near) | B7 Ch18 A Story of War | near |  |
+| R8856 | The messengers — Marek confirms the man he suspected is Jason Asano — C | B9 Ch97 L51 (ok) | B9 Ch97 An Extremely Annoying Catalyst | ok |  |
+| R8857 | Jason and Dawn — The astral throne and gate appear; Dawn says he is an astral king because he has both — C | B8 Ch49 L105 (ok); B8 Ch65 L88 (ok) | B8 Ch49 Quite a Lot of System Windows; B8 Ch65 What Light Does | ok |  |
+| R8858 | Soramir — Warns him the messengers will not like it if people find out — C | B9 Ch23 L44 (ok) | B9 Ch23 Put the Extraordinary Aside | ok |  |
+| R8859 | A messenger healer — Realises he is a silver-rank astral king — C | B9 Ch62 L30-34 (ok) | B9 Ch62 Apocalypse | ok |  |
+| R8860 | The wider messenger forces — They feel his aura as the unmistakable feel of an astral king — D | B11 Ch42 L9 (ok) | B11 Ch42 A Decision Made Poorly and in Haste | ok |  |
+| R8861 | Emir and the churches' story — Emir says it was scoured away — A (as belief) | B2 Ch25 L73 (ok) | B2 Ch25 Resurrection | ok |  |
+| R8862 | Jason's team — Shade says it survives and the trials are a lure — A | B2 Ch44 L72-78 (ok); B2 Ch60 L120 (ok) | B2 Ch44 Shade; B2 Ch60 Take the Loot and Go | ok |  |
+| R8863 | Emir's old team — Callum says the Order is an offshoot of the cult — B | B6 Ch47 L590 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R8864 | The churches generally — Their belief that the Order was wiped out is corrected only in Jason's lecture — D | B13 Ch1017 L18 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8865 | Greenstone's elite — A star seed killed Jonah; the cult aims to seal an astral space — A | B2 Ch21 L19-28 (ok); B2 Ch21 L123 (near) | B2 Ch21 World Building | ok |  |
+| R8866 | Adventure Society and the Continental Council — The inquiry team arrives and works on a captured cultist — A | B2 Ch10 L51 (ok); B3 Ch32 L105 (ok) | B2 Ch10 Star Seed; B3 Ch32 The World Needs People Like You | ok |  |
+| R8867 | Jason alone — Dawn tells him the link between worlds is siphoning magic and that Purity has bargained with the Builder — B | B4 Ch68 L59 (ok); B4 Ch68 L139 (near) | B4 Ch68 What You Have to Do | ok |  |
+| R8868 | The Rimaros authorities — The Builder cult response team; invasion platforms — C | B7 Ch11 L5 (ok); B7 Ch8 L36 (near) | B7 Ch11 Don’t Say You Weren’t Warned; B7 Ch8 Disappointed or Relieved | ok |  |
+| R8869 | Farrah — Jason tells her the Builder-and-outworlder story — C | B8 Ch57 L53-59 (ok) | B8 Ch57 Flavours of Authority | ok |  |
+| R8870 | Allayeth — Jason tells her the Builder was a messenger, Zithis Carrow Vayel — D | B10 Ch26 L54-55 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps | ok |  |
+| R8871 | Jason's side — Dawn: the outworlder who brought the door likely modified the link first and was not a Builder follower; the team's understanding is that the founder used the door — B | B5 Ch22 L46-48 (ok); B5 Ch42 L59 (ok) | B5 Ch22 Arms Race; B5 Ch42 Collateral Damage | ok |  |
+| R8872 | The Network — Mr North was originally a rune spider — B | B5 Ch40 L79 (ok) | B5 Ch40 An Unexpected Direction | ok |  |
+| R8873 | The lecture-hall audience — Jason explains the founder, Disguise-as-Purity and his fate — D | B13 Ch1017 L19-24 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8874 | Jason's party — The party interface — A | B1 Ch87 L157-163 (ok) | B1 Ch87 Can’t Lose | ok |  |
+| R8875 | The whole world — The System message; the Adventure Society links it to Jason — D | B11 Ch68 L2540 (weak); B12 Ch1 L44-54 (ok) | B11 Ch68 Compassionate Strangers; B12 Ch1 Why He Hasn’t | ok |  |
+| R8876 | Anna Tilden — Suspects the System might be a cosmic force rather than Jason — D | B12 Ch42 L99 (ok) | B12 Ch42 A Thing That Makes the Car Work | ok |  |
+| R8877 | The Book 13 audience — Knowledge's plan, the founder and the holy war — D | B13 Ch1017 L13-47 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8878 | Knowledge's church — Travis's talks over Earth magitech are part of the plan; not shown as knowing — D | B9 Ch13 L85 (ok) | B9 Ch13 A Difficult Child | ok |  |
+| R8879 | Jason's team — Jason dies in Book 3 and is memorialised — A | B3 Ch69 L378 (near); B3 Ch69 L409 (near) | B3 Ch69 A War of Stolen Moments | near |  |
+| R8880 | Erika and family — Jason says he has died twice already — B | B4 Ch56 L22 (ok) | B4 Ch56 A Wizard Did It | ok |  |
+| R8881 | The wider world — The Church of Death's certificate reads "died four times. So far" — C | B7 Ch17 L104 (ok) | B7 Ch17 It Will Not Be Fine | ok |  |
 
 ## 10_Roleplay_Support/NPC_Cards/NPC_Cards_Books_01-03.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8841 | Appearance: An elf with a library full of art, including a large desert painting. | B2 Ch17 L98 (ok) | B2 Ch17 Events Loom Large | ok |  |
-| R8842 | Secret or spoiler note: His daughter's parentage was kept secret for years. | B1 Ch104 L88 (ok) | B1 Ch104 An Outcome That Satisfies | ok |  |
-| R8843 | Appearance: An elf, platinum-haired and fair-skinned, in fitted white adventuring gear. | B2 Ch10 L92 (weak); B3 Ch41 L53 (ok) | B2 Ch10 Star Seed; B3 Ch41 Terms of the Pact | ok |  |
-| R8844 | Secret or spoiler note: Jason notes most of the people he first met in this world are dead. | B3 Ch60 L5 (ok) | B3 Ch60 Being What he Needs to Be | ok |  |
-| R8845 | Appearance: Dark-skinned, "even darker skin than her husband", with long hair dyed rainbow colours "in the Vitesse style". | B2 Ch32 L52 (ok) | B2 Ch32 Full Jason | ok |  |
-| R8846 | Cues: "Charlatan," she says with glee; she urges Jason to find an excuse to head up on deck where Sophie can see him. | B2 Ch32 L72 (near); B7 Ch6 L42 (ok) | B2 Ch32 Full Jason; B7 Ch6 Responsible Dad | ok |  |
-| R8847 | Voice: Quiet, patient and unfazed; he lets a hard decision stand and speaks plainly. "Sensible," Callum agrees. | B2 Ch36 L79 (near) | B2 Ch36 The Price We Pay Doesn’t Matter | near |  |
-| R8848 | Appearance: A broad-shouldered, swarthy man with the polished perfection of gold rank, who wears casual clothes rather than Healer robes. | B3 Ch22 L6 (ok) | B3 Ch22 Lingering Doubts | ok |  |
-| R8849 | Secret or spoiler note: His work on the Flames of Redemption leads to the Book 10 conclusion that they are an extreme modification of lesser vampirism. | B10 Ch36 L14 (ok) | B10 Ch36 Mothers | ok |  |
-| R8850 | Appearance: Smart, capable and "gorgeous", the object of many Mercer-orbit boys' crushes. | B2 Ch27 L43 (ok) | B2 Ch27 Potential | ok |  |
-| R8851 | Appearance: Dark cascading hair and a walk "so sultry she was almost swerving"; she looks only a few years older than the two women with her. | B1 Ch43 L29 (ok) | B1 Ch43 Nightingale | ok |  |
-| R8852 | Appearance: "Rather tall, but his narrow frame and hunched posture made him seem lanky and awkward", wearing voluminous scholarly robes that "dangled off him like they'd been hung out to dry". | B1 Ch42 L44 (ok) | B1 Ch42 This is the Pits | ok |  |
-| R8853 | Appearance: Normally shoulder-length brown hair, which she cropped short before reaching gold; pale skin and light green and brown armour. | B6 Ch47 L542 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R8854 | Appearance: A young-looking woman in her early thirties with olive skin and dark hair, "no older than her son Landemere". | B1 Ch11 L65 (ok) | B1 Ch11 Dashing Heroics | ok |  |
-| R8855 | Secret or spoiler note: Her body ends up on the stone floor at the edge of the chamber rather than in the pool; Jason later alludes to her head being "smashed open". | B1 Ch13 L55 (ok); B1 Ch97 L122 (near) | B1 Ch13 This is the Part Where We Step Back; B1 Ch97 Integrity is Sexy | ok |  |
-| R8856 | Appearance: Silver-rank and ageless-looking: she seems about thirty and is fifty in fact; Jason sees the same agelessness in Emir and Thalia Mercer. | B1 Ch108 L35-37 (ok) | B1 Ch108 You Don’t Have the Strength | ok |  |
-| R8857 | Cues: "Gabrielle?", asked as if she has latched on to a weakness; "I said that diplomacy is war, Jason, and wars have objectives". | B1 Ch47 L89 (ok); B12 Ch23 L79 (ok) | B1 Ch47 Mirage Chamber; B12 Ch23 Objectives | ok |  |
-| R8858 | Role: Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel (describes the post; the notes identify Dawn as holder of it, notes, Book 4). | B3 Ch69 L1036-1040 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8859 | Appearance: Her true body is a celestine with ruby eyes and hair. | B7 Ch54 L87 (ok) | B7 Ch54 Hegemon’s Will | ok |  |
-| R8860 | Cue: "You realise that you could have asked that instead of punching my nose through my brain". | B5 Ch20 L21 (ok) | B5 Ch20 Instability | ok |  |
-| R8861 | Voice: Dry and steady, a shield for others; he points out hard truths about the weight of numbers. | B11 Ch11 L49 (near) | B11 Ch11 Style Over Substance | near |  |
-| R8862 | Appearance: An elf; Jason had spoken with her only once before the inquiry. | B1 Ch83 L45 (ok) | B1 Ch83 It Makes No Difference to the Ant | ok |  |
-| R8863 | Secret or spoiler note: Her parentage was once secret. | B2 Ch3 L3 (near) | B2 Ch3 See You in Court | near |  |
-| R8864 | Appearance: Dark-skinned, with dark curly hair tied back behind his head, "midnight skin" and sleek clothes. | B2 Ch31 L90 (ok); B1 Ch101 L64 (ok) | B2 Ch31 Arrival; B1 Ch101 Fantasy World Goodness | ok |  |
-| R8865 | Secret or spoiler note: He knew of the Order of the Reaper's return long before the team. | B9 Ch27 L65 (near) | B9 Ch27 An Evil God Sitting on Her Shoulder | near |  |
-| R8866 | Appearance: Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage. | B1 Ch12 L11 (ok) | B1 Ch12 Sanguine Horror | ok |  |
-| R8867 | Voice: A lecturer who turns blunt when angry. Cues: "Barbou belongs to me". | B1 Ch23 L15-17 (weak); B6 Ch26 L9 (near) | B1 Ch23 I May have Made a Huge Mistake; B6 Ch26 Wash Them First | near |  |
-| R8868 | Appearance: Looks a lot like Rufus: tall, dark and muscular, but with hair worn in colourful beads that trail down to his shoulders in chains. | B10 Ch57 L93 (ok) | B10 Ch57 Welcome Aboard | ok |  |
-| R8869 | Appearance: By seventeen she was "astoundingly beautiful"; later "basically Helen of Troy". | B10 Ch8 L51 (ok) | B10 Ch8 Original Design Parameters | ok |  |
-| R8870 | Secret or spoiler note: Book 13 describes a cube leaving her chest into Knowledge's hand. | B13 Ch1023 L139 (ok) | B13 Ch1023 Broken What Matters Most | ok |  |
-| R8871 | Appearance: A huge "lion man" whose voice is growly by default; so large "he made bodybuilders look small". | B1 Ch9 L121 (near); B1 Ch14 L14 (ok) | B1 Ch9 Escape; B1 Ch14 Worlds Apart | ok |  |
-| R8872 | Voice: Deep, growling and plain-spoken. Cues: "rattling around in a hole". | B1 Ch9 L121 (ok); B11 Ch57 L60 (ok) | B1 Ch9 Escape; B11 Ch57 Different Enough | ok |  |
-| R8873 | Appearance: A draconian with red and gold scales, in a white robe like Dawn's, humble beyond what is usual for her people. | B3 Ch69 L920 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8874 | Secret or spoiler note: The agreement with the World-Phoenix ends when the bridge is complete. | B13 Ch1024 L75-81 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
-| R8875 | Appearance: Statuesque, like her brother, with strong, handsome features and short practical hair; the siblings both favour their burly father over their slender mother. | B2 Ch75 L70 (ok) | B2 Ch75 Impossible Wasn’t Enough | ok |  |
-| R8876 | Appearance: The Asiatic-looking person Jason sees first in this world, closer to South Asian than his own Japanese features. | B2 Ch34 L55 (ok) | B2 Ch34 I Don’t Like This Plan | ok |  |
-| R8877 | Appearance: Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1. | B1 Ch66 L58 (ok) | B1 Ch66 A Stronger Weapon Than the One in Your Hand | ok |  |
-| R8878 | Cues: he turns white and shakes his head when Jason asks about Gabrielle; in expedition leader mode he refers to his mother by name and issues her orders. | B1 Ch47 L88-89 (ok); B13 Ch958 L48 (ok) | B1 Ch47 Mirage Chamber; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
-| R8879 | Appearance: Heavy armour and a shield slow him on Rick's team. | B1 Ch67 L14-15 (ok) | B1 Ch67 This is What it Means to Fight Me | ok |  |
-| R8880 | Appearance: Not described in detail in the lines read; on a mission he puts away his coat and pulls out another one "covered in pockets". | B7 Ch4 L25 (ok) | B7 Ch4 Strategic Doctrine | ok |  |
-| R8881 | Secret or spoiler note: The Healer's direct support is one reason the clinic is protected. | B3 Ch16 L82 (near) | B3 Ch16 Disbanded | near |  |
-| R8882 | Appearance: Jason's face is more angular than his brother's; Kaito has a "signature easy-going smile" that Jason spent years learning to copy. | B4 Ch25 L44 (ok) | B4 Ch25 Uncommon Mistake | ok |  |
-| R8883 | Secret or spoiler note: His death is why Amy's children grow up without a father "because he followed me". | B7 Ch1 L15 (ok) | B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
-| R8884 | Appearance: Not described in detail in the lines read; he brushes his fingers over his son's scars. | B4 Ch27 L109 (near) | B4 Ch27 A Big Dose of Normal | near |  |
-| R8885 | Secret or spoiler note: Open question: where he is held after Book 9 and whether he escapes; Jason only guesses he is "in a Magic Society basement somewhere". | B10 Ch58 L106 (ok) | B10 Ch58 Quick and Clean | ok |  |
-| R8886 | Appearance: In Book 1 a statue is replaced by a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable", not holding the statue's book. | B1 Ch46 L16 (ok) | B1 Ch46 Blatant Manipulation | ok |  |
-| R8887 | Voice: Detached and untouchable in manner. Cue:. | B1 Ch46 L16 (ok) | B1 Ch46 Blatant Manipulation | ok |  |
-| R8888 | Secret or spoiler note: The Book 13 briefing says she has been preparing to invade Earth for half a millennium and used Jason; that she promised the messengers' leader a chance to invade Pallimustus and claim Purity's relic; and that around a third of the priests and priestesses of Knowledge are her spies. | B13 Ch1017 L14-20 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R8889 | Appearance: His mother looks to be in her early thirties "no older than her son Landemere"; no other description appears in the lines read. | B1 Ch11 L65 (ok) | B1 Ch11 Dashing Heroics | ok |  |
-| R8890 | Secret or spoiler note: Clive says random dimensional events connecting worlds are rare but more frequent because of the link between the worlds. | B7 Ch55 L64 (ok) | B7 Ch55 A Story About a Magic Trowel | ok |  |
-| R8891 | Appearance: A fair-skinned blonde woman, bronze rank in Book 3. | B3 Ch69 L759 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8892 | Appearance: An uncommonly muscular elf who "would not look out of place in the fighting pits himself", in expensive clothes. | B1 Ch42 L26 (ok) | B1 Ch42 This is the Pits | ok |  |
-| R8893 | Appearance: Muscular (Sophie and Belinda comment on his "muscular body"), though the notes describe him as "chubby for an elf". | B2 Ch71 L14 (ok) | B2 Ch71 More Shady as We Go Along | ok |  |
-| R8894 | Cue: Asano's visit left Neil uncertain, since the only real attraction to joining the team was Humphrey Geller. | B2 Ch27 L46 (ok) | B2 Ch27 Potential | ok |  |
-| R8895 | Secret or spoiler note: He took a large part of Purity's funds with him. | B3 Ch60 L12 (near) | B3 Ch60 Being What he Needs to Be | near |  |
-| R8896 | Appearance: Onyx skin and fiery eyes typical of her people; unaffected by heat. | B2 Ch39 L13 (ok) | B2 Ch39 I Can’t Trust Any of It | ok |  |
-| R8897 | Appearance: Darker skin and much lighter hair than Humphrey, from a distant branch family; light-brown pixie-cut hair. | B1 Ch66 L4 (ok); B2 Ch24 L27 (ok) | B1 Ch66 A Stronger Weapon Than the One in Your Hand; B2 Ch24 More Than One Clown | ok |  |
-| R8898 | Appearance: An elf and a local. | B1 Ch42 L30 (ok) | B1 Ch42 This is the Pits | ok |  |
-| R8899 | Appearance: "A well-preserved forty, a tenth of the reality": tall, strong and handsome, with a round bush of dark curly hair. | B3 Ch69 L588 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8900 | Appearance: Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three. | B1 Ch11 L49 (ok) | B1 Ch11 Dashing Heroics | ok |  |
-| R8901 | Voice: Courteous and formal, quick to apologise for discourtesy. Cue: his apology to Priestess Pellin. | B7 Ch9 L18 (ok) | B7 Ch9 More Paperwork | ok |  |
-| R8902 | Appearance: Pale, freckled skin, wild red hair and eyes so green they almost glow. | B3 Ch69 L193 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8903 | Secret or spoiler note: The Church of Death's certification counts Jason's deaths; Shako's killing is the fourth. | B7 Ch17 L104 (near) | B7 Ch17 It Will Not Be Fine | near |  |
-| R8904 | Appearance: A celestine woman. | B2 Ch55 L58 (ok) | B2 Ch55 Team Change | ok |  |
-| R8905 | Appearance: Chocolate skin, shining silver hair and sharp eyes that exactly match the hair, "the matching metallics a giveaway trait of the celestine race"; normally shoulder length, tied back in a simple, practical ponytail. | B1 Ch43 L18 (ok) | B1 Ch43 Nightingale | ok |  |
-| R8906 | Cues: she asks why Jason would do so much for them; she grimaces silently through the pain of a broken arm. | B2 Ch1 L77-80 (weak); B2 Ch45 L69-72 (ok) | B2 Ch1 Climbing Mountains; B2 Ch45 Seriously Hardcore | ok |  |
-| R8907 | Appearance: Not described in detail in the lines read; his gear includes a blade with a ruby and onyx hilt and a spiked grip in Book 13. | B13 Ch1022 L62 (ok) | B13 Ch1022 While We Have the Chance | ok |  |
-| R8908 | Secret or spoiler note: He was possessed by the Builder at one point, and is the subject of Umber's later plans. | B11 Ch68 L160-186 (ok); B13 Ch1024 L118-125 (near) | B11 Ch68 Compassionate Strangers; B13 Ch1024 The Next Time We Meet | ok |  |
-| R8909 | Secret or spoiler note: Her Book 13 watching of Cassandra from a tree implies the estrangement. | B13 Ch999 L3 (near) | B13 Ch999 An Interesting Message | near |  |
-| R8910 | Appearance: Not described in the lines read; he wears dismissive sneers until Thadwick wipes one off. | B2 Ch41 L89 (near) | B2 Ch41 A Rash Decision | near |  |
-| R8911 | Voice: Boisterous, flirtatious and fond of a good story ("the virile verve of ten men"); he loves duelling famous warriors for the push, not the win. | B2 Ch61 L74 (near); B12 Ch17 L56 (weak) | B2 Ch61 Making an Exit; B12 Ch17 We Need to Put a Stop to It | near |  |
-| R8912 | Appearance: "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes". | B3 Ch69 L238 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8913 | Secret or spoiler note: When he and Shako change, the Reaper speaks through Velius and the voice becomes cold. | B3 Ch69 L250-251 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R8914 | Appearance: A moustache that "extended past either side of his head"; in Book 12 "everything about Vincent Trenslow was drooping except for his immaculate moustache". | B1 Ch54 L29 (ok); B12 Ch28 L3 (ok) | B1 Ch54 Field Assessment; B12 Ch28 That’s What Adventurers Do | ok |  |
-| R8915 | Appearance: Celestine with caramel skin, sapphire eyes and waterfall-blue hair. | B2 Ch69 L16 (ok) | B2 Ch69 Particular Appetites | ok |  |
-| R8916 | Voice: Courtly, with a threat in the smile. Cue:. | B2 Ch69 L17-19 (near) | B2 Ch69 Particular Appetites | near |  |
-| R8917 | Appearance: A silvery metal body that flows "like quicksilver", reshaping itself to produce combat abilities. | B3 Ch67 L69 (ok) | B3 Ch67 Outmatched | ok |  |
+| R8882 | Appearance: An elf with a library full of art, including a large desert painting. | B2 Ch17 L98 (ok) | B2 Ch17 Events Loom Large | ok |  |
+| R8883 | Secret or spoiler note: His daughter's parentage was kept secret for years. | B1 Ch104 L88 (ok) | B1 Ch104 An Outcome That Satisfies | ok |  |
+| R8884 | Appearance: An elf, platinum-haired and fair-skinned, in fitted white adventuring gear. | B2 Ch10 L92 (weak); B3 Ch41 L53 (ok) | B2 Ch10 Star Seed; B3 Ch41 Terms of the Pact | ok |  |
+| R8885 | Secret or spoiler note: Jason notes most of the people he first met in this world are dead. | B3 Ch60 L5 (ok) | B3 Ch60 Being What he Needs to Be | ok |  |
+| R8886 | Appearance: Dark-skinned, "even darker skin than her husband", with long hair dyed rainbow colours "in the Vitesse style". | B2 Ch32 L52 (ok) | B2 Ch32 Full Jason | ok |  |
+| R8887 | Cues: "Charlatan," she says with glee; she urges Jason to find an excuse to head up on deck where Sophie can see him. | B2 Ch32 L72 (near); B7 Ch6 L42 (ok) | B2 Ch32 Full Jason; B7 Ch6 Responsible Dad | ok |  |
+| R8888 | Voice: Quiet, patient and unfazed; he lets a hard decision stand and speaks plainly. "Sensible," Callum agrees. | B2 Ch36 L79 (near) | B2 Ch36 The Price We Pay Doesn’t Matter | near |  |
+| R8889 | Appearance: A broad-shouldered, swarthy man with the polished perfection of gold rank, who wears casual clothes rather than Healer robes. | B3 Ch22 L6 (ok) | B3 Ch22 Lingering Doubts | ok |  |
+| R8890 | Secret or spoiler note: His work on the Flames of Redemption leads to the Book 10 conclusion that they are an extreme modification of lesser vampirism. | B10 Ch36 L14 (ok) | B10 Ch36 Mothers | ok |  |
+| R8891 | Appearance: Smart, capable and "gorgeous", the object of many Mercer-orbit boys' crushes. | B2 Ch27 L43 (ok) | B2 Ch27 Potential | ok |  |
+| R8892 | Appearance: Dark cascading hair and a walk "so sultry she was almost swerving"; she looks only a few years older than the two women with her. | B1 Ch43 L29 (ok) | B1 Ch43 Nightingale | ok |  |
+| R8893 | Appearance: "Rather tall, but his narrow frame and hunched posture made him seem lanky and awkward", wearing voluminous scholarly robes that "dangled off him like they'd been hung out to dry". | B1 Ch42 L44 (ok) | B1 Ch42 This is the Pits | ok |  |
+| R8894 | Appearance: Normally shoulder-length brown hair, which she cropped short before reaching gold; pale skin and light green and brown armour. | B6 Ch47 L542 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R8895 | Appearance: A young-looking woman in her early thirties with olive skin and dark hair, "no older than her son Landemere". | B1 Ch11 L65 (ok) | B1 Ch11 Dashing Heroics | ok |  |
+| R8896 | Secret or spoiler note: Her body ends up on the stone floor at the edge of the chamber rather than in the pool; Jason later alludes to her head being "smashed open". | B1 Ch13 L55 (ok); B1 Ch97 L122 (near) | B1 Ch13 This is the Part Where We Step Back; B1 Ch97 Integrity is Sexy | ok |  |
+| R8897 | Appearance: Silver-rank and ageless-looking: she seems about thirty and is fifty in fact; Jason sees the same agelessness in Emir and Thalia Mercer. | B1 Ch108 L35-37 (ok) | B1 Ch108 You Don’t Have the Strength | ok |  |
+| R8898 | Cues: "Gabrielle?", asked as if she has latched on to a weakness; "I said that diplomacy is war, Jason, and wars have objectives". | B1 Ch47 L89 (ok); B12 Ch23 L79 (ok) | B1 Ch47 Mirage Chamber; B12 Ch23 Objectives | ok |  |
+| R8899 | Role: Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel (describes the post; the notes identify Dawn as holder of it, notes, Book 4). | B3 Ch69 L1036-1040 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8900 | Appearance: Her true body is a celestine with ruby eyes and hair. | B7 Ch54 L87 (ok) | B7 Ch54 Hegemon’s Will | ok |  |
+| R8901 | Cue: "You realise that you could have asked that instead of punching my nose through my brain". | B5 Ch20 L21 (ok) | B5 Ch20 Instability | ok |  |
+| R8902 | Voice: Dry and steady, a shield for others; he points out hard truths about the weight of numbers. | B11 Ch11 L49 (near) | B11 Ch11 Style Over Substance | near |  |
+| R8903 | Appearance: An elf; Jason had spoken with her only once before the inquiry. | B1 Ch83 L45 (ok) | B1 Ch83 It Makes No Difference to the Ant | ok |  |
+| R8904 | Secret or spoiler note: Her parentage was once secret. | B2 Ch3 L3 (near) | B2 Ch3 See You in Court | near |  |
+| R8905 | Appearance: Dark-skinned, with dark curly hair tied back behind his head, "midnight skin" and sleek clothes. | B2 Ch31 L90 (ok); B1 Ch101 L64 (ok) | B2 Ch31 Arrival; B1 Ch101 Fantasy World Goodness | ok |  |
+| R8906 | Secret or spoiler note: He knew of the Order of the Reaper's return long before the team. | B9 Ch27 L65 (near) | B9 Ch27 An Evil God Sitting on Her Shoulder | near |  |
+| R8907 | Appearance: Pretty, with strawberry-blonde hair, a button nose and light skin, "startlingly cute" and clearly unhappy when freed from her cage. | B1 Ch12 L11 (ok) | B1 Ch12 Sanguine Horror | ok |  |
+| R8908 | Voice: A lecturer who turns blunt when angry. Cues: "Barbou belongs to me". | B1 Ch23 L15-17 (weak); B6 Ch26 L9 (near) | B1 Ch23 I May have Made a Huge Mistake; B6 Ch26 Wash Them First | near |  |
+| R8909 | Appearance: Looks a lot like Rufus: tall, dark and muscular, but with hair worn in colourful beads that trail down to his shoulders in chains. | B10 Ch57 L93 (ok) | B10 Ch57 Welcome Aboard | ok |  |
+| R8910 | Appearance: By seventeen she was "astoundingly beautiful"; later "basically Helen of Troy". | B10 Ch8 L51 (ok) | B10 Ch8 Original Design Parameters | ok |  |
+| R8911 | Secret or spoiler note: Book 13 describes a cube leaving her chest into Knowledge's hand. | B13 Ch1023 L139 (ok) | B13 Ch1023 Broken What Matters Most | ok |  |
+| R8912 | Appearance: A huge "lion man" whose voice is growly by default; so large "he made bodybuilders look small". | B1 Ch9 L121 (near); B1 Ch14 L14 (ok) | B1 Ch9 Escape; B1 Ch14 Worlds Apart | ok |  |
+| R8913 | Voice: Deep, growling and plain-spoken. Cues: "rattling around in a hole". | B1 Ch9 L121 (ok); B11 Ch57 L60 (ok) | B1 Ch9 Escape; B11 Ch57 Different Enough | ok |  |
+| R8914 | Appearance: A draconian with red and gold scales, in a white robe like Dawn's, humble beyond what is usual for her people. | B3 Ch69 L920 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8915 | Secret or spoiler note: The agreement with the World-Phoenix ends when the bridge is complete. | B13 Ch1024 L75-81 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
+| R8916 | Appearance: Statuesque, like her brother, with strong, handsome features and short practical hair; the siblings both favour their burly father over their slender mother. | B2 Ch75 L70 (ok) | B2 Ch75 Impossible Wasn’t Enough | ok |  |
+| R8917 | Appearance: The Asiatic-looking person Jason sees first in this world, closer to South Asian than his own Japanese features. | B2 Ch34 L55 (ok) | B2 Ch34 I Don’t Like This Plan | ok |  |
+| R8918 | Appearance: Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1. | B1 Ch66 L58 (ok) | B1 Ch66 A Stronger Weapon Than the One in Your Hand | ok |  |
+| R8919 | Cues: he turns white and shakes his head when Jason asks about Gabrielle; in expedition leader mode he refers to his mother by name and issues her orders. | B1 Ch47 L88-89 (ok); B13 Ch958 L48 (ok) | B1 Ch47 Mirage Chamber; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
+| R8920 | Appearance: Heavy armour and a shield slow him on Rick's team. | B1 Ch67 L14-15 (ok) | B1 Ch67 This is What it Means to Fight Me | ok |  |
+| R8921 | Appearance: Not described in detail in the lines read; on a mission he puts away his coat and pulls out another one "covered in pockets". | B7 Ch4 L25 (ok) | B7 Ch4 Strategic Doctrine | ok |  |
+| R8922 | Secret or spoiler note: The Healer's direct support is one reason the clinic is protected. | B3 Ch16 L82 (near) | B3 Ch16 Disbanded | near |  |
+| R8923 | Appearance: Jason's face is more angular than his brother's; Kaito has a "signature easy-going smile" that Jason spent years learning to copy. | B4 Ch25 L44 (ok) | B4 Ch25 Uncommon Mistake | ok |  |
+| R8924 | Secret or spoiler note: His death is why Amy's children grow up without a father "because he followed me". | B7 Ch1 L15 (ok) | B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
+| R8925 | Appearance: Not described in detail in the lines read; he brushes his fingers over his son's scars. | B4 Ch27 L109 (near) | B4 Ch27 A Big Dose of Normal | near |  |
+| R8926 | Secret or spoiler note: Open question: where he is held after Book 9 and whether he escapes; Jason only guesses he is "in a Magic Society basement somewhere". | B10 Ch58 L106 (ok) | B10 Ch58 Quick and Clean | ok |  |
+| R8927 | Appearance: In Book 1 a statue is replaced by a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable", not holding the statue's book. | B1 Ch46 L16 (ok) | B1 Ch46 Blatant Manipulation | ok |  |
+| R8928 | Voice: Detached and untouchable in manner. Cue:. | B1 Ch46 L16 (ok) | B1 Ch46 Blatant Manipulation | ok |  |
+| R8929 | Secret or spoiler note: The Book 13 briefing says she has been preparing to invade Earth for half a millennium and used Jason; that she promised the messengers' leader a chance to invade Pallimustus and claim Purity's relic; and that around a third of the priests and priestesses of Knowledge are her spies. | B13 Ch1017 L14-20 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R8930 | Appearance: His mother looks to be in her early thirties "no older than her son Landemere"; no other description appears in the lines read. | B1 Ch11 L65 (ok) | B1 Ch11 Dashing Heroics | ok |  |
+| R8931 | Secret or spoiler note: Clive says random dimensional events connecting worlds are rare but more frequent because of the link between the worlds. | B7 Ch55 L64 (ok) | B7 Ch55 A Story About a Magic Trowel | ok |  |
+| R8932 | Appearance: A fair-skinned blonde woman, bronze rank in Book 3. | B3 Ch69 L759 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8933 | Appearance: An uncommonly muscular elf who "would not look out of place in the fighting pits himself", in expensive clothes. | B1 Ch42 L26 (ok) | B1 Ch42 This is the Pits | ok |  |
+| R8934 | Appearance: Muscular (Sophie and Belinda comment on his "muscular body"), though the notes describe him as "chubby for an elf". | B2 Ch71 L14 (ok) | B2 Ch71 More Shady as We Go Along | ok |  |
+| R8935 | Cue: Asano's visit left Neil uncertain, since the only real attraction to joining the team was Humphrey Geller. | B2 Ch27 L46 (ok) | B2 Ch27 Potential | ok |  |
+| R8936 | Secret or spoiler note: He took a large part of Purity's funds with him. | B3 Ch60 L12 (near) | B3 Ch60 Being What he Needs to Be | near |  |
+| R8937 | Appearance: Onyx skin and fiery eyes typical of her people; unaffected by heat. | B2 Ch39 L13 (ok) | B2 Ch39 I Can’t Trust Any of It | ok |  |
+| R8938 | Appearance: Darker skin and much lighter hair than Humphrey, from a distant branch family; light-brown pixie-cut hair. | B1 Ch66 L4 (ok); B2 Ch24 L27 (ok) | B1 Ch66 A Stronger Weapon Than the One in Your Hand; B2 Ch24 More Than One Clown | ok |  |
+| R8939 | Appearance: An elf and a local. | B1 Ch42 L30 (ok) | B1 Ch42 This is the Pits | ok |  |
+| R8940 | Appearance: "A well-preserved forty, a tenth of the reality": tall, strong and handsome, with a round bush of dark curly hair. | B3 Ch69 L588 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8941 | Appearance: Dark skin, a bald head and "stupidly handsome"; when Jason first sees him, grimy from his ordeal, he looks like an action hero heading into act three. | B1 Ch11 L49 (ok) | B1 Ch11 Dashing Heroics | ok |  |
+| R8942 | Voice: Courteous and formal, quick to apologise for discourtesy. Cue: his apology to Priestess Pellin. | B7 Ch9 L18 (ok) | B7 Ch9 More Paperwork | ok |  |
+| R8943 | Appearance: Pale, freckled skin, wild red hair and eyes so green they almost glow. | B3 Ch69 L193 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8944 | Secret or spoiler note: The Church of Death's certification counts Jason's deaths; Shako's killing is the fourth. | B7 Ch17 L104 (near) | B7 Ch17 It Will Not Be Fine | near |  |
+| R8945 | Appearance: A celestine woman. | B2 Ch55 L58 (ok) | B2 Ch55 Team Change | ok |  |
+| R8946 | Appearance: Chocolate skin, shining silver hair and sharp eyes that exactly match the hair, "the matching metallics a giveaway trait of the celestine race"; normally shoulder length, tied back in a simple, practical ponytail. | B1 Ch43 L18 (ok) | B1 Ch43 Nightingale | ok |  |
+| R8947 | Cues: she asks why Jason would do so much for them; she grimaces silently through the pain of a broken arm. | B2 Ch1 L77-80 (weak); B2 Ch45 L69-72 (ok) | B2 Ch1 Climbing Mountains; B2 Ch45 Seriously Hardcore | ok |  |
+| R8948 | Appearance: Not described in detail in the lines read; his gear includes a blade with a ruby and onyx hilt and a spiked grip in Book 13. | B13 Ch1022 L62 (ok) | B13 Ch1022 While We Have the Chance | ok |  |
+| R8949 | Secret or spoiler note: He was possessed by the Builder at one point, and is the subject of Umber's later plans. | B11 Ch68 L160-186 (ok); B13 Ch1024 L118-125 (near) | B11 Ch68 Compassionate Strangers; B13 Ch1024 The Next Time We Meet | ok |  |
+| R8950 | Secret or spoiler note: Her Book 13 watching of Cassandra from a tree implies the estrangement. | B13 Ch999 L3 (near) | B13 Ch999 An Interesting Message | near |  |
+| R8951 | Appearance: Not described in the lines read; he wears dismissive sneers until Thadwick wipes one off. | B2 Ch41 L89 (near) | B2 Ch41 A Rash Decision | near |  |
+| R8952 | Voice: Boisterous, flirtatious and fond of a good story ("the virile verve of ten men"); he loves duelling famous warriors for the push, not the win. | B2 Ch61 L74 (near); B12 Ch17 L56 (weak) | B2 Ch61 Making an Exit; B12 Ch17 We Need to Put a Stop to It | near |  |
+| R8953 | Appearance: "A tall celestine, with dark skin and a bushy mound of curly, silver hair that matched his eyes". | B3 Ch69 L238 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8954 | Secret or spoiler note: When he and Shako change, the Reaper speaks through Velius and the voice becomes cold. | B3 Ch69 L250-251 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R8955 | Appearance: A moustache that "extended past either side of his head"; in Book 12 "everything about Vincent Trenslow was drooping except for his immaculate moustache". | B1 Ch54 L29 (ok); B12 Ch28 L3 (ok) | B1 Ch54 Field Assessment; B12 Ch28 That’s What Adventurers Do | ok |  |
+| R8956 | Appearance: Celestine with caramel skin, sapphire eyes and waterfall-blue hair. | B2 Ch69 L16 (ok) | B2 Ch69 Particular Appetites | ok |  |
+| R8957 | Voice: Courtly, with a threat in the smile. Cue:. | B2 Ch69 L17-19 (near) | B2 Ch69 Particular Appetites | near |  |
+| R8958 | Appearance: A silvery metal body that flows "like quicksilver", reshaping itself to produce combat abilities. | B3 Ch67 L69 (ok) | B3 Ch67 Outmatched | ok |  |
 
 ## 10_Roleplay_Support/NPC_Cards/NPC_Cards_Books_04-06.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8918 | Voice: Calculating and self-protective; he stays at the edge of a fight and tries to look insignificant. | B6 Ch42 L22 (near) | B6 Ch42 Time to Choose | near |  |
-| R8919 | Appearance: Not described in detail in the lines read; she crouches on rooftops and wears a sword at her left hip. | B5 Ch12 L18 (weak); B13 Ch1004 L3 (near) | B5 Ch12 Grandmotherly Advice; B13 Ch1004 Scheduling Your Callous Dumping | near |  |
-| R8920 | Secret or spoiler note: Her years of sword training, after having her monster core residue removed, cost her marriage: "You love the sword". | B13 Ch1004 L16 (ok) | B13 Ch1004 Scheduling Your Callous Dumping | ok |  |
-| R8921 | Appearance: Wavy brown hair and fair skin, "pretty, but only by Earth standards" compared with the other world's beauties. | B4 Ch26 L46 (ok) | B4 Ch26 It’s Complicated | ok |  |
-| R8922 | Secret or spoiler note: Her daughters grow up with "a dead father" and a mysterious absent uncle. | B13 Ch950 L30 (ok) | B13 Ch950 A Person the Other Used to Know | ok |  |
-| R8923 | Secret or spoiler note: Her death in Berlin is a loss the Karadeniz family blames on Jason and is later part of the clan tension around Emi and Lina. | B5 Ch51 L40-52 (weak); B11 Ch68 L831 (near) | B5 Ch51 Prepare For The Rematch; B11 Ch68 Compassionate Strangers | near |  |
-| R8924 | Appearance: Not described in the lines read; her body is a clone grown from her DNA with Cabal biological material. | B5 Ch10 L24 (ok) | B5 Ch10 Humanity | ok |  |
-| R8925 | Secret or spoiler note: Her new body was cloned from her own DNA with Cabal biological material. | B5 Ch10 L24 (ok) | B5 Ch10 Humanity | ok |  |
-| R8926 | Appearance: Not described beyond her hazmat suit in the quarantine tent. | B5 Ch2 L44 (ok) | B5 Ch2 All I Can Do is My Best | ok |  |
-| R8927 | Appearance: A vampire who drives a 1967 Maserati Ghibli. | B4 Ch66 L64 (ok) | B4 Ch66 Not Ready to Leave | ok |  |
-| R8928 | Appearance: Pale skin, red lips, delicate features and midnight hair; her face lacks an essence user's polish, but her slight smile and smouldering eyes hold "the seductive promise of sultry intelligence". | B6 Ch41 L81 (ok) | B6 Ch41 Trust All the Way | ok |  |
-| R8929 | Secret or spoiler note: Her edicts on humans were "not out of compassion" but for critical upsides. | B11 Ch68 L2261 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R8930 | She is twelve when he comes home in Book 4 and learns the truth about magic from him. | B4 Ch25 L60 (near) | B4 Ch25 Uncommon Mistake | near |  |
-| R8931 | Voice: sharp, literary and political at thirteen; she can flip from a death glare to wide-eyed innocence; she teases her uncle. | B5 Ch24 L4 (near); B5 Ch24 L9 (ok); B13 Ch972 L78 (weak) | B5 Ch24 Candid and Authentic; B13 Ch972 Little Umbrellas | ok |  |
-| R8932 | Appearance: Not described in the lines read, apart from clothes: she and Ian wear old faded ultra-casual clothes "like it was laundry day" when Jason warns they will not want to wear them again. | B4 Ch69 L70 (ok) | B4 Ch69 The Direction We Want Them to Go | ok |  |
-| R8933 | Appearance: A bushy-bearded man rubbing his beard unhappily after a shower in a Network facility. | B5 Ch47 L26 (ok) | B5 Ch47 First Priority | ok |  |
-| R8934 | Secret or spoiler note: Book 13 states that the Network "dug up Jack Gerling and sent him to kill Asano's brother, his lover and his best friend". | B13 Ch967 L25 (ok) | B13 Ch967 What I Present to the World | ok |  |
-| R8935 | Appearance: Not described in the lines read; he drives a 2017 Ford Taurus. | B4 Ch66 L59 (near) | B4 Ch66 Not Ready to Leave | near |  |
-| R8936 | Secret or spoiler note: Jason's talk with his spectre follows his death. | B5 Ch58 L3-14 (near) | B5 Ch58 High Maintenance | near |  |
-| R8937 | Appearance: Not described in detail in the lines read; he wears headphones on the cloud ship deck. | B4 Ch30 L74 (near) | B4 Ch30 Discretion is a Good Idea | near |  |
-| R8938 | Secret or spoiler note: Jason arranges for the EOA to buy Hiro out "generously" as "the only safe way out". | B4 Ch13 L3-4 (ok) | B4 Ch13 Time to Rip Off the Band-Aid | ok |  |
-| R8939 | Appearance: Not described in detail in the lines read; a "slightly inebriated, sing-song voice" at the Book 4 party. | B4 Ch26 L71 (ok) | B4 Ch26 It’s Complicated | ok |  |
-| R8940 | Appearance: Not described in detail in the lines read; he greets Jason with a respectful bow. | B5 Ch38 L5 (ok) | B5 Ch38 Fanboy | ok |  |
-| R8941 | Secret or spoiler note: He tells Akari that "sometimes the right thing to do is let go". | B13 Ch1004 L20 (ok) | B13 Ch1004 Scheduling Your Callous Dumping | ok |  |
-| R8942 | Appearance: Jason guesses she is about thirty, athletic, with short brown hair. | B4 Ch46 L82 (ok) | B4 Ch46 Visually Distinctive Henchman | ok |  |
-| R8943 | Appearance: White hair and dark skin; she wears white leather armour stained and torn from shielding the fort. | B7 Ch32 L7-8 (ok) | B7 Ch32 Supply Chain Problems | ok |  |
-| R8944 | Secret or spoiler note: The more she fights the brainwashing, the more the taint fights back. | B10 Ch36 L14 (ok) | B10 Ch36 Mothers | ok |  |
-| R8945 | Appearance: Not described in the lines read; he looks "ready to snap if he got bad news". | B6 Ch47 L880 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R8946 | Appearance: A grinning man who meets Jason "grinning like a snake who found a nest full of baby mice". | B5 Ch40 L68 (ok) | B5 Ch40 An Unexpected Direction | ok |  |
-| R8947 | Secret or spoiler note: His identity as the Network founder's familiar is revealed to Jason in Book 5 and to everyone else in Book 13. | B5 Ch40 L78-86 (ok); B13 Ch1017 L39 (near) | B5 Ch40 An Unexpected Direction; B13 Ch1017 A Room Full of Hands | ok |  |
-| R8948 | Noreth's failure was not seeing that Asano was an ally. | B13 Ch954 L12 (ok) | B13 Ch954 Misgivings | ok |  |
-| R8949 | Appearance: In the camp he wears black fatigues under magical tactical armour, carrying no firearms, only a thigh-mounted magic knife. | B4 Ch39 L65 (ok) | B4 Ch39 Section | ok |  |
-| R8950 | Appearance: Not described in the lines read; she presides with eight elders at a low table. | B5 Ch36 L3 (ok) | B5 Ch36 Honour | ok |  |
-| R8951 | Secret or spoiler note: Book 12 calls her matriarch of the Asano clan while Yumi is also called matriarch; the two descriptions are not reconciled (open question). | B12 Ch63 L19 (ok) | B12 Ch63 We Already Know Who You Are | ok |  |
-| R8952 | Appearance: "The mountainous Māori", comparable in size to a leonid or a draconian, with tattoos that stand out against his skin when it turns emerald to resist damage. | B4 Ch17 L42 (ok); B9 Ch93 L27 (ok) | B4 Ch17 Time For Context; B9 Ch93 Security Oversight | ok |  |
-| R8953 | Voice: Large, good-humoured and loyal; a complaint about his mother's opinions on French food is his signature. Cue: "Taika, by the way. | B6 Ch47 L155 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R8954 | Appearance: Not described in detail in the lines read; "goofy grin" when he watches his wife eat. | B13 Ch1016 L74 (ok) | B13 Ch1016 Worse Things | ok |  |
-| R8955 | Secret or spoiler note: His negotiations with the Church of Knowledge over what Earth magitech he may bring to Pallimustus are part of Knowledge's plan. | B9 Ch13 L85 (ok) | B9 Ch13 A Difficult Child | ok |  |
-| R8956 | Appearance: Her flesh-warping powers restored her youth, giving her a mid-twenties appearance; in Book 13 she looks to be in her early thirties. | B11 Ch68 L565 (ok); B13 Ch1002 L31 (near) | B11 Ch68 Compassionate Strangers; B13 Ch1002 The One Who Gets to Decide | ok |  |
-| R8957 | Secret or spoiler note: Jason says "That's a god, Grandmother" about what awaits him. | B13 Ch1020 L19 (near) | B13 Ch1020 Adventurer | near |  |
+| R8959 | Voice: Calculating and self-protective; he stays at the edge of a fight and tries to look insignificant. | B6 Ch42 L22 (near) | B6 Ch42 Time to Choose | near |  |
+| R8960 | Appearance: Not described in detail in the lines read; she crouches on rooftops and wears a sword at her left hip. | B5 Ch12 L18 (weak); B13 Ch1004 L3 (near) | B5 Ch12 Grandmotherly Advice; B13 Ch1004 Scheduling Your Callous Dumping | near |  |
+| R8961 | Secret or spoiler note: Her years of sword training, after having her monster core residue removed, cost her marriage: "You love the sword". | B13 Ch1004 L16 (ok) | B13 Ch1004 Scheduling Your Callous Dumping | ok |  |
+| R8962 | Appearance: Wavy brown hair and fair skin, "pretty, but only by Earth standards" compared with the other world's beauties. | B4 Ch26 L46 (ok) | B4 Ch26 It’s Complicated | ok |  |
+| R8963 | Secret or spoiler note: Her daughters grow up with "a dead father" and a mysterious absent uncle. | B13 Ch950 L30 (ok) | B13 Ch950 A Person the Other Used to Know | ok |  |
+| R8964 | Secret or spoiler note: Her death in Berlin is a loss the Karadeniz family blames on Jason and is later part of the clan tension around Emi and Lina. | B5 Ch51 L40-52 (weak); B11 Ch68 L831 (near) | B5 Ch51 Prepare For The Rematch; B11 Ch68 Compassionate Strangers | near |  |
+| R8965 | Appearance: Not described in the lines read; her body is a clone grown from her DNA with Cabal biological material. | B5 Ch10 L24 (ok) | B5 Ch10 Humanity | ok |  |
+| R8966 | Secret or spoiler note: Her new body was cloned from her own DNA with Cabal biological material. | B5 Ch10 L24 (ok) | B5 Ch10 Humanity | ok |  |
+| R8967 | Appearance: Not described beyond her hazmat suit in the quarantine tent. | B5 Ch2 L44 (ok) | B5 Ch2 All I Can Do is My Best | ok |  |
+| R8968 | Appearance: A vampire who drives a 1967 Maserati Ghibli. | B4 Ch66 L64 (ok) | B4 Ch66 Not Ready to Leave | ok |  |
+| R8969 | Appearance: Pale skin, red lips, delicate features and midnight hair; her face lacks an essence user's polish, but her slight smile and smouldering eyes hold "the seductive promise of sultry intelligence". | B6 Ch41 L81 (ok) | B6 Ch41 Trust All the Way | ok |  |
+| R8970 | Secret or spoiler note: Her edicts on humans were "not out of compassion" but for critical upsides. | B11 Ch68 L2261 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R8971 | She is twelve when he comes home in Book 4 and learns the truth about magic from him. | B4 Ch25 L60 (near) | B4 Ch25 Uncommon Mistake | near |  |
+| R8972 | Voice: sharp, literary and political at thirteen; she can flip from a death glare to wide-eyed innocence; she teases her uncle. | B5 Ch24 L4 (near); B5 Ch24 L9 (ok); B13 Ch972 L78 (weak) | B5 Ch24 Candid and Authentic; B13 Ch972 Little Umbrellas | ok |  |
+| R8973 | Appearance: Not described in the lines read, apart from clothes: she and Ian wear old faded ultra-casual clothes "like it was laundry day" when Jason warns they will not want to wear them again. | B4 Ch69 L70 (ok) | B4 Ch69 The Direction We Want Them to Go | ok |  |
+| R8974 | Appearance: A bushy-bearded man rubbing his beard unhappily after a shower in a Network facility. | B5 Ch47 L26 (ok) | B5 Ch47 First Priority | ok |  |
+| R8975 | Secret or spoiler note: Book 13 states that the Network "dug up Jack Gerling and sent him to kill Asano's brother, his lover and his best friend". | B13 Ch967 L25 (ok) | B13 Ch967 What I Present to the World | ok |  |
+| R8976 | Appearance: Not described in the lines read; he drives a 2017 Ford Taurus. | B4 Ch66 L59 (near) | B4 Ch66 Not Ready to Leave | near |  |
+| R8977 | Secret or spoiler note: Jason's talk with his spectre follows his death. | B5 Ch58 L3-14 (near) | B5 Ch58 High Maintenance | near |  |
+| R8978 | Appearance: Not described in detail in the lines read; he wears headphones on the cloud ship deck. | B4 Ch30 L74 (near) | B4 Ch30 Discretion is a Good Idea | near |  |
+| R8979 | Secret or spoiler note: Jason arranges for the EOA to buy Hiro out "generously" as "the only safe way out". | B4 Ch13 L3-4 (ok) | B4 Ch13 Time to Rip Off the Band-Aid | ok |  |
+| R8980 | Appearance: Not described in detail in the lines read; a "slightly inebriated, sing-song voice" at the Book 4 party. | B4 Ch26 L71 (ok) | B4 Ch26 It’s Complicated | ok |  |
+| R8981 | Appearance: Not described in detail in the lines read; he greets Jason with a respectful bow. | B5 Ch38 L5 (ok) | B5 Ch38 Fanboy | ok |  |
+| R8982 | Secret or spoiler note: He tells Akari that "sometimes the right thing to do is let go". | B13 Ch1004 L20 (ok) | B13 Ch1004 Scheduling Your Callous Dumping | ok |  |
+| R8983 | Appearance: Jason guesses she is about thirty, athletic, with short brown hair. | B4 Ch46 L82 (ok) | B4 Ch46 Visually Distinctive Henchman | ok |  |
+| R8984 | Appearance: White hair and dark skin; she wears white leather armour stained and torn from shielding the fort. | B7 Ch32 L7-8 (ok) | B7 Ch32 Supply Chain Problems | ok |  |
+| R8985 | Secret or spoiler note: The more she fights the brainwashing, the more the taint fights back. | B10 Ch36 L14 (ok) | B10 Ch36 Mothers | ok |  |
+| R8986 | Appearance: Not described in the lines read; he looks "ready to snap if he got bad news". | B6 Ch47 L880 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R8987 | Appearance: A grinning man who meets Jason "grinning like a snake who found a nest full of baby mice". | B5 Ch40 L68 (ok) | B5 Ch40 An Unexpected Direction | ok |  |
+| R8988 | Secret or spoiler note: His identity as the Network founder's familiar is revealed to Jason in Book 5 and to everyone else in Book 13. | B5 Ch40 L78-86 (ok); B13 Ch1017 L39 (near) | B5 Ch40 An Unexpected Direction; B13 Ch1017 A Room Full of Hands | ok |  |
+| R8989 | Noreth's failure was not seeing that Asano was an ally. | B13 Ch954 L12 (ok) | B13 Ch954 Misgivings | ok |  |
+| R8990 | Appearance: In the camp he wears black fatigues under magical tactical armour, carrying no firearms, only a thigh-mounted magic knife. | B4 Ch39 L65 (ok) | B4 Ch39 Section | ok |  |
+| R8991 | Appearance: Not described in the lines read; she presides with eight elders at a low table. | B5 Ch36 L3 (ok) | B5 Ch36 Honour | ok |  |
+| R8992 | Secret or spoiler note: Book 12 calls her matriarch of the Asano clan while Yumi is also called matriarch; the two descriptions are not reconciled (open question). | B12 Ch63 L19 (ok) | B12 Ch63 We Already Know Who You Are | ok |  |
+| R8993 | Appearance: "The mountainous Māori", comparable in size to a leonid or a draconian, with tattoos that stand out against his skin when it turns emerald to resist damage. | B4 Ch17 L42 (ok); B9 Ch93 L27 (ok) | B4 Ch17 Time For Context; B9 Ch93 Security Oversight | ok |  |
+| R8994 | Voice: Large, good-humoured and loyal; a complaint about his mother's opinions on French food is his signature. Cue: "Taika, by the way. | B6 Ch47 L155 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R8995 | Appearance: Not described in detail in the lines read; "goofy grin" when he watches his wife eat. | B13 Ch1016 L74 (ok) | B13 Ch1016 Worse Things | ok |  |
+| R8996 | Secret or spoiler note: His negotiations with the Church of Knowledge over what Earth magitech he may bring to Pallimustus are part of Knowledge's plan. | B9 Ch13 L85 (ok) | B9 Ch13 A Difficult Child | ok |  |
+| R8997 | Appearance: Her flesh-warping powers restored her youth, giving her a mid-twenties appearance; in Book 13 she looks to be in her early thirties. | B11 Ch68 L565 (ok); B13 Ch1002 L31 (near) | B11 Ch68 Compassionate Strangers; B13 Ch1002 The One Who Gets to Decide | ok |  |
+| R8998 | Secret or spoiler note: Jason says "That's a god, Grandmother" about what awaits him. | B13 Ch1020 L19 (near) | B13 Ch1020 Adventurer | near |  |
 
 ## 10_Roleplay_Support/NPC_Cards/NPC_Cards_Books_07-09.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8958 | Appearance: Diamond-rank beauty that she turns aside with her aura; soft green eyes, light-brown skin "of a fawn's fur" and wavy wood-brown hair, "like a dryad of myth". | B10 Ch7 L23 (ok) | B10 Ch7 Trust | ok |  |
-| R8959 | Appearance: Not described in the lines read; she carries a duffel of fight outfits. | B9 Ch46 L44 (near) | B9 Ch46 What You Want Instead of What You Need | near |  |
-| R8960 | Appearance: Not described in the lines read; he flies "superhero-style" while Allayeth sits on a throne of glittering lights. | B10 Ch22 L81 (ok) | B10 Ch22 A More Practical Purpose | ok |  |
-| R8961 | Appearance: Fair skin and golden hair, a physical counterpart to the other silver messenger. | B9 Ch56 L5-7 (ok) | B9 Ch56 Even Though You Fear | ok |  |
-| R8962 | Appearance: "Dark-skinned and silver-haired". | B9 Ch66 L3 (ok) | B9 Ch66 Imperfect Responses | ok |  |
-| R8963 | Appearance: Not described in the lines read; she checks a pocket watch. | B7 Ch47 L33 (ok) | B7 Ch47 The Days They Sing Songs About | ok |  |
-| R8964 | Appearance: Smaller than the others, barely over seven feet; Benella cannot magically detect her although she is gold rank. | B9 Ch55 L27 (ok) | B9 Ch55 The Face of Insurmountable Power | ok |  |
-| R8965 | Appearance: Not described beyond a House Irios crest on his arm. | B7 Ch41 L26 (ok) | B7 Ch41 Murky Waters | ok |  |
-| R8966 | Appearance: Not described in detail in the lines read; in Book 11 she has "dead eyes" until she finds Rosa. | B11 Ch18 L29 (ok) | B11 Ch18 Alienness and Familiarity | ok |  |
-| R8967 | Secret or spoiler note: In Book 11 she scrambles between rocks in a desert canyon while a priest taunts her. | B11 Ch6 L13-16 (ok) | B11 Ch6 Lackeys | ok |  |
-| R8968 | Appearance: Tall (her eldest daughter has "Liara's height") and gold-rank fast, flitting through streets unnoticed. | B7 Ch17 L20 (ok); B8 Ch62 L39 (near) | B7 Ch17 It Will Not Be Fine; B8 Ch62 Recalibrate Their Expectations | ok |  |
-| R8969 | Appearance: Nine-foot messenger with wings; he and Tera wear synthetic leather armour rather than the diaphanous clothes messengers favour. | B9 Ch87 L31 (weak); B10 Ch2 L18 (ok) | B9 Ch87 The Difference in Conviction; B10 Ch2 Harder Than They Have to Be | ok |  |
-| R8970 | Secret or spoiler note: He notes that knowing messengers can survive without an astral king will be a revelation. | B9 Ch103 L114 (ok) | B9 Ch103 One Ludicrous Encounter to the Next | ok |  |
-| R8971 | Appearance: Walks up the path from town with two celestines with emerald hair and eyes. | B7 Ch18 L28 (ok) | B7 Ch18 A Story of War | ok |  |
-| R8972 | Appearance: An elf with dark brown skin and light brown hair flecked with green. | B13 Ch991 L3 (ok) | B13 Ch991 This Offer Kind of Sucks | ok |  |
-| R8973 | Appearance: Emerald hair and eyes at a party, then natural royal blue. | B7 Ch18 L49 (ok) | B7 Ch18 A Story of War | ok |  |
-| R8974 | Secret or spoiler note: His connection to a diamond-ranker Jason knows deferentially is not explained in the lines read. | B7 Ch56 L6 (ok) | B7 Ch56 What It Sent Us | ok |  |
-| R8975 | Appearance: She and Marek wear simple leather armour of magical synthetic instead of the diaphanous clothing messengers favour. | B10 Ch2 L18 (ok) | B10 Ch2 Harder Than They Have to Be | ok |  |
-| R8976 | Secret or spoiler note: Inflicting soul torture on her was the only way Jason could win the death match she forced on him. | B11 Ch67 L12 (ok) | B11 Ch67 Farewells | ok |  |
-| R8977 | Appearance: A human in a guild of mostly celestines: pale-skinned and dark-haired, lean and angular with icy blue eyes. | B7 Ch21 L13-14 (ok) | B7 Ch21 Enemies Even I Would Fear | ok |  |
-| R8978 | Appearance: Appears as a mass of shadow with smoky orange eyes. | B13 Ch1024 L100-104 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
-| R8979 | Secret or spoiler note: He serves Knowledge's plan against Jason. | B13 Ch1024 L118-127 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
-| R8980 | Secret or spoiler note: Boris is of the Unorthodoxy and she does not know it. | B11 Ch24 L85-86 (near) | B11 Ch24 Another Astral King | near |  |
+| R8999 | Appearance: Diamond-rank beauty that she turns aside with her aura; soft green eyes, light-brown skin "of a fawn's fur" and wavy wood-brown hair, "like a dryad of myth". | B10 Ch7 L23 (ok) | B10 Ch7 Trust | ok |  |
+| R9000 | Appearance: Not described in the lines read; she carries a duffel of fight outfits. | B9 Ch46 L44 (near) | B9 Ch46 What You Want Instead of What You Need | near |  |
+| R9001 | Appearance: Not described in the lines read; he flies "superhero-style" while Allayeth sits on a throne of glittering lights. | B10 Ch22 L81 (ok) | B10 Ch22 A More Practical Purpose | ok |  |
+| R9002 | Appearance: Fair skin and golden hair, a physical counterpart to the other silver messenger. | B9 Ch56 L5-7 (ok) | B9 Ch56 Even Though You Fear | ok |  |
+| R9003 | Appearance: "Dark-skinned and silver-haired". | B9 Ch66 L3 (ok) | B9 Ch66 Imperfect Responses | ok |  |
+| R9004 | Appearance: Not described in the lines read; she checks a pocket watch. | B7 Ch47 L33 (ok) | B7 Ch47 The Days They Sing Songs About | ok |  |
+| R9005 | Appearance: Smaller than the others, barely over seven feet; Benella cannot magically detect her although she is gold rank. | B9 Ch55 L27 (ok) | B9 Ch55 The Face of Insurmountable Power | ok |  |
+| R9006 | Appearance: Not described beyond a House Irios crest on his arm. | B7 Ch41 L26 (ok) | B7 Ch41 Murky Waters | ok |  |
+| R9007 | Appearance: Not described in detail in the lines read; in Book 11 she has "dead eyes" until she finds Rosa. | B11 Ch18 L29 (ok) | B11 Ch18 Alienness and Familiarity | ok |  |
+| R9008 | Secret or spoiler note: In Book 11 she scrambles between rocks in a desert canyon while a priest taunts her. | B11 Ch6 L13-16 (ok) | B11 Ch6 Lackeys | ok |  |
+| R9009 | Appearance: Tall (her eldest daughter has "Liara's height") and gold-rank fast, flitting through streets unnoticed. | B7 Ch17 L20 (ok); B8 Ch62 L39 (near) | B7 Ch17 It Will Not Be Fine; B8 Ch62 Recalibrate Their Expectations | ok |  |
+| R9010 | Appearance: Nine-foot messenger with wings; he and Tera wear synthetic leather armour rather than the diaphanous clothes messengers favour. | B9 Ch87 L31 (weak); B10 Ch2 L18 (ok) | B9 Ch87 The Difference in Conviction; B10 Ch2 Harder Than They Have to Be | ok |  |
+| R9011 | Secret or spoiler note: He notes that knowing messengers can survive without an astral king will be a revelation. | B9 Ch103 L114 (ok) | B9 Ch103 One Ludicrous Encounter to the Next | ok |  |
+| R9012 | Appearance: Walks up the path from town with two celestines with emerald hair and eyes. | B7 Ch18 L28 (ok) | B7 Ch18 A Story of War | ok |  |
+| R9013 | Appearance: An elf with dark brown skin and light brown hair flecked with green. | B13 Ch991 L3 (ok) | B13 Ch991 This Offer Kind of Sucks | ok |  |
+| R9014 | Appearance: Emerald hair and eyes at a party, then natural royal blue. | B7 Ch18 L49 (ok) | B7 Ch18 A Story of War | ok |  |
+| R9015 | Secret or spoiler note: His connection to a diamond-ranker Jason knows deferentially is not explained in the lines read. | B7 Ch56 L6 (ok) | B7 Ch56 What It Sent Us | ok |  |
+| R9016 | Appearance: She and Marek wear simple leather armour of magical synthetic instead of the diaphanous clothing messengers favour. | B10 Ch2 L18 (ok) | B10 Ch2 Harder Than They Have to Be | ok |  |
+| R9017 | Secret or spoiler note: Inflicting soul torture on her was the only way Jason could win the death match she forced on him. | B11 Ch67 L12 (ok) | B11 Ch67 Farewells | ok |  |
+| R9018 | Appearance: A human in a guild of mostly celestines: pale-skinned and dark-haired, lean and angular with icy blue eyes. | B7 Ch21 L13-14 (ok) | B7 Ch21 Enemies Even I Would Fear | ok |  |
+| R9019 | Appearance: Appears as a mass of shadow with smoky orange eyes. | B13 Ch1024 L100-104 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
+| R9020 | Secret or spoiler note: He serves Knowledge's plan against Jason. | B13 Ch1024 L118-127 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
+| R9021 | Secret or spoiler note: Boris is of the Unorthodoxy and she does not know it. | B11 Ch24 L85-86 (near) | B11 Ch24 Another Astral King | near |  |
 
 ## 10_Roleplay_Support/NPC_Cards/NPC_Cards_Books_10-13.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8981 | Cue: "I am unfortunately inclined to agree," he tells Taika, and says he will attempt to simplify their situation. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R8982 | His rumbling voice, "a sound like gravel being crushed", is the signature. | B11 Ch12 L65 (ok) | B11 Ch12 Precise Control | ok |  |
-| R8983 | Appearance: Silver metal wings, alabaster skin, amber glass eyes and no hair, in a toga of interlaced metal. | B10 Ch15 L5 (ok) | B10 Ch15 Better Ambitions | ok |  |
-| R8984 | Appearance: Some nine feet tall, a skeleton wrapped in a dark green cloak with glowing red eyes, built from the skeletons of a dozen monsters. | B10 Ch80 L42 (ok) | B10 Ch80 Come Like a Tsunami | ok |  |
-| R8985 | Appearance: A broad, powerful frame unusual among elves, with not a trace of monster core in his aura. | B10 Ch16 L62-63 (ok) | B10 Ch16 The Instinct to Kneel | ok |  |
-| R8986 | Appearance: Skin of dark chocolate and "a thornbush of curly hair". | B11 Ch60 L13 (ok) | B11 Ch60 Heroes Cheat All the Time | ok |  |
-| R8987 | Appearance: A handsome Pakistani man seated at Rufus's tea house table with Clive and Lorelei. | B13 Ch1016 L3 (ok) | B13 Ch1016 Worse Things | ok |  |
-| R8988 | Appearance: Seven feet tall, "diminutive for his kind", with wings; his clothes are not the loose toga style of messengers. | B13 Ch1000 L3 (ok) | B13 Ch1000 Cosmic Tyrant Warlord Cult Leader | ok |  |
-| R8989 | Appearance: Not described in the lines read; sweat drips off her in the monitoring room in the middle of the night. | B11 Ch68 L413 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R8990 | Appearance: A massive leonid carrying a huge axe. | B12 Ch15 L76 (ok) | B12 Ch15 Like an Adventurer | ok |  |
-| R8991 | Appearance: Not described in the lines read; she sips hot chocolate in a glass-walled chalet. | B13 Ch964 L3 (ok) | B13 Ch964 Expanding His Influence | ok |  |
-| R8992 | Secret or spoiler note: Her programme with Elizabeth and McKean was kept contained at her insistence. | B13 Ch975 L24 (ok) | B13 Ch975 Your Terms Are Acceptable | ok |  |
-| R8993 | Appearance: A fire aspect, dark-skinned, with skin markings, eyes and hair the yellow-orange of steel in a forge. | B10 Ch65 L9 (ok) | B10 Ch65 The Greatest Enemy of All | ok |  |
-| R8994 | Role: Nik is a four-foot humanoid rabbit in a top hat and tuxedo whom Jason brought into being, unplanned, when his soul realm became a transformation zone. | B11 Ch61 L16 (ok) | B11 Ch61 You Know It’s Trouble | ok |  |
-| R8995 | He curses constantly, is bleeped on the page, and calls Jason "Dad". | B11 Ch8 L102 (weak); B12 Ch39 L15 (near) | B11 Ch8 Rock Climbing; B12 Ch39 A Framework For Leadership | near |  |
-| R8996 | Voice: blunt and profane, with bleeped swearing and a love of pop-culture references such as Superman and Lois Lane; fond of "Dad" and wary about being treated as a toy. | B11 Ch8 L102 (weak); B13 Ch1003 L72 (near); B12 Ch39 L31 (weak) | B11 Ch8 Rock Climbing; B13 Ch1003 Stare Down the Devil; B12 Ch39 A Framework For Leadership | near |  |
-| R8997 | Secret or spoiler note: Jason says McKean is "just a warm-up compared to what comes next". | B13 Ch1005 L121 (ok) | B13 Ch1005 A Distant God | ok |  |
-| R8998 | Appearance: Increasingly dishevelled hair that "only further set off his rakish good looks". | B13 Ch971 L3 (ok) | B13 Ch971 All the Fuel It Needed | ok |  |
+| R9022 | Cue: "I am unfortunately inclined to agree," he tells Taika, and says he will attempt to simplify their situation. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R9023 | His rumbling voice, "a sound like gravel being crushed", is the signature. | B11 Ch12 L65 (ok) | B11 Ch12 Precise Control | ok |  |
+| R9024 | Appearance: Silver metal wings, alabaster skin, amber glass eyes and no hair, in a toga of interlaced metal. | B10 Ch15 L5 (ok) | B10 Ch15 Better Ambitions | ok |  |
+| R9025 | Appearance: Some nine feet tall, a skeleton wrapped in a dark green cloak with glowing red eyes, built from the skeletons of a dozen monsters. | B10 Ch80 L42 (ok) | B10 Ch80 Come Like a Tsunami | ok |  |
+| R9026 | Appearance: A broad, powerful frame unusual among elves, with not a trace of monster core in his aura. | B10 Ch16 L62-63 (ok) | B10 Ch16 The Instinct to Kneel | ok |  |
+| R9027 | Appearance: Skin of dark chocolate and "a thornbush of curly hair". | B11 Ch60 L13 (ok) | B11 Ch60 Heroes Cheat All the Time | ok |  |
+| R9028 | Appearance: A handsome Pakistani man seated at Rufus's tea house table with Clive and Lorelei. | B13 Ch1016 L3 (ok) | B13 Ch1016 Worse Things | ok |  |
+| R9029 | Appearance: Seven feet tall, "diminutive for his kind", with wings; his clothes are not the loose toga style of messengers. | B13 Ch1000 L3 (ok) | B13 Ch1000 Cosmic Tyrant Warlord Cult Leader | ok |  |
+| R9030 | Appearance: Not described in the lines read; sweat drips off her in the monitoring room in the middle of the night. | B11 Ch68 L413 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R9031 | Appearance: A massive leonid carrying a huge axe. | B12 Ch15 L76 (ok) | B12 Ch15 Like an Adventurer | ok |  |
+| R9032 | Appearance: Not described in the lines read; she sips hot chocolate in a glass-walled chalet. | B13 Ch964 L3 (ok) | B13 Ch964 Expanding His Influence | ok |  |
+| R9033 | Secret or spoiler note: Her programme with Elizabeth and McKean was kept contained at her insistence. | B13 Ch975 L24 (ok) | B13 Ch975 Your Terms Are Acceptable | ok |  |
+| R9034 | Appearance: A fire aspect, dark-skinned, with skin markings, eyes and hair the yellow-orange of steel in a forge. | B10 Ch65 L9 (ok) | B10 Ch65 The Greatest Enemy of All | ok |  |
+| R9035 | Role: Nik is a four-foot humanoid rabbit in a top hat and tuxedo whom Jason brought into being, unplanned, when his soul realm became a transformation zone. | B11 Ch61 L16 (ok) | B11 Ch61 You Know It’s Trouble | ok |  |
+| R9036 | He curses constantly, is bleeped on the page, and calls Jason "Dad". | B11 Ch8 L102 (weak); B12 Ch39 L15 (near) | B11 Ch8 Rock Climbing; B12 Ch39 A Framework For Leadership | near |  |
+| R9037 | Voice: blunt and profane, with bleeped swearing and a love of pop-culture references such as Superman and Lois Lane; fond of "Dad" and wary about being treated as a toy. | B11 Ch8 L102 (weak); B13 Ch1003 L72 (near); B12 Ch39 L31 (weak) | B11 Ch8 Rock Climbing; B13 Ch1003 Stare Down the Devil; B12 Ch39 A Framework For Leadership | near |  |
+| R9038 | Secret or spoiler note: Jason says McKean is "just a warm-up compared to what comes next". | B13 Ch1005 L121 (ok) | B13 Ch1005 A Distant God | ok |  |
+| R9039 | Appearance: Increasingly dishevelled hair that "only further set off his rakish good looks". | B13 Ch971 L3 (ok) | B13 Ch971 All the Fuel It Needed | ok |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_1_Greenstone.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R8999 | Where and when: the low-magic colony city of Greenstone and its delta, from late November on Jason's arrival through the Reaper contest of Book 2. | B4 Ch3 L112 (ok) | B4 Ch3 The Single Greatest Thing on This Planet | ok |  |
-| R9000 | Scale: iron rank; Jason's badge is iron with one star. | B1 Ch62 L66-67 (ok) | B1 Ch62 Have Some Damn Adventures | ok |  |
-| R9001 | Field testing happens at the start of each month. | B1 Ch38 L158 (ok) | B1 Ch38 Just Another Adventurer | ok |  |
-| R9002 | The city: Old City is where the money is made and the Island is where it goes; see../../06_Places/Greenstone.md. | B1 Ch35 L19 (ok); B1 Ch35 L59 (weak) | B1 Ch35 Greenstone | ok |  |
-| R9003 | Turning points: Farrah dies covering civilians; Emir's contest and the City of Fallen Echoes free 419 time-displaced priests. | B1 Ch113 L41 (weak); B2 Ch63 L9 (near) | B1 Ch113 You Need to Work on Making Enemies; B2 Ch63 Relief | near |  |
-| R9004 | The Ustei in the desert: nomads from the north are raiding spirit coin convoys far from home. Why did they come south? | B1 Ch83 L4 (ok); B1 Ch89 L50 (ok) | B1 Ch83 It Makes No Difference to the Ant; B1 Ch89 Anti-Pirate Operations | ok |  |
-| R9005 | An indenture sale: criminals' indentures are sold or auctioned to recoup the cost of their crimes. Who buys one, and why? | B1 Ch92 L32 (ok) | B1 Ch92 Unusual Contract | ok |  |
-| R9006 | A corrupt branch: the Magic Society's local director was banished to Greenstone for improprieties and uses the Fortress as his office. Who protects him? | B1 Ch42 L25-30 (ok) | B1 Ch42 This is the Pits | ok |  |
-| R9007 | Jason: deadpan about the absurd: "Question marks. That's enlightening". | B1 Ch1 L108 (ok) | B1 Ch1 Strange Business | ok |  |
-| R9008 | Rufus: courteous and formal; gestures with a sausage on a stick while explaining guild quotas. | B7 Ch12 L22-23 (ok) | B7 Ch12 Contribution | ok |  |
-| R9009 | Farrah: lectures on any subject; alive only until Book 1's end. | B1 Ch23 L15-17 (near) | B1 Ch23 I May have Made a Huge Mistake | near |  |
-| R9010 | Gary: deep and growling. | B1 Ch9 L121 (ok) | B1 Ch9 Escape | ok |  |
-| R9011 | Humphrey: precise and a little shy about romance. | B1 Ch47 L88-89 (ok) | B1 Ch47 Mirage Chamber | ok |  |
-| R9012 | Clive: a lecturer who jokes about wrestling an eel. | B1 Ch68 L92-94 (ok) | B1 Ch68 Good News For Clive | ok |  |
-| R9013 | Sophie: wary of kindness. | B2 Ch1 L77-80 (ok) | B2 Ch1 Climbing Mountains | ok |  |
-| R9014 | Danielle Geller: blunt, quick on a weakness. | B1 Ch47 L89 (ok) | B1 Ch47 Mirage Chamber | ok |  |
-| R9015 | Emir: smooth and showy. | B3 Ch5 L9 (ok) | B3 Ch5 Departures | ok |  |
-| R9016 | Authority: Elspeth Arella, Vincent Trenslow, Lucian Lamprey and Pochard Finn. More in../NPC_Rosters_by_Era.md. | B1 Ch65 L60 (near); B1 Ch54 L36 (near); B1 Ch42 L25-30 (ok) | B1 Ch65 Curious Urges; B1 Ch54 Field Assessment; B1 Ch42 This is the Pits | ok |  |
-| R9017 | A traditional blood cult in the hedge-maze estate; the Ustei raids; Old City's "Big Three" crime lords; star seeds implanted through a hidden cult. | B1 Ch9 L50 (near); B1 Ch83 L4 (weak); B1 Ch50 L92 (near); B2 Ch21 L26-28 (near) | B1 Ch9 Escape; B1 Ch83 It Makes No Difference to the Ant; B1 Ch50 The Full Keanu; B2 Ch21 World Building | near |  |
-| R9018 | Jason is an outworlder: the team and Danielle know by Book 1. | B1 Ch21 L82-87 (near); B1 Ch48 L101-105 (ok) | B1 Ch21 I Have the Power; B1 Ch48 An Endless, Inescapable Nightmare | ok |  |
-| R9019 | Party interface: Jason's allies use his party chat. | B2 Ch50 L8 (ok); B2 Ch65 L89 (ok) | B2 Ch50 Surplus to Requirements; B2 Ch65 Display of Gratitude | ok |  |
-| R9020 | Star seeds and a cult's aim to seal an astral space: known to Greenstone's elite from Book 2. | B2 Ch21 L19-28 (ok); B2 Ch21 L123 (near) | B2 Ch21 World Building | ok |  |
+| R9040 | Where and when: the low-magic colony city of Greenstone and its delta, from late November on Jason's arrival through the Reaper contest of Book 2. | B4 Ch3 L112 (ok) | B4 Ch3 The Single Greatest Thing on This Planet | ok |  |
+| R9041 | Scale: iron rank; Jason's badge is iron with one star. | B1 Ch62 L66-67 (ok) | B1 Ch62 Have Some Damn Adventures | ok |  |
+| R9042 | Field testing happens at the start of each month. | B1 Ch38 L158 (ok) | B1 Ch38 Just Another Adventurer | ok |  |
+| R9043 | The city: Old City is where the money is made and the Island is where it goes; see../../06_Places/Greenstone.md. | B1 Ch35 L19 (ok); B1 Ch35 L59 (weak) | B1 Ch35 Greenstone | ok |  |
+| R9044 | Turning points: Farrah dies covering civilians; Emir's contest and the City of Fallen Echoes free 419 time-displaced priests. | B1 Ch113 L41 (weak); B2 Ch63 L9 (near) | B1 Ch113 You Need to Work on Making Enemies; B2 Ch63 Relief | near |  |
+| R9045 | The Ustei in the desert: nomads from the north are raiding spirit coin convoys far from home. Why did they come south? | B1 Ch83 L4 (ok); B1 Ch89 L50 (ok) | B1 Ch83 It Makes No Difference to the Ant; B1 Ch89 Anti-Pirate Operations | ok |  |
+| R9046 | An indenture sale: criminals' indentures are sold or auctioned to recoup the cost of their crimes. Who buys one, and why? | B1 Ch92 L32 (ok) | B1 Ch92 Unusual Contract | ok |  |
+| R9047 | A corrupt branch: the Magic Society's local director was banished to Greenstone for improprieties and uses the Fortress as his office. Who protects him? | B1 Ch42 L25-30 (ok) | B1 Ch42 This is the Pits | ok |  |
+| R9048 | Jason: deadpan about the absurd: "Question marks. That's enlightening". | B1 Ch1 L108 (ok) | B1 Ch1 Strange Business | ok |  |
+| R9049 | Rufus: courteous and formal; gestures with a sausage on a stick while explaining guild quotas. | B7 Ch12 L22-23 (ok) | B7 Ch12 Contribution | ok |  |
+| R9050 | Farrah: lectures on any subject; alive only until Book 1's end. | B1 Ch23 L15-17 (near) | B1 Ch23 I May have Made a Huge Mistake | near |  |
+| R9051 | Gary: deep and growling. | B1 Ch9 L121 (ok) | B1 Ch9 Escape | ok |  |
+| R9052 | Humphrey: precise and a little shy about romance. | B1 Ch47 L88-89 (ok) | B1 Ch47 Mirage Chamber | ok |  |
+| R9053 | Clive: a lecturer who jokes about wrestling an eel. | B1 Ch68 L92-94 (ok) | B1 Ch68 Good News For Clive | ok |  |
+| R9054 | Sophie: wary of kindness. | B2 Ch1 L77-80 (ok) | B2 Ch1 Climbing Mountains | ok |  |
+| R9055 | Danielle Geller: blunt, quick on a weakness. | B1 Ch47 L89 (ok) | B1 Ch47 Mirage Chamber | ok |  |
+| R9056 | Emir: smooth and showy. | B3 Ch5 L9 (ok) | B3 Ch5 Departures | ok |  |
+| R9057 | Authority: Elspeth Arella, Vincent Trenslow, Lucian Lamprey and Pochard Finn. More in../NPC_Rosters_by_Era.md. | B1 Ch65 L60 (near); B1 Ch54 L36 (near); B1 Ch42 L25-30 (ok) | B1 Ch65 Curious Urges; B1 Ch54 Field Assessment; B1 Ch42 This is the Pits | ok |  |
+| R9058 | A traditional blood cult in the hedge-maze estate; the Ustei raids; Old City's "Big Three" crime lords; star seeds implanted through a hidden cult. | B1 Ch9 L50 (near); B1 Ch83 L4 (weak); B1 Ch50 L92 (near); B2 Ch21 L26-28 (near) | B1 Ch9 Escape; B1 Ch83 It Makes No Difference to the Ant; B1 Ch50 The Full Keanu; B2 Ch21 World Building | near |  |
+| R9059 | Jason is an outworlder: the team and Danielle know by Book 1. | B1 Ch21 L82-87 (near); B1 Ch48 L101-105 (ok) | B1 Ch21 I Have the Power; B1 Ch48 An Endless, Inescapable Nightmare | ok |  |
+| R9060 | Party interface: Jason's allies use his party chat. | B2 Ch50 L8 (ok); B2 Ch65 L89 (ok) | B2 Ch50 Surplus to Requirements; B2 Ch65 Display of Gratitude | ok |  |
+| R9061 | Star seeds and a cult's aim to seal an astral space: known to Greenstone's elite from Book 2. | B2 Ch21 L19-28 (ok); B2 Ch21 L123 (near) | B2 Ch21 World Building | ok |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_2_Bronze_and_the_Builder.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9021 | Where and when: Greenstone and the delta in a mild winter, then the Builder's astral space from about month 7 until Jason's death at about month 15 to 16 (see../../08_History_and_Timeline/Master_Timeline.md). | B3 Ch1 L14 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
-| R9022 | Scale: Path of Shadows reaches bronze; the astral space has twelve towers about eight kilometres apart. | B3 Ch29 L23 (near); B3 Ch36 L36 (ok) | B3 Ch29 Inherently Corrupting; B3 Ch36 Running Towards Something | ok |  |
-| R9023 | Turning point: Jason dies covering the team's escape. | B3 Ch69 L900 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R9024 | Purity under inquiry: an ecumenical council investigates the church of Purity. Who in the church knew? | B3 Ch1 L105 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
-| R9025 | A rain elemental over Old City: it appears in the city, and bronze-rankers gear up to confront it. Who takes the lead? | B3 Ch6 L18 (ok); B3 Ch6 L43 (ok) | B3 Ch6 No Pot of Gold | ok |  |
-| R9026 | Hunting Killian Laurent: Jason's team spends days looking for the man who possessed a star seed. Where did he run? | B3 Ch24 L3 (ok) | B3 Ch24 I Won’t Let Them Turn Me Into That | ok |  |
-| R9027 | The team: Jason, Humphrey, Sophie, Belinda, Clive, Neil. | B3 Ch3 L70-82 (ok) | B3 Ch3 Adventurers Are People Too | ok |  |
-| R9028 | Belinda is delighted by her own power; Neil is tentative before he commits. | B2 Ch32 L72 (ok); B2 Ch27 L46 (near) | B2 Ch32 Full Jason; B2 Ch27 Potential | ok |  |
-| R9029 | Opponents: Zato and Timos, Nicolas Hendren and Anisa Lasalle of Purity, Cole Silva and Killian Laurent. | B3 Ch7 L89 (near); B2 Ch59 L87 (near); B2 Ch19 L73 (near); B2 Ch10 L92 (near); B3 Ch17 L14 (near) | B3 Ch7 The Glory of Success or the Price of Failure; B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone…; B2 Ch19 Cleansed; B2 Ch10 Star Seed … | near |  |
-| R9030 | Cosmic visitors: Dawn, Shako and Velius appear at the end. | B3 Ch69 L233-238 (ok); B3 Ch69 L1036 (near) | B3 Ch69 A War of Stolen Moments | ok |  |
-| R9031 | Star seeds; energy ghouls; clockwork constructs and cores; cult infiltrators among aristocrats; the astral space itself, called "a giant boarding vessel". | B3 Ch62 L23 (weak); B2 Ch25 L35-41 (near); B3 Ch65 L79 (near) | B3 Ch62 Losing the Battle to Win the War; B2 Ch25 Resurrection; B3 Ch65 Good News, Bad News | near |  |
-| R9032 | The cult exists and what it wants: its aim is to reinforce an astral space and sever it from the world. | B2 Ch21 L123 (ok) | B2 Ch21 World Building | ok |  |
-| R9033 | The Rejector: the cultists call Jason that. | B3 Ch32 L105 (ok) | B3 Ch32 The World Needs People Like You | ok |  |
-| R9034 | The outcome of the three-way negotiation between the Builder, World-Phoenix and Reaper beyond what the scene shows; why Jason's soul survived death. | B3 Ch69 L279 (near) | B3 Ch69 A War of Stolen Moments | near |  |
+| R9062 | Where and when: Greenstone and the delta in a mild winter, then the Builder's astral space from about month 7 until Jason's death at about month 15 to 16 (see../../08_History_and_Timeline/Master_Timeline.md). | B3 Ch1 L14 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R9063 | Scale: Path of Shadows reaches bronze; the astral space has twelve towers about eight kilometres apart. | B3 Ch29 L23 (near); B3 Ch36 L36 (ok) | B3 Ch29 Inherently Corrupting; B3 Ch36 Running Towards Something | ok |  |
+| R9064 | Turning point: Jason dies covering the team's escape. | B3 Ch69 L900 (ok) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R9065 | Purity under inquiry: an ecumenical council investigates the church of Purity. Who in the church knew? | B3 Ch1 L105 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R9066 | A rain elemental over Old City: it appears in the city, and bronze-rankers gear up to confront it. Who takes the lead? | B3 Ch6 L18 (ok); B3 Ch6 L43 (ok) | B3 Ch6 No Pot of Gold | ok |  |
+| R9067 | Hunting Killian Laurent: Jason's team spends days looking for the man who possessed a star seed. Where did he run? | B3 Ch24 L3 (ok) | B3 Ch24 I Won’t Let Them Turn Me Into That | ok |  |
+| R9068 | The team: Jason, Humphrey, Sophie, Belinda, Clive, Neil. | B3 Ch3 L70-82 (ok) | B3 Ch3 Adventurers Are People Too | ok |  |
+| R9069 | Belinda is delighted by her own power; Neil is tentative before he commits. | B2 Ch32 L72 (ok); B2 Ch27 L46 (near) | B2 Ch32 Full Jason; B2 Ch27 Potential | ok |  |
+| R9070 | Opponents: Zato and Timos, Nicolas Hendren and Anisa Lasalle of Purity, Cole Silva and Killian Laurent. | B3 Ch7 L89 (near); B2 Ch59 L87 (near); B2 Ch19 L73 (near); B2 Ch10 L92 (near); B3 Ch17 L14 (near) | B3 Ch7 The Glory of Success or the Price of Failure; B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone…; B2 Ch19 Cleansed; B2 Ch10 Star Seed … | near |  |
+| R9071 | Cosmic visitors: Dawn, Shako and Velius appear at the end. | B3 Ch69 L233-238 (ok); B3 Ch69 L1036 (near) | B3 Ch69 A War of Stolen Moments | ok |  |
+| R9072 | Star seeds; energy ghouls; clockwork constructs and cores; cult infiltrators among aristocrats; the astral space itself, called "a giant boarding vessel". | B3 Ch62 L23 (weak); B2 Ch25 L35-41 (near); B3 Ch65 L79 (near) | B3 Ch62 Losing the Battle to Win the War; B2 Ch25 Resurrection; B3 Ch65 Good News, Bad News | near |  |
+| R9073 | The cult exists and what it wants: its aim is to reinforce an astral space and sever it from the world. | B2 Ch21 L123 (ok) | B2 Ch21 World Building | ok |  |
+| R9074 | The Rejector: the cultists call Jason that. | B3 Ch32 L105 (ok) | B3 Ch32 The World Needs People Like You | ok |  |
+| R9075 | The outcome of the three-way negotiation between the Builder, World-Phoenix and Reaper beyond what the scene shows; why Jason's soul survived death. | B3 Ch69 L279 (near) | B3 Ch69 A War of Stolen Moments | near |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_3_Earth.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9035 | Where and when: Australia, then Slovakia and France, from early June 2019 to a warm autumn day in 2021. | B4 Ch3 L112 (near); B6 Ch47 L155 (ok) | B4 Ch3 The Single Greatest Thing on This Planet; B6 Ch47 Something Other Than Human | ok |  |
-| R9036 | Scale: bronze at the start, silver by the Book 5 chapter "Silver". | B5 Ch31 L1 (near) | B5 Ch31 Silver | near |  |
-| R9037 | The world: the Engineers of Ascension hold Perth and Melbourne; after the monster waves the Network is publicly the Global Defense Network; transformation zones begin with Kostroma. | B4 Ch9 L76 (near); B5 Ch17 L7 (ok); B5 Ch44 L48-49 (ok) | B4 Ch9 I Suggest You Be Very Polite; B5 Ch17 Broken; B5 Ch44 A Chance to Control the Narrative | ok |  |
-| R9038 | The EOA moves on Sydney: they have "seized control in Perth and Melbourne, and now they're making no secret of their overtures into Sydney". Who in the family is in their path? | B4 Ch9 L76 (ok) | B4 Ch9 I Suggest You Be Very Polite | ok |  |
-| R9039 | Reality cores: one appears in each affected zone and the factions scramble for it. Who gets there first? | B5 Ch45 L9-11 (ok) | B5 Ch45 You Shouldn’t Lie to Your Wife | ok |  |
-| R9040 | A domain nobody can enter safely: gold-rankers explore Jason's Nitra domain until the hostile effects become dangerous. What do they want from it? | B6 Ch23 L3 (ok) | B6 Ch23 Little Cost in Exploring | ok |  |
-| R9041 | Jason: dry understatement when grieving. | B5 Ch20 L25 (near) | B5 Ch20 Instability | near |  |
-| R9042 | Family: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy. Emi is sharp and political at thirteen. | B4 Ch3 L132 (ok); B4 Ch1 L66-67 (near); B4 Ch4 L105 (weak); B5 Ch44 L3 (ok); B5 Ch24 L3-5 (weak) | B4 Ch3 The Single Greatest Thing on This Planet; B4 Ch1 A Better Pants Solution; B4 Ch4 Some Secrets Change You Forever; B5 Ch44 A Chance to Control the Narrative … | ok |  |
-| R9043 | Network: Anna Tilden, Nigel Thornton, Asya; Mr North is amused and unhurried. | B5 Ch51 L48 (near); B4 Ch41 L91 (weak); B4 Ch36 L37 (near); B5 Ch41 L33 (weak) | B5 Ch51 Prepare For The Rematch; B4 Ch41 What You Call Observing; B4 Ch36 Hardline Position; B5 Ch41 Parade of Delights | near |  |
-| R9044 | Cabal: Craig Vermillion. | B4 Ch11 L101 (ok) | B4 Ch11 A Knife in Its Sheath | ok |  |
-| R9045 | Pallimustus visitors: Farrah is freed in Book 4; Dawn returns in a new avatar and is composed and dry. | B4 Ch51 L62 (weak); B5 Ch20 L21-24 (ok) | B4 Ch51 The Long Game; B5 Ch20 Instability | ok |  |
-| R9046 | Proto-spaces opening in towns; ancient vampires fed on reality-core blood; the EOA; the Network schism; Gerling; Shako. | B5 Ch55 L92 (near); B6 Ch1 L3 (ok); B6 Ch17 L37 (near) | B5 Ch55 Trying to Be Merciful; B6 Ch1 Looting a House as it Burns Down Around You; B6 Ch17 You Really Aren’t Local | ok |  |
-| R9047 | Jason is an outworlder: the Network learns it in Book 4; the public learns of his personas. | B4 Ch18 L29 (near); B4 Ch19 L69 (near); B5 Ch11 L12 (ok) | B4 Ch18 Brown Trousers Time; B4 Ch19 The Complete Set; B5 Ch11 Media Blitz | ok |  |
-| R9048 | The magic link: Dawn tells Jason of the siphoning and Purity's bargain. | B4 Ch68 L59 (ok); B4 Ch68 L139 (ok) | B4 Ch68 What You Have to Do | ok |  |
+| R9076 | Where and when: Australia, then Slovakia and France, from early June 2019 to a warm autumn day in 2021. | B4 Ch3 L112 (near); B6 Ch47 L155 (ok) | B4 Ch3 The Single Greatest Thing on This Planet; B6 Ch47 Something Other Than Human | ok |  |
+| R9077 | Scale: bronze at the start, silver by the Book 5 chapter "Silver". | B5 Ch31 L1 (near) | B5 Ch31 Silver | near |  |
+| R9078 | The world: the Engineers of Ascension hold Perth and Melbourne; after the monster waves the Network is publicly the Global Defense Network; transformation zones begin with Kostroma. | B4 Ch9 L76 (near); B5 Ch17 L7 (ok); B5 Ch44 L48-49 (ok) | B4 Ch9 I Suggest You Be Very Polite; B5 Ch17 Broken; B5 Ch44 A Chance to Control the Narrative | ok |  |
+| R9079 | The EOA moves on Sydney: they have "seized control in Perth and Melbourne, and now they're making no secret of their overtures into Sydney". Who in the family is in their path? | B4 Ch9 L76 (ok) | B4 Ch9 I Suggest You Be Very Polite | ok |  |
+| R9080 | Reality cores: one appears in each affected zone and the factions scramble for it. Who gets there first? | B5 Ch45 L9-11 (ok) | B5 Ch45 You Shouldn’t Lie to Your Wife | ok |  |
+| R9081 | A domain nobody can enter safely: gold-rankers explore Jason's Nitra domain until the hostile effects become dangerous. What do they want from it? | B6 Ch23 L3 (ok) | B6 Ch23 Little Cost in Exploring | ok |  |
+| R9082 | Jason: dry understatement when grieving. | B5 Ch20 L25 (near) | B5 Ch20 Instability | near |  |
+| R9083 | Family: Erika, Ian and Emi, Hiro, Ken and Cheryl, Kaito and Amy. Emi is sharp and political at thirteen. | B4 Ch3 L132 (ok); B4 Ch1 L66-67 (near); B4 Ch4 L105 (weak); B5 Ch44 L3 (ok); B5 Ch24 L3-5 (weak) | B4 Ch3 The Single Greatest Thing on This Planet; B4 Ch1 A Better Pants Solution; B4 Ch4 Some Secrets Change You Forever; B5 Ch44 A Chance to Control the Narrative … | ok |  |
+| R9084 | Network: Anna Tilden, Nigel Thornton, Asya; Mr North is amused and unhurried. | B5 Ch51 L48 (near); B4 Ch41 L91 (weak); B4 Ch36 L37 (near); B5 Ch41 L33 (weak) | B5 Ch51 Prepare For The Rematch; B4 Ch41 What You Call Observing; B4 Ch36 Hardline Position; B5 Ch41 Parade of Delights | near |  |
+| R9085 | Cabal: Craig Vermillion. | B4 Ch11 L101 (ok) | B4 Ch11 A Knife in Its Sheath | ok |  |
+| R9086 | Pallimustus visitors: Farrah is freed in Book 4; Dawn returns in a new avatar and is composed and dry. | B4 Ch51 L62 (weak); B5 Ch20 L21-24 (ok) | B4 Ch51 The Long Game; B5 Ch20 Instability | ok |  |
+| R9087 | Proto-spaces opening in towns; ancient vampires fed on reality-core blood; the EOA; the Network schism; Gerling; Shako. | B5 Ch55 L92 (near); B6 Ch1 L3 (ok); B6 Ch17 L37 (near) | B5 Ch55 Trying to Be Merciful; B6 Ch1 Looting a House as it Burns Down Around You; B6 Ch17 You Really Aren’t Local | ok |  |
+| R9088 | Jason is an outworlder: the Network learns it in Book 4; the public learns of his personas. | B4 Ch18 L29 (near); B4 Ch19 L69 (near); B5 Ch11 L12 (ok) | B4 Ch18 Brown Trousers Time; B4 Ch19 The Complete Set; B5 Ch11 Media Blitz | ok |  |
+| R9089 | The magic link: Dawn tells Jason of the siphoning and Purity's bargain. | B4 Ch68 L59 (ok); B4 Ch68 L139 (ok) | B4 Ch68 What You Have to Do | ok |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_4_Rimaros.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9049 | Where and when: the Storm Kingdom, a city of islands in the Sea of Storms; Jason arrives in a cyclone as the surge begins. | B7 Ch5 L56 (ok); B7 Ch1 L56 (ok) | B7 Ch5 I’ve Seen Your Best; B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
-| R9050 | Scale: silver rank in the Storm Kingdom, where sky islands house the cream of society. | B7 Ch5 L65 (ok) | B7 Ch5 I’ve Seen Your Best | ok |  |
-| R9051 | Turning point: the Astral Throne and Gate appear. | B8 Ch49 L105 (ok) | B8 Ch49 Quite a Lot of System Windows | ok |  |
-| R9052 | The outworlders: a hundred and nineteen appear at once and must be placed. Who takes them in? | B7 Ch36 L86 (ok) | B7 Ch36 Unyielding Faith | ok |  |
-| R9053 | A political marriage that fell through: Zara was matched with a member of House Irios for stability before the surge. Who benefits from the scandal? | B7 Ch18 L66-72 (ok) | B7 Ch18 A Story of War | ok |  |
-| R9054 | A kidnapped heir: Gibson Amouz is spirited away from the island. Where was he taken? | B8 Ch20 L4 (ok) | B8 Ch20 Blame | ok |  |
-| R9055 | Royals: Soramir is dignified; Zara is courtly with a threat in the smile; Liara is brisk and official. | B7 Ch18 L42 (near); B2 Ch69 L17-19 (near); B7 Ch17 L3 (weak) | B7 Ch18 A Story of War; B2 Ch69 Particular Appetites; B7 Ch17 It Will Not Be Fine | near |  |
-| R9056 | Locals: Pelli is blunt; Argy is laconic; Trenchant Moore is reserved. | B7 Ch13 L51 (weak); B7 Ch13 L31 (near); B7 Ch21 L13 (near) | B7 Ch13 Small-Town Lifestyle; B7 Ch21 Enemies Even I Would Fear | near |  |
-| R9057 | Team Biscuit: named in Book 7; Gabrielle Pellin is stern and accusing of Jason's methods. | B7 Ch56 L74 (near); B7 Ch9 L7 (near) | B7 Ch56 What It Sent Us; B7 Ch9 More Paperwork | near |  |
-| R9058 | Opponents: Melody Jain and the Order of Redeeming Light. | B8 Ch18 L3-6 (ok) | B8 Ch18 Bait and Switch | ok |  |
-| R9059 | Invasion platforms; the One Day War; guild quotas that give guilds sixty percent of the surge quotas; towns massacred under cover of monster attacks. | B7 Ch8 L36 (weak); B7 Ch66 L27 (near); B7 Ch12 L23 (ok); B8 Ch9 L40 (weak) | B7 Ch8 Disappointed or Relieved; B7 Ch66 The End of the World; B7 Ch12 Contribution; B8 Ch9 Opportunists | ok |  |
-| R9060 | Jason is an outworlder: Soramir tells him he sensed his arrival. | B7 Ch18 L42 (ok) | B7 Ch18 A Story of War | ok |  |
-| R9061 | The Builder's invasion: known to the royals and the Adventure Society. | B7 Ch11 L5 (near) | B7 Ch11 Don’t Say You Weren’t Warned | near |  |
-| R9062 | Not known: Knowledge's plan; that Jason is an astral king until Book 9. | B9 Ch62 L30-34 (near) | B9 Ch62 Apocalypse | near |  |
+| R9090 | Where and when: the Storm Kingdom, a city of islands in the Sea of Storms; Jason arrives in a cyclone as the surge begins. | B7 Ch5 L56 (ok); B7 Ch1 L56 (ok) | B7 Ch5 I’ve Seen Your Best; B7 Ch1 Of Course He Doesn’t Have Pants | ok |  |
+| R9091 | Scale: silver rank in the Storm Kingdom, where sky islands house the cream of society. | B7 Ch5 L65 (ok) | B7 Ch5 I’ve Seen Your Best | ok |  |
+| R9092 | Turning point: the Astral Throne and Gate appear. | B8 Ch49 L105 (ok) | B8 Ch49 Quite a Lot of System Windows | ok |  |
+| R9093 | The outworlders: a hundred and nineteen appear at once and must be placed. Who takes them in? | B7 Ch36 L86 (ok) | B7 Ch36 Unyielding Faith | ok |  |
+| R9094 | A political marriage that fell through: Zara was matched with a member of House Irios for stability before the surge. Who benefits from the scandal? | B7 Ch18 L66-72 (ok) | B7 Ch18 A Story of War | ok |  |
+| R9095 | A kidnapped heir: Gibson Amouz is spirited away from the island. Where was he taken? | B8 Ch20 L4 (ok) | B8 Ch20 Blame | ok |  |
+| R9096 | Royals: Soramir is dignified; Zara is courtly with a threat in the smile; Liara is brisk and official. | B7 Ch18 L42 (near); B2 Ch69 L17-19 (near); B7 Ch17 L3 (weak) | B7 Ch18 A Story of War; B2 Ch69 Particular Appetites; B7 Ch17 It Will Not Be Fine | near |  |
+| R9097 | Locals: Pelli is blunt; Argy is laconic; Trenchant Moore is reserved. | B7 Ch13 L51 (weak); B7 Ch13 L31 (near); B7 Ch21 L13 (near) | B7 Ch13 Small-Town Lifestyle; B7 Ch21 Enemies Even I Would Fear | near |  |
+| R9098 | Team Biscuit: named in Book 7; Gabrielle Pellin is stern and accusing of Jason's methods. | B7 Ch56 L74 (near); B7 Ch9 L7 (near) | B7 Ch56 What It Sent Us; B7 Ch9 More Paperwork | near |  |
+| R9099 | Opponents: Melody Jain and the Order of Redeeming Light. | B8 Ch18 L3-6 (ok) | B8 Ch18 Bait and Switch | ok |  |
+| R9100 | Invasion platforms; the One Day War; guild quotas that give guilds sixty percent of the surge quotas; towns massacred under cover of monster attacks. | B7 Ch8 L36 (weak); B7 Ch66 L27 (near); B7 Ch12 L23 (ok); B8 Ch9 L40 (weak) | B7 Ch8 Disappointed or Relieved; B7 Ch66 The End of the World; B7 Ch12 Contribution; B8 Ch9 Opportunists | ok |  |
+| R9101 | Jason is an outworlder: Soramir tells him he sensed his arrival. | B7 Ch18 L42 (ok) | B7 Ch18 A Story of War | ok |  |
+| R9102 | The Builder's invasion: known to the royals and the Adventure Society. | B7 Ch11 L5 (near) | B7 Ch11 Don’t Say You Weren’t Warned | near |  |
+| R9103 | Not known: Knowledge's plan; that Jason is an astral king until Book 9. | B9 Ch62 L30-34 (near) | B9 Ch62 Apocalypse | near |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_5_Yaresh.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9063 | Where and when: Yaresh, a rainforest city of a few tens of thousands with a natural array beneath it, about a four-month journey from Rimaros. Jason is twenty-nine. | B9 Ch42 L26 (ok); B9 Ch26 L26 (weak); B10 Ch33 L76 (near) | B9 Ch42 Quiet Professionalism; B9 Ch26 Bad at Crime; B10 Ch33 Stash Wakes Up From a Nap | ok |  |
-| R9064 | Scale: silver-rank adventurers and gold and diamond power brokers in a small elf city. | B9 Ch42 L26 (near) | B9 Ch42 Quiet Professionalism | near |  |
-| R9065 | A messenger camp: Knowledge's army and the messengers set camp outside Yaresh while the city's government and Adventure Society worry. Who moves first? | B9 Ch42 L80 (ok) | B9 Ch42 Quiet Professionalism | ok |  |
-| R9066 | Servant races and masters: messenger masters may treat servants as they please within limits. Who will speak up? | B9 Ch56 L5 (ok) | B9 Ch56 Even Though You Fear | ok |  |
-| R9067 | The Aristocratic Faction: landowners with no adventurers behind them undermine the Duke. Who profits from the war? | B10 Ch14 L28-35 (ok) | B10 Ch14 Spanked | ok |  |
-| R9068 | Elves: Allayeth teases playfully; Charist is the more social of the pair; Hana Shavar personally takes charge of the refugees. | B10 Ch26 L35 (weak); B12 Ch16 L8 (near); B9 Ch74 L43 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps; B12 Ch16 People Think You’re Blowing Up Cities; B9 Ch74 Mr Asano Will See You Now | ok |  |
-| R9069 | Adventure Society: Musin Heath is careful; Marcus Xenoria is booming and blunt. | B10 Ch9 L38 (ok); B10 Ch47 L76 (ok) | B10 Ch9 Unstable; B10 Ch47 What is the Adventure Society | ok |  |
-| R9070 | Messengers: Jes Fin Kaal is quiet and exact; Marek is proud and adaptable; Tera is rigid; Fal Vin Garath is imperious. | B9 Ch56 L14 (near); B9 Ch86 L16 (near); B9 Ch100 L19 (weak); B9 Ch52 L20-28 (weak) | B9 Ch56 Even Though You Fear; B9 Ch86 Not Enough Monsters to Fight; B9 Ch100 Doubt, Fear and Hesitation; B9 Ch52 The Genuine Article | near |  |
-| R9071 | Allies: Taika, Zara, Korinne's team. | B9 Ch41 L119 (ok) | B9 Ch41 Doing Things That You Shouldn’t | ok |  |
-| R9072 | World-taker worms; the entertainment-district breach; the Church of Undeath striking when its god has saved up chances; the Builder's new vessel. | B9 Ch58 L50 (near); B9 Ch86 L16 (near); B10 Ch78 L38 (ok); B10 Ch15 L5 (near) | B9 Ch58 Die Immediately Without Prompting; B9 Ch86 Not Enough Monsters to Fight; B10 Ch78 A Little Bit Odd; B10 Ch15 Better Ambitions | ok |  |
-| R9073 | Jason is an astral king: a healer realises it; Soramir warns him it will be unpopular. | B9 Ch62 L30-34 (near); B9 Ch23 L44 (near) | B9 Ch62 Apocalypse; B9 Ch23 Put the Extraordinary Aside | near |  |
-| R9074 | The messengers' aim: a soul forge in the natural array. | B10 Ch72 L65 (ok) | B10 Ch72 Citadel | ok |  |
-| R9075 | Refer to the device as "the messengers' device"; avoid soul forge until a character names it. | B10 Ch25 L60 (ok) | B10 Ch25 Garden-Variety Arrogance | ok |  |
-| R9076 | What Gary's bargain with Hero will cost; why the messengers' Voice of the Will would betray allies. | B10 Ch10 L64 (near) | B10 Ch10 Dark Bargain | near |  |
+| R9104 | Where and when: Yaresh, a rainforest city of a few tens of thousands with a natural array beneath it, about a four-month journey from Rimaros. Jason is twenty-nine. | B9 Ch42 L26 (ok); B9 Ch26 L26 (weak); B10 Ch33 L76 (near) | B9 Ch42 Quiet Professionalism; B9 Ch26 Bad at Crime; B10 Ch33 Stash Wakes Up From a Nap | ok |  |
+| R9105 | Scale: silver-rank adventurers and gold and diamond power brokers in a small elf city. | B9 Ch42 L26 (near) | B9 Ch42 Quiet Professionalism | near |  |
+| R9106 | A messenger camp: Knowledge's army and the messengers set camp outside Yaresh while the city's government and Adventure Society worry. Who moves first? | B9 Ch42 L80 (ok) | B9 Ch42 Quiet Professionalism | ok |  |
+| R9107 | Servant races and masters: messenger masters may treat servants as they please within limits. Who will speak up? | B9 Ch56 L5 (ok) | B9 Ch56 Even Though You Fear | ok |  |
+| R9108 | The Aristocratic Faction: landowners with no adventurers behind them undermine the Duke. Who profits from the war? | B10 Ch14 L28-35 (ok) | B10 Ch14 Spanked | ok |  |
+| R9109 | Elves: Allayeth teases playfully; Charist is the more social of the pair; Hana Shavar personally takes charge of the refugees. | B10 Ch26 L35 (weak); B12 Ch16 L8 (near); B9 Ch74 L43 (ok) | B10 Ch26 How to Reach Gold Rank in Three Easy Steps; B12 Ch16 People Think You’re Blowing Up Cities; B9 Ch74 Mr Asano Will See You Now | ok |  |
+| R9110 | Adventure Society: Musin Heath is careful; Marcus Xenoria is booming and blunt. | B10 Ch9 L38 (ok); B10 Ch47 L76 (ok) | B10 Ch9 Unstable; B10 Ch47 What is the Adventure Society | ok |  |
+| R9111 | Messengers: Jes Fin Kaal is quiet and exact; Marek is proud and adaptable; Tera is rigid; Fal Vin Garath is imperious. | B9 Ch56 L14 (near); B9 Ch86 L16 (near); B9 Ch100 L19 (weak); B9 Ch52 L20-28 (weak) | B9 Ch56 Even Though You Fear; B9 Ch86 Not Enough Monsters to Fight; B9 Ch100 Doubt, Fear and Hesitation; B9 Ch52 The Genuine Article | near |  |
+| R9112 | Allies: Taika, Zara, Korinne's team. | B9 Ch41 L119 (ok) | B9 Ch41 Doing Things That You Shouldn’t | ok |  |
+| R9113 | World-taker worms; the entertainment-district breach; the Church of Undeath striking when its god has saved up chances; the Builder's new vessel. | B9 Ch58 L50 (near); B9 Ch86 L16 (near); B10 Ch78 L38 (ok); B10 Ch15 L5 (near) | B9 Ch58 Die Immediately Without Prompting; B9 Ch86 Not Enough Monsters to Fight; B10 Ch78 A Little Bit Odd; B10 Ch15 Better Ambitions | ok |  |
+| R9114 | Jason is an astral king: a healer realises it; Soramir warns him it will be unpopular. | B9 Ch62 L30-34 (near); B9 Ch23 L44 (near) | B9 Ch62 Apocalypse; B9 Ch23 Put the Extraordinary Aside | near |  |
+| R9115 | The messengers' aim: a soul forge in the natural array. | B10 Ch72 L65 (ok) | B10 Ch72 Citadel | ok |  |
+| R9116 | Refer to the device as "the messengers' device"; avoid soul forge until a character names it. | B10 Ch25 L60 (ok) | B10 Ch25 Garden-Variety Arrogance | ok |  |
+| R9117 | What Gary's bargain with Hero will cost; why the messengers' Voice of the Will would betray allies. | B10 Ch10 L64 (near) | B10 Ch10 Dark Bargain | near |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_6_Cardinas.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9077 | Where and when: the underground city of Cardinas and its natural array, then the third transformation zone Jason reshapes. The zone lasts "months". | B10 Ch72 L31 (ok); B11 Ch1 L15 (ok); B11 Ch60 L3 (ok) | B10 Ch72 Citadel; B11 Ch1 What Makes Them Our Enemies; B11 Ch60 Heroes Cheat All the Time | ok |  |
-| R9078 | The city: ruled from the Citadel of Pillars, where fewer than ten thousand brighthearts survive. | B10 Ch65 L3-6 (ok) | B10 Ch65 The Greatest Enemy of All | ok |  |
-| R9079 | A buried city: the expedition descends into Cardinas, where Lorenn says the citadel chamber is the site of the echo array. Who holds the citadel? | B10 Ch65 L3-6 (ok); B10 Ch72 L58 (ok) | B10 Ch65 The Greatest Enemy of All; B10 Ch72 Citadel | ok |  |
-| R9080 | A soul forge: messengers were sent down to create it from the natural array. Who benefits if the forge appears? | B11 Ch1 L64 (ok) | B11 Ch1 What Makes Them Our Enemies | ok |  |
-| R9081 | A hero's price: Gary drinks from the Cup of Heroes and the divine power will try to leave him. What will he give up to keep it? | B10 Ch86 L59-61 (ok) | B10 Ch86 Insufficient Vessel | ok |  |
-| R9082 | Brighthearts: Lorenn leads, Marla commands; Marla is commanding and practical. | B10 Ch65 L9 (near); B11 Ch62 L89 (weak) | B10 Ch65 The Greatest Enemy of All; B11 Ch62 Steve, Lord of Undeath | near |  |
-| R9083 | Allies: Miriam Vance and Moon's Edge; Amos, Carlos and Hana Shavar; Danielle and Gwydion. | B10 Ch59 L4 (ok); B10 Ch59 L17 (ok); B10 Ch59 L5 (ok); B11 Ch60 L13 (near) | B10 Ch59 What We’re Walking Into; B11 Ch60 Heroes Cheat All the Time | ok |  |
-| R9084 | Boris: measured and careful. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R9085 | Cosmic visitors: Raythe is terse and final; Velius is warm and wry. | B9 Ch97 L80 (weak); B11 Ch64 L51 (near) | B9 Ch97 An Extremely Annoying Catalyst; B11 Ch64 Unique in the Entire Cosmos | near |  |
-| R9086 | Opponents: Garth Larosse, High Priest of Undeath; Beaufort of the Builder cult. | B10 Ch80 L42 (ok); B10 Ch65 L30 (ok) | B10 Ch80 Come Like a Tsunami; B10 Ch65 The Greatest Enemy of All | ok |  |
-| R9087 | Undeath's patience; the corrupted tree; territory claims that make enemies paranoid; the divine power in Gary. | B10 Ch78 L38 (near); B11 Ch17 L33 (weak); B10 Ch86 L61 (near) | B10 Ch78 A Little Bit Odd; B11 Ch17 As Many as We Can Get; B10 Ch86 Insufficient Vessel | near |  |
-| R9088 | The soul forge is the third part of an astral kingdom: Dawn told Jason. | B8 Ch65 L94 (ok) | B8 Ch65 What Light Does | ok |  |
-| R9089 | Boris is Unorthodoxy: revealed in Book 11. | B11 Ch24 L85 (ok) | B11 Ch24 Another Astral King | ok |  |
+| R9118 | Where and when: the underground city of Cardinas and its natural array, then the third transformation zone Jason reshapes. The zone lasts "months". | B10 Ch72 L31 (ok); B11 Ch1 L15 (ok); B11 Ch60 L3 (ok) | B10 Ch72 Citadel; B11 Ch1 What Makes Them Our Enemies; B11 Ch60 Heroes Cheat All the Time | ok |  |
+| R9119 | The city: ruled from the Citadel of Pillars, where fewer than ten thousand brighthearts survive. | B10 Ch65 L3-6 (ok) | B10 Ch65 The Greatest Enemy of All | ok |  |
+| R9120 | A buried city: the expedition descends into Cardinas, where Lorenn says the citadel chamber is the site of the echo array. Who holds the citadel? | B10 Ch65 L3-6 (ok); B10 Ch72 L58 (ok) | B10 Ch65 The Greatest Enemy of All; B10 Ch72 Citadel | ok |  |
+| R9121 | A soul forge: messengers were sent down to create it from the natural array. Who benefits if the forge appears? | B11 Ch1 L64 (ok) | B11 Ch1 What Makes Them Our Enemies | ok |  |
+| R9122 | A hero's price: Gary drinks from the Cup of Heroes and the divine power will try to leave him. What will he give up to keep it? | B10 Ch86 L59-61 (ok) | B10 Ch86 Insufficient Vessel | ok |  |
+| R9123 | Brighthearts: Lorenn leads, Marla commands; Marla is commanding and practical. | B10 Ch65 L9 (near); B11 Ch62 L89 (weak) | B10 Ch65 The Greatest Enemy of All; B11 Ch62 Steve, Lord of Undeath | near |  |
+| R9124 | Allies: Miriam Vance and Moon's Edge; Amos, Carlos and Hana Shavar; Danielle and Gwydion. | B10 Ch59 L4 (ok); B10 Ch59 L17 (ok); B10 Ch59 L5 (ok); B11 Ch60 L13 (near) | B10 Ch59 What We’re Walking Into; B11 Ch60 Heroes Cheat All the Time | ok |  |
+| R9125 | Boris: measured and careful. | B11 Ch68 L493-498 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R9126 | Cosmic visitors: Raythe is terse and final; Velius is warm and wry. | B9 Ch97 L80 (weak); B11 Ch64 L51 (near) | B9 Ch97 An Extremely Annoying Catalyst; B11 Ch64 Unique in the Entire Cosmos | near |  |
+| R9127 | Opponents: Garth Larosse, High Priest of Undeath; Beaufort of the Builder cult. | B10 Ch80 L42 (ok); B10 Ch65 L30 (ok) | B10 Ch80 Come Like a Tsunami; B10 Ch65 The Greatest Enemy of All | ok |  |
+| R9128 | Undeath's patience; the corrupted tree; territory claims that make enemies paranoid; the divine power in Gary. | B10 Ch78 L38 (near); B11 Ch17 L33 (weak); B10 Ch86 L61 (near) | B10 Ch78 A Little Bit Odd; B11 Ch17 As Many as We Can Get; B10 Ch86 Insufficient Vessel | near |  |
+| R9129 | The soul forge is the third part of an astral kingdom: Dawn told Jason. | B8 Ch65 L94 (ok) | B8 Ch65 What Light Does | ok |  |
+| R9130 | Boris is Unorthodoxy: revealed in Book 11. | B11 Ch24 L85 (ok) | B11 Ch24 Another Astral King | ok |  |
 
 ## 10_Roleplay_Support/Starter_Packs/Era_7_The_Return.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9090 | Where and when: Pallimustus in late 2037 to early 2038, "almost twenty years" after the arrival, then Earth in 2038. | B12 Ch13 L36 (ok); B13 Ch951 L50 (weak) | B12 Ch13 Try Not to Bring Down Civilisation; B13 Ch951 Messy but Delicious | ok |  |
-| R9091 | The world: the System has appeared and the world knows it is linked to Jason; Boko is destroyed; the vampire war is back in full swing. | B12 Ch1 L44-54 (ok); B12 Ch33 L3 (near); B13 Ch988 L26 (ok) | B12 Ch1 Why He Hasn’t; B12 Ch33 The Benevolence of a Nightmare God; B13 Ch988 If You Can’t Keep Up | ok |  |
-| R9092 | Indenture and the System: the System will withdraw from regions that keep indenture, and the Queen of Estercost asks Jason to arbitrate. Who benefits from keeping indenture? | B12 Ch50 L28 (near); B12 Ch51 L13 (ok) | B12 Ch50 Heavily Compromised Baked Goods; B12 Ch51 The Line Between Mortal and Immortal | ok |  |
-| R9093 | A pirate admiral's ship on Earth: Jota Withers is hosted by the Asano clan's matriarch Noriko. Will the crew mutiny? | B12 Ch57 L12 (near); B12 Ch63 L19 (ok) | B12 Ch57 Someone Got Sucked Off; B12 Ch63 We Already Know Who You Are | ok |  |
-| R9094 | Finnegan, Elizabeth and McKean: Finnegan's backers called using Elizabeth "the smart choice", and there has been no confirmed trace of McKean for over four years. Where is he? | B13 Ch975 L19-24 (ok); B13 Ch998 L105 (ok) | B13 Ch975 Your Terms Are Acceptable; B13 Ch998 Sitting on a Volcano | ok |  |
-| R9095 | Team Biscuit and friends: Humphrey is crisp in command; Sophie is silent about pain; Clive loses the thread and apologises; Danielle believes "diplomacy is war". | B13 Ch958 L48 (near); B2 Ch45 L69-72 (weak); B11 Ch68 L748 (weak); B12 Ch23 L79 (weak) | B13 Ch958 A Lot Harder Than Anticipated; B2 Ch45 Seriously Hardcore; B11 Ch68 Compassionate Strangers; B12 Ch23 Objectives | near |  |
-| R9096 | Earth 2038: Anna and Holly Macrossan, Natalie Park, Lenora Coleman, Nigel Thornton, Emi and Vincent Baudrillard, Nik. | B13 Ch982 L30 (ok); B13 Ch961 L8 (near); B13 Ch989 L48 (weak); B12 Ch3 L3 (near); B13 Ch971 L49 (near); B13 Ch996 L3 (weak) | B13 Ch982 The Stuff of Faith and Madness; B13 Ch961 The Scary Demigod Side; B13 Ch989 A Man Fought Monsters; B12 Ch3 We’re All Stuck in a Hole … | ok |  |
-| R9097 | Visitors and rivals: Jota Withers, Raythe, Jamis Fran Muskar, Boris Ketland openly leading the Cabal. | B12 Ch57 L3 (near); B13 Ch991 L3 (weak); B13 Ch1000 L3 (near); B13 Ch1015 L49 (ok) | B12 Ch57 Someone Got Sucked Off; B13 Ch991 This Offer Kind of Sucks; B13 Ch1000 Cosmic Tyrant Warlord Cult Leader; B13 Ch1015 A Fight She’s Already Won | ok |  |
-| R9098 | Antagonists: Elizabeth and Simon McKean. | B13 Ch979 L72 (ok); B13 Ch1008 L33 (near) | B13 Ch979 Unequivocally My Thing; B13 Ch1008 A Sufficient Spectacle | ok |  |
-| R9099 | Blood farms outside Jason's domain; vampire-magitech abominations; pirates and their dimension ship; the secret council of Earth's powers; a holy war from Knowledge. | B12 Ch5 L76 (near); B13 Ch1006 L60 (ok); B12 Ch57 L3 (weak); B12 Ch59 L60-72 (ok); B13 Ch1017 L44-47 (near) | B12 Ch5 The Fundamental Things; B13 Ch1006 What You Gave Us Was Never Freedom; B12 Ch57 Someone Got Sucked Off; B12 Ch59 A Clark Kent Problem … | ok |  |
-| R9100 | The System: everyone has seen it; its link to Jason is guessed or known. | B12 Ch1 L54 (near); B12 Ch42 L99 (weak) | B12 Ch1 Why He Hasn’t; B12 Ch42 A Thing That Makes the Car Work | near |  |
-| R9101 | Knowledge's plan: told to the Book 13 audience; not shown earlier. See../Who_Knows_What_When.md. | B13 Ch1017 L13-47 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R9102 | Time: Earthlings and friends have lived around fifteen years without Jason. | B12 Ch21 L61 (ok) | B12 Ch21 Defier | ok |  |
-| R9103 | Do not describe the bridge anchor outcome beyond the crowd gathering. | B13 Ch1023 L3 (ok) | B13 Ch1023 Broken What Matters Most | ok |  |
+| R9131 | Where and when: Pallimustus in late 2037 to early 2038, "almost twenty years" after the arrival, then Earth in 2038. | B12 Ch13 L36 (ok); B13 Ch951 L50 (weak) | B12 Ch13 Try Not to Bring Down Civilisation; B13 Ch951 Messy but Delicious | ok |  |
+| R9132 | The world: the System has appeared and the world knows it is linked to Jason; Boko is destroyed; the vampire war is back in full swing. | B12 Ch1 L44-54 (ok); B12 Ch33 L3 (near); B13 Ch988 L26 (ok) | B12 Ch1 Why He Hasn’t; B12 Ch33 The Benevolence of a Nightmare God; B13 Ch988 If You Can’t Keep Up | ok |  |
+| R9133 | Indenture and the System: the System will withdraw from regions that keep indenture, and the Queen of Estercost asks Jason to arbitrate. Who benefits from keeping indenture? | B12 Ch50 L28 (near); B12 Ch51 L13 (ok) | B12 Ch50 Heavily Compromised Baked Goods; B12 Ch51 The Line Between Mortal and Immortal | ok |  |
+| R9134 | A pirate admiral's ship on Earth: Jota Withers is hosted by the Asano clan's matriarch Noriko. Will the crew mutiny? | B12 Ch57 L12 (near); B12 Ch63 L19 (ok) | B12 Ch57 Someone Got Sucked Off; B12 Ch63 We Already Know Who You Are | ok |  |
+| R9135 | Finnegan, Elizabeth and McKean: Finnegan's backers called using Elizabeth "the smart choice", and there has been no confirmed trace of McKean for over four years. Where is he? | B13 Ch975 L19-24 (ok); B13 Ch998 L105 (ok) | B13 Ch975 Your Terms Are Acceptable; B13 Ch998 Sitting on a Volcano | ok |  |
+| R9136 | Team Biscuit and friends: Humphrey is crisp in command; Sophie is silent about pain; Clive loses the thread and apologises; Danielle believes "diplomacy is war". | B13 Ch958 L48 (near); B2 Ch45 L69-72 (weak); B11 Ch68 L748 (weak); B12 Ch23 L79 (weak) | B13 Ch958 A Lot Harder Than Anticipated; B2 Ch45 Seriously Hardcore; B11 Ch68 Compassionate Strangers; B12 Ch23 Objectives | near |  |
+| R9137 | Earth 2038: Anna and Holly Macrossan, Natalie Park, Lenora Coleman, Nigel Thornton, Emi and Vincent Baudrillard, Nik. | B13 Ch982 L30 (ok); B13 Ch961 L8 (near); B13 Ch989 L48 (weak); B12 Ch3 L3 (near); B13 Ch971 L49 (near); B13 Ch996 L3 (weak) | B13 Ch982 The Stuff of Faith and Madness; B13 Ch961 The Scary Demigod Side; B13 Ch989 A Man Fought Monsters; B12 Ch3 We’re All Stuck in a Hole … | ok |  |
+| R9138 | Visitors and rivals: Jota Withers, Raythe, Jamis Fran Muskar, Boris Ketland openly leading the Cabal. | B12 Ch57 L3 (near); B13 Ch991 L3 (weak); B13 Ch1000 L3 (near); B13 Ch1015 L49 (ok) | B12 Ch57 Someone Got Sucked Off; B13 Ch991 This Offer Kind of Sucks; B13 Ch1000 Cosmic Tyrant Warlord Cult Leader; B13 Ch1015 A Fight She’s Already Won | ok |  |
+| R9139 | Antagonists: Elizabeth and Simon McKean. | B13 Ch979 L72 (ok); B13 Ch1008 L33 (near) | B13 Ch979 Unequivocally My Thing; B13 Ch1008 A Sufficient Spectacle | ok |  |
+| R9140 | Blood farms outside Jason's domain; vampire-magitech abominations; pirates and their dimension ship; the secret council of Earth's powers; a holy war from Knowledge. | B12 Ch5 L76 (near); B13 Ch1006 L60 (ok); B12 Ch57 L3 (weak); B12 Ch59 L60-72 (ok); B13 Ch1017 L44-47 (near) | B12 Ch5 The Fundamental Things; B13 Ch1006 What You Gave Us Was Never Freedom; B12 Ch57 Someone Got Sucked Off; B12 Ch59 A Clark Kent Problem … | ok |  |
+| R9141 | The System: everyone has seen it; its link to Jason is guessed or known. | B12 Ch1 L54 (near); B12 Ch42 L99 (weak) | B12 Ch1 Why He Hasn’t; B12 Ch42 A Thing That Makes the Car Work | near |  |
+| R9142 | Knowledge's plan: told to the Book 13 audience; not shown earlier. See../Who_Knows_What_When.md. | B13 Ch1017 L13-47 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R9143 | Time: Earthlings and friends have lived around fifteen years without Jason. | B12 Ch21 L61 (ok) | B12 Ch21 Defier | ok |  |
+| R9144 | Do not describe the bridge anchor outcome beyond the crowd gathering. | B13 Ch1023 L3 (ok) | B13 Ch1023 Broken What Matters Most | ok |  |
 
 ## Appendices/Glossary.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9104 | Astral blessing token: an item great astral beings give as a sign of approval; it triggers racial gift evolutions (see 09_Items_and_Artefacts/Tokens_Stones_and_Relics.md). [2] | B2 Ch63 L45-47 (ok) | B2 Ch63 Relief | ok |  |
-| R9105 | Fundamental Realm Authority Token: transcendent-rank item that lets its wielder open gates to the fundamental realm; Jason looted it and Dawn says he must give it back. [2] | B8 Ch50 L87-91 (ok); B8 Ch51 L68-70 (ok) | B8 Ch50 Reasons to Quietly Dread; B8 Ch51 Authority | ok |  |
-| R9106 | In Book 12 Jason defines the role as putting yourself between the bad things and those who need protection. [0] | B12 Ch46 L54 (ok) | B12 Ch46 Trouble Always Knows Where to Find Me | ok |  |
-| R9107 | Ancestral Majesty: the form of address for Soramir Rimaros, used by Vesper and Liara and by a branch director. [2] | B7 Ch21 L65-66 (ok); B7 Ch42 L6 (near) | B7 Ch21 Enemies Even I Would Fear; B7 Ch42 Integrity is Forever | ok |  |
-| R9108 | Blood root vine: a plant-animal monster of Pallimustus. | B2 Ch55 L3-4 (ok) | B2 Ch55 Team Change | ok |  |
-| R9109 | Blood oaks are a vampire-side threat on Earth whose revelation is "good for Elizabeth's negotiating position", with limbs each ending in a body used as weapon, shield and potion; that they are Elizabeth's weapons is Jason's guess, from notes. [2/3] | B13 Ch961 L73 (ok); B13 Ch958 L68 (near) | B13 Ch961 The Scary Demigod Side; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
-| R9110 | Brand (messenger): a mark in a messenger's soul; Boris says a messenger's rank limits are a function of the brand. [2] | B11 Ch25 L51 (ok) | B11 Ch25 Unorthodoxy | ok |  |
-| R9111 | Cabal: Earth's old magical society, with vampire members; see The_Cabal.md. [2] | B4 Ch11 L4-8 (ok) | B4 Ch11 A Knife in Its Sheath | ok |  |
-| R9112 | Defier of the Will: a bond choice offered to Farrah in Book 12; it lets the holder negate the influence of the Astral Nexus in various ways and confers immortality. [3] | B12 Ch21 L43-46 (ok) | B12 Ch21 Defier | ok |  |
-| R9113 | Dimensional ulceration: Dawn's term for a transformation zone forming in a space already coterminous with a proto-astral space: an open wound in the dimensional membrane. | B5 Ch68 L30 (near) | B5 Ch68 Open Wound | near |  |
-| R9114 | Dumpling soup: Clive's model of the cosmos. [1] | B1 Ch69 L85-96 (ok) | B1 Ch69 Dumpling Soup | ok |  |
-| R9115 | EDJI: the Earth Defence Joint Initiative. [3] | B13 Ch1020 L85-91 (ok) | B13 Ch1020 Adventurer | ok |  |
-| R9116 | Engineers of Ascension (EOA): an Earth faction; the Lyon branch's dimensional-space project head, Adrien Barbou, defected to it. [2] | B6 Ch29 L32 (ok); B6 Ch35 L73 (ok) | B6 Ch29 Pertinent Factor; B6 Ch35 Necessary Evil | ok |  |
-| R9117 | Hump: a nickname for Humphrey Geller. [1] | B1 Ch82 L18 (ok) | B1 Ch82 Choices | ok |  |
-| R9118 | Lesser Miracle Potion: iron-rank legendary potion that fully restores health, mana and stamina of normal and iron-rank people. [0] | B2 Ch44 L127-129 (ok) | B2 Ch44 Shade | ok |  |
-| R9119 | Moon's Edge: Yaresh team of six gold-rank women raised by Allayeth and led by Miriam Vance; members include Ramona the ritualist and shield specialist, Valetta and the berserker Alice. [3] | B10 Ch51 L43 (ok); B10 Ch59 L17 (ok); B10 Ch63 L16 (ok); B10 Ch71 L39 (ok); B10 Ch81 L34 (ok) | B10 Ch51 Unmistakeable; B10 Ch59 What We’re Walking Into; B10 Ch63 Surplus to Requirements; B10 Ch71 Echoes of the Dead … | ok |  |
-| R9120 | Mr East: seat on the Network's inner committee; Adrien Barbou becomes the second Mr East. [2] | B5 Ch8 L35 (ok) | B5 Ch8 What’s Left of Your Principles | ok |  |
-| R9121 | Network: Earth's coalition of essence users. [2] | B6 Ch1 L16-21 (ok) | B6 Ch1 Looting a House as it Burns Down Around You | ok |  |
-| R9122 | Quintessence: elemental/essence crystal gems used in crafting. [0] | B1 Ch7 L68-69 (ok) | B1 Ch7 Spoils | ok |  |
-| R9123 | Reaper, the: great astral being of death's finality; Shade is one of its shadows. [1] | B11 Ch68 L2209-2214 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R9124 | Red Table: blood cult with branches in remote areas, destroyed in Greenstone. [1] | B1 Ch18 L5 (ok); B3 Ch41 L66 (ok); B7 Ch55 L75 (ok) | B1 Ch18 One of Us; B3 Ch41 Terms of the Pact; B7 Ch55 A Story About a Magic Trowel | ok |  |
-| R9125 | Regalia of the Dark Hegemon: the set of Jason's three soul-bound items, made by the Soul-Imprinting Triune (see 09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md). [1] | B6 Ch4 L26-38 (ok) | B6 Ch4 A Beautiful Woman and a Sack of Cash | ok |  |
-| R9126 | Rejector: the name Builder cultists give Jason. [1] | B3 Ch31 L45 (ok); B3 Ch51 L114 (ok) | B3 Ch31 Evil Detector; B3 Ch51 The Boss Comes to Town | ok |  |
-| R9127 | Shades, the: Shade's several bodies speaking as one. [1] | B2 Ch57 L29 (ok) | B2 Ch57 He Who Fights With Monsters | ok |  |
-| R9128 | Shining Scabbard, Team: team led by Sigrid Freyn. [3] | B12 Ch15 L8 (ok) | B12 Ch15 Like an Adventurer | ok |  |
-| R9129 | Soph: a nickname for Sophie Wexler. [1] | B1 Ch84 L74 (near) | B1 Ch84 Injury & Death | near |  |
-| R9130 | Soul-Imprinting Triune: consumable that turns three soul-bound growth items into a set. [1] | B6 Ch4 L6-8 (ok) | B6 Ch4 A Beautiful Woman and a Sack of Cash | ok |  |
-| R9131 | Special-interest territory: the Australian government's status for the standing stones and for Asano Village, managed by a multinational organisation. [3] | B13 Ch960 L14-16 (ok) | B13 Ch960 What It Will Do to Itself | ok |  |
-| R9132 | Storm Shredder, Team: Rimaros team of buffed high-damage ranged specialists led by Korinne Pescos, with Orin Pensinata, Kalif, Rosa and Zara. [2] | B9 Ch84 L9 (ok); B10 Ch64 L9 (ok) | B9 Ch84 The Lady Shooting Hurricanes at People; B10 Ch64 Pride | ok |  |
-| R9133 | Team Biscuit: Jason's team; a familiar picked the name. [1] | B10 Ch47 L78 (ok) | B10 Ch47 What is the Adventure Society | ok |  |
-| R9134 | Umber: a figure who "likes to play games" and told of trapping a servant of the Reaper's kind in an astral space for centuries; that he is Shade's brother and plans against Jason in Book 13 is from notes. [3] | B8 Ch55 L85-89 (ok) | B8 Ch55 No Points of Conflict | ok |  |
-| R9135 | World engineer: one of the Builder's diamond-rank super-golems, comparable to a diamond-rank monster in size; twelve lie dormant in the Reaper-trials vessel, and the toppled remains of others lie beyond Cyrion's outer wall. [1/3] | B3 Ch61 L23-26 (near); B12 Ch48 L5 (ok) | B3 Ch61 A Significantly More Dangerous Entity; B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
-| R9136 | Farrah Hurin — Huren — wiki only — The chapter files always write Hurin ("the Hurins"). | B4 Ch54 L88 (near); B2 Ch32 L12 (near) | B4 Ch54 Quite the Year; B2 Ch32 Full Jason | near |  |
-| R9137 | Jonah Geller — Jonas — — One slip in 145 uses of Jonah. | B11 Ch6 L62 (near) | B11 Ch6 Lackeys | near |  |
-| R9138 | Nicolas Hendren — Herston; Hedron —; — The Purity archbishop; Hendren is used in 152 lines, each variant once. | B2 Ch21 L21 (ok); B3 Ch1 L106 (ok) | B2 Ch21 World Building; B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
-| R9139 | Arabelle Remore — Arabella — — Three uses of Arabella in 578 lines. | B2 Ch38 L23 (ok) | B2 Ch38 Wake | ok |  |
-| R9140 | Gabriel Remore — Gabriele — — One slip beside Arabelle's name. | B2 Ch76 L40 (ok) | B2 Ch76 Eclipse | ok |  |
-| R9141 | Gabrielle Pellin — Gabriele — — One slip; Gabrielle appears in the neighbouring lines. | B1 Ch78 L44 (near) | B1 Ch78 Jason Has the Good Biscuits | near |  |
-| R9142 | Beth Cavendish — Cavenish — — One slip. | B3 Ch1 L86 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
-| R9143 | Marek Nior Vargas — Marek Noir Vargas — — The Nior spelling is used about 47 times. | B10 Ch31 L74 (ok) | B10 Ch31 Ordinary Everyday Adventuring | ok |  |
-| R9144 | Boris Ket Lundi — Boris Ketland — — Ketland is the Earth alias; Ket Lundi is his real name. | B10 Ch79 L52-54 (ok) | B10 Ch79 Dubious Alliance | ok |  |
-| R9145 | Mr North — Noreth — — Noreth is his own name (the founder's former familiar). | B7 Ch14 L41 (ok) | B7 Ch14 I Don’t Need to Invent Ice Cream | ok |  |
-| R9146 | Velitraxistaasch — Stash — — Stash is the familiar's preferred short form and appears far more often. | B1 Ch38 L58 (ok) | B1 Ch38 Just Another Adventurer | ok |  |
-| R9147 | Carlivexistrix — Carli — — She asks to be called Carli. | B6 Ch47 L738 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R9148 | Gary Xandier — Gareth Xandier — — Gary is short for Gareth; the compendium uses Gary Xandier. | B1 Ch37 L109 (ok) | B1 Ch37 A Good Adventurer and a Great One | ok |  |
-| R9149 | Sigrid Freyn — Sigrid Volaire —; — Freyn is her own name; Volaire is her married name. | B3 Ch4 L43 (ok); B13 Ch958 L39 (ok) | B3 Ch4 Valkyrie; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
-| R9150 | Mirror Kingdom — Kingdom of Mirrors — — Mirror Kingdom is used about 13 times, Kingdom of Mirrors once. | B2 Ch51 L8 (ok) | B2 Ch51 A Worse Plan | ok |  |
-| R9151 | Daryll — Darryl —; — The troll were-crocodile Earthling is spelled Daryll about 12 times and Darryl about 3 times in Books 12-13; he is not shown to be Darryl Caruthers (below). | B12 Ch54 L29 (near); B12 Ch53 L62 (near) | B12 Ch54 Having Strangers Come Along; B12 Ch53 Reason Eighty-Seven | near |  |
-| R9152 | Beaufort — Beaufort Mercer (Thadwick's father) and the gold-rank elf who commands the Builder cult's forces — | B2 Ch59 L4 (ok); B10 Ch65 L30 (ok); B10 Ch72 L41 (ok) | B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone…; B10 Ch65 The Greatest Enemy of All; B10 Ch72 Citadel | ok |  |
-| R9153 | Claire — Claire Adeah (Rick Geller's healer) and Claire Davney (US Secretary of State) — | B1 Ch67 L15 (ok); B13 Ch963 L24 (ok) | B1 Ch67 This is What it Means to Fight Me; B13 Ch963 Minimum Collateral Damage | ok |  |
-| R9154 | Miriam — Miriam Vance (Moon's Edge leader) and Miriam Coyle (head of the magitech weapons institute) — | B10 Ch59 L17 (ok); B13 Ch995 L14 (ok) | B10 Ch59 What We’re Walking Into; B13 Ch995 Symposium | ok |  |
-| R9155 | Hector — Hector De Lange (International Committee) and a Hector who appears in the Book 9 royal audience — | B4 Ch51 L10 (ok); B9 Ch16 L50 (near) | B4 Ch51 The Long Game; B9 Ch16 Following Your Convictions to Your Death | ok |  |
-| R9156 | Garret — the leader of the Book 5 superhero team and Garret Headingway — | B5 Ch19 L10 (ok); B12 Ch50 L3 (ok) | B5 Ch19 Media Landscape; B12 Ch50 Heavily Compromised Baked Goods | ok |  |
-| R9157 | Chen — Kylie Chen (bronze Network scout) and the category-four shield user in Slovakia (not shown to be the same) — | B4 Ch42 L27 (ok); B6 Ch6 L31 (ok) | B4 Ch42 Not the Monster; B6 Ch6 One More Secret | ok |  |
-| R9158 | Ramona — the Order of Redeeming Light member and the Moon's Edge ritualist (not shown to be the same) — | B8 Ch9 L11 (ok); B11 Ch46 L11 (ok) | B8 Ch9 Opportunists; B11 Ch46 Academically Unsound | ok |  |
-| R9159 | Darryl — Darryl Caruthers of the Vane estate (a High Priest Darryl lies dead in) and the Book 12-13 Earthling; not shown to be the same — | B1 Ch13 L3 (near); B1 Ch11 L73 (near); B12 Ch53 L62 (weak) | B1 Ch13 This is the Part Where We Step Back; B1 Ch11 Dashing Heroics; B12 Ch53 Reason Eighty-Seven | near |  |
-| R9160 | Amos / Orin Pensinata — uncle and nephew, not variants of one name — | B7 Ch47 L39 (ok) | B7 Ch47 The Days They Sing Songs About | ok |  |
-| R9161 | Taika's garuda route — might, swift, bird against might, swift, wing — One change of plan: Jason traded for the wing essence. Not a contradiction | B4 Ch65 L22 (ok); B4 Ch65 L28 (ok) | B4 Ch65 Flemish Baroque | ok |  |
-| R9162 | The Inevitability stone's ability — [Inescapable Doom] against [Inevitable Demise] — Use Inevitable Demise; treat Inescapable Doom as a variant | B2 Ch13 L62 (ok); B2 Ch13 L66 (ok) | B2 Ch13 Poison Pill | ok |  |
-| R9163 | Melody Jain's dates — "a quarter of a century ago" against two decades — Different moments of one story; consistent | B9 Ch27 L24 (ok); B6 Ch47 L510 (near) | B9 Ch27 An Evil God Sitting on Her Shoulder; B6 Ch47 Something Other Than Human | ok |  |
-| R9164 | The clan's hiding — two years, half a decade, more than a decade — Snapshots at different dates | B11 Ch68 L2260 (near); B12 Ch1 L93 (ok); B12 Ch59 L5 (ok) | B11 Ch68 Compassionate Strangers; B12 Ch1 Why He Hasn’t; B12 Ch59 A Clark Kent Problem | ok |  |
-| R9165 | Seat of the Adventure Society's continental council — Vitesse, Rakesh, Cyrion — An inconsistency in the text; do not name a city (Open_Questions 22) | B6 Ch47 L604 (ok); B6 Ch47 L623 (ok); B7 Ch43 L58 (ok) | B6 Ch47 Something Other Than Human; B7 Ch43 How Deep a Hole | ok |  |
-| R9166 | Culie: Elseth Culie is a surname, not a spelling of Clive. | B9 Ch89 L43 (ok) | B9 Ch89 The Strongest Arrow in His Quiver | ok |  |
-| R9167 | Asarno: "Mr Asarno" in is how a speaker mangles Asano; four uses. | B1 Ch71 L53 (near) | B1 Ch71 A Bit of Poo | near |  |
-| R9168 | Zardoz: Jason's joke in about Zartos. | B1 Ch16 L51 (ok) | B1 Ch16 Rescue Party | ok |  |
+| R9145 | Astral blessing token: an item great astral beings give as a sign of approval; it triggers racial gift evolutions (see 09_Items_and_Artefacts/Tokens_Stones_and_Relics.md). [2] | B2 Ch63 L45-47 (ok) | B2 Ch63 Relief | ok |  |
+| R9146 | Fundamental Realm Authority Token: transcendent-rank item that lets its wielder open gates to the fundamental realm; Jason looted it and Dawn says he must give it back. [2] | B8 Ch50 L87-91 (ok); B8 Ch51 L68-70 (ok) | B8 Ch50 Reasons to Quietly Dread; B8 Ch51 Authority | ok |  |
+| R9147 | In Book 12 Jason defines the role as putting yourself between the bad things and those who need protection. [0] | B12 Ch46 L54 (ok) | B12 Ch46 Trouble Always Knows Where to Find Me | ok |  |
+| R9148 | Ancestral Majesty: the form of address for Soramir Rimaros, used by Vesper and Liara and by a branch director. [2] | B7 Ch21 L65-66 (ok); B7 Ch42 L6 (near) | B7 Ch21 Enemies Even I Would Fear; B7 Ch42 Integrity is Forever | ok |  |
+| R9149 | Blood root vine: a plant-animal monster of Pallimustus. | B2 Ch55 L3-4 (ok) | B2 Ch55 Team Change | ok |  |
+| R9150 | Blood oaks are a vampire-side threat on Earth whose revelation is "good for Elizabeth's negotiating position", with limbs each ending in a body used as weapon, shield and potion; that they are Elizabeth's weapons is Jason's guess, from notes. [2/3] | B13 Ch961 L73 (ok); B13 Ch958 L68 (near) | B13 Ch961 The Scary Demigod Side; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
+| R9151 | Brand (messenger): a mark in a messenger's soul; Boris says a messenger's rank limits are a function of the brand. [2] | B11 Ch25 L51 (ok) | B11 Ch25 Unorthodoxy | ok |  |
+| R9152 | Cabal: Earth's old magical society, with vampire members; see The_Cabal.md. [2] | B4 Ch11 L4-8 (ok) | B4 Ch11 A Knife in Its Sheath | ok |  |
+| R9153 | Defier of the Will: a bond choice offered to Farrah in Book 12; it lets the holder negate the influence of the Astral Nexus in various ways and confers immortality. [3] | B12 Ch21 L43-46 (ok) | B12 Ch21 Defier | ok |  |
+| R9154 | Dimensional ulceration: Dawn's term for a transformation zone forming in a space already coterminous with a proto-astral space: an open wound in the dimensional membrane. | B5 Ch68 L30 (near) | B5 Ch68 Open Wound | near |  |
+| R9155 | Dumpling soup: Clive's model of the cosmos. [1] | B1 Ch69 L85-96 (ok) | B1 Ch69 Dumpling Soup | ok |  |
+| R9156 | EDJI: the Earth Defence Joint Initiative. [3] | B13 Ch1020 L85-91 (ok) | B13 Ch1020 Adventurer | ok |  |
+| R9157 | Engineers of Ascension (EOA): an Earth faction; the Lyon branch's dimensional-space project head, Adrien Barbou, defected to it. [2] | B6 Ch29 L32 (ok); B6 Ch35 L73 (ok) | B6 Ch29 Pertinent Factor; B6 Ch35 Necessary Evil | ok |  |
+| R9158 | Hump: a nickname for Humphrey Geller. [1] | B1 Ch82 L18 (ok) | B1 Ch82 Choices | ok |  |
+| R9159 | Lesser Miracle Potion: iron-rank legendary potion that fully restores health, mana and stamina of normal and iron-rank people. [0] | B2 Ch44 L127-129 (ok) | B2 Ch44 Shade | ok |  |
+| R9160 | Moon's Edge: Yaresh team of six gold-rank women raised by Allayeth and led by Miriam Vance; members include Ramona the ritualist and shield specialist, Valetta and the berserker Alice. [3] | B10 Ch51 L43 (ok); B10 Ch59 L17 (ok); B10 Ch63 L16 (ok); B10 Ch71 L39 (ok); B10 Ch81 L34 (ok) | B10 Ch51 Unmistakeable; B10 Ch59 What We’re Walking Into; B10 Ch63 Surplus to Requirements; B10 Ch71 Echoes of the Dead … | ok |  |
+| R9161 | Mr East: seat on the Network's inner committee; Adrien Barbou becomes the second Mr East. [2] | B5 Ch8 L35 (ok) | B5 Ch8 What’s Left of Your Principles | ok |  |
+| R9162 | Network: Earth's coalition of essence users. [2] | B6 Ch1 L16-21 (ok) | B6 Ch1 Looting a House as it Burns Down Around You | ok |  |
+| R9163 | Quintessence: elemental/essence crystal gems used in crafting. [0] | B1 Ch7 L68-69 (ok) | B1 Ch7 Spoils | ok |  |
+| R9164 | Reaper, the: great astral being of death's finality; Shade is one of its shadows. [1] | B11 Ch68 L2209-2214 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R9165 | Red Table: blood cult with branches in remote areas, destroyed in Greenstone. [1] | B1 Ch18 L5 (ok); B3 Ch41 L66 (ok); B7 Ch55 L75 (ok) | B1 Ch18 One of Us; B3 Ch41 Terms of the Pact; B7 Ch55 A Story About a Magic Trowel | ok |  |
+| R9166 | Regalia of the Dark Hegemon: the set of Jason's three soul-bound items, made by the Soul-Imprinting Triune (see 09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md). [1] | B6 Ch4 L26-38 (ok) | B6 Ch4 A Beautiful Woman and a Sack of Cash | ok |  |
+| R9167 | Rejector: the name Builder cultists give Jason. [1] | B3 Ch31 L45 (ok); B3 Ch51 L114 (ok) | B3 Ch31 Evil Detector; B3 Ch51 The Boss Comes to Town | ok |  |
+| R9168 | Shades, the: Shade's several bodies speaking as one. [1] | B2 Ch57 L29 (ok) | B2 Ch57 He Who Fights With Monsters | ok |  |
+| R9169 | Shining Scabbard, Team: team led by Sigrid Freyn. [3] | B12 Ch15 L8 (ok) | B12 Ch15 Like an Adventurer | ok |  |
+| R9170 | Soph: a nickname for Sophie Wexler. [1] | B1 Ch84 L74 (near) | B1 Ch84 Injury & Death | near |  |
+| R9171 | Soul-Imprinting Triune: consumable that turns three soul-bound growth items into a set. [1] | B6 Ch4 L6-8 (ok) | B6 Ch4 A Beautiful Woman and a Sack of Cash | ok |  |
+| R9172 | Special-interest territory: the Australian government's status for the standing stones and for Asano Village, managed by a multinational organisation. [3] | B13 Ch960 L14-16 (ok) | B13 Ch960 What It Will Do to Itself | ok |  |
+| R9173 | Storm Shredder, Team: Rimaros team of buffed high-damage ranged specialists led by Korinne Pescos, with Orin Pensinata, Kalif, Rosa and Zara. [2] | B9 Ch84 L9 (ok); B10 Ch64 L9 (ok) | B9 Ch84 The Lady Shooting Hurricanes at People; B10 Ch64 Pride | ok |  |
+| R9174 | Team Biscuit: Jason's team; a familiar picked the name. [1] | B10 Ch47 L78 (ok) | B10 Ch47 What is the Adventure Society | ok |  |
+| R9175 | Umber: a figure who "likes to play games" and told of trapping a servant of the Reaper's kind in an astral space for centuries; that he is Shade's brother and plans against Jason in Book 13 is from notes. [3] | B8 Ch55 L85-89 (ok) | B8 Ch55 No Points of Conflict | ok |  |
+| R9176 | World engineer: one of the Builder's diamond-rank super-golems, comparable to a diamond-rank monster in size; twelve lie dormant in the Reaper-trials vessel, and the toppled remains of others lie beyond Cyrion's outer wall. [1/3] | B3 Ch61 L23-26 (near); B12 Ch48 L5 (ok) | B3 Ch61 A Significantly More Dangerous Entity; B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
+| R9177 | Farrah Hurin — Huren — wiki only — The chapter files always write Hurin ("the Hurins"). | B4 Ch54 L88 (near); B2 Ch32 L12 (near) | B4 Ch54 Quite the Year; B2 Ch32 Full Jason | near |  |
+| R9178 | Jonah Geller — Jonas — — One slip in 145 uses of Jonah. | B11 Ch6 L62 (near) | B11 Ch6 Lackeys | near |  |
+| R9179 | Nicolas Hendren — Herston; Hedron —; — The Purity archbishop; Hendren is used in 152 lines, each variant once. | B2 Ch21 L21 (ok); B3 Ch1 L106 (ok) | B2 Ch21 World Building; B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R9180 | Arabelle Remore — Arabella — — Three uses of Arabella in 578 lines. | B2 Ch38 L23 (ok) | B2 Ch38 Wake | ok |  |
+| R9181 | Gabriel Remore — Gabriele — — One slip beside Arabelle's name. | B2 Ch76 L40 (ok) | B2 Ch76 Eclipse | ok |  |
+| R9182 | Gabrielle Pellin — Gabriele — — One slip; Gabrielle appears in the neighbouring lines. | B1 Ch78 L44 (near) | B1 Ch78 Jason Has the Good Biscuits | near |  |
+| R9183 | Beth Cavendish — Cavenish — — One slip. | B3 Ch1 L86 (ok) | B3 Ch1 A Question You Don’t Yet Know to Ask | ok |  |
+| R9184 | Marek Nior Vargas — Marek Noir Vargas — — The Nior spelling is used about 47 times. | B10 Ch31 L74 (ok) | B10 Ch31 Ordinary Everyday Adventuring | ok |  |
+| R9185 | Boris Ket Lundi — Boris Ketland — — Ketland is the Earth alias; Ket Lundi is his real name. | B10 Ch79 L52-54 (ok) | B10 Ch79 Dubious Alliance | ok |  |
+| R9186 | Mr North — Noreth — — Noreth is his own name (the founder's former familiar). | B7 Ch14 L41 (ok) | B7 Ch14 I Don’t Need to Invent Ice Cream | ok |  |
+| R9187 | Velitraxistaasch — Stash — — Stash is the familiar's preferred short form and appears far more often. | B1 Ch38 L58 (ok) | B1 Ch38 Just Another Adventurer | ok |  |
+| R9188 | Carlivexistrix — Carli — — She asks to be called Carli. | B6 Ch47 L738 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R9189 | Gary Xandier — Gareth Xandier — — Gary is short for Gareth; the compendium uses Gary Xandier. | B1 Ch37 L109 (ok) | B1 Ch37 A Good Adventurer and a Great One | ok |  |
+| R9190 | Sigrid Freyn — Sigrid Volaire —; — Freyn is her own name; Volaire is her married name. | B3 Ch4 L43 (ok); B13 Ch958 L39 (ok) | B3 Ch4 Valkyrie; B13 Ch958 A Lot Harder Than Anticipated | ok |  |
+| R9191 | Mirror Kingdom — Kingdom of Mirrors — — Mirror Kingdom is used about 13 times, Kingdom of Mirrors once. | B2 Ch51 L8 (ok) | B2 Ch51 A Worse Plan | ok |  |
+| R9192 | Daryll — Darryl —; — The troll were-crocodile Earthling is spelled Daryll about 12 times and Darryl about 3 times in Books 12-13; he is not shown to be Darryl Caruthers (below). | B12 Ch54 L29 (near); B12 Ch53 L62 (near) | B12 Ch54 Having Strangers Come Along; B12 Ch53 Reason Eighty-Seven | near |  |
+| R9193 | Beaufort — Beaufort Mercer (Thadwick's father) and the gold-rank elf who commands the Builder cult's forces — | B2 Ch59 L4 (ok); B10 Ch65 L30 (ok); B10 Ch72 L41 (ok) | B2 Ch59 Meanwhile, Two Weeks Ago in Greenstone…; B10 Ch65 The Greatest Enemy of All; B10 Ch72 Citadel | ok |  |
+| R9194 | Claire — Claire Adeah (Rick Geller's healer) and Claire Davney (US Secretary of State) — | B1 Ch67 L15 (ok); B13 Ch963 L24 (ok) | B1 Ch67 This is What it Means to Fight Me; B13 Ch963 Minimum Collateral Damage | ok |  |
+| R9195 | Miriam — Miriam Vance (Moon's Edge leader) and Miriam Coyle (head of the magitech weapons institute) — | B10 Ch59 L17 (ok); B13 Ch995 L14 (ok) | B10 Ch59 What We’re Walking Into; B13 Ch995 Symposium | ok |  |
+| R9196 | Hector — Hector De Lange (International Committee) and a Hector who appears in the Book 9 royal audience — | B4 Ch51 L10 (ok); B9 Ch16 L50 (near) | B4 Ch51 The Long Game; B9 Ch16 Following Your Convictions to Your Death | ok |  |
+| R9197 | Garret — the leader of the Book 5 superhero team and Garret Headingway — | B5 Ch19 L10 (ok); B12 Ch50 L3 (ok) | B5 Ch19 Media Landscape; B12 Ch50 Heavily Compromised Baked Goods | ok |  |
+| R9198 | Chen — Kylie Chen (bronze Network scout) and the category-four shield user in Slovakia (not shown to be the same) — | B4 Ch42 L27 (ok); B6 Ch6 L31 (ok) | B4 Ch42 Not the Monster; B6 Ch6 One More Secret | ok |  |
+| R9199 | Ramona — the Order of Redeeming Light member and the Moon's Edge ritualist (not shown to be the same) — | B8 Ch9 L11 (ok); B11 Ch46 L11 (ok) | B8 Ch9 Opportunists; B11 Ch46 Academically Unsound | ok |  |
+| R9200 | Darryl — Darryl Caruthers of the Vane estate (a High Priest Darryl lies dead in) and the Book 12-13 Earthling; not shown to be the same — | B1 Ch13 L3 (near); B1 Ch11 L73 (near); B12 Ch53 L62 (weak) | B1 Ch13 This is the Part Where We Step Back; B1 Ch11 Dashing Heroics; B12 Ch53 Reason Eighty-Seven | near |  |
+| R9201 | Amos / Orin Pensinata — uncle and nephew, not variants of one name — | B7 Ch47 L39 (ok) | B7 Ch47 The Days They Sing Songs About | ok |  |
+| R9202 | Taika's garuda route — might, swift, bird against might, swift, wing — One change of plan: Jason traded for the wing essence. Not a contradiction | B4 Ch65 L22 (ok); B4 Ch65 L28 (ok) | B4 Ch65 Flemish Baroque | ok |  |
+| R9203 | The Inevitability stone's ability — [Inescapable Doom] against [Inevitable Demise] — Use Inevitable Demise; treat Inescapable Doom as a variant | B2 Ch13 L62 (ok); B2 Ch13 L66 (ok) | B2 Ch13 Poison Pill | ok |  |
+| R9204 | Melody Jain's dates — "a quarter of a century ago" against two decades — Different moments of one story; consistent | B9 Ch27 L24 (ok); B6 Ch47 L510 (near) | B9 Ch27 An Evil God Sitting on Her Shoulder; B6 Ch47 Something Other Than Human | ok |  |
+| R9205 | The clan's hiding — two years, half a decade, more than a decade — Snapshots at different dates | B11 Ch68 L2260 (near); B12 Ch1 L93 (ok); B12 Ch59 L5 (ok) | B11 Ch68 Compassionate Strangers; B12 Ch1 Why He Hasn’t; B12 Ch59 A Clark Kent Problem | ok |  |
+| R9206 | Seat of the Adventure Society's continental council — Vitesse, Rakesh, Cyrion — An inconsistency in the text; do not name a city (Open_Questions 22) | B6 Ch47 L604 (ok); B6 Ch47 L623 (ok); B7 Ch43 L58 (ok) | B6 Ch47 Something Other Than Human; B7 Ch43 How Deep a Hole | ok |  |
+| R9207 | Culie: Elseth Culie is a surname, not a spelling of Clive. | B9 Ch89 L43 (ok) | B9 Ch89 The Strongest Arrow in His Quiver | ok |  |
+| R9208 | Asarno: "Mr Asarno" in is how a speaker mangles Asano; four uses. | B1 Ch71 L53 (near) | B1 Ch71 A Bit of Poo | near |  |
+| R9209 | Zardoz: Jason's joke in about Zartos. | B1 Ch16 L51 (ok) | B1 Ch16 Rescue Party | ok |  |
 
 ## Appendices/Name_Index.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9169 | Bruce Corwin (B4): joins Jason's party on the aircraft mission and shoots down rockets. | B4 Ch47 L37-43 (ok); B4 Ch48 L83 (ok) | B4 Ch47 Of Course It Was Him; B4 Ch48 The Price of Transgression | ok |  |
-| R9170 | Carlivexistrix (Carli) (B6): a vast rainbow dragon, Stash's mother; the Gellers have been her companions since coming to Greenstone. | B6 Ch47 L736-738 (ok); B6 Ch47 L751 (ok) | B6 Ch47 Something Other Than Human | ok |  |
-| R9171 | Cas Vin Baral (B11): silver-rank messenger used for ritual materials by the gold-rankers. | B11 Ch7 L14 (ok); B11 Ch12 L56 (ok) | B11 Ch7 Yellow Bell; B11 Ch12 Precise Control | ok |  |
-| R9172 | Gabrielle Pellin (B1): Knowledge acolyte, later priestess; Travis Noble's wife. | B1 Ch38 L122 (ok); B12 Ch58 L41 (ok); B13 Ch1016 L68 (ok) | B1 Ch38 Just Another Adventurer; B12 Ch58 A City With No Dawn; B13 Ch1016 Worse Things | ok |  |
-| R9173 | Ian Evans (B4): a doctor, Erika's husband and Emi's father; see 07_Characters/Ian_Evans.md. | B4 Ch31 L77 (ok) | B4 Ch31 The Cold Eyes of a Stranger | ok |  |
-| R9174 | Relia Vin Vala (B11): silver-rank messenger, the pick of the bunch. | B11 Ch13 L4 (ok) | B11 Ch13 Impostor Syndrome | ok |  |
-| R9175 | Umber (B8 mention; B13): Shade's brother, who trapped him in an astral space for centuries (B8) and plots against Jason (B13). See 07_Characters/Umber.md. | B13 Ch1024 L101 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
+| R9210 | Bruce Corwin (B4): joins Jason's party on the aircraft mission and shoots down rockets. | B4 Ch47 L37-43 (ok); B4 Ch48 L83 (ok) | B4 Ch47 Of Course It Was Him; B4 Ch48 The Price of Transgression | ok |  |
+| R9211 | Carlivexistrix (Carli) (B6): a vast rainbow dragon, Stash's mother; the Gellers have been her companions since coming to Greenstone. | B6 Ch47 L736-738 (ok); B6 Ch47 L751 (ok) | B6 Ch47 Something Other Than Human | ok |  |
+| R9212 | Cas Vin Baral (B11): silver-rank messenger used for ritual materials by the gold-rankers. | B11 Ch7 L14 (ok); B11 Ch12 L56 (ok) | B11 Ch7 Yellow Bell; B11 Ch12 Precise Control | ok |  |
+| R9213 | Gabrielle Pellin (B1): Knowledge acolyte, later priestess; Travis Noble's wife. | B1 Ch38 L122 (ok); B12 Ch58 L41 (ok); B13 Ch1016 L68 (ok) | B1 Ch38 Just Another Adventurer; B12 Ch58 A City With No Dawn; B13 Ch1016 Worse Things | ok |  |
+| R9214 | Ian Evans (B4): a doctor, Erika's husband and Emi's father; see 07_Characters/Ian_Evans.md. | B4 Ch31 L77 (ok) | B4 Ch31 The Cold Eyes of a Stranger | ok |  |
+| R9215 | Relia Vin Vala (B11): silver-rank messenger, the pick of the bunch. | B11 Ch13 L4 (ok) | B11 Ch13 Impostor Syndrome | ok |  |
+| R9216 | Umber (B8 mention; B13): Shade's brother, who trapped him in an astral space for centuries (B8) and plots against Jason (B13). See 07_Characters/Umber.md. | B13 Ch1024 L101 (ok) | B13 Ch1024 The Next Time We Meet | ok |  |
 
 ## Appendices/Open_Questions.md
 
 | ID | Claim | Cited lines | Chapter | Check | Note |
 |---|---|---|---|---|---|
-| R9176 | Why did the Ustei come south? (Narrowed in the build plan 1.5 pass.) Known: they raid spirit coin convoys far from home and are nomads from a region to the north, and they came south about three years before the Earthlings. | B1 Ch83 L4 (near); B1 Ch89 L50 (ok); B12 Ch30 L9 (near) | B1 Ch83 It Makes No Difference to the Ant; B1 Ch89 Anti-Pirate Operations; B12 Ch30 Posturing Children | ok |  |
-| R9177 | The Adventure Society learned the cause: the desert astral space was failing, the waterfall shutting off in brief isolated instances near the city and much worse in the north, until the oases connected to it could no longer support all the nomad tribes. | B1 Ch97 L19-21 (ok) | B1 Ch97 Integrity is Sexy | ok |  |
-| R9178 | The tribe was shipped back north in its sand barge. | B1 Ch109 L8 (ok) | B1 Ch109 The Tyranny of Rank | ok |  |
-| R9179 | Does Marek Nior Vargas lead the Unorthodoxy? (Narrowed in the build plan 1.5 pass.) Known: Marek served Vesta Carmis Zell until recently and Jason calls his group "Marek's Unorthodoxy" with "victory or death" energy. | B10 Ch1 L53 (ok); B11 Ch2 L75 (near); B11 Ch66 L95 (near) | B10 Ch1 Aftermath; B11 Ch2 Share the Responsibility; B11 Ch66 Party to Betrayal | ok |  |
-| R9180 | It is Boris who explains the movement to messengers and who passes as a branded servant of Vesta Carmis Zell, and Marek's people subordinate themselves to Boris as the Unorthodoxy's "messiah". | B11 Ch25 L47-55 (ok); B11 Ch49 L71 (ok); B11 Ch67 L9 (ok) | B11 Ch25 Unorthodoxy; B11 Ch49 Guaranteed to Become Enemies; B11 Ch67 Farewells | ok |  |
-| R9181 | Who does the Unorthodoxy include among astral kings? (Narrowed in the build plan 1.5 pass.) Known: the Council of Kings does not know that Boris is Unorthodoxy, nor how many kings are outside it; Boris says the original astral kings were not messengers, that the Unorthodoxy has astral kings, and that there are "too many astral kings for anyone to keep track of", with the Unorthodoxy ones "slipping back into the … | B11 Ch24 L86 (ok); B11 Ch25 L49-57 (ok) | B11 Ch24 Another Astral King; B11 Ch25 Unorthodoxy | ok |  |
-| R9182 | One is the king of Navise Den Rigal, a "rare" Unorthodoxy king. | B12 Ch26 L19 (ok) | B12 Ch26 Making Things Worse | ok |  |
-| R9183 | Before the brand there were no limits on rank, and the brand was instituted by messengers who became astral kings; only at diamond rank can a messenger begin to resist the brand. A silver-rank seal caps Tera Jun Casta. | B11 Ch25 L51 (ok); B11 Ch25 L53 (near); B9 Ch102 L55 (ok); B9 Ch102 L66-67 (near) | B11 Ch25 Unorthodoxy; B9 Ch102 A Fight to the Pain | ok |  |
-| R9184 | What is the debt of Zithis Carrow Vayel? (Narrowed in the build plan 1.5 pass.) Known: while the Builder's world engineers prepare to move the planet, Jamis says "When this task is complete, the price is paid. Zithis Carrow Vayel will have fulfilled his debt to us", and Erigo says the messengers' ritualists provided "some low-level ritual magic" as a service for a reward. | B10 Ch15 L9 (ok); B10 Ch15 L21-22 (ok) | B10 Ch15 Better Ambitions | ok |  |
-| R9185 | What is Hero's sanction? (Resolved in the build plan 2A.6 pass.) Gwydion tells Gary that Hero has decided to sanction himself, as he has considered for longer than any of them has lived, in order to add "another miracle option. Something less powerful than the Cup of Heroes, with less of a price" by making the relics of dead demigods usable again for a short time. | B11 Ch68 L707-709 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
-| R9186 | A sanction changes an immortal in some way. | B13 Ch1017 L11 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R9187 | Did Death return the resurrection power Jason gave away? (Resolved in the 2026-10-22 pass.) Yes: "I will return what was taken, Jason Asano, now that it cannot be used for its original purpose", and the reality material forms his prime avatar. | B12 Ch8 L10 (ok); B12 Ch8 L19 (ok) | B12 Ch8 The Topic of Pants | ok |  |
-| R9188 | What do the lesser-named great astral beings govern? (Narrowed in the build plan 1.5 pass.) Known: Legion administers the cosmic rules that govern life itself; the Celestial Book locked off essence combinations after the sundering and is venerated through a loose network tied to the Magic Society and the Church of Knowledge; the Reaper is the god of finality of death. | B8 Ch55 L92 (ok); B11 Ch68 L1580 (near); B9 Ch65 L30 (near); B2 Ch25 L67 (near) | B8 Ch55 No Points of Conflict; B11 Ch68 Compassionate Strangers; B9 Ch65 Evil Lair; B2 Ch25 Resurrection | ok |  |
-| R9189 | The Celestial Book, the Seeker of Songs, the Whisper in Corners and Legion take part in the Book 11 gathering. | B11 Ch65 L75 (ok); B11 Ch68 L159 (ok) | B11 Ch65 A Power That No One and Nothing Should Have; B11 Ch68 Compassionate Strangers | ok |  |
-| R9190 | What does the Firmamental Bridge Anchor do? (Resolved in the build plan 1.5 pass.) Dawn identifies it as something Jason can use to establish the bridge, and says using it consumes the authority in the item, so it is single-use and the great astral beings will not object to it. | B8 Ch51 L66 (ok) | B8 Ch51 Authority | ok |  |
-| R9191 | Jason also calls it a "firmament bridge anchor". | B8 Ch51 L30 (ok) | B8 Ch51 Authority | ok |  |
-| R9192 | Why can Jason not keep the Fundamental Realm Authority Token? (Resolved in the build plan 1.5 pass.) Dawn says it is a major demonstration of the Builder's failure and that great astral beings will not tolerate a mortal holding it, so he must give it back. | B8 Ch51 L68-74 (ok) | B8 Ch51 Authority | ok |  |
-| R9193 | Jason trades it for concessions, including one opening of the way into the fundamental realm, and transfers the authority to the Builder. | B8 Ch54 L54 (near); B8 Ch54 L60-61 (ok); B8 Ch54 L99 (ok) | B8 Ch54 Negotiating Position | ok |  |
-| R9194 | How did Disguise take part in recruiting the Network's founder? (Resolved in the build plan 1.5 pass.) Jason explains that Knowledge helped Disguise pose as Purity and, in return for help including the elimination of Purity's troublesome followers, "the fake Purity brought an outworlder from Earth into his church". Not known: how the founder was chosen. | B13 Ch1017 L17-19 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
-| R9195 | Is the Sky Link island Ascension's Gate? Known: Jason and Farrah first arrived on an uninhabited island that is later a town with storm accumulators, and the island renamed Ascension's Gate was seized by the Church of Knowledge's Holy Army. | B12 Ch56 L3-4 (ok); B13 Ch1023 L103 (ok) | B12 Ch56 The End of What Can Be Productively Achieved Here; B13 Ch1023 Broken What Matters Most | ok |  |
-| R9196 | Resolved as far as the text goes: Jason names the Storm Kingdom island as the bridge's Pallimustus anchor and later says the Church has annexed it; the two names are never put in one sentence, but both describe that island. | B12 Ch39 L47 (ok); B13 Ch1020 L95 (ok) | B12 Ch39 A Framework For Leadership; B13 Ch1020 Adventurer | ok |  |
-| R9197 | How strong is Vitesse's magic? Known: it is a high-magic city whose manifestations are powerful and frequent, the magic around it is strong enough for a cloud ship to fly, and iron-rankers in high-magic areas are not allowed to hunt alone. | B12 Ch43 L47 (ok); B12 Ch43 L46 (ok); B2 Ch53 L27 (ok) | B12 Ch43 A Long Time Coming; B2 Ch53 Part of Being a Team | ok |  |
-| R9198 | Vehicles that need a special power in weak-magic Greenstone run on ambient magic in high-magic zones. Not known: a figure. | B7 Ch25 L3 (ok) | B7 Ch25 They Don’t Send Their Best People | ok |  |
-| R9199 | Narrowed 2026-10-24 (2F.5): the books do give a rank band: typical monsters are silver, with as many golds as bronzes and the occasional diamond, against Greenstone's mid-iron. A numeric figure is still missing. | B1 Ch30 L44 (ok); B3 Ch34 L60 (near) | B1 Ch30 Closing the Door Too Hard; B3 Ch34 More Powerful Than We Anticipated | ok |  |
-| R9200 | Who governs the Old City? (Narrowed in the 2026-10-22 pass.) Known: Adris Dorgan is mayor of Old City and the Duke of Greenstone is the city's ruler, over the town constables. | B12 Ch29 L38 (ok); B1 Ch36 L71 (ok) | B12 Ch29 A Matter of Mindset; B1 Ch36 The Island | ok |  |
-| R9201 | How long did the Cardinas zone last? (Narrowed in the 2026-10-22 pass.) Known: Nik is "six months old" at, so the zone lasted at least about six months from his creation; Gary is "almost a year" past the Cup of Heroes at, which caps it at roughly eleven months; "months" at. | B11 Ch50 L15 (weak); B11 Ch68 L703 (near); B11 Ch60 L3 (weak) | B11 Ch50 Assuming We Win; B11 Ch68 Compassionate Strangers; B11 Ch60 Heroes Cheat All the Time | near |  |
-| R9202 | What set off the System's withdrawal from regions that keep indenture? (Narrowed in the 2026-10-22 pass.) Known: the withdrawal is Jason's act as System Administrator (the petitioners ask him to arbitrate "your withdrawal of the System"), and Cyrion's house guards are a form of indenture. | B12 Ch50 L28 (near); B12 Ch51 L13 (near); B12 Ch48 L53 (ok) | B12 Ch50 Heavily Compromised Baked Goods; B12 Ch51 The Line Between Mortal and Immortal; B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
-| R9203 | What part did Gerling play at Saint-Étienne? (Resolved in the 2026-10-22 pass.) Gerling did not set the device: Mr North names Shako and Chen as the ones who placed it in the aperture. | B6 Ch35 L78-80 (near) | B6 Ch35 Necessary Evil | near |  |
-| R9204 | Gerling entered separately, taking Adrien Barbou from the EOA headquarters and forcing him to open the dimensional space, and later fights beside Jason in the zone. | B6 Ch30 L43 (near); B6 Ch35 L68 (weak); B6 Ch44 L25-31 (ok) | B6 Ch30 More of a Focus on Nipples; B6 Ch35 Necessary Evil; B6 Ch44 The Very Opposite of Fantastical | ok |  |
-| R9205 | When is the Book 12 present? (Narrowed in the 2026-10-22 passes.) Known: "almost twenty years" since the priests were freed, Jason's "fifteen years or so" away, magic known "less than fifteen years ago" and Book 13 in 2038 with sixteen years gone. | B12 Ch13 L36 (near); B12 Ch21 L61 (near); B12 Ch2 L107 (ok); B13 Ch951 L50 (weak); B13 Ch972 L51 (near) | B12 Ch13 Try Not to Bring Down Civilisation; B12 Ch21 Defier; B12 Ch2 If We Can’t Change For the Better; B13 Ch951 Messy but Delicious … | ok |  |
-| R9206 | The Earth arrival fits 2038 better: Lenora and Jason count "seventeen years" from the Earthlings' vanishing in autumn 2021, and Jota says Jason was born "forty-four years ago", which with a 1 April 1994 birth is April 2038 or later. | B12 Ch67 L65 (near); B12 Ch67 L113 (near) | B12 Ch67 A Lot of Things to Do | near |  |
-| R9207 | How long has the vampire war lasted? (Narrowed in the build plan 1.5 pass.) Known: the first vampire war "ended without conclusion" when both sides were exhausted and the vampires got nuclear weapons; the war was back "in full swing" and a character places the symposium "two years into the renewed vampire war". | B13 Ch987 L63 (ok); B13 Ch988 L26 (near); B13 Ch995 L69 (weak) | B13 Ch987 Consistent Agent of Chaos; B13 Ch988 If You Can’t Keep Up; B13 Ch995 Symposium | ok |  |
-| R9208 | Jason says the operation will bring it to a final conclusion, and it ended in the months before the farewell. | B13 Ch1002 L64 (ok); B13 Ch1023 L12 (ok) | B13 Ch1002 The One Who Gets to Decide; B13 Ch1023 Broken What Matters Most | ok |  |
-| R9209 | Simon McKean says it has been fought "off and on for decades". Not known: the first war's length. | B13 Ch1002 L69 (ok) | B13 Ch1002 The One Who Gets to Decide | ok |  |
-| R9210 | How old is Emi when Rufus arrives, against the sword line? (Resolved in the 2026-10-22 pass: not a contradiction.) Emi is twelve in June 2019 and thirteen in Book 5, so she is fifteen when Rufus first reaches Earth about 2021-22. | B4 Ch25 L60 (weak); B5 Ch19 L76 (weak); B11 Ch68 L782 (near) | B4 Ch25 Uncommon Mistake; B5 Ch19 Media Landscape; B11 Ch68 Compassionate Strangers | near |  |
-| R9211 | The "six years" of Gary's sword are counted from late 2017 to Jason's departure into the void in late 2023, a later moment; Emi is then about sixteen. | B11 Ch68 L115 (near) | B11 Ch68 Compassionate Strangers | near |  |
-| R9212 | Where does the Order of the Reaper survive? Known: a coalition of churches wiped out the original order centuries ago; the new structure persists as a volunteer network of quiet allies, with the trials as a lure, and Jason fears "the Order of the Reaper that still existed". | B2 Ch25 L73 (near); B13 Ch1017 L18 (near); B2 Ch60 L120-122 (ok); B2 Ch60 L185 (near) | B2 Ch25 Resurrection; B13 Ch1017 A Room Full of Hands; B2 Ch60 Take the Loot and Go | ok |  |
-| R9213 | Is Adrien Barbou Mr East? (Resolved in the 2026-10-22 pass.) Yes, as the second Mr East: the previous Mr East is "the late Mr East" and Barbou is "now going by Mr East". | B5 Ch8 L28 (ok); B5 Ch8 L39 (ok); B5 Ch30 L43 (ok); B5 Ch32 L5 (ok) | B5 Ch8 What’s Left of Your Principles; B5 Ch30 Enough Power; B5 Ch32 Old Affairs | ok |  |
-| R9214 | Where does the Adventure Society's continental council sit? (Narrowed in the build plan 1.5 pass; the text disagrees with itself.) Known: Book 6 puts it in Vitesse, "rather than the capital city, Cyrion"; Book 6 also calls Rakesh, on the north coast of the Africa-like continent, "the home of the Adventure Society's continental council"; Book 7 calls Cyrion "home to the Adventure Society's continental council". | B6 Ch47 L604 (ok); B6 Ch47 L623 (ok); B7 Ch43 L58 (ok) | B6 Ch47 Something Other Than Human; B7 Ch43 How Deep a Hole | ok |  |
-| R9215 | Greenstone's inquiries come from "the Continental Council". | B2 Ch10 L51 (ok); B12 Ch36 L51 (ok) | B2 Ch10 Star Seed; B12 Ch36 A Time to Slumber | ok |  |
-| R9216 | Who leads Moon's Edge? (Resolved in the 2026-10-22 pass.) Miriam Vance leads it; Allayeth raised and supervises the team. | B10 Ch59 L17 (ok); B11 Ch33 L20 (ok); B10 Ch51 L43 (ok); B12 Ch16 L8 (ok) | B10 Ch59 What We’re Walking Into; B11 Ch33 He Likes to Name-Drop; B10 Ch51 Unmistakeable; B12 Ch16 People Think You’re Blowing Up Cities | ok |  |
-| R9217 | Why does Sigrid call the Mirror King "Father"? (Resolved in the 2026-10-22 pass.) She does not: she greets Hastor, the king's portal specialist, who is her father. | B3 Ch5 L49-53 (ok) | B3 Ch5 Departures | ok |  |
+| R9217 | Why did the Ustei come south? (Narrowed in the build plan 1.5 pass.) Known: they raid spirit coin convoys far from home and are nomads from a region to the north, and they came south about three years before the Earthlings. | B1 Ch83 L4 (near); B1 Ch89 L50 (ok); B12 Ch30 L9 (near) | B1 Ch83 It Makes No Difference to the Ant; B1 Ch89 Anti-Pirate Operations; B12 Ch30 Posturing Children | ok |  |
+| R9218 | The Adventure Society learned the cause: the desert astral space was failing, the waterfall shutting off in brief isolated instances near the city and much worse in the north, until the oases connected to it could no longer support all the nomad tribes. | B1 Ch97 L19-21 (ok) | B1 Ch97 Integrity is Sexy | ok |  |
+| R9219 | The tribe was shipped back north in its sand barge. | B1 Ch109 L8 (ok) | B1 Ch109 The Tyranny of Rank | ok |  |
+| R9220 | Does Marek Nior Vargas lead the Unorthodoxy? (Narrowed in the build plan 1.5 pass.) Known: Marek served Vesta Carmis Zell until recently and Jason calls his group "Marek's Unorthodoxy" with "victory or death" energy. | B10 Ch1 L53 (ok); B11 Ch2 L75 (near); B11 Ch66 L95 (near) | B10 Ch1 Aftermath; B11 Ch2 Share the Responsibility; B11 Ch66 Party to Betrayal | ok |  |
+| R9221 | It is Boris who explains the movement to messengers and who passes as a branded servant of Vesta Carmis Zell, and Marek's people subordinate themselves to Boris as the Unorthodoxy's "messiah". | B11 Ch25 L47-55 (ok); B11 Ch49 L71 (ok); B11 Ch67 L9 (ok) | B11 Ch25 Unorthodoxy; B11 Ch49 Guaranteed to Become Enemies; B11 Ch67 Farewells | ok |  |
+| R9222 | Who does the Unorthodoxy include among astral kings? (Narrowed in the build plan 1.5 pass.) Known: the Council of Kings does not know that Boris is Unorthodoxy, nor how many kings are outside it; Boris says the original astral kings were not messengers, that the Unorthodoxy has astral kings, and that there are "too many astral kings for anyone to keep track of", with the Unorthodoxy ones "slipping back into the … | B11 Ch24 L86 (ok); B11 Ch25 L49-57 (ok) | B11 Ch24 Another Astral King; B11 Ch25 Unorthodoxy | ok |  |
+| R9223 | One is the king of Navise Den Rigal, a "rare" Unorthodoxy king. | B12 Ch26 L19 (ok) | B12 Ch26 Making Things Worse | ok |  |
+| R9224 | Before the brand there were no limits on rank, and the brand was instituted by messengers who became astral kings; only at diamond rank can a messenger begin to resist the brand. A silver-rank seal caps Tera Jun Casta. | B11 Ch25 L51 (ok); B11 Ch25 L53 (near); B9 Ch102 L55 (ok); B9 Ch102 L66-67 (near) | B11 Ch25 Unorthodoxy; B9 Ch102 A Fight to the Pain | ok |  |
+| R9225 | What is the debt of Zithis Carrow Vayel? (Narrowed in the build plan 1.5 pass.) Known: while the Builder's world engineers prepare to move the planet, Jamis says "When this task is complete, the price is paid. Zithis Carrow Vayel will have fulfilled his debt to us", and Erigo says the messengers' ritualists provided "some low-level ritual magic" as a service for a reward. | B10 Ch15 L9 (ok); B10 Ch15 L21-22 (ok) | B10 Ch15 Better Ambitions | ok |  |
+| R9226 | What is Hero's sanction? (Resolved in the build plan 2A.6 pass.) Gwydion tells Gary that Hero has decided to sanction himself, as he has considered for longer than any of them has lived, in order to add "another miracle option. Something less powerful than the Cup of Heroes, with less of a price" by making the relics of dead demigods usable again for a short time. | B11 Ch68 L707-709 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
+| R9227 | A sanction changes an immortal in some way. | B13 Ch1017 L11 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R9228 | Did Death return the resurrection power Jason gave away? (Resolved in the 2026-10-22 pass.) Yes: "I will return what was taken, Jason Asano, now that it cannot be used for its original purpose", and the reality material forms his prime avatar. | B12 Ch8 L10 (ok); B12 Ch8 L19 (ok) | B12 Ch8 The Topic of Pants | ok |  |
+| R9229 | What do the lesser-named great astral beings govern? (Narrowed in the build plan 1.5 pass.) Known: Legion administers the cosmic rules that govern life itself; the Celestial Book locked off essence combinations after the sundering and is venerated through a loose network tied to the Magic Society and the Church of Knowledge; the Reaper is the god of finality of death. | B8 Ch55 L92 (ok); B11 Ch68 L1580 (near); B9 Ch65 L30 (near); B2 Ch25 L67 (near) | B8 Ch55 No Points of Conflict; B11 Ch68 Compassionate Strangers; B9 Ch65 Evil Lair; B2 Ch25 Resurrection | ok |  |
+| R9230 | The Celestial Book, the Seeker of Songs, the Whisper in Corners and Legion take part in the Book 11 gathering. | B11 Ch65 L75 (ok); B11 Ch68 L159 (ok) | B11 Ch65 A Power That No One and Nothing Should Have; B11 Ch68 Compassionate Strangers | ok |  |
+| R9231 | What does the Firmamental Bridge Anchor do? (Resolved in the build plan 1.5 pass.) Dawn identifies it as something Jason can use to establish the bridge, and says using it consumes the authority in the item, so it is single-use and the great astral beings will not object to it. | B8 Ch51 L66 (ok) | B8 Ch51 Authority | ok |  |
+| R9232 | Jason also calls it a "firmament bridge anchor". | B8 Ch51 L30 (ok) | B8 Ch51 Authority | ok |  |
+| R9233 | Why can Jason not keep the Fundamental Realm Authority Token? (Resolved in the build plan 1.5 pass.) Dawn says it is a major demonstration of the Builder's failure and that great astral beings will not tolerate a mortal holding it, so he must give it back. | B8 Ch51 L68-74 (ok) | B8 Ch51 Authority | ok |  |
+| R9234 | Jason trades it for concessions, including one opening of the way into the fundamental realm, and transfers the authority to the Builder. | B8 Ch54 L54 (near); B8 Ch54 L60-61 (ok); B8 Ch54 L99 (ok) | B8 Ch54 Negotiating Position | ok |  |
+| R9235 | How did Disguise take part in recruiting the Network's founder? (Resolved in the build plan 1.5 pass.) Jason explains that Knowledge helped Disguise pose as Purity and, in return for help including the elimination of Purity's troublesome followers, "the fake Purity brought an outworlder from Earth into his church". Not known: how the founder was chosen. | B13 Ch1017 L17-19 (ok) | B13 Ch1017 A Room Full of Hands | ok |  |
+| R9236 | Is the Sky Link island Ascension's Gate? Known: Jason and Farrah first arrived on an uninhabited island that is later a town with storm accumulators, and the island renamed Ascension's Gate was seized by the Church of Knowledge's Holy Army. | B12 Ch56 L3-4 (ok); B13 Ch1023 L103 (ok) | B12 Ch56 The End of What Can Be Productively Achieved Here; B13 Ch1023 Broken What Matters Most | ok |  |
+| R9237 | Resolved as far as the text goes: Jason names the Storm Kingdom island as the bridge's Pallimustus anchor and later says the Church has annexed it; the two names are never put in one sentence, but both describe that island. | B12 Ch39 L47 (ok); B13 Ch1020 L95 (ok) | B12 Ch39 A Framework For Leadership; B13 Ch1020 Adventurer | ok |  |
+| R9238 | How strong is Vitesse's magic? Known: it is a high-magic city whose manifestations are powerful and frequent, the magic around it is strong enough for a cloud ship to fly, and iron-rankers in high-magic areas are not allowed to hunt alone. | B12 Ch43 L47 (ok); B12 Ch43 L46 (ok); B2 Ch53 L27 (ok) | B12 Ch43 A Long Time Coming; B2 Ch53 Part of Being a Team | ok |  |
+| R9239 | Vehicles that need a special power in weak-magic Greenstone run on ambient magic in high-magic zones. Not known: a figure. | B7 Ch25 L3 (ok) | B7 Ch25 They Don’t Send Their Best People | ok |  |
+| R9240 | Narrowed 2026-10-24 (2F.5): the books do give a rank band: typical monsters are silver, with as many golds as bronzes and the occasional diamond, against Greenstone's mid-iron. A numeric figure is still missing. | B1 Ch30 L44 (ok); B3 Ch34 L60 (near) | B1 Ch30 Closing the Door Too Hard; B3 Ch34 More Powerful Than We Anticipated | ok |  |
+| R9241 | Who governs the Old City? (Narrowed in the 2026-10-22 pass.) Known: Adris Dorgan is mayor of Old City and the Duke of Greenstone is the city's ruler, over the town constables. | B12 Ch29 L38 (ok); B1 Ch36 L71 (ok) | B12 Ch29 A Matter of Mindset; B1 Ch36 The Island | ok |  |
+| R9242 | How long did the Cardinas zone last? (Narrowed in the 2026-10-22 pass.) Known: Nik is "six months old" at, so the zone lasted at least about six months from his creation; Gary is "almost a year" past the Cup of Heroes at, which caps it at roughly eleven months; "months" at. | B11 Ch50 L15 (weak); B11 Ch68 L703 (near); B11 Ch60 L3 (weak) | B11 Ch50 Assuming We Win; B11 Ch68 Compassionate Strangers; B11 Ch60 Heroes Cheat All the Time | near |  |
+| R9243 | What set off the System's withdrawal from regions that keep indenture? (Narrowed in the 2026-10-22 pass.) Known: the withdrawal is Jason's act as System Administrator (the petitioners ask him to arbitrate "your withdrawal of the System"), and Cyrion's house guards are a form of indenture. | B12 Ch50 L28 (near); B12 Ch51 L13 (near); B12 Ch48 L53 (ok) | B12 Ch50 Heavily Compromised Baked Goods; B12 Ch51 The Line Between Mortal and Immortal; B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
+| R9244 | What part did Gerling play at Saint-Étienne? (Resolved in the 2026-10-22 pass.) Gerling did not set the device: Mr North names Shako and Chen as the ones who placed it in the aperture. | B6 Ch35 L78-80 (near) | B6 Ch35 Necessary Evil | near |  |
+| R9245 | Gerling entered separately, taking Adrien Barbou from the EOA headquarters and forcing him to open the dimensional space, and later fights beside Jason in the zone. | B6 Ch30 L43 (near); B6 Ch35 L68 (weak); B6 Ch44 L25-31 (ok) | B6 Ch30 More of a Focus on Nipples; B6 Ch35 Necessary Evil; B6 Ch44 The Very Opposite of Fantastical | ok |  |
+| R9246 | When is the Book 12 present? (Narrowed in the 2026-10-22 passes.) Known: "almost twenty years" since the priests were freed, Jason's "fifteen years or so" away, magic known "less than fifteen years ago" and Book 13 in 2038 with sixteen years gone. | B12 Ch13 L36 (near); B12 Ch21 L61 (near); B12 Ch2 L107 (ok); B13 Ch951 L50 (weak); B13 Ch972 L51 (near) | B12 Ch13 Try Not to Bring Down Civilisation; B12 Ch21 Defier; B12 Ch2 If We Can’t Change For the Better; B13 Ch951 Messy but Delicious … | ok |  |
+| R9247 | The Earth arrival fits 2038 better: Lenora and Jason count "seventeen years" from the Earthlings' vanishing in autumn 2021, and Jota says Jason was born "forty-four years ago", which with a 1 April 1994 birth is April 2038 or later. | B12 Ch67 L65 (near); B12 Ch67 L113 (near) | B12 Ch67 A Lot of Things to Do | near |  |
+| R9248 | How long has the vampire war lasted? (Narrowed in the build plan 1.5 pass.) Known: the first vampire war "ended without conclusion" when both sides were exhausted and the vampires got nuclear weapons; the war was back "in full swing" and a character places the symposium "two years into the renewed vampire war". | B13 Ch987 L63 (ok); B13 Ch988 L26 (near); B13 Ch995 L69 (weak) | B13 Ch987 Consistent Agent of Chaos; B13 Ch988 If You Can’t Keep Up; B13 Ch995 Symposium | ok |  |
+| R9249 | Jason says the operation will bring it to a final conclusion, and it ended in the months before the farewell. | B13 Ch1002 L64 (ok); B13 Ch1023 L12 (ok) | B13 Ch1002 The One Who Gets to Decide; B13 Ch1023 Broken What Matters Most | ok |  |
+| R9250 | Simon McKean says it has been fought "off and on for decades". Not known: the first war's length. | B13 Ch1002 L69 (ok) | B13 Ch1002 The One Who Gets to Decide | ok |  |
+| R9251 | How old is Emi when Rufus arrives, against the sword line? (Resolved in the 2026-10-22 pass: not a contradiction.) Emi is twelve in June 2019 and thirteen in Book 5, so she is fifteen when Rufus first reaches Earth about 2021-22. | B4 Ch25 L60 (weak); B5 Ch19 L76 (weak); B11 Ch68 L782 (near) | B4 Ch25 Uncommon Mistake; B5 Ch19 Media Landscape; B11 Ch68 Compassionate Strangers | near |  |
+| R9252 | The "six years" of Gary's sword are counted from late 2017 to Jason's departure into the void in late 2023, a later moment; Emi is then about sixteen. | B11 Ch68 L115 (near) | B11 Ch68 Compassionate Strangers | near |  |
+| R9253 | Where does the Order of the Reaper survive? Known: a coalition of churches wiped out the original order centuries ago; the new structure persists as a volunteer network of quiet allies, with the trials as a lure, and Jason fears "the Order of the Reaper that still existed". | B2 Ch25 L73 (near); B13 Ch1017 L18 (near); B2 Ch60 L120-122 (ok); B2 Ch60 L185 (near) | B2 Ch25 Resurrection; B13 Ch1017 A Room Full of Hands; B2 Ch60 Take the Loot and Go | ok |  |
+| R9254 | Is Adrien Barbou Mr East? (Resolved in the 2026-10-22 pass.) Yes, as the second Mr East: the previous Mr East is "the late Mr East" and Barbou is "now going by Mr East". | B5 Ch8 L28 (ok); B5 Ch8 L39 (ok); B5 Ch30 L43 (ok); B5 Ch32 L5 (ok) | B5 Ch8 What’s Left of Your Principles; B5 Ch30 Enough Power; B5 Ch32 Old Affairs | ok |  |
+| R9255 | Where does the Adventure Society's continental council sit? (Narrowed in the build plan 1.5 pass; the text disagrees with itself.) Known: Book 6 puts it in Vitesse, "rather than the capital city, Cyrion"; Book 6 also calls Rakesh, on the north coast of the Africa-like continent, "the home of the Adventure Society's continental council"; Book 7 calls Cyrion "home to the Adventure Society's continental council". | B6 Ch47 L604 (ok); B6 Ch47 L623 (ok); B7 Ch43 L58 (ok) | B6 Ch47 Something Other Than Human; B7 Ch43 How Deep a Hole | ok |  |
+| R9256 | Greenstone's inquiries come from "the Continental Council". | B2 Ch10 L51 (ok); B12 Ch36 L51 (ok) | B2 Ch10 Star Seed; B12 Ch36 A Time to Slumber | ok |  |
+| R9257 | Who leads Moon's Edge? (Resolved in the 2026-10-22 pass.) Miriam Vance leads it; Allayeth raised and supervises the team. | B10 Ch59 L17 (ok); B11 Ch33 L20 (ok); B10 Ch51 L43 (ok); B12 Ch16 L8 (ok) | B10 Ch59 What We’re Walking Into; B11 Ch33 He Likes to Name-Drop; B10 Ch51 Unmistakeable; B12 Ch16 People Think You’re Blowing Up Cities | ok |  |
+| R9258 | Why does Sigrid call the Mirror King "Father"? (Resolved in the 2026-10-22 pass.) She does not: she greets Hastor, the king's portal specialist, who is her father. | B3 Ch5 L49-53 (ok) | B3 Ch5 Departures | ok |  |

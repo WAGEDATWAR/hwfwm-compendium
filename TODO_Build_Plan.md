@@ -122,7 +122,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 - **4.1 (Done 2026-10-24) Era starter packs (L).** For each era in `Era_Selection.md`: one page of setting, three starting situations from `Plot_Hooks.md`, a cast list with voice cues, dangers, what the characters know, and spoiler-safe language for the narrator.
 - **4.2 (Done 2026-10-24) NPC cards (M, suggested).** A half-page card per recurring NPC with appearance, voice cue, goal, secret and valid-from/through, generated from the character files.
 - **4.3 (Done 2026-10-24) Expand `Plot_Hooks.md` to 3-5 hooks per era, with a branching-outcome note (M).** Keep the rule that hooks state no outcome the books do not give.
-- **4.4 Secrets and rumours sheets (M).** Per era, the true facts, the common beliefs and the lies in circulation (Emir's account of the Order against Shade's, the churches' story of Purity).
+- **4.4 (Done 2026-10-24) Secrets and rumours sheets (M).** Per era, the true facts, the common beliefs and the lies in circulation (Emir's account of the Order against Shade's, the churches' story of Purity).
 - **4.5 Spoiler-safe summaries (M, suggested).** A one-page summary of each of the four spoiler levels that a narrator can read before a session without learning later facts.
 - **4.6 Quick-reference sheets (S-M, suggested).** One page each for: ranks and lifespans; the coin table; forms of address; the calendar and festivals; the churches and what they do.
 - **4.7 A "what changes between eras" diff (M, suggested).** For Greenstone, Vitesse, Rimaros and Yaresh: the place before and after the major events.
