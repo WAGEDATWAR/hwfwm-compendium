@@ -45,14 +45,14 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Clarissa Ventress](Clarissa_Ventress.md) (spoiler level 0): A crime lord of Old City who holds Sophie's indenture.
 - [Clive Standish](Clive_Standish.md) (spoiler level 0): Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised on an eel farm, who becomes Jason's team's ritualist and astral-magic scholar.
 - [Cole Silva](Cole_Silva.md) (spoiler level 0): The newest of Old City's Big Three crime lords.
-- [Constance](Constance.md) (spoiler level 0): Emir's chief of staff.
+- [Constance](Constance.md) (spoiler level 3): Constance is Emir Bahadir's chief of staff and later his wife.
 - [Craig Vermillion](Craig_Vermillion.md) (spoiler level 2): A Cabal figure who explains the magical world to Jason.
 - [Cressida Vane](Cressida_Vane.md) (spoiler level 0): The matriarch of the blood-cult family that holds Jason and his friends in Book 1.
 - [Danielle Geller](Danielle_Geller.md) (spoiler level 0): Danielle Geller is Humphrey's mother and the head of the Geller family's household in Greenstone.
 - [Dawn](Dawn.md) (spoiler level 2): Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel (Book 3, Ch69 L1036-1040 describes the post; the notes identify Dawn...
 - [Durrum](Durrum.md) (spoiler level 3): Durrum is a massive earth-aspect brightheart, one of two leaders who claim territory in Jason's unified battlefield.
 - [Dustin Kettering](Dustin_Kettering.md) (spoiler level 1): An ice-armoured defender from the Kettering family who starts as one of Thadwick Mercer's offsiders, joins Rick's team in Book 2 and later fights beside...
-- [Elizabeth (vampire queen)](Elizabeth.md) (spoiler level 3): The gold-rank leader of the vampires who take Europe.
+- [Elizabeth](Elizabeth.md) (spoiler level 3): Elizabeth is the gold-rank leader of the vampires who take Europe, a blood-ritual specialist who establishes a détente with the world and later trades with...
 - [Elspeth Arella](Elspeth_Arella.md) (spoiler level 0): The director of the Greenstone branch of the Adventure Society.
 - [Emi Evans-Asano](Emi_Evans_Asano.md) (spoiler level 2): Emi Evans-Asano is Jason's niece, the daughter of Erika and Ian Evans, whom Jason calls "Moppet".
 - [Emir Bahadir](Emir_Bahadir.md) (spoiler level 2): Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and owner of a cloud ship and palace that becomes Jason's team's base.
@@ -82,7 +82,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Holly Macrossan](Holly_Macrossan.md) (spoiler level 2): Anna Tilden's successor at the UN Office of Supernatural Affairs, later liaison to the Multinational Supernatural Response Taskforce.
 - [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
 - [Humphrey Geller](Humphrey_Geller.md) (spoiler level 0): Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for...
-- [Ian Evans](Ian_Evans.md) (spoiler level 0): Jason's brother-in-law, Erika's husband and Emi's father, who can enter Jason's spirit vault.
+- [Ian Evans](Ian_Evans.md) (spoiler level 3): Ian Evans (Evans-Asano) is Jason's brother-in-law, Erika's husband and Emi's father.
 - [Itsuki Tiwari](Itsuki_Tiwari.md) (spoiler level 1): A young Japanese essence user who idolises Jason and has a doom confluence.
 - [Jameela](Jameela.md) (spoiler level 3): Jameela is a priestess of Undeath, Garth Larosse's most trusted subordinate, tall and elegant, capable and quick to learn.
 - [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): An astral king whose avatar attends the Builder's observation scene and who berates defiant messengers.
@@ -137,15 +137,15 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Rosa Liselos](Rosa_Liselos.md) (spoiler level 3): Rosa Liselos is the scout of Korinne's Team Storm Shredder, with the best perception on the team.
 - [Rufus Remore](Rufus_Remore.md) (spoiler level 0): Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the diamond-ranker Roland Remore.
 - [Sendira](Sendira.md) (spoiler level 2): Sendira is Melody Jain's second in command in the Order of Redeeming Light's local enclave: a silver-rank zealot and the person Melody trusts most.
-- [Shako](Shako.md) (spoiler level 2): A diamond-rank servant of the Builder who kills Jason in Book 6.
+- [Shako](Shako.md) (spoiler level 3): Shako is a diamond-rank servant of the Builder who kills Jason in Book 6, apparently possessed by the Builder at the moment he does it.
 - [Sigrid Freyn (Volaire)](Sigrid_Freyn.md) (spoiler level 1): A celestine healer and the leader of Valdis's team, who becomes his wife.
 - [Simon McKean](Simon_McKean.md) (spoiler level 3): The head of the Earth researchers in the Network's grid workgroup, who becomes Jason's final enemy on Earth.
 - [Sophie Wexler](Sophie_Wexler.md) (spoiler level 0): Sophie Wexler is a celestine fighter known as the Nightingale in the Greenstone fighting pits.
 - [Soramir (Soramir Rimaros)](Soramir.md) (spoiler level 3): Soramir Rimaros is the founder of the Rimaros royal house, a diamond-rank ruler with a palindromic name, who guides Jason through the Builder crisis.
 - [Taika (Taika Williams)](Taika.md) (spoiler level 3): Taika is a huge Māori man who works for Hiro Asano, befriends Jason on his return to Earth and becomes one of the Asano clan's core fighters.
-- [Tera Jun Casta](Tera_Jun_Casta.md) (spoiler level 2): A branded messenger who challenges Jason to a duel and later has her seal removed.
+- [Tera Jun Casta](Tera_Jun_Casta.md) (spoiler level 3): Tera Jun Casta is a branded messenger who challenges Jason to a duel in Yaresh, is knocked out when Jason strips her seal and later works through the...
 - [Thadwick Mercer](Thadwick_Mercer.md) (spoiler level 3): Thadwick Mercer is the arrogant heir of House Mercer, who torments his two "offsiders" Neil and Dustin, feuds with Jason, takes a Builder star seed and...
-- [Thalia Mercer](Thalia_Mercer.md) (spoiler level 0): The matriarch of the Mercer family.
+- [Thalia Mercer](Thalia_Mercer.md) (spoiler level 3): Thalia Mercer is the matriarch of the Mercer family, a silver-rank explosive adventurer and friend and teammate of Danielle Geller.
 - [Timos](Timos.md) (spoiler level 1): A Builder cultist embedded in Greenstone for years.
 - [Travis Noble](Travis_Noble.md) (spoiler level 3): Travis Noble is a young Californian magitech weapons engineer who becomes Jason's outworlder weapons researcher on Pallimustus, marries the Knowledge...
 - [Trenchant Moore](Trenchant_Moore.md) (spoiler level 2): A gold-rank human sword specialist of the Sapphire Crown royal guard who escorts Jason's group in Rimaros.
