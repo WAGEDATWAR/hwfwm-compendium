@@ -27,7 +27,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Anisa Lasalle](Anisa_Lasalle.md) (spoiler level 1): A zealous elf priestess of Purity from the Lasalle family who guides Rufus's party in Book 1, is thrown out for killing a captive, and dies serving the...
 - [Annabeth "Anna" Tilden](Anna_Tilden.md) (spoiler level 1-2): Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a member of its steering committee, serves as the Asano clan's UN...
 - [Arabelle Remore](Arabelle_Remore.md) (spoiler level 3): Arabelle Remore is Rufus's mother, a gold-rank member of the Church of the Healer who specialises in mental health and trauma recovery.
-- [Argy (Emmett Dillivan)](Argy.md) (spoiler level 0): A fruit grower in Palisaros who calls himself Argy and brings Jason to the mayor.
+- [Argy](Argy.md) (spoiler level 2): Argy (Emmett Dillivan) is a fruit grower in Palisaros who takes Jason, Rufus and Farrah into town and to the mayor, Pelli.
 - [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 2): Asya Karadeniz is a school friend of Jason's from the Mid North Coast who works in Network magitech administration.
 - [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): A Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's energy-vampire research.
 - [Baseph, Dara, Zareen and Joseph](Baseph_and_the_Rimaros_Children.md) (spoiler level 2): Liara Rimaros's husband and their three silver-rank children.
@@ -70,10 +70,10 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Gilbert Bertinelli](Gilbert_Bertinelli.md) (spoiler level 0): A Greenstone tailor who sells Jason his combat robe and later suits.
 - [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 2): A gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria and Jason.
 - [Greg](Greg.md) (spoiler level 2): Greg is an old school friend of Jason's who joins the Network defectors on Kaito's helicopter crew and is killed in Book 5.
-- [Gwydion Remore](Gwydion_Remore.md) (spoiler level 2): Rufus's older brother, a priest of Hero.
+- [Gwydion Remore](Gwydion_Remore.md) (spoiler level 3): Gwydion Remore is Rufus's older brother and a priest of Hero.
 - [Hana Shavar](Hana_Shavar.md) (spoiler level 3): Hana Shavar is the elf High Priestess of the Church of the Healer for Yaresh.
 - [Hannah and Claire Adeah](Hannah_and_Claire_Adeah.md) (spoiler level 1): Twin elf sisters on Rick Geller's team: Hannah the archer and Claire the healer.
-- [Hassan Dukhtar](Hassan_Dukhtar.md) (spoiler level 3): A Pakistani doctor praised for courageous medical work in a vampire war zone, whose name Jason turns into a running joke.
+- [Hassan Dukhtar](Hassan_Dukhtar.md) (spoiler level 3): Hassan Dukhtar is a Pakistani doctor praised for courageous medical work in a vampire war zone, whose name Jason turns into a running joke.
 - [Helsveth](Helsveth.md) (spoiler level 2): A draconian World-Phoenix servant being groomed to become First Sister as Dawn moves to the Hierophants.
 - [Henrietta Geller](Henrietta_Geller.md) (spoiler level 3): Henrietta Geller is Humphrey's older sister, a bronze-rank summoning specialist who takes her sibling role seriously.
 - [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): A silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
@@ -85,7 +85,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Ian Evans](Ian_Evans.md) (spoiler level 3): Ian Evans (Evans-Asano) is Jason's brother-in-law, Erika's husband and Emi's father.
 - [Itsuki Tiwari](Itsuki_Tiwari.md) (spoiler level 3): Itsuki Tiwari is a young Japanese essence user from the Tiwari clan, an admirer of Jason with a doom confluence.
 - [Jameela](Jameela.md) (spoiler level 3): Jameela is a priestess of Undeath, Garth Larosse's most trusted subordinate, tall and elegant, capable and quick to learn.
-- [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): An astral king whose avatar attends the Builder's observation scene and who berates defiant messengers.
+- [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): Jamis Fran Muskar is an astral king whose avatar attends the Builder's observation scene, berates defiant messengers and, in Book 13, advises Jason on...
 - [Jason Asano](Jason_Asano.md) (spoiler level 0): Jason Asano is the series' protagonist: an Australian from the coastal town of Casselton Beach who, at twenty-three, is pulled across the cosmos to...
 - [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): Jeni Kavaloa is the gold-rank leader of the mixed-force surge expedition in Book 7.
 - [Jes Fin Kaal](Jes_Fin_Kaal.md) (spoiler level 2): A gold-rank messenger ritualist and Voice of the Will who leads the messengers' dealings with Yaresh.
