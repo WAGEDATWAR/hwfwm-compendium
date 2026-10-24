@@ -56,7 +56,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Elspeth Arella](Elspeth_Arella.md) (spoiler level 3): Elspeth Arella is the elf director of the Greenstone branch of the Adventure Society and the secret daughter of Old City crime lord Dorgan.
 - [Emi Evans-Asano](Emi_Evans_Asano.md) (spoiler level 2): Emi Evans-Asano is Jason's niece, the daughter of Erika and Ian Evans, whom Jason calls "Moppet".
 - [Emir Bahadir](Emir_Bahadir.md) (spoiler level 2): Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and owner of a cloud ship and palace that becomes Jason's team's base.
-- [Erigo Fin Desca](Erigo_Fin_Desca.md) (spoiler level 3): The Builder's prime vessel, a former messenger of the Unorthodoxy heavily modified by the Builder.
+- [Erigo Fin Desca](Erigo_Fin_Desca.md) (spoiler level 3): Erigo Fin Desca is the Builder's new prime vessel, a former messenger of the Unorthodoxy heavily modified by the Builder after Shako was taken by the...
 - [Erika Asano](Erika_Asano.md) (spoiler level 3): Erika Asano is Jason's older sister, a television presenter living in Melbourne, married to Ian Evans, mother of Emi.
 - [Estella Warnock](Estella_Warnock.md) (spoiler level 0): A Livaros spy and scout with fourfold senses who works for Jason's team and later marries Belinda.
 - [Fal Vin Garath](Fal_Vin_Garath.md) (spoiler level 2): A silver-rank messenger master who is abusive but within the bounds his peers accept.
@@ -76,7 +76,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Hassan Dukhtar](Hassan_Dukhtar.md) (spoiler level 3): Hassan Dukhtar is a Pakistani doctor praised for courageous medical work in a vampire war zone, whose name Jason turns into a running joke.
 - [Helsveth](Helsveth.md) (spoiler level 2): A draconian World-Phoenix servant being groomed to become First Sister as Dawn moves to the Hierophants.
 - [Henrietta Geller](Henrietta_Geller.md) (spoiler level 3): Henrietta Geller is Humphrey's older sister, a bronze-rank summoning specialist who takes her sibling role seriously.
-- [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): A silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
+- [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): Hess Jor Nasala is a silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
 - [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
 - [Hiro Asano](Hiro_Asano.md) (spoiler level 3): Hiro Asano is Jason's uncle, a Sydney crime figure and the family's black sheep, who knew about hidden magic and the factions around it before Jason returned.
 - [Holly Macrossan](Holly_Macrossan.md) (spoiler level 2): Anna Tilden's successor at the UN Office of Supernatural Affairs, later liaison to the Multinational Supernatural Response Taskforce.
@@ -94,7 +94,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jota Withers](Jota_Withers.md) (spoiler level 3): A gold-rank dimension ship captain in a pirate admiral's service who is sent to Earth in Book 12.
 - [Kaito Asano](Kaito_Asano.md) (spoiler level 2): Kaito Asano is Jason's older brother, a year his senior, married to Amy, with two daughters, Hana and Jace.
 - [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
-- [Kasper Irios](Kasper_Irios.md) (spoiler level 0): A peak-bronze heir of House Irios whom Jason meets after the Zara marriage scandal.
+- [Kasper Irios](Kasper_Irios.md) (spoiler level 3): Kasper Irios is a peak-bronze heir of House Irios whom Jason meets at a tailor's shop after the Zara marriage scandal.
 - [Keith Geller](Keith_Geller.md) (spoiler level 3): Keith Geller is Danielle Geller's husband and Humphrey and Henrietta's father.
 - [Ken Asano](Ken_Asano.md) (spoiler level 3): Ken Asano is Jason's father, a Japanese-born Australian landscape architect who embraces the Australian lifestyle with convert's zeal.
 - [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): An analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
@@ -115,11 +115,11 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Marla](Marla.md) (spoiler level 3): A fire-aspect brightheart who commands the brightheart military defending Cardinas.
 - [Melody Jain](Melody_Jain.md) (spoiler level 3): Melody Jain is Sophie's mother, who faked her death twenty years before Book 6 and then led the Order of Redeeming Light in the Storm Kingdom, brainwashed...
 - [General Michael Mills](Michael_Mills.md) (spoiler level 3): General Michael Mills of the United States Army is the operational commander of the EDJI's largest military action to date, the war against the vampires in...
-- [Miles Cotezee](Miles_Cotezee.md) (spoiler level 1): A senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the surge.
+- [Miles Cotezee](Miles_Cotezee.md) (spoiler level 3): Miles Cotezee is a senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the Book 7 surge.
 - [Miriam Vance](Miriam_Vance.md) (spoiler level 3): The gold-rank leader of Team Moon's Edge and Tactical Commander of the Cardinas expedition, who shares overall command with Jason.
 - [Mr North (Noreth)](Mr_North.md) (spoiler level 3): Mr North is the true leader of the Engineers of Ascension, first among its four Cardinals, and the Network founder's former familiar Noreth.
 - [Musin Heath](Musin_Heath.md) (spoiler level 3): Musin Heath is the director of the Adventure Society's Yaresh branch, an elf and veteran administrator who presides over the meetings at Jason's cloud...
-- [Natalie Park](Natalie_Park.md) (spoiler level 2): An ASIS agent assigned as Jason's liaison during the 2038 events.
+- [Natalie Park](Natalie_Park.md) (spoiler level 3): Natalie Park is an ASIS agent and silver-ranker assigned as Jason's liaison during the 2038 events.
 - [Neil Davone](Neil_Davone.md) (spoiler level 0): Neil Davone is an elf of Greenstone's Island families, a healer who grows from the Mercers' hanger-on into the heart of Jason's team.
 - [Nicolas Hendren](Nicolas_Hendren.md) (spoiler level 1): The archbishop of the Church of Purity, a silver-rank barrier-and-force specialist who flees the inquiry and joins the Builder cult's camp before Jason's...
 - [Nigel Thornton](Nigel_Thornton.md) (spoiler level 3): Nigel Thornton leads a nine-person mercenary unit that began as a Network tactical team.

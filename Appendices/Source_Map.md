@@ -560,7 +560,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch44 | The Very Opposite of Fantastical | Book_06_Timeline L4; Emir_Bahadir L12; Elizabeth L21; Saint-Etienne L25-31; Open_Questions L25-31 | 5 |
 | Ch45 | Small Mercies | Saint-Etienne L3; Book_06_Timeline L34; Elizabeth L39, L39-40 | 4 |
 | Ch46 | Salus Mundi Suprema Lex Esto | Titles_and_Blessings L28; Monsters L31; Saint-Etienne L31; Book_06_Timeline L31, L53, L81, L104; Mr_North L112-113, L112-127, L117-125; Gerling L112-127 | 11 |
-| Ch47 | Something Other Than Human | 01_World_Primer L3, L390, L623, L703; Book_06_Timeline L3, L4, L5, L14, L16, L93 …; Master_Timeline L4, L155; Anna_Tilden L16-18; Earth_Powers L27; Adrien_Barbou L46; Yumi_Asano L58; Gary L121-126, L270, L270-272 … | 155 |
+| Ch47 | Something Other Than Human | 01_World_Primer L3, L390, L623, L703; Book_06_Timeline L3, L4, L5, L14, L16, L93 …; Master_Timeline L4, L155; Anna_Tilden L16-18; Earth_Powers L27; Adrien_Barbou L46; Yumi_Asano L58; Gary L121-126, L270, L270-272 … | 160 |
 
 ### Book 7
 
@@ -581,7 +581,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch13 | Small-Town Lifestyle | NPC_Rosters_by_Era L18, L51; Argy L18-20, L20, L24, L28, L28-32, L31 …; Palisaros L20-35, L33, L34, L35; Pelli L28, L28-99, L51, L74, L99; Rimaros L28-30; Book_07_Timeline L75 | 21 |
 | Ch14 | I Don’t Need to Invent Ice Cream | Book_07_Timeline L9, L44; Emir_Bahadir L21; Glossary L41; Clothing_Food_Festivals_and_Transport_by_Region L52; Jayapura_Culture L52; Jayapura L52; Alchemy_Association L74 | 8 |
 | Ch15 | Remaining Unremarkable | Runics L5; Church_of_Knowledge L40; Book_07_Timeline L40, L77; Pelli L65-71, L67, L67-71; Zara_Rimaros L74, L110-113, L114-115 | 10 |
-| Ch16 | A Damn Fine Way to Start Off a War | Burning_Violet L3, L9; Miles_Cotezee L3, L75; Book_07_Timeline L3, L51, L75; Church_of_the_Healer L6; Jory_Tillman L6; Ken_Asano L42; Purity_and_Disguise L53; Dimensional_Storage_and_Portals L73 | 12 |
+| Ch16 | A Damn Fine Way to Start Off a War | Burning_Violet L3, L9; Book_07_Timeline L3, L51, L75; Miles_Cotezee L3-75; Church_of_the_Healer L6; Jory_Tillman L6; Ken_Asano L42; Purity_and_Disguise L53; Dimensional_Storage_and_Portals L73 | 11 |
 | Ch17 | It Will Not Be Fine | Clothing_Food_Festivals_and_Transport_by_Region L3, L16; House_Rimaros L3, L22; Liara_Rimaros L3, L14, L15, L19-20, L20; Book_07_Timeline L3, L104, L111; Baseph_and_the_Rimaros_Children L20; Minor_Cast_Books_7-9 L20, L116; House_Amouz L22; Pelli L86 … | 26 |
 | Ch18 | A Story of War | Clothing_Food_Festivals_and_Transport_by_Region L3; Book_07_Timeline L25, L42, L48; Pelli L28; Soramir L41-42, L41-49, L49; Calendar_Holidays_and_Naming_Customs L42; Storm_Kingdom_Culture L42; NPC_Rosters_by_Era L42, L66-72; Guilds_and_Houses L66-72, L70 … | 20 |
 | Ch19 | Any Help They Can Get | Book_07_Timeline L21, L71; Guild_Quotas_and_Contribution L62, L73; Minor_Cast_Books_7-9 L95 | 5 |
@@ -606,7 +606,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch38 | Dignified Young Adventurer | Astral_Spaces_Zones_and_Surges L6; Adventuring_Profession L7; Guild_Quotas_and_Contribution L7; Runics L10; Liara_Rimaros L91; Book_07_Timeline L92, L98 | 7 |
 | Ch39 | I Can Do Sleazy | Fertility L74; Book_07_Timeline L79 | 2 |
 | Ch40 | An Object Lesson in Foolish Risks | Rimaros L4; Book_07_Timeline L7, L9; Education L26; Alchemy_Artifice_and_Magical_Materials L54 | 5 |
-| Ch41 | Murky Waters | Kasper_Irios L3, L11-12, L26, L40-41; Book_07_Timeline L3, L73; NPC_Rosters_by_Era L3; Palisaros L61 | 8 |
+| Ch41 | Murky Waters | Kasper_Irios L3, L3-10, L3-46, L11-12, L26, L41 …; Book_07_Timeline L3, L73; NPC_Rosters_by_Era L3; Palisaros L61 | 11 |
 | Ch42 | Integrity is Forever | Glossary L6; Book_07_Timeline L29, L92; Minor_Cast_Books_7-9 L61 | 4 |
 | Ch43 | How Deep a Hole | Vitesse L18, L58; Rimaros L47; Minor_Cast_Books_7-9 L47; Estercost_Culture L58; Cyrion L58; Glossary L58; Open_Questions L58; Danielle_Geller L61, L61-62 … | 13 |
 | Ch44 | The Part That Knows How to Quit | Adventuring_Profession L7; Pain_and_Discord L23; Book_07_Timeline L23, L30; Amos_Pensinata L30; Taika L61; Travis_Noble L61 | 7 |
@@ -734,7 +734,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch22 | A Good Friend to Have | Book_09_Timeline L18 | 1 |
 | Ch23 | Put the Extraordinary Aside | Soramir L11; Astral_Kings_and_Messengers L44; Book_09_Timeline L84 | 3 |
 | Ch24 | A Chance For Some Relative Quiet | Book_09_Timeline L30, L44, L49; Amos_Pensinata L35; Orin_Pensinata L35, L49; Master_Timeline L44; Korinne_Pescos L49-52; Kalif L50, L52-55, L58, L64 | 12 |
-| Ch25 | Surplus to Requirements | 00_Places_Overview L4; Hornis L4; Book_09_Timeline L4; Korinne_Pescos L31, L31-63, L58, L89; Orin_Pensinata L79 | 8 |
+| Ch25 | Surplus to Requirements | 00_Places_Overview L4; Hornis L4; Book_09_Timeline L4; Korinne_Pescos L31, L31-63, L58, L89; Kasper_Irios L79; Orin_Pensinata L79 | 9 |
 | Ch26 | Bad at Crime | Girlano_Culture L3; Girlano L3; Book_09_Timeline L26, L64; Master_Timeline L26; Thadwick_Mercer L57-58, L59; Kalif L69, L109; Rosa_Liselos L110 | 10 |
 | Ch27 | An Evil God Sitting on Her Shoulder | Carlos_Quilido L10; Celestial_Book L21; Order_and_Cult_of_the_Reaper L22-23, L24, L24-26, L26, L30, L47 …; Kurdansk_Culture L24; Melody_Jain L24; Glossary L24; Kurdansk L24-26; Fertility L26 … | 38 |
 | Ch28 | A Responsibility as Much as a Privilege | Arabelle_Remore L3; Book_09_Timeline L31, L45, L108; The_Healer L44; Cults_and_Orders L45; Minor_Cast_Books_7-9 L45; Carlos_Quilido L47, L50; Orin_Pensinata L87-112; Kalif L103-106 … | 12 |
@@ -830,8 +830,8 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch12 | A Man of Principle | Arabelle_Remore L3, L25, L45; Book_10_Timeline L11; Minor_Cast_Books_10-13 L11-14, L24-25, L26; Charist L41 | 8 |
 | Ch13 | Experiment | Gabrielle_Pellin L18; Rick_Geller L26; Book_10_Timeline L36; Charist L65 | 4 |
 | Ch14 | Spanked | Allayeth L3; Gormanston_Bynes L3; NPC_Rosters_by_Era L3; Book_10_Timeline L8; Yaresh_Culture L28-31, L33, L35; Era_Selection L28-35; Plot_Hooks L28-35; Guilds_and_Houses L33-35 … | 15 |
-| Ch15 | Better Ambitions | Astral_Kings_and_Messengers L3, L6, L9; The_Council_of_Kings L3, L3-62, L16-19, L30, L40, L43 …; The_Builder L3-4, L5; Great_Astral_Beings L5; Erigo_Fin_Desca L5, L10, L15-20, L25-26; Shako L5; NPC_Rosters_by_Era L5, L6; Messengers_as_a_People L5-6 … | 33 |
-| Ch16 | The Instinct to Kneel | Hess_Jor_Nasala L26-53; Astral_Kings_and_Messengers L48; Messengers_as_a_People L48; Emir_Bahadir L59; Gormanston_Bynes L61, L62-63; Book_10_Timeline L62; Dominion L76-87 | 8 |
+| Ch15 | Better Ambitions | Astral_Kings_and_Messengers L3, L6, L9; The_Council_of_Kings L3, L3-62, L16-19, L30, L40, L43 …; The_Builder L3-4, L5; Great_Astral_Beings L5; Erigo_Fin_Desca L5, L5-26, L6-10, L10, L15-20, L25-26; Shako L5; NPC_Rosters_by_Era L5, L6; Messengers_as_a_People L5-6 … | 35 |
+| Ch16 | The Instinct to Kneel | Hess_Jor_Nasala L26, L26-53; Astral_Kings_and_Messengers L48; Messengers_as_a_People L48; Emir_Bahadir L59; Gormanston_Bynes L61, L62-63; Book_10_Timeline L62; Dominion L76-87 | 9 |
 | Ch17 | Acceptable Terms | Book_10_Timeline L9, L39, L52; Book_09_Timeline L52; Master_Timeline L52 | 5 |
 | Ch18 | Actual Adventurers | Musin_Heath L71; Book_10_Timeline L92, L96; Dominion L129; Gormanston_Bynes L133, L137 | 6 |
 | Ch19 | Bad Influence | Book_10_Timeline L3; The_Healer L50-51, L57-62, L61 | 4 |
@@ -977,7 +977,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch65 | A Power That No One and Nothing Should Have | Cosmic_Throne_and_the_Sundering L3, L6, L8, L8-9, L20, L28 …; 01_World_Primer L8; Book_11_Timeline L8, L34; Master_Timeline L8; World_Phoenix L34-36; Undeath L43; Keeper_of_Moments L47; 00_Cosmology_Overview L55, L57-58, L75 … | 31 |
 | Ch66 | Party to Betrayal | Beaufort_Builder_Cult_Commander L5-17, L24-31; Book_11_Timeline L22, L89; Open_Questions L95 | 5 |
 | Ch67 | Farewells | Book_11_Timeline L5; Gods_and_Churches L6; Open_Questions L9; Tera_Jun_Casta L12; The_Unorthodoxy L18; Nik_Asano L19; Church_of_Hero L20; Gwydion_Remore L20, L20-60, L60 | 10 |
-| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 272 |
+| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 271 |
 
 ### Book 12
 
@@ -995,7 +995,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch9 | Butchery | Carlos_Quilido L4, L19; Shade L7; Minor_Cast_Books_7-9 L14; Book_12_Timeline L16 | 5 |
 | Ch10 | Just Some Guy | The_System L14; Book_12_Timeline L14, L74; Spoiler_Management L14-17; 00_Cosmology_Overview L17-22; Nigel_Thornton L59, L60; Education L80; Confluences L88, L91; 01_World_Primer L91 … | 13 |
 | Ch11 | On a Whim | Marla L6; Book_12_Timeline L6; Spirit_Vault_and_Astral_Kingdom L46, L110 | 4 |
-| Ch12 | Mandatory Team Activity | Zara_Rimaros L3, L10, L17-20, L20; Book_12_Timeline L3, L20; NPC_Rosters_by_Era L3, L75; Storm_Kingdom_Culture L17, L19; Rimaros L19; Jason_Asano L20; Orin_Pensinata L61; Rosa_Liselos L61 … | 15 |
+| Ch12 | Mandatory Team Activity | Zara_Rimaros L3, L10, L17-20, L20; Book_12_Timeline L3, L20; NPC_Rosters_by_Era L3, L75; Storm_Kingdom_Culture L17, L19; Rimaros L19; Jason_Asano L20; Orin_Pensinata L61; Rosa_Liselos L61 … | 16 |
 | Ch13 | Try Not to Bring Down Civilisation | Church_of_Hero L3-4, L10-11; Gods_and_Churches L5, L67; Church_of_Undeath L7; Spirit_Vault_and_Astral_Kingdom L34; Book_12_Timeline L36, L73; Master_Timeline L36; Era_Selection L36; Open_Questions L36 … | 14 |
 | Ch14 | We Have Forever | Book_12_Timeline L11; 01_World_Primer L19 | 2 |
 | Ch15 | Like an Adventurer | Book_12_Timeline L3, L47, L64; Hannah_and_Claire_Adeah L6; Keith_Geller L7; Team_Shining_Scabbard L8, L8-9; Neil_Davone L8; Nik_Asano L8, L45-47; Sigrid_Freyn L8, L8-10, L10; Valdis_Volaire L8, L9 … | 19 |
