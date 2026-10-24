@@ -587,6 +587,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `09_Items_and_Artefacts/Jasons_Combat_Robes.md` (Trap Weaver Battle Robe and the Dark Hydra Robe), `Soul_Forge.md` and `Reality_and_Genesis_Cores.md`. Added "the Rejector" to `03_Magic_and_Adventuring/Titles_and_Blessings.md` as a name given by enemies.
 - Checked and found already covered elsewhere, so no new file: the Firmamental Bridge Anchor and bridge anchors (`Tokens_Stones_and_Relics.md`, `The_Builders_Door_and_Fundament_Gate.md`); the clockwork kings (`Monsters.md`, `Cults_and_Orders.md`); Rexion's citadel (`Spirit_Vault_and_Astral_Kingdom.md`); artefact-site weapons (`Earth/Artefact_Site_One.md`). Avatars of doom are familiars, covered under `Familiars.md`.
 
+**Era guides, build plan item 3.1 (2026-10-24)**
+- Added `08_History_and_Timeline/Era_Guides/` with eight guides: `Builder_Cult_in_Greenstone.md`, `Reaper_Trials.md`, `Earth_and_the_Monster_Waves.md`, `Rimaros_Surge.md`, `Battle_of_Yaresh.md`, `Cardinas_Expedition_and_Zone.md`, `Earth_Vampire_War.md` and `The_Return_and_the_Bridge.md`. Each gives the summary, the world at the start, key events with cites, who is where, what is known and unknown and the spoiler level, assembled from the per-book timelines and the character, place and item files.
+- Length is shorter than the plan's 3-6 pages (about 600-1,000 words each); they are meant as starting points and link to the timelines for detail.
+- Open: the era guides do not repeat plot hooks; hooks stay in `Plot_Hooks.md` (item 4.3).
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
