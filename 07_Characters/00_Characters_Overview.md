@@ -21,14 +21,14 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Adrien Barbou](Adrien_Barbou.md) (spoiler level 2): The Network's Lyon Operations Director, who imprisons Farrah in the dimensional fortress, rises to be the second "Mr East" and later follows Gerling.
 - [Adris Dorgan](Adris_Dorgan.md) (spoiler level 1): A crime lord of Old City who seeks legitimacy.
 - [Akari Asano](Akari_Asano.md) (spoiler level 1): A silver-rank swordmaster of the Japanese Asano clan who comes to Asano Village in Book 5.
-- [Allayeth](Allayeth.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more reclusive of the pair.
+- [Allayeth](Allayeth.md) (spoiler level 3): Allayeth is one of Yaresh's two diamond-rank elves, the more reclusive of the pair.
 - [Amos Pensinata](Amos_Pensinata.md) (spoiler level 2): A gold-rank adventurer with a soul-damaged aura who teaches Jason aura and soul techniques and is lost to an orb in Cardinas.
 - [Amy Asano](Amy_Asano.md) (spoiler level 1): Kaito's wife and Jason's childhood best friend from next door.
 - [Anisa Lasalle](Anisa_Lasalle.md) (spoiler level 1): A zealous elf priestess of Purity from the Lasalle family who guides Rufus's party in Book 1, is thrown out for killing a captive, and dies serving the...
 - [Annabeth "Anna" Tilden](Anna_Tilden.md) (spoiler level 1-2): Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a member of its steering committee, serves as the Asano clan's UN...
 - [Arabelle Remore](Arabelle_Remore.md) (spoiler level 3): Arabelle Remore is Rufus's mother, a gold-rank member of the Church of the Healer who specialises in mental health and trauma recovery.
 - [Argy (Emmett Dillivan)](Argy.md) (spoiler level 0): A fruit grower in Palisaros who calls himself Argy and brings Jason to the mayor.
-- [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 0): A school friend of Jason's and Network administrator who crews Kaito's helicopter and is killed in Book 5.
+- [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 2): Asya Karadeniz is a school friend of Jason's from the Mid North Coast who works in Network magitech administration.
 - [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): A Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's energy-vampire research.
 - [Baseph, Dara, Zareen and Joseph](Baseph_and_the_Rimaros_Children.md) (spoiler level 2): Liara Rimaros's husband and their three silver-rank children.
 - [Beaufort (Builder Cult Commander)](Beaufort_Builder_Cult_Commander.md) (spoiler level 3): Beaufort is the gold-rank elf who leads the Cult of the Builder's forces in Cardinas, an uneasy ally of the brighthearts and then of Jason's expedition.
@@ -92,7 +92,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jonah Geller](Jonah_Geller.md) (spoiler level 0): A heavy-armoured Geller family fighter on Rick's team who is captured by the Builder cult and dies when the star seed is extracted.
 - [Jory Tillman](Jory_Tillman.md) (spoiler level 3): Jory Tillman is Greenstone's gentle alchemist and clinic-runner, Jason's first friend, and later Belinda's boyfriend.
 - [Jota Withers](Jota_Withers.md) (spoiler level 3): A gold-rank dimension ship captain in a pirate admiral's service who is sent to Earth in Book 12.
-- [Kaito Asano](Kaito_Asano.md) (spoiler level 1): Jason's brother, married to Amy; he is killed in Book 5.
+- [Kaito Asano](Kaito_Asano.md) (spoiler level 2): Kaito Asano is Jason's older brother, a year his senior, married to Amy, with two daughters, Hana and Jace.
 - [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
 - [Kasper Irios](Kasper_Irios.md) (spoiler level 0): A peak-bronze heir of House Irios whom Jason meets after the Zara marriage scandal.
 - [Keith Geller](Keith_Geller.md) (spoiler level 0): Humphrey's father, a solid and reliable counterpoint to Danielle.
@@ -113,7 +113,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 2): A messenger who leads the breach force over Yaresh's entertainment district and later a free messenger.
 - [Marie Finnegan](Marie_Finnegan.md) (spoiler level 3): The expelled director of the Zurich Network branch who ran a secret programme working with Elizabeth and Simon McKean.
 - [Marla](Marla.md) (spoiler level 3): A fire-aspect brightheart who commands the brightheart military defending Cardinas.
-- [Melody Jain](Melody_Jain.md) (spoiler level 2): Sophie's mother, who faked her death twenty years ago and leads the Order of Redeeming Light in the Storm Kingdom.
+- [Melody Jain](Melody_Jain.md) (spoiler level 3): Melody Jain is Sophie's mother, who faked her death twenty years before Book 6 and then led the Order of Redeeming Light in the Storm Kingdom, brainwashed...
 - [General Michael Mills](Michael_Mills.md) (spoiler level 3): General Michael Mills of the United States Army is the operational commander of the EDJI's largest military action to date, the war against the vampires in...
 - [Miles Cotezee](Miles_Cotezee.md) (spoiler level 1): A senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the surge.
 - [Miriam Vance](Miriam_Vance.md) (spoiler level 3): The gold-rank leader of Team Moon's Edge and Tactical Commander of the Cardinas expedition, who shares overall command with Jason.
@@ -122,7 +122,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Natalie Park](Natalie_Park.md) (spoiler level 2): An ASIS agent assigned as Jason's liaison during the 2038 events.
 - [Neil Davone](Neil_Davone.md) (spoiler level 0): Neil Davone is an elf of Greenstone's Island families, a healer who grows from the Mercers' hanger-on into the heart of Jason's team.
 - [Nicolas Hendren](Nicolas_Hendren.md) (spoiler level 1): The archbishop of the Church of Purity, a silver-rank barrier-and-force specialist who flees the inquiry and joins the Builder cult's camp before Jason's...
-- [Nigel Thornton](Nigel_Thornton.md) (spoiler level 1): A Network tactical-team leader who becomes the first gold-ranker outside the US without cores.
+- [Nigel Thornton](Nigel_Thornton.md) (spoiler level 3): Nigel Thornton leads a nine-person mercenary unit that began as a Network tactical team.
 - [Nik Asano](Nik_Asano.md) (spoiler level 3): Nik is a four-foot humanoid rabbit in a top hat and tuxedo whom Jason brought into being, unplanned, when his soul realm became a transformation zone (Book...
 - [Noriko Asano](Noriko_Asano.md) (spoiler level 2): The strongest member of the old Asano clan and its patriarch's mother, who takes control from her son and opposes Jason's family; she is matriarch of the...
 - [Orin Pensinata](Orin_Pensinata.md) (spoiler level 2): A calm silver-rank guild adventurer, Amos Pensinata's nephew, who rises to gold and survives Team Storm Shredder's losses.

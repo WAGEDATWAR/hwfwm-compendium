@@ -547,6 +547,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Corrections made while writing: Mr North's briefing is Jason telling Anna (Book 13, Ch987 L16); several cites that did not support their clause were removed or split.
 - Not done: the remaining stub files, in the order Asya Karadeniz, Allayeth, Melody Jain, Vincent Trenslow, Vincent Baudrillard, Kaito Asano, Nigel Thornton and onward. Recorded as 2E.4b in `TODO_Build_Plan.md`.
 
+**Older character files brought up to the template, build plan item 2E.4b, second batch (2026-10-24)**
+- Revised to the full template with line-cited facts: `Asya_Karadeniz.md` (header level raised to 2: she dies in Book 5), `Allayeth.md`, `Melody_Jain.md`, `Kaito_Asano.md` (level raised to 2, Valid through Book 13), `Nigel_Thornton.md` (level raised to 3 for Books 12-13).
+- Reviewed and left as they were because the text gives little more: `Vincent_Trenslow.md` (one Book 1 scene run plus two cameos) and `Vincent_Baudrillard.md` (one Book 13 chapter).
+- Remaining stubs for 2E.4b start at Marek Nior Vargas, Akari Asano, Soramir, Garth Larosse, Zato, Gabriel Remore, Gabrielle Pellin, Ian Evans, Constance.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
