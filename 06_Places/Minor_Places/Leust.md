@@ -5,7 +5,7 @@ Spoiler level: 1
 Valid from: Book 1
 Valid through: Book 1
 Sources: Book 1, Ch92-94
-Related: ../00_Places_Overview.md, ../../01_World_Primer.md (section 12), ../Greenstone.md
+Related: ../00_Places_Overview.md, ../../01_World_Primer.md (section 12), ../Greenstone.md, Lindover_and_Clementson_Properties.md
 
 ## 1. Summary
 

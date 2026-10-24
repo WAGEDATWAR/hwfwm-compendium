@@ -183,11 +183,11 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch90 | The Path to Bronze | Ustei_Homeland_Culture L8-9, L14, L42, L44; Hudson_Kettering L11, L16, L49; Minor_Cast_Remore_Academy_and_Greenstone_Teams L13, L15; Book_01_Timeline L14; Desert_Transport_Skimmers_and_Barges L14; Minor_Cast_Books_1-3 L32; Beth_Cavendish L61 | 13 |
 | Ch91 | Life & Death | Book_01_Timeline L5, L53; Adventuring_Profession L34; Awakening_Stones L34; Adventure_Society L34; Alchemy_Artifice_and_Magical_Materials L58; Alchemy_Association L58; Clothing_Food_Festivals_and_Transport_by_Region L64 | 8 |
 | Ch92 | Unusual Contract | Book_01_Timeline L12, L65; Ustei_Homeland_Culture L12-16, L30, L36; Economy_and_Money L32; Law_and_Indenture L32, L33-34, L36; Plot_Hooks L32; Ustei L36; Monsters L49; Leust L59-65, L61, L63 … | 17 |
-| Ch93 | Truth | Leust L3, L5, L5-6, L5-8, L22, L24 …; Daily_Life L5; 00_Places_Overview L5; Book_01_Timeline L5, L69, L73, L80; Master_Timeline L5; Era_Selection L5; Minor_Cast_Books_1-3 L24-29; Familiars_Summons_and_Conjurations L41 … | 19 |
-| Ch94 | Consequences | Gods_and_Churches L3, L3-7; Religion_in_Practice L3; Church_of_the_Healer L3; Greenstone L3; Book_01_Timeline L3, L70; The_Healer L3-7; Neil_Davone L3-7; Plot_Hooks L3-7 … | 14 |
+| Ch93 | Truth | Leust L3, L5, L5-6, L5-8, L22, L24 …; Daily_Life L5; 00_Places_Overview L5; Book_01_Timeline L5, L69, L73, L80; Master_Timeline L5; Era_Selection L5; Lindover_and_Clementson_Properties L19-83, L22-23, L23, L24, L28-29, L81 …; Minor_Cast_Books_1-3 L24-29 … | 28 |
+| Ch94 | Consequences | Gods_and_Churches L3, L3-7; Religion_in_Practice L3; Church_of_the_Healer L3; Greenstone L3; Book_01_Timeline L3, L70; The_Healer L3-7; Neil_Davone L3-7; Plot_Hooks L3-7 … | 16 |
 | Ch95 | Punishment | Church_of_the_Healer L8; Minor_Cast_Books_1-3 L16, L46; Souls_Death_and_Healing L69, L126; Book_01_Timeline L78, L90; The_Healer L84-86, L90-95, L106-109, L120-126; Dominion L87, L94, L101, L103-104; Gods_and_Churches L90-94, L94, L104; Gary L104 … | 21 |
 | Ch96 | You Don’t Get a Third | Church_of_the_Healer L16; Essences L18; Book_01_Timeline L24, L47 | 4 |
-| Ch97 | Integrity is Sexy | Dominion L7; Book_01_Timeline L17, L29, L93; Open_Questions L19-21; Ustei_Homeland_Culture L21, L23; House_Geller L50; House_Mercer L50; Minor_Cast_Books_1-3 L101; Thalia_Mercer L108 | 11 |
+| Ch97 | Integrity is Sexy | Dominion L7; Book_01_Timeline L17, L29, L93; Open_Questions L19-21; Ustei_Homeland_Culture L21, L23; House_Geller L50; House_Mercer L50; Lindover_and_Clementson_Properties L97, L97-124; Minor_Cast_Books_1-3 L101 … | 14 |
 | Ch98 | The Point of Money and Power | Desert_Transport_Skimmers_and_Barges L4; House_Mercer L20; Cassandra_Mercer L35; Romances_and_Rivalries L35; Book_01_Timeline L57, L70; Adventure_Society L63; Minor_Cast_Books_1-3 L63; Badges_and_Guild_Membership L82 | 9 |
 | Ch99 | Someone Else’s Game | Jason_Asano L24, L67-70; Book_01_Timeline L36, L43, L61; Clothing_Food_Festivals_and_Transport_by_Region L39; Monsters L61; Abilities_and_Attributes L65; Essence_Catalogue L67-70; Monster_Cores_and_Training L155; Afflictions_Boons_and_Damage L166, L169 … | 13 |
 | Ch100 | Legwork | Desert_Astral_Space L8; Book_01_Timeline L69, L79; Auras L85 | 4 |
@@ -660,9 +660,9 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch21 | Speed | Book_08_Timeline L8; Sophie_Wexler_Power_Set L12, L23, L36; Celestines L40 | 5 |
 | Ch22 | Delicate Flowers | Sophie_Wexler_Power_Set L13, L37; Book_08_Timeline L36; Celestines L37; Sophie_Wexler L37-38 | 5 |
 | Ch23 | Hope | Book_08_Timeline L28; Essence_Catalogue L31 | 2 |
-| Ch24 | Preferred Option | 01_World_Primer L22; Girlano_Culture L22, L22-23, L24-25, L26; Girlano L22, L22-23, L23, L24-25, L25, L26; Book_08_Timeline L22, L58; Adventure_Society L22-25 | 14 |
-| Ch25 | Sloppy Mistake | Gordon L48; Girlano_Culture L119, L120, L136; Girlano L120; Book_08_Timeline L130 | 6 |
-| Ch26 | Criteria | Dimensional_Storage_and_Portals L5; Liara_Rimaros L15; Book_08_Timeline L23; Minor_Cast_Books_7-9 L29; Girlano_Culture L39 | 5 |
+| Ch24 | Preferred Option | Casallini L21, L21-30, L22, L24-25, L25, L26 …; 01_World_Primer L22; Girlano_Culture L22, L22-23, L24-25, L26; Girlano L22, L22-23, L23, L24-25, L25, L26; Book_08_Timeline L22, L58; Adventure_Society L22-25 | 21 |
+| Ch25 | Sloppy Mistake | Gordon L48; Casallini L117-130, L119, L127-130, L133-138, L136; Girlano_Culture L119, L120, L136; Girlano L120; Book_08_Timeline L130 | 11 |
+| Ch26 | Criteria | Dimensional_Storage_and_Portals L5; Casallini L7, L39, L39-72, L43-45, L54, L66; Liara_Rimaros L15; Book_08_Timeline L23; Minor_Cast_Books_7-9 L29; Girlano_Culture L39 | 11 |
 | Ch27 | A Matter of Values | Book_08_Timeline L10, L26; Callum_Morse L26; Emir_Bahadir L34; Arabelle_Remore L88 | 5 |
 | Ch28 | A Little Damage | Book_08_Timeline L14, L38; House_Geller L45; Palisaros L59 | 4 |
 | Ch29 | Infiltrating the Stronghold | Book_08_Timeline L22; Minor_Cast_Order_of_Redeeming_Light L26-29; Minor_Cast_Books_7-9 L28; Belinda_Callahan_Power_Set L49-56; Belinda_Callahan L49-56 | 5 |

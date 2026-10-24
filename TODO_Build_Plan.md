@@ -97,7 +97,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2E.6 (Done 2026-10-24) Character "knowledge state" tables (M, suggested).** For each core character, a table of what they know about Jason's origin, the System, Knowledge's plan and the Earth link at the end of each book. This supports roleplay and spoiler discipline.
 
 ### 2F. Places (`06_Places`)
-- **2F.1 Places named only once:** the Great Southern Continent, Casallini, Lindover Lumber Mill, Clementson's property, Oleyu's river (add only if later scenes give them substance).
+- **2F.1 (Done 2026-10-24) Places named only once:** the Great Southern Continent, Casallini, Lindover Lumber Mill, Clementson's property, Oleyu's river (add only if later scenes give them substance).
 - **2F.2 Missing region overviews (M each, suggested):** the Africa-like continent (Greenstone, Boko, Rakesh, Hornis, Oleyu, Zartos, Sadi Andali), Estercost's continent, the Great Southern Continent, the Storm Kingdom's islands.
 - **2F.3 Jason's domains (M):** Nitra, Saint-Étienne, Casselton Beach, Asano Village and the astral kingdom are written; collect the "set-state authority" and domain-rule passages into one `Domains.md` (suggested).
 - **2F.4 A locations-by-era table (S, suggested):** which places exist and in what state in each era (Boko before and after, Cartise ruined, Yaresh before and after the battle).

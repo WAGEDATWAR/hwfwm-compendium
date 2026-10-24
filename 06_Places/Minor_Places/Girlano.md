@@ -5,7 +5,7 @@ Spoiler level: 2
 Valid from: Book 8
 Valid through: Book 9
 Sources: Book 8, Ch24-25; Book 9, Ch26
-Related: ../00_Places_Overview.md, ../../01_World_Primer.md (section 12), ../Rimaros.md
+Related: ../00_Places_Overview.md, ../../01_World_Primer.md (section 12), ../Rimaros.md, Casallini.md
 
 ## 1. Summary
 

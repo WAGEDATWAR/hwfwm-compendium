@@ -9,7 +9,7 @@ Related: Landemere_Vane.md, Jason_Asano.md, ../05_Organisations/Cults_and_Orders
 
 ## 1. Summary
 
-Cressida Vane is the matriarch of the blood-cult family that holds Jason and his friends in Book 1. Beautiful, haughty and weary of her family's ambitions, she insists they are "a nice, traditional blood cult family" and her body is last seen on the chamber floor after the confrontation.
+Cressida Vane is the matriarch of the blood-cult family that holds Jason and his friends in Book 1. Beautiful, haughty and weary of her family's ambitions, she insists they are "a nice, traditional blood cult family" and she is killed in the confrontation.
 
 ## 2. Appearance
 
@@ -42,7 +42,7 @@ Cressida Vane is the matriarch of the blood-cult family that holds Jason and his
 
 ## 8. Secrets and spoiler notes
 
-Her body ends up on the stone floor at the edge of the chamber rather than in the pool (Book 1, Ch13 L55).
+Her body ends up on the stone floor at the edge of the chamber rather than in the pool (Book 1, Ch13 L55); Jason later alludes to her head being "smashed open" (Book 1, Ch97 L122).
 
 ## 9. Roleplay notes
 

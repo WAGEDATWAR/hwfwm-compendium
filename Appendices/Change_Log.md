@@ -565,6 +565,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `07_Characters/Relationships/Knowledge_States.md`: for eleven core characters, the earliest scene showing them know that Jason is an outworlder, use the party interface, know the Earth link and know Knowledge's plan, grouped in four book bands. The System as a world event (Book 11 end, Book 12) is described separately.
 - Method: first evidence, not full proof; blanks mean no scene was found in the lines read. Open points recorded: first-telling scenes for Sophie, Belinda, Neil and Gary, and the team's grasp of the Earth link before Book 9. The Book 13 lecture (Ch1017) is the first scene where Knowledge's plan is laid out to a group.
 
+**Places named only once, build plan item 2F.1 (2026-10-24)**
+- Added `06_Places/Minor_Places/Casallini.md` (Girlano's border city, Book 8 ambush on Sophie) and `Lindover_and_Clementson_Properties.md` (the Book 1 fergax land-grab), each linked from its neighbouring file (`Girlano.md`, `Leust.md`).
+- Checked against the text and left alone: Oleyu already has its file (`Oleyu.md`, with the river left as an open question, Book 6, Ch47 L838); the Great Southern Continent appears once, in the team's route plan (Book 9, Ch25 L4), with no scene, so no file was added, as the plan instructs.
+- Correction in `Cressida_Vane.md`: Jason's remark in Book 1, Ch97 L122 confirms her head was smashed open; the file now says she is killed.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
