@@ -5,7 +5,7 @@ Spoiler level: 0 for the era headings; later facts are marked by level
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1-13 (chapter files); calendar anchors from ../08_History_and_Timeline/Master_Timeline.md
-Related: 00_Roleplay_Overview.md, Spoiler_Management.md, ../08_History_and_Timeline/Master_Timeline.md, ../01_World_Primer.md, ../06_Places/00_Places_Overview.md
+Related: Place_Changes_Between_Eras.md, 00_Roleplay_Overview.md, Spoiler_Management.md, ../08_History_and_Timeline/Master_Timeline.md, ../01_World_Primer.md, ../06_Places/00_Places_Overview.md
 
 ## 1. Summary
 

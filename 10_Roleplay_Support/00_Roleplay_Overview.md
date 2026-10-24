@@ -32,6 +32,7 @@ Start from the era table, then check each character's "valid from" book before y
 - [Era Selection](Era_Selection.md) (spoiler level 0): Seven playable eras, each with its calendar, setting, live dangers and the points where the world changes.
 - [Recurring Motifs and In-World Sayings](Motifs_and_Sayings.md) (spoiler level 3): The series leans on a handful of repeated phrases and running jokes.
 - [NPC Rosters by Era](NPC_Rosters_by_Era.md) (spoiler level 0): Who can appear in each era, with one line showing where each person is on the page.
+- [What Changes Between Eras: Greenstone, Vitesse, Rimaros, Yaresh](Place_Changes_Between_Eras.md) (spoiler level 3): For each of four places, a before-and-after table keyed to the major events.
 - [Plot Hooks by Era](Plot_Hooks.md) (spoiler level 0): Open situations in each era that a scene can start from.
 - [Secrets and Rumours by Era](Secrets_and_Rumours.md) (spoiler level 3): For each of the seven eras, three lists: what is true, what people commonly believe, and what is being said to mislead (cover stories, lies and rumours).
 - [Spoiler Management and Secrets](Spoiler_Management.md) (spoiler level 0): How to use the four spoiler levels, a table of the series' main secrets with the line where each first surfaces, and rules for who knows what.

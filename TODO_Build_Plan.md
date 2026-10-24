@@ -125,7 +125,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 - **4.4 (Done 2026-10-24) Secrets and rumours sheets (M).** Per era, the true facts, the common beliefs and the lies in circulation (Emir's account of the Order against Shade's, the churches' story of Purity).
 - **4.5 (Done 2026-10-24) Spoiler-safe summaries (M, suggested).** A one-page summary of each of the four spoiler levels that a narrator can read before a session without learning later facts.
 - **4.6 (Done 2026-10-24) Quick-reference sheets (S-M, suggested).** One page each for: ranks and lifespans; the coin table; forms of address; the calendar and festivals; the churches and what they do.
-- **4.7 A "what changes between eras" diff (M, suggested).** For Greenstone, Vitesse, Rimaros and Yaresh: the place before and after the major events.
+- **4.7 (Done 2026-10-24) A "what changes between eras" diff (M, suggested).** For Greenstone, Vitesse, Rimaros and Yaresh: the place before and after the major events.
 
 ## Tier 5: Quality assurance and long-run maintenance
 

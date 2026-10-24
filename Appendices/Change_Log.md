@@ -639,6 +639,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Quick-reference sheets, build plan item 4.6 (2026-10-24)**
 - Added `10_Roleplay_Support/Quick_Reference/` with five one-page sheets: Ranks_and_Lifespans, Coin_Table, Forms_of_Address, Calendar_and_Festivals and Churches_at_a_Glance. Each repeats lines already cited in the topic files; the coin table derives the lesser-coin values from the quoted ratios. Linked from `Tone_and_Voice.md`.
 
+**Place changes between eras, build plan item 4.7 (2026-10-24)**
+- Added `10_Roleplay_Support/Place_Changes_Between_Eras.md`: before-and-after tables for Greenstone (with Boko), Vitesse, Rimaros and Yaresh, each row keyed to a period and a cited line. Rows the books do not cover (Greenstone in Eras 3-6) say so. Linked from `Era_Selection.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
