@@ -68,7 +68,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Gary (Gareth Xandier) and Gary Sharpton](Gary.md) (spoiler level 0): Gareth "Gary" Xandier is an enormous leonid smith and warrior from Vitesse.
 - [Gerling (Jack Gerling)](Gerling.md) (spoiler level 3): Jack Gerling is a US Network category-four (gold-rank) essence user with an explosion-based power set, who kills Jason's brother, lover and best friend in...
 - [Gilbert Bertinelli](Gilbert_Bertinelli.md) (spoiler level 3): Gilbert "Bert" Bertinelli is a Greenstone tailor who sells Jason his combat robe and later his suits.
-- [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 2): A gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria and Jason.
+- [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 3): Gormanston Bynes is a gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria...
 - [Greg](Greg.md) (spoiler level 2): Greg is an old school friend of Jason's who joins the Network defectors on Kaito's helicopter crew and is killed in Book 5.
 - [Gwydion Remore](Gwydion_Remore.md) (spoiler level 3): Gwydion Remore is Rufus's older brother and a priest of Hero.
 - [Hana Shavar](Hana_Shavar.md) (spoiler level 3): Hana Shavar is the elf High Priestess of the Church of the Healer for Yaresh.
@@ -77,7 +77,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Helsveth](Helsveth.md) (spoiler level 3): Helsveth is a draconian World-Phoenix servant being groomed to become First Sister as Dawn moves to the Hierophants.
 - [Henrietta Geller](Henrietta_Geller.md) (spoiler level 3): Henrietta Geller is Humphrey's older sister, a bronze-rank summoning specialist who takes her sibling role seriously.
 - [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): Hess Jor Nasala is a silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
-- [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
+- [Hester Maharala](Hester_Maharala.md) (spoiler level 2): Hester Maharala is Emir's portal user and head of logistics, born in Jayapura in Pranay.
 - [Hiro Asano](Hiro_Asano.md) (spoiler level 3): Hiro Asano is Jason's uncle, a Sydney crime figure and the family's black sheep, who knew about hidden magic and the factions around it before Jason returned.
 - [Holly Macrossan](Holly_Macrossan.md) (spoiler level 3): Holly Macrossan succeeds Anna Tilden as Under-Secretary-General of the UN Office of Supernatural Affairs.
 - [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
@@ -98,7 +98,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Keith Geller](Keith_Geller.md) (spoiler level 3): Keith Geller is Danielle Geller's husband and Humphrey and Henrietta's father.
 - [Ken Asano](Ken_Asano.md) (spoiler level 3): Ken Asano is Jason's father, a Japanese-born Australian landscape architect who embraces the Australian lifestyle with convert's zeal.
 - [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): Ketevan Arziani is an analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
-- [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
+- [Killian Laurent](Killian_Laurent.md) (spoiler level 3): Killian Laurent is Cole Silva's right-hand man and the leader of Silva's bronze-rankers.
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.
 - [Korinne Pescos](Korinne_Pescos.md) (spoiler level 3): Korinne Pescos leads a Rimaros guild-elite team, later called Storm Shredder, that fights beside Jason in the surge, travels with him in Book 9 and joins...
 - [Landemere Vane](Landemere_Vane.md) (spoiler level 2): Landemere Vane is the Vane heir whose failed summoning pulls Jason to Pallimustus.
@@ -125,7 +125,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Nigel Thornton](Nigel_Thornton.md) (spoiler level 3): Nigel Thornton leads a nine-person mercenary unit that began as a Network tactical team.
 - [Nik Asano](Nik_Asano.md) (spoiler level 3): Nik is a four-foot humanoid rabbit in a top hat and tuxedo whom Jason brought into being, unplanned, when his soul realm became a transformation zone (Book...
 - [Noriko Asano](Noriko_Asano.md) (spoiler level 2): The strongest member of the old Asano clan and its patriarch's mother, who takes control from her son and opposes Jason's family; she is matriarch of the...
-- [Orin Pensinata](Orin_Pensinata.md) (spoiler level 2): A calm silver-rank guild adventurer, Amos Pensinata's nephew, who rises to gold and survives Team Storm Shredder's losses.
+- [Orin Pensinata](Orin_Pensinata.md) (spoiler level 3): Orin Pensinata is a calm guild adventurer, Amos Pensinata's nephew, who rises to gold and survives Team Storm Shredder's losses.
 - [Padma Parsell](Padma_Parsell.md) (spoiler level 1): Padma Parsell is an adventurer from Remore Academy and Farrah's half-disciple, who leads a Vitesse team in the City of Fallen Echoes.
 - [Pelli](Pelli.md) (spoiler level 2): Pelli is a sharp-tongued core-using gold-ranker who keeps the town of Palisaros quiet and safe, is "Aunt Pelli" to the royal family, and is a contact for...
 - [Phoebe Geller](Phoebe_Geller.md) (spoiler level 3): Phoebe Geller is a distant Geller cousin of Humphrey's, Rick Geller's sister, and a pugilist on Rick's team.
@@ -138,7 +138,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Rufus Remore](Rufus_Remore.md) (spoiler level 0): Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the diamond-ranker Roland Remore.
 - [Sendira](Sendira.md) (spoiler level 2): Sendira is Melody Jain's second in command in the Order of Redeeming Light's local enclave: a silver-rank zealot and the person Melody trusts most.
 - [Shako](Shako.md) (spoiler level 3): Shako is a diamond-rank servant of the Builder who kills Jason in Book 6, apparently possessed by the Builder at the moment he does it.
-- [Sigrid Freyn (Volaire)](Sigrid_Freyn.md) (spoiler level 1): A celestine healer and the leader of Valdis's team, who becomes his wife.
+- [Sigrid Freyn](Sigrid_Freyn.md) (spoiler level 3): Sigrid Freyn (Sigrid Volaire) is a celestine healer and the leader of Valdis's team, who becomes his wife.
 - [Simon McKean](Simon_McKean.md) (spoiler level 3): Simon McKean is the former head of the Earth researchers in the Network's grid workgroup.
 - [Sophie Wexler](Sophie_Wexler.md) (spoiler level 0): Sophie Wexler is a celestine fighter known as the Nightingale in the Greenstone fighting pits.
 - [Soramir (Soramir Rimaros)](Soramir.md) (spoiler level 3): Soramir Rimaros is the founder of the Rimaros royal house, a diamond-rank ruler with a palindromic name, who guides Jason through the Builder crisis.

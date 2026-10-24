@@ -294,7 +294,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch2 | Looking Forward | Jory_Tillman L16; Book_03_Timeline L17, L64, L105; Gilbert_Bertinelli L59-62, L64; Jason_Asano L59-64; Essence_Catalogue L62; Emir_Bahadir L65; Monsters L99 | 10 |
 | Ch3 | Adventurers Are People Too | Knowledge L14; Book_03_Timeline L50; Mirror_Kingdom_Culture L73-80; Team_Shining_Scabbard L76, L78, L80, L81; Valdis_Volaire L80 | 8 |
 | Ch4 | Valkyrie | Valdis_Volaire L3, L7; Gordon L28; Familiars L28-32; Onslow L29; Neil_Davone L29-32; Stash L31; Shimmer L32; Clive_Standish_Power_Set L33 … | 15 |
-| Ch5 | Departures | Tone_and_Voice L9; Mirror_Kingdom_Culture L20, L23, L34-36, L40-48, L50; Calendar_Holidays_and_Naming_Customs L23, L35; Valdis_Volaire L42-50; Sigrid_Freyn L49-53, L57-58; Open_Questions L49-53; Book_03_Timeline L50, L70; Purity_and_Disguise L67 … | 23 |
+| Ch5 | Departures | Tone_and_Voice L9; Mirror_Kingdom_Culture L20, L23, L34-36, L40-48, L50; Calendar_Holidays_and_Naming_Customs L23, L35; Valdis_Volaire L42-50; Open_Questions L49-53; Sigrid_Freyn L49-58, L57-58; Book_03_Timeline L50, L70; Purity_and_Disguise L67 … | 23 |
 | Ch6 | No Pot of Gold | Plot_Hooks L18, L43; Gary_Power_Set L35; Henrietta_Geller L43 | 4 |
 | Ch7 | The Glory of Success or the Price of Failure | Henrietta_Geller L3, L28; Book_03_Timeline L3, L5, L97; Monsters L5; Adventure_Society L55; Dimensional_Storage_and_Portals L85; Zato L88-89; Cults_and_Orders L89; NPC_Rosters_by_Era L89 … | 13 |
 | Ch8 | Adequate | Beth_Cavendish L19; Hester_Maharala L25; Familiars_Summons_and_Conjurations L33; Monsters L35; Essences L37-44; Essence_Catalogue L38; Book_03_Timeline L58; Afflictions_Boons_and_Damage L76 … | 10 |
@@ -305,8 +305,8 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch13 | Swat | Monsters L5-6, L17; Book_03_Timeline L14, L17; Gordon L38 | 5 |
 | Ch14 | The Purpose of the Adventure Society | Souls_Death_and_Healing L9; Book_03_Timeline L9, L81; Alchemy_Artifice_and_Magical_Materials L18; Familiars_Summons_and_Conjurations L78; Adventuring_Profession L79; Titles_and_Blessings L81-83, L83; Auras L82, L83; Abilities_and_Attributes L98 … | 12 |
 | Ch15 | Elven Storage Solutions | Monsters L17; Abilities_and_Attributes L47; Ranks_and_Advancement L47, L56; Book_03_Timeline L47 | 5 |
-| Ch16 | Disbanded | Book_03_Timeline L6, L7; Killian_Laurent L16-43, L70; Alchemy_Association L80; Magic_Society_and_Associations L80; Economy_and_Money L81; Jory_Tillman L81, L82; Church_of_the_Healer L82 | 10 |
-| Ch17 | The Man Behind the Mouth | Book_03_Timeline L3, L16; Killian_Laurent L13-26, L14; NPC_Rosters_by_Era L14; Alchemy_Artifice_and_Magical_Materials L26; Cole_Silva L56-60; Magic_Society_and_Associations L60 | 8 |
+| Ch16 | Disbanded | Book_03_Timeline L6, L7; Killian_Laurent L16-43, L43, L70; Alchemy_Association L80; Magic_Society_and_Associations L80; Economy_and_Money L81; Jory_Tillman L81, L82; Church_of_the_Healer L82 | 11 |
+| Ch17 | The Man Behind the Mouth | Book_03_Timeline L3, L16; Killian_Laurent L13-26; NPC_Rosters_by_Era L14; Alchemy_Artifice_and_Magical_Materials L26; Cole_Silva L56-60; Magic_Society_and_Associations L60 | 7 |
 | Ch18 | Search | Cole_Silva L128; Killian_Laurent L130 | 2 |
 | Ch19 | Defiance | Book_03_Timeline L3, L92; Rituals_Arrays_and_Formations L37; Killian_Laurent L78 | 4 |
 | Ch20 | Hanging Around | Book_03_Timeline L9, L41; Abilities_and_Attributes L17; Roland_Remore L25 | 4 |
@@ -714,7 +714,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch2 | What She Was Willing to Do | Clothing_Food_Festivals_and_Transport_by_Region L16-19, L20; Book_09_Timeline L18, L28, L76; Cole_Silva L84; Lucian_Lamprey L84; Killian_Laurent L85 | 8 |
 | Ch3 | More Than Just a Name | Clothing_Food_Festivals_and_Transport_by_Region L3; Book_09_Timeline L56, L90; Rufus_Remore L59; Minor_Cast_Books_7-9 L75, L86; Rimaros L81-82 | 7 |
 | Ch4 | The Making of That Man | Killian_Laurent L11, L11-39; Book_09_Timeline L11; Minor_Cast_Books_7-9 L16 | 4 |
-| Ch5 | A Lesson of Days Gone | Sapphire_Crown L3; House_Amouz L3; House_Rimaros L3; Liara_Rimaros L3; Book_09_Timeline L4, L76; Killian_Laurent L4-99; Ranks_and_Advancement L55 | 8 |
+| Ch5 | A Lesson of Days Gone | Sapphire_Crown L3; House_Amouz L3; House_Rimaros L3; Liara_Rimaros L3; Book_09_Timeline L4, L76; Ranks_and_Advancement L55 | 7 |
 | Ch6 | Dear John | Dawn L17; Jason_Asano L17; Tone_and_Voice L17; Taika L41; Book_09_Timeline L41; Amos_Pensinata L47, L48; NPC_Rosters_by_Era L47; Liara_Rimaros L73 | 9 |
 | Ch7 | This Doesn’t Feel Glorious | Sapphire_Crown L4; Minor_Cast_Books_7-9 L33, L46, L92; Book_09_Timeline L33 | 5 |
 | Ch8 | El Demonio Que Hace Trofeos de los Hombres | Minor_Cast_Books_7-9 L6, L12 | 2 |
@@ -832,7 +832,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch13 | Experiment | Gabrielle_Pellin L18; Rick_Geller L26; Book_10_Timeline L36; Charist L65 | 4 |
 | Ch14 | Spanked | Allayeth L3; Gormanston_Bynes L3; NPC_Rosters_by_Era L3; Book_10_Timeline L8; Yaresh_Culture L28-31, L33, L35; Era_Selection L28-35; Plot_Hooks L28-35; Guilds_and_Houses L33-35 … | 15 |
 | Ch15 | Better Ambitions | Astral_Kings_and_Messengers L3, L6, L9; The_Council_of_Kings L3, L3-62, L16-19, L30, L40, L43 …; The_Builder L3-4, L5; Great_Astral_Beings L5; Erigo_Fin_Desca L5, L5-26, L6-10, L10, L15-20, L25-26; Shako L5; NPC_Rosters_by_Era L5, L6; Messengers_as_a_People L5-6 … | 35 |
-| Ch16 | The Instinct to Kneel | Hess_Jor_Nasala L26, L26-53; Astral_Kings_and_Messengers L48; Messengers_as_a_People L48; Emir_Bahadir L59; Gormanston_Bynes L61, L62-63; Book_10_Timeline L62; Dominion L76-87 | 9 |
+| Ch16 | The Instinct to Kneel | Hess_Jor_Nasala L26, L26-53; Astral_Kings_and_Messengers L48; Messengers_as_a_People L48; Emir_Bahadir L59; Gormanston_Bynes L61, L62, L62-63; Book_10_Timeline L62; Dominion L76-87 | 10 |
 | Ch17 | Acceptable Terms | Book_10_Timeline L9, L39, L52; Book_09_Timeline L52; Master_Timeline L52 | 5 |
 | Ch18 | Actual Adventurers | Musin_Heath L71; Book_10_Timeline L92, L96; Dominion L129; Gormanston_Bynes L133, L137 | 6 |
 | Ch19 | Bad Influence | Book_10_Timeline L3; The_Healer L50-51, L57-62, L61 | 4 |
@@ -943,7 +943,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch29 | A Dangerous Power | Cults_and_Orders L3; Gods_and_Churches L3-5; Garth_Larosse L12; Astral_Kings_and_Messengers L31; Book_11_Timeline L31 | 5 |
 | Ch30 | Bit of an Odd Bloke | Book_11_Timeline L6; Garth_Larosse L56, L66 | 3 |
 | Ch31 | Asking For a Lot of Trust | Book_11_Timeline L3; Boris_Ket_Lundi L69, L87 | 3 |
-| Ch32 | It Used to Be Completely Dark | Book_11_Timeline L8; Orin_Pensinata L73-74; Korinne_Pescos L74; Rosa_Liselos L74; Miriam_Vance L75; Jameela L79 | 6 |
+| Ch32 | It Used to Be Completely Dark | Book_11_Timeline L8; Orin_Pensinata L73-74, L74; Korinne_Pescos L74; Rosa_Liselos L74; Miriam_Vance L75; Jameela L79 | 7 |
 | Ch33 | He Likes to Name-Drop | Familiars_Summons_and_Conjurations L4; Book_11_Timeline L4; Authority_and_Sanctioning L9-13, L140, L140-157, L152-153, L155-157, L157; Miriam_Vance L20; Open_Questions L20; Familiars L50; Undeath L99; 00_Cosmology_Overview L112 … | 15 |
 | Ch34 | He Isn’t Always Evil and He is Not Always Wrong | Book_11_Timeline L15, L33, L124; Master_Timeline L33; 00_Cosmology_Overview L97, L103; Great_Astral_Beings L97, L103; All_Devouring_Eye L97 | 9 |
 | Ch35 | New Power and a Freshly Cooked Batch of Smugness | Book_11_Timeline L39; Undeath L42-47; Authority_and_Sanctioning L43-47, L43-48; Death L45-46 | 5 |
