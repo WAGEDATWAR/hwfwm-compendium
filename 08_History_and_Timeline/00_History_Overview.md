@@ -35,4 +35,9 @@ The list below is generated from the folder contents (`src/tools/overviews.py`).
 - [Book 13 Timeline: Jason on Earth in 2038](Book_13_Timeline.md) (spoiler level 3)
 - [Master Timeline](Master_Timeline.md) (spoiler level 3)
 
+**Era_Guides/**
+
+- [Era Guide: The Builder Cult in Greenstone (Books 2-3)](Era_Guides/Builder_Cult_in_Greenstone.md) (spoiler level 1): For about a year after the Reaper trials, a hidden cult of the Builder works inside Greenstone's aristocracy and through the church of Purity.
+- [Era Guide: The Reaper Trials (Book 2)](Era_Guides/Reaper_Trials.md) (spoiler level 1): After Farrah's death, Emir Bahadir opens an astral space in the delta and invites iron-rank teams to compete for the legacy of the Order of the Reaper.
+
 <!-- files:end -->
