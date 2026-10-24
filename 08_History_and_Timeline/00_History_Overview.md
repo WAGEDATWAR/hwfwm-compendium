@@ -38,6 +38,8 @@ The list below is generated from the folder contents (`src/tools/overviews.py`).
 **Era_Guides/**
 
 - [Era Guide: The Builder Cult in Greenstone (Books 2-3)](Era_Guides/Builder_Cult_in_Greenstone.md) (spoiler level 1): For about a year after the Reaper trials, a hidden cult of the Builder works inside Greenstone's aristocracy and through the church of Purity.
+- [Era Guide: Earth and the Monster Waves (Books 4-6)](Era_Guides/Earth_and_the_Monster_Waves.md) (spoiler level 2): Jason wakes on Earth in early June, a year and a half after he left (Book 4, Ch3 L112).
 - [Era Guide: The Reaper Trials (Book 2)](Era_Guides/Reaper_Trials.md) (spoiler level 1): After Farrah's death, Emir Bahadir opens an astral space in the delta and invites iron-rank teams to compete for the legacy of the Order of the Reaper.
+- [Era Guide: The Rimaros Surge (Books 7-8)](Era_Guides/Rimaros_Surge.md) (spoiler level 2): Jason returns to Pallimustus at the standing stones in a cyclone, just as a long-delayed monster surge begins.
 
 <!-- files:end -->
