@@ -387,8 +387,8 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch23 | Hegemons | 01_World_Primer L26; Earth_Magic L26; Book_04_Timeline L27; Dawn L31-39 | 4 |
 | Ch24 | Guilty Conscience | Book_04_Timeline L32, L66; Shade L33; Cheryl_Asano L42; Kaito_Asano L101, L101-126 | 6 |
 | Ch25 | Uncommon Mistake | Book_04_Timeline L10; Alchemy_Artifice_and_Magical_Materials L20; Rituals_Arrays_and_Formations L20; Kaito_Asano L44; Emi_Evans_Asano L60, L60-66; Open_Questions L60 | 7 |
-| Ch26 | It’s Complicated | Erika_Asano L29, L71; Book_04_Timeline L29, L59; Kaito_Asano L45, L47-50; Amy_Asano L47; Ian_Evans L52, L71 | 9 |
-| Ch27 | A Big Dose of Normal | Book_04_Timeline L3, L97, L167; Kaito_Asano L55, L55-70; Emi_Evans_Asano L171 | 6 |
+| Ch26 | It’s Complicated | Erika_Asano L29, L71; Book_04_Timeline L29, L59; Kaito_Asano L45, L47-50; Amy_Asano L45-48, L46, L47; Ian_Evans L52, L71 | 11 |
+| Ch27 | A Big Dose of Normal | Book_04_Timeline L3, L97, L167; Kaito_Asano L55, L55-70; Amy_Asano L74; Emi_Evans_Asano L171 | 7 |
 | Ch28 | Moppet | Anna_Tilden L48; Emi_Evans_Asano L126, L135-139, L154; Book_04_Timeline L126, L139 | 6 |
 | Ch29 | Always Tell the Truth if You Can Get Away With It | Emi_Evans_Asano L43, L45-54, L69-73, L103; Book_04_Timeline L45, L103 | 6 |
 | Ch30 | Discretion is a Good Idea | Erika_Asano L4; Book_04_Timeline L5, L38; Spirit_Vault_and_Astral_Kingdom L45, L49; Hiro_Asano L74 | 6 |
@@ -416,7 +416,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch52 | A Moment For Drastic Measures | Saint-Etienne L22-23; Book_04_Timeline L37; Asya_Karadeniz L83; Minor_Cast_Books_4-6 L84; Adrien_Barbou L94 | 5 |
 | Ch53 | Foiled Plans | Book_04_Timeline L3, L4, L20, L55; Minor_Cast_Books_4-6 L75 | 5 |
 | Ch54 | Quite the Year | Book_04_Timeline L39; Glossary L88 | 2 |
-| Ch55 | Full Houseboat | Arabelle_Remore L3; Book_04_Timeline L5, L8, L93 | 4 |
+| Ch55 | Full Houseboat | Arabelle_Remore L3; Book_04_Timeline L5, L8, L93; Amy_Asano L58 | 5 |
 | Ch56 | A Wizard Did It | Book_04_Timeline L22, L35; Emi_Evans_Asano L46 | 3 |
 | Ch57 | The King of Everyone | Spirit_Vault_and_Astral_Kingdom L3-10, L59; Emi_Evans_Asano L33-39, L34-36; Book_04_Timeline L100 | 5 |
 | Ch58 | I Came Back to Show You Wonders | Titles_and_Blessings L19; Emi_Evans_Asano L75; Book_04_Timeline L95, L126 | 4 |
@@ -427,15 +427,15 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch63 | Pitch Meetings | Book_04_Timeline L8, L25; NPC_Rosters_by_Era L25; Li_Li_Mei L25-28 | 4 |
 | Ch64 | Moving Forward | Confluences L57, L70; Essence_Catalogue L70; Book_04_Timeline L80, L82 | 5 |
 | Ch65 | Flemish Baroque | Confluences L22, L28, L29; Taika L22, L30; Glossary L22, L28; Essence_Catalogue L22-27, L27, L28; Taika_Power_Set L22-27; Humphrey_Geller_Power_Set L28; Book_04_Timeline L84 | 13 |
-| Ch66 | Not Ready to Leave | Asya_Karadeniz L59; Craig_Vermillion L64; Book_04_Timeline L82 | 3 |
+| Ch66 | Not Ready to Leave | Asya_Karadeniz L59; Greg L59, L59-66, L66; Craig_Vermillion L64; Book_04_Timeline L82 | 6 |
 | Ch67 | Decision | Book_04_Timeline L27 | 1 |
 | Ch68 | What You Have to Do | Book_04_Timeline L59, L139, L170; Earth_Magic L59-61, L63-65; 01_World_Primer L79, L97, L131-135; Purity_and_Disguise L139; Thadwick_Mercer L177, L185 | 11 |
 | Ch69 | The Direction We Want Them to Go | Erika_Asano L70; Ian_Evans L70; Essence_Catalogue L83, L102, L106; Confluences L102, L106; Book_04_Timeline L106 | 8 |
 | Ch70 | The Dangers of What I Do | Book_04_Timeline L7, L24; Essence_Catalogue L8; Gary_Power_Set L44; Farrah_Hurin_Power_Set L48 | 5 |
 | Ch71 | We Were All Monsters | Confluences L4-5, L30, L36; Book_04_Timeline L6, L36, L72; Essence_Catalogue L30, L36; Kaito_Asano L62 | 9 |
-| Ch72 | Options | Essence_Catalogue L22-23; Auras L38; Confluences L76, L83; Book_04_Timeline L85 | 5 |
+| Ch72 | Options | Essence_Catalogue L22-23; Amy_Asano L25; Auras L38; Confluences L76, L83; Book_04_Timeline L85 | 6 |
 | Ch73 | I Need Time | Book_04_Timeline L39; Emi_Evans_Asano L77; Auras L92, L93, L95-100; Ranks_and_Advancement L92; Mirror_Kingdom_Culture L98 | 7 |
-| Ch74 | Walkabout | Auras L6, L10, L12-13, L14; Ranks_and_Advancement L8; Mirror_Kingdom_Culture L12; Book_04_Timeline L12, L32, L65; Emi_Evans_Asano L32, L145; Yumi_Asano L43 | 12 |
+| Ch74 | Walkabout | Auras L6, L10, L12-13, L14; Ranks_and_Advancement L8; Mirror_Kingdom_Culture L12; Book_04_Timeline L12, L32, L65; Emi_Evans_Asano L32, L145; Yumi_Asano L40, L43; Greg L140 | 14 |
 
 ### Book 5
 
@@ -451,9 +451,9 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch9 | Contingencies | Book_05_Timeline L5, L23, L40, L80; Emi_Evans_Asano L23; Anna_Tilden L52; Ketevan_Arziani L67 | 7 |
 | Ch10 | Humanity | Book_05_Timeline L6, L52; NPC_Rosters_by_Era L17; Audrey_Blaine L17-33, L24 | 5 |
 | Ch11 | Media Blitz | Book_05_Timeline L12; Amy_Asano L82 | 2 |
-| Ch12 | Grandmotherly Advice | Akari_Asano L18, L27, L83; Book_05_Timeline L100 | 4 |
-| Ch13 | A Bloke With Vast Cosmic Power | Book_05_Timeline L35, L41, L73; Master_Timeline L37; Greg L74; Asya_Karadeniz L75 | 6 |
-| Ch14 | A Very Long To-Do List | Earth_Magic L3; Book_05_Timeline L8, L77; Kaito_Asano L37, L37-49; Greg L42; Confluences L61; Essence_Catalogue L61; Akari_Asano L61-66; NPC_Rosters_by_Era L61-66 | 10 |
+| Ch12 | Grandmotherly Advice | Akari_Asano L18, L27, L83; Yumi_Asano L84; Book_05_Timeline L100 | 5 |
+| Ch13 | A Bloke With Vast Cosmic Power | Book_05_Timeline L35, L41, L73; Master_Timeline L37; Asya_Karadeniz L75 | 5 |
+| Ch14 | A Very Long To-Do List | Earth_Magic L3; Book_05_Timeline L8, L77; Kaito_Asano L37, L37-49; Confluences L61; Essence_Catalogue L61; Akari_Asano L61-66; NPC_Rosters_by_Era L61-66 | 9 |
 | Ch15 | Another Step Forward | Akari_Asano L3, L47; Book_05_Timeline L50 | 3 |
 | Ch16 | Tactical Flexibility | Earth_Magic L78; Book_05_Timeline L78; Familiars L103-108; Shade L103-108 | 4 |
 | Ch17 | Broken | Incursion_Sites L3; Earth_Magic L7; Earth_Powers L7; The_Network L7, L8-9; 00_Earth_Overview L7; Era_Selection L7; Spoiler_Management L7; Engineers_of_Ascension L8-9 … | 11 |
@@ -478,15 +478,15 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch36 | Honour | Noriko_Asano L3, L11-16, L32, L89; Book_05_Timeline L3, L33; NPC_Rosters_by_Era L3; Ketevan_Arziani L33; Akari_Asano L63; Rituals_Arrays_and_Formations L84 | 10 |
 | Ch37 | They Get to See What I’m Like | Book_05_Timeline L28, L51; Noriko_Asano L92 | 3 |
 | Ch38 | Fanboy | Itsuki_Tiwari L5, L50; Book_05_Timeline L41; Confluences L50; Essence_Catalogue L50 | 5 |
-| Ch39 | A Very Bad Mistake | Book_05_Timeline L15, L88; Asya_Karadeniz L110 | 3 |
+| Ch39 | A Very Bad Mistake | Book_05_Timeline L15, L88; Asya_Karadeniz L110; Yumi_Asano L125 | 4 |
 | Ch40 | An Unexpected Direction | Emi_Evans_Asano L3-18; Book_05_Timeline L18, L79; 00_Cosmology_Overview L49-50; Mr_North L66, L68, L72, L74-78, L78-86, L79 …; Earth_Powers L79, L79-83; Engineers_of_Ascension L79-86, L86; Landemere_Vane L81; Adrien_Barbou L86 | 18 |
 | Ch41 | Parade of Delights | Alchemy_Artifice_and_Magical_Materials L24-26, L52-62; Mr_North L24-26, L33, L103; The_Builders_Door_and_Fundament_Gate L24-26, L28, L52-62, L62-64; Tone_and_Voice L33 | 10 |
 | Ch42 | Collateral Damage | Book_05_Timeline L59 | 1 |
 | Ch43 | I Intend to Do Damage | Book_05_Timeline L3, L71, L75; Nigel_Thornton L14; Emi_Evans_Asano L85-90; Church_of_the_Healer L94; Jory_Tillman L94 | 7 |
-| Ch44 | A Chance to Control the Narrative | Amy_Asano L3; NPC_Rosters_by_Era L3; Asya_Karadeniz L17, L45; Kaito_Asano L17; Spirit_Vault_and_Astral_Kingdom L44-45; Ian_Evans L45; Book_05_Timeline L46, L56; 00_Magic_Overview L48 … | 24 |
+| Ch44 | A Chance to Control the Narrative | Amy_Asano L3; NPC_Rosters_by_Era L3; Asya_Karadeniz L17, L45; Greg L17; Kaito_Asano L17; Spirit_Vault_and_Astral_Kingdom L44-45; Ian_Evans L45; Book_05_Timeline L46, L56 … | 25 |
 | Ch45 | You Shouldn’t Lie to Your Wife | Book_05_Timeline L3, L38; Consumables_and_Trial_Rewards L9-11; Plot_Hooks L9-11 | 4 |
 | Ch46 | The Decision Has Been Made | Book_05_Timeline L63, L91; Minor_Cast_Books_4-6 L86 | 3 |
-| Ch47 | First Priority | Book_05_Timeline L9; Gerling L26, L29, L29-30, L30, L102, L106 …; Engineers_of_Ascension L29-30; Minor_Cast_Books_4-6 L102 | 10 |
+| Ch47 | First Priority | Book_05_Timeline L9; Gerling L26, L29, L29-30, L30, L102, L106 …; Engineers_of_Ascension L29-30; Greg L37; Minor_Cast_Books_4-6 L102 | 11 |
 | Ch48 | Node Space | The_Network L18, L50, L57; Book_05_Timeline L43, L90, L103; Gerling L103 | 7 |
 | Ch49 | Loaded For Battle | Gordon L43; Book_05_Timeline L45 | 2 |
 | Ch50 | Going For Gold | Book_05_Timeline L30, L84; Gerling L35, L35-41, L41, L71; Farrah_Hurin_Power_Set L36, L38 | 8 |
@@ -497,7 +497,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch55 | Trying to Be Merciful | Book_05_Timeline L3; Craig_Vermillion L78-81 | 2 |
 | Ch56 | Appreciation | Erika_Asano L7, L47; Book_05_Timeline L24, L69; Asya_Karadeniz L24-26; Greg L26; Order_and_Cult_of_the_Reaper L69 | 7 |
 | Ch57 | Brooding Loner | The_Cabal L8, L9-10, L16; Astral_Spaces_Zones_and_Surges L11; Minor_Cast_Books_4-6 L12, L14-15; Book_05_Timeline L16, L44 | 8 |
-| Ch58 | High Maintenance | Greg L14; Book_05_Timeline L20, L105 | 3 |
+| Ch58 | High Maintenance | Greg L3, L3-14, L14; Book_05_Timeline L20, L105 | 5 |
 | Ch59 | Treachery or Cowardice | Book_05_Timeline L30; The_Cabal L32 | 2 |
 | Ch60 | Comely Wenches | Farrah_Hurin_Power_Set L37, L46, L48, L50, L68; Book_05_Timeline L63 | 6 |
 | Ch61 | A Lot Like a Guess | Book_05_Timeline L27; Goblins_and_Fairies L52 | 2 |
@@ -537,7 +537,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch22 | Less Freud and More God of Healing | Book_06_Timeline L5, L52 | 2 |
 | Ch23 | Little Cost in Exploring | Book_06_Timeline L3, L31; Era_Selection L3; Plot_Hooks L3; Anna_Tilden L15; Emi_Evans_Asano L31; Spirit_Vault_and_Astral_Kingdom L48, L56; 00_Peoples_Overview L91; Goblins_and_Fairies L91 … | 11 |
 | Ch24 | Intentions | Anna_Tilden L3, L4, L5; Book_06_Timeline L6; Gods_and_Churches L86; Minor_Cast_Books_1-3 L87 | 6 |
-| Ch25 | I Need That Song to Play Out | Minor_Cast_Books_1-3 L18-21; The_Cabal L60-64, L61; Book_06_Timeline L79, L102; Earth_Powers L98-99; Mr_North L107-113, L117 | 8 |
+| Ch25 | I Need That Song to Play Out | Minor_Cast_Books_1-3 L18-21; Yumi_Asano L55; The_Cabal L60-64, L61; Book_06_Timeline L79, L102; Earth_Powers L98-99; Mr_North L107-113, L117 | 9 |
 | Ch26 | Wash Them First | Farrah_Hurin L9; Tone_and_Voice L9; Adrien_Barbou L9-20; Book_06_Timeline L63, L71; Confluences L94; Essence_Catalogue L94; Essences L97 | 8 |
 | Ch27 | The Language of Passion | Book_06_Timeline L51 | 1 |
 | Ch28 | Forthright Honesty | Travis_Noble L36, L36-37, L65; Book_06_Timeline L36; NPC_Rosters_by_Era L36; Minor_Cast_Books_4-6 L37-39 | 6 |
@@ -945,7 +945,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch33 | He Likes to Name-Drop | Familiars_Summons_and_Conjurations L4; Book_11_Timeline L4; Authority_and_Sanctioning L9-13, L140, L140-157, L152-153, L155-157, L157; Miriam_Vance L20; Open_Questions L20; Familiars L50; Undeath L99; 00_Cosmology_Overview L112 … | 15 |
 | Ch34 | He Isn’t Always Evil and He is Not Always Wrong | Book_11_Timeline L15, L33, L124; Master_Timeline L33; 00_Cosmology_Overview L97, L103; Great_Astral_Beings L97, L103; All_Devouring_Eye L97 | 9 |
 | Ch35 | New Power and a Freshly Cooked Batch of Smugness | Book_11_Timeline L39; Undeath L42-47; Authority_and_Sanctioning L43-47, L43-48; Death L45-46 | 5 |
-| Ch36 | Instinctively Protected | Book_11_Timeline L3; Earth_Powers L7, L8; EDJI_and_Post_Reveal_Institutions L8, L13, L54; NPC_Rosters_by_Era L8; Yumi_Asano L8-12; Nitra L12; Engineers_of_Ascension L14; Mr_North L14 … | 16 |
+| Ch36 | Instinctively Protected | Book_11_Timeline L3; Earth_Powers L7, L8; EDJI_and_Post_Reveal_Institutions L8, L13, L54; Yumi_Asano L8, L8-12, L9; NPC_Rosters_by_Era L8; Nitra L12; Engineers_of_Ascension L14; Mr_North L14 … | 18 |
 | Ch37 | No Limit | Book_11_Timeline L58 | 1 |
 | Ch38 | The Hegemon | Nik_Asano L3, L33; Book_11_Timeline L61 | 3 |
 | Ch39 | Miracles Work on a Different Scale | Book_11_Timeline L3 | 1 |
@@ -976,7 +976,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch65 | A Power That No One and Nothing Should Have | Cosmic_Throne_and_the_Sundering L3, L6, L8, L8-9, L20, L28 …; 01_World_Primer L8; Book_11_Timeline L8, L34; Master_Timeline L8; World_Phoenix L34-36; Undeath L43; Keeper_of_Moments L47; 00_Cosmology_Overview L55, L57-58, L75 … | 31 |
 | Ch66 | Party to Betrayal | Beaufort_Builder_Cult_Commander L5-17, L24-31; Book_11_Timeline L22, L89; Open_Questions L95 | 5 |
 | Ch67 | Farewells | Book_11_Timeline L5; Gods_and_Churches L6; Open_Questions L9; Tera_Jun_Casta L12; The_Unorthodoxy L18; Nik_Asano L19; Church_of_Hero L20; Gwydion_Remore L20 | 8 |
-| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 266 |
+| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 269 |
 
 ### Book 12
 
@@ -984,7 +984,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 |---|---|---|---|
 | Ch0 | Don’t Tell Humphrey | Zara_Rimaros L14; Book_12_Timeline L19 | 2 |
 | Ch1 | Why He Hasn’t | Cosmic_Throne_and_the_Sundering L3, L22, L26, L28, L30, L34; Raythe L5-11; Book_12_Timeline L10, L53; Great_Astral_Beings L26; 01_World_Primer L34, L36; The_System L34-36, L38, L44, L46, L54; Anna_Tilden L36, L80; Miles_Cotezee L53 … | 38 |
-| Ch2 | If We Can’t Change For the Better | Book_12_Timeline L7, L107; Raythe L9; Miles_Cotezee L50; Calendar_Holidays_and_Naming_Customs L52; Magical_Research_Association L52, L56, L60-68; Yumi_Asano L92; Master_Timeline L107; Spoiler_Management L107 … | 12 |
+| Ch2 | If We Can’t Change For the Better | Book_12_Timeline L7, L107; Raythe L9; Miles_Cotezee L50; Calendar_Holidays_and_Naming_Customs L52; Magical_Research_Association L52, L56, L60-68; Yumi_Asano L102; Master_Timeline L107; Spoiler_Management L107 … | 12 |
 | Ch3 | We’re All Stuck in a Hole | Nigel_Thornton L3, L4, L5, L6; Book_12_Timeline L3, L5, L7, L13, L82; Earth_Powers L3-8; Anna_Tilden L7; Minor_Cast_Books_4-6 L38 | 12 |
 | Ch4 | A Silent City | Book_12_Timeline L3, L14, L28, L40, L49; Saint-Etienne L20, L41; Nigel_Thornton L23, L23-28, L23-48 | 10 |
 | Ch5 | The Fundamental Things | Book_12_Timeline L89; Magic_Society_and_Associations L99; Magical_Research_Association L99 | 3 |
@@ -1055,7 +1055,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
-| Ch950 | A Person the Other Used to Know | Emi_Evans_Asano_Power_Set L27; Emi_Evans_Asano L27; Amy_Asano L29; Kaito_Asano L29, L33; Master_Timeline L29; Book_13_Timeline L41; Artefact_Site_One L45; Minor_Cast_Books_4-6 L47 … | 10 |
+| Ch950 | A Person the Other Used to Know | Emi_Evans_Asano_Power_Set L27; Amy_Asano L27, L27-30, L28, L29, L30; Emi_Evans_Asano L27; Kaito_Asano L29, L33; Master_Timeline L29; Book_13_Timeline L41; Artefact_Site_One L45; Minor_Cast_Books_4-6 L47 … | 14 |
 | Ch951 | Messy but Delicious | Nik_Asano L4-11, L7, L11; Dimensional_Storage_and_Portals L25; Hearth L33; Education L38-40; Book_12_Timeline L50; Book_13_Timeline L50; Master_Timeline L50; Era_Selection L50 … | 15 |
 | Ch952 | All Your Well-Learned Politesse | Book_13_Timeline L35 | 1 |
 | Ch953 | Perfect Humanoid Specimens | Book_13_Timeline L3; Anna_Tilden L9; Engineers_of_Ascension L23; Sigrid_Freyn L39; Zareen_Rimaros L50-51, L56; Liara_Rimaros L51; Emi_Evans_Asano_Power_Set L84; Carlos_Quilido L84 … | 12 |
@@ -1125,7 +1125,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1017 | A Room Full of Hands | Book_13_Timeline L5; 00_Cosmology_Overview L6-8; Spoiler_Management L6-8, L14-24; Cosmic_Throne_and_the_Sundering L9, L9-11; The_Builder L9-11, L27; Authority_and_Sanctioning L11, L15-16; Open_Questions L11, L17-19, L18; Plot_Hooks L14 … | 46 |
 | Ch1018 | I Don’t Need Hope | Book_13_Timeline L52 | 1 |
 | Ch1019 | Blatantly Ignoring Laws | Book_13_Timeline L3; EDJI_and_Post_Reveal_Institutions L64 | 2 |
-| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Michael_Mills L85, L91; Glossary L85-91; EDJI_and_Post_Reveal_Institutions L91; Knowledge L95; Church_of_Knowledge L95; Artefact_Site_One L95 … | 15 |
+| Ch1020 | Adventurer | Book_13_Timeline L4; The_System L6-7, L9, L11; Yumi_Asano L19; Michael_Mills L85, L91; Glossary L85-91; EDJI_and_Post_Reveal_Institutions L91; Knowledge L95; Church_of_Knowledge L95 … | 16 |
 | Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; The_Cabal L36; EDJI_and_Post_Reveal_Institutions L40; Cosmic_Throne_and_the_Sundering L69-71 | 4 |
 | Ch1022 | While We Have the Chance | Book_13_Timeline L3; Erika_Asano L17; Hiro_Asano L19; Rimaros L20; Knowledge L25; Church_of_Knowledge L25; Dimensional_Storage_and_Portals L35; Mirror_Kingdom_Culture L51 … | 11 |
 | Ch1023 | Broken What Matters Most | Book_13_Timeline L3, L12; Open_Questions L12, L103; Kaito_Asano L33; Artefact_Site_One L103; Knowledge L131, L139; Gods_and_Churches L139; Gabrielle_Pellin L139; Knowledge L139 | 11 |

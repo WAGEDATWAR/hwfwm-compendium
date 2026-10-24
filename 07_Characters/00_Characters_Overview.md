@@ -23,7 +23,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Akari Asano](Akari_Asano.md) (spoiler level 3): Akari Asano is a silver-rank swordswoman of the Japanese Asano clan, daughter of its patriarch, who is sent to Asano Village in Book 5.
 - [Allayeth](Allayeth.md) (spoiler level 3): Allayeth is one of Yaresh's two diamond-rank elves, the more reclusive of the pair.
 - [Amos Pensinata](Amos_Pensinata.md) (spoiler level 2): A gold-rank adventurer with a soul-damaged aura who teaches Jason aura and soul techniques and is lost to an orb in Cardinas.
-- [Amy Asano](Amy_Asano.md) (spoiler level 1): Kaito's wife and Jason's childhood best friend from next door.
+- [Amy Asano](Amy_Asano.md) (spoiler level 3): Amy Asano is Kaito's wife and Jason's childhood best friend from next door.
 - [Anisa Lasalle](Anisa_Lasalle.md) (spoiler level 1): A zealous elf priestess of Purity from the Lasalle family who guides Rufus's party in Book 1, is thrown out for killing a captive, and dies serving the...
 - [Annabeth "Anna" Tilden](Anna_Tilden.md) (spoiler level 1-2): Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a member of its steering committee, serves as the Asano clan's UN...
 - [Arabelle Remore](Arabelle_Remore.md) (spoiler level 3): Arabelle Remore is Rufus's mother, a gold-rank member of the Church of the Healer who specialises in mental health and trauma recovery.
@@ -69,7 +69,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Gerling (Jack Gerling)](Gerling.md) (spoiler level 3): Jack Gerling is a US Network category-four (gold-rank) essence user with an explosion-based power set, who kills Jason's brother, lover and best friend in...
 - [Gilbert Bertinelli](Gilbert_Bertinelli.md) (spoiler level 0): A Greenstone tailor who sells Jason his combat robe and later suits.
 - [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 2): A gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria and Jason.
-- [Greg](Greg.md) (spoiler level 0): An old school friend of Jason's who joins Kaito's crew and is killed in Book 5.
+- [Greg](Greg.md) (spoiler level 2): Greg is an old school friend of Jason's who joins the Network defectors on Kaito's helicopter crew and is killed in Book 5.
 - [Gwydion Remore](Gwydion_Remore.md) (spoiler level 2): Rufus's older brother, a priest of Hero.
 - [Hana Shavar](Hana_Shavar.md) (spoiler level 1): The elf High Priestess of the Healer for Yaresh.
 - [Hannah and Claire Adeah](Hannah_and_Claire_Adeah.md) (spoiler level 1): Twin elf sisters on Rick Geller's team: Hannah the archer and Claire the healer.
@@ -155,7 +155,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Vesta Carmis Zell](Vesta_Carmis_Zell.md) (spoiler level 3): The astral king who rules the messenger forces around Yaresh and keeps her servants capped with seals.
 - [Vincent Baudrillard](Vincent_Baudrillard.md) (spoiler level 3): A French swordsman from Saint-Étienne whom Rufus picked out young, now an upper-silver adventurer and Emi's love interest in 2038.
 - [Vincent Trenslow](Vincent_Trenslow.md) (spoiler level 0): An Adventure Society official with a magnificent moustache who runs Jason's field assessment.
-- [Yumi Asano](Yumi_Asano.md) (spoiler level 1): Jason's paternal grandmother and the matriarch of the Asano clan.
+- [Yumi Asano](Yumi_Asano.md) (spoiler level 3): Yumi Asano is Jason's paternal grandmother and the matriarch of the Asano clan.
 - [Zara Rimaros (Zara Nareen)](Zara_Rimaros.md) (spoiler level 1): Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess".
 - [Zareen Rimaros](Zareen_Rimaros.md) (spoiler level 3): Zareen Rimaros is Liara and Baseph's middle child: a three-star adventurer and political enthusiast with the royal family's sapphire hair and eyes.
 - [Zato](Zato.md) (spoiler level 1): Zato is the silver-rank leader of the Builder cult's local forces in Book 3, a metal-bodied shapeshifter who recruits Thadwick, drives the cult's survivors...
