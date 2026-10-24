@@ -100,3 +100,60 @@ The old version of this file used wiki month counts. Where the book text gives a
 - **Open - public reveal of magic**: "Less than fifteen years ago, no one knew magic existed" (Book 12, Ch2 L107) against "twenty years ago" (Book 12, Ch22 L27); likely different counting points.
 - **Open - Part II of Book 11**: the intervals (a year for Lenora, almost a year for Gary, two years of team work, two years of empty road) are told on separate clocks, so no total is asserted.
 - **Jason's death count** is settled by Books 5-10: apartment (first), the Builder's tower (second, Book 3), the Dinosaur King at Makassar (third, Book 5), Shako (fourth, Book 6), shown by the Church of Death's certificate in Book 7 (Book 7, Ch17 L104).
+
+## 8. Month-count summary (version 2)
+
+M0 is late November 2017, Jason's arrival (Book 4, Ch3 L112). The table lists the derived month counts used elsewhere in the compendium; each row repeats an anchor already cited in section 3, and any count not tied to a chapter line is approximate.
+
+| Book | Starts at | Ends at | Anchor |
+|---|---|---|---|
+| 1 | M0 (late Nov 2017) | about M4 | The Leust conspiracy runs summer into autumn (Book 1, Ch93 L5) |
+| 2 | about M4 | about M6 | "About four months" (Book 2, Ch9 L67) |
+| 3 | about M6 (winter) | about M15 to M16 (Jason's death) | "A few months more than a year" (Book 3, Ch62 L96) |
+| 4 | M18 (early June 2019) | about M22 | "A year and a half later" (Book 4, Ch3 L112) |
+| 5 | about M28 (March 2020) | about M35 (autumn 2020) | Nine months back (Book 5, Ch3 L170); birthday 1 April (Book 5, Ch20 L24) |
+| 6 | about M35 | about M46 (autumn 2021, departure from Earth) | Warm autumn farewell (Book 6, Ch47 L155) |
+| 7 | about M46 | about M50 | A month since the war (Book 7, Ch66 L27) |
+| 8 | about M50 | about M53 | The six-day week (Book 8, Ch58 L19) |
+| 9 | about M53 | no later than about early 2023 | Rimaros left "half a year" back (Book 9, Ch24 L44) |
+| 10 | weeks after Yaresh | spring to mid 2023 | Jason is twenty-nine (Book 10, Ch33 L76) |
+| 11 Part I | mid 2023 | months later | Zone less than two weeks old (Book 11, Ch18 L4); Nik six months old (Book 11, Ch50 L15) |
+| 11 Part II | see section 10 | | |
+| 12 | late 2037 to early 2038 | 2038 | "Almost twenty years" (Book 12, Ch13 L36) |
+| 13 | 2038 | 2038 | "2038" (Book 13, Ch951 L50) |
+
+## 9. Rank and level checkpoints for core characters
+
+Each row names the first line in which the text shows the character at that rank.
+
+| Character | Rank checkpoint | Evidence |
+|---|---|---|
+| Jason Asano | Iron at the start | Iron badge with one star (Book 1, Ch62 L66-67) |
+| Jason Asano | Bronze | "You have reached bronze rank" (Book 3, Ch45 L90) |
+| Jason Asano | Silver | Ranks to silver (Book 5, Ch31 L6) |
+| Jason Asano | Gold | "You have reached gold rank in impressive time" (Book 11, Ch68 L2086); the afflictions of gold rank in play (Book 13, Ch976 L45) |
+| Jason Asano | Diamond | Not reached in Book 13 (section 6 above) |
+| Rufus Remore | Bronze at the start | "We're bronze-rank adventurers" (Book 1, Ch15 L92); the most powerful combatant on Earth below gold in Book 11 (Book 11, Ch68 L1514) |
+| Humphrey, Clive, Neil | Bronze perception powers | Humphrey and Clive have bronze-rank perception, and Neil likewise (Book 3, Ch15 L21) |
+| Clive Standish | Bronze | "Clive has reached bronze rank" (Book 3, Ch38 L110) |
+| Sophie, Belinda | Bronze | Reach bronze in the astral space (Book 3, Ch53 L68-69) |
+| Humphrey's team | Silver | Humphrey struggled on first reaching silver (Book 9, Ch85 L53); the team pushed through silver as fast as they could after Jason left (Book 11, Ch68 L1031) |
+| Constance | Gold | Trained with Callum to reach gold (Book 9, Ch50 L51) |
+| Nik | Gold | Gold rank at Nik's celebration (Book 13, Ch997 L11) |
+
+## 10. The Book 11 Part II clock
+
+Part II mixes several threads, each told on its own clock (see Book_11_Timeline.md section 7): a year for Lenora in the monitoring room (Book 11, Ch68 L412), almost a year for Gary (L703), two years of team work (L1034), two years more on Earth (L1341) and two years on the empty road (L2244). The text does not add these into one total.
+
+**Working convention for the compendium** (an editorial choice, not a book statement):
+
+1. Treat Jason's void departure as late 2023, following Jason's age of twenty-nine (Book 10, Ch33 L76) and the "six years since you first gave it to me" line (Book 11, Ch68 L115).
+2. Start the Earth-side threads from Rufus and Taika's arrival, shortly after that date, and run them forward: Lenora's year and Gary's almost-year overlap at the start, the team's two years and the further two years follow, so the Earth-side threads end several years after the departure and well before 2038.
+3. Treat Emi's "fifteen years old" at Rufus's arrival (Book 11, Ch68 L782) as the single outlier. It fits late 2022 to early 2023 and conflicts with convention point 1 (see Open_Questions).
+4. Treat the void threads (the empty road, the nested soul) as running on Jason's own clock, which the text does not tie to Earth's, and add nothing to the Earth total.
+
+This convention produces no contradiction with Book 12's "almost twenty years" since arrival (Book 12, Ch13 L36), which counts from late 2017 to late 2037 or early 2038.
+
+## 11. Corrections already recorded
+
+The month-count corrections are in section 4 and the resolved and open points in section 7. Further corrections made in later passes: Cressida Vane is killed in Book 1 (Book 1, Ch97 L122); Akari Asano is married to Itsuki Tiwari (Book 13, Ch1004 L5); Clarissa Ventress is reported dead by Book 3 (Book 3, Ch16 L7); Vitesse's magic density is narrowed to a rank band (Book 1, Ch30 L43-44).
