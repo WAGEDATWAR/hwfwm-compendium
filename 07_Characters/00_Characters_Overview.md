@@ -29,7 +29,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Arabelle Remore](Arabelle_Remore.md) (spoiler level 3): Arabelle Remore is Rufus's mother, a gold-rank member of the Church of the Healer who specialises in mental health and trauma recovery.
 - [Argy](Argy.md) (spoiler level 2): Argy (Emmett Dillivan) is a fruit grower in Palisaros who takes Jason, Rufus and Farrah into town and to the mayor, Pelli.
 - [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 2): Asya Karadeniz is a school friend of Jason's from the Mid North Coast who works in Network magitech administration.
-- [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): A Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's energy-vampire research.
+- [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): Audrey Blaine is a Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's...
 - [Baseph, Dara, Zareen and Joseph](Baseph_and_the_Rimaros_Children.md) (spoiler level 2): Liara Rimaros's husband and their three silver-rank children.
 - [Beaufort (Builder Cult Commander)](Beaufort_Builder_Cult_Commander.md) (spoiler level 3): Beaufort is the gold-rank elf who leads the Cult of the Builder's forces in Cardinas, an uneasy ally of the brighthearts and then of Jason's expedition.
 - [Belinda Callahan](Belinda_Callahan.md) (spoiler level 0): Belinda "Lindy" Callahan is Sophie's oldest friend, a thief from Greenstone's Old City who becomes Clive's assistant and, in time, the team's planner,...
@@ -97,7 +97,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Kasper Irios](Kasper_Irios.md) (spoiler level 3): Kasper Irios is a peak-bronze heir of House Irios whom Jason meets at a tailor's shop after the Zara marriage scandal.
 - [Keith Geller](Keith_Geller.md) (spoiler level 3): Keith Geller is Danielle Geller's husband and Humphrey and Henrietta's father.
 - [Ken Asano](Ken_Asano.md) (spoiler level 3): Ken Asano is Jason's father, a Japanese-born Australian landscape architect who embraces the Australian lifestyle with convert's zeal.
-- [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): An analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
+- [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): Ketevan Arziani is an analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
 - [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.
 - [Korinne Pescos](Korinne_Pescos.md) (spoiler level 3): Korinne Pescos leads a Rimaros guild-elite team, later called Storm Shredder, that fights beside Jason in the surge, travels with him in Book 9 and joins...
@@ -121,7 +121,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Musin Heath](Musin_Heath.md) (spoiler level 3): Musin Heath is the director of the Adventure Society's Yaresh branch, an elf and veteran administrator who presides over the meetings at Jason's cloud...
 - [Natalie Park](Natalie_Park.md) (spoiler level 3): Natalie Park is an ASIS agent and silver-ranker assigned as Jason's liaison during the 2038 events.
 - [Neil Davone](Neil_Davone.md) (spoiler level 0): Neil Davone is an elf of Greenstone's Island families, a healer who grows from the Mercers' hanger-on into the heart of Jason's team.
-- [Nicolas Hendren](Nicolas_Hendren.md) (spoiler level 1): The archbishop of the Church of Purity, a silver-rank barrier-and-force specialist who flees the inquiry and joins the Builder cult's camp before Jason's...
+- [Nicolas Hendren](Nicolas_Hendren.md) (spoiler level 1): Nicolas Hendren is the archbishop of the Church of Purity, a silver-rank barrier-and-force specialist who flees the inquiry and joins the Builder cult's...
 - [Nigel Thornton](Nigel_Thornton.md) (spoiler level 3): Nigel Thornton leads a nine-person mercenary unit that began as a Network tactical team.
 - [Nik Asano](Nik_Asano.md) (spoiler level 3): Nik is a four-foot humanoid rabbit in a top hat and tuxedo whom Jason brought into being, unplanned, when his soul realm became a transformation zone (Book...
 - [Noriko Asano](Noriko_Asano.md) (spoiler level 2): The strongest member of the old Asano clan and its patriarch's mother, who takes control from her son and opposes Jason's family; she is matriarch of the...
@@ -149,10 +149,10 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Timos](Timos.md) (spoiler level 1): Timos is a Builder cultist embedded in Greenstone for years who regrets going along with Thadwick's self-recruitment, kills Frank, and stands with Zato in...
 - [Travis Noble](Travis_Noble.md) (spoiler level 3): Travis Noble is a young Californian magitech weapons engineer who becomes Jason's outworlder weapons researcher on Pallimustus, marries the Knowledge...
 - [Trenchant Moore](Trenchant_Moore.md) (spoiler level 2): Trenchant Moore is a gold-rank human sword specialist of the Sapphire Crown royal guard who escorts Jason's group in Rimaros.
-- [Umber](Umber.md) (spoiler level 3): Shade's brother, an astral being of the Reaper's kind who trapped Shade in an astral space for centuries and, in Book 13, serves Knowledge's plan against Jason.
+- [Umber](Umber.md) (spoiler level 3): Umber is Shade's brother, an astral being of the Reaper's kind who trapped Shade in an astral space for centuries and, in Book 13, serves Knowledge's plan...
 - [Valdis Volaire](Valdis_Volaire.md) (spoiler level 1): A swordmaster prince of the Kingdom of Mirrors whom Clive meets in the City of Fallen Echoes; he is cheerful, reckless and a rival and friend to Jason's team.
 - [Velius](Velius.md) (spoiler level 3): Velius is a tall celestine diamond-ranker, the prime vessel of the Reaper.
-- [Vesta Carmis Zell](Vesta_Carmis_Zell.md) (spoiler level 3): The astral king who rules the messenger forces around Yaresh and keeps her servants capped with seals.
+- [Vesta Carmis Zell](Vesta_Carmis_Zell.md) (spoiler level 3): Vesta Carmis Zell is the astral king who rules the messenger forces around Yaresh and keeps her servants capped with seals.
 - [Vincent Baudrillard](Vincent_Baudrillard.md) (spoiler level 3): A French swordsman from Saint-Étienne whom Rufus picked out young, now an upper-silver adventurer and Emi's love interest in 2038.
 - [Vincent Trenslow](Vincent_Trenslow.md) (spoiler level 3): Vincent Trenslow is an Adventure Society official in Greenstone with a magnificent moustache, who runs Jason's field assessment and speaks to him with...
 - [Yumi Asano](Yumi_Asano.md) (spoiler level 3): Yumi Asano is Jason's paternal grandmother and the matriarch of the Asano clan.

@@ -448,7 +448,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch5 | Grand Tour | Book_05_Timeline L7, L59, L66, L104; 00_Magic_Overview L11; Earth_Magic L11; Rituals_Arrays_and_Formations L11; Ken_Asano L59; Emi_Evans_Asano L59-68; Ranks_and_Advancement L82; Casselton_and_Asano_Village L83-89, L106-113 … | 14 |
 | Ch6 | New Groove | Book_05_Timeline L48, L69; Monsters L85 | 3 |
 | Ch7 | Get to the Chopper | Essence_Catalogue L8, L14, L16, L42; Asya_Karadeniz L12, L21-23; Greg L12; NPC_Rosters_by_Era L12; Confluences L14, L16, L64-66; Book_05_Timeline L16; Adrien_Barbou L96 | 13 |
-| Ch8 | What’s Left of Your Principles | Book_04_Timeline L5; Book_05_Timeline L5, L35, L44, L54; Chloe_Baudrillard L12; Earth_Powers L14-18, L28, L39; NPC_Rosters_by_Era L14-18; Mr_North L14-67, L24, L58-60, L62-67; Engineers_of_Ascension L26-28, L44-47, L50-51, L53, L54, L62 …; Open_Questions L28, L39 … | 28 |
+| Ch8 | What’s Left of Your Principles | Book_04_Timeline L5; Book_05_Timeline L5, L35, L44, L54; Chloe_Baudrillard L12; Earth_Powers L14-18, L28, L39; NPC_Rosters_by_Era L14-18; Mr_North L14-67, L24, L58-60, L62-67; Engineers_of_Ascension L26-28, L44-47, L50-51, L53, L54, L62 …; Open_Questions L28, L39 … | 29 |
 | Ch9 | Contingencies | Book_05_Timeline L5, L23, L40, L80; Emi_Evans_Asano L23; Anna_Tilden L52; Ketevan_Arziani L67 | 7 |
 | Ch10 | Humanity | Book_05_Timeline L6, L52; NPC_Rosters_by_Era L17; Audrey_Blaine L17-33, L24 | 5 |
 | Ch11 | Media Blitz | Book_05_Timeline L12; Amy_Asano L82 | 2 |
@@ -809,7 +809,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch99 | Rigid Flaws | Book_09_Timeline L11 | 1 |
 | Ch100 | Doubt, Fear and Hesitation | Tera_Jun_Casta L19, L49, L49-72, L69; Calendar_Holidays_and_Naming_Customs L23; Book_09_Timeline L51, L64 | 7 |
 | Ch101 | No | Tera_Jun_Casta L12-23; Book_09_Timeline L18; Minor_Cast_Books_7-9 L54 | 3 |
-| Ch102 | A Fight to the Pain | Book_09_Timeline L9; Tera_Jun_Casta L54-67; Open_Questions L55, L66-67; Vesta_Carmis_Zell L65, L66-67; Astral_Kings_and_Messengers L66-67; The_Council_of_Kings L69 | 8 |
+| Ch102 | A Fight to the Pain | Book_09_Timeline L9; Tera_Jun_Casta L54-67; Open_Questions L55, L66-67; Vesta_Carmis_Zell L65, L65-67, L66-67; Astral_Kings_and_Messengers L66-67; The_Council_of_Kings L69 | 9 |
 | Ch103 | One Ludicrous Encounter to the Next | Marek_Nior_Vargas L56, L114; Book_09_Timeline L64, L85; Yaresh L84; The_Unorthodoxy L114, L114-121, L117, L121 | 9 |
 | Ch104 | The Foolish Choice | Marek_Nior_Vargas L3; Book_09_Timeline L5, L26, L27, L54, L62, L76 …; Charist L29; Dustin_Kettering L54; Phoebe_Geller L54; Rick_Geller L54; Knowledge L76; Astral_Kings_and_Messengers L84 … | 15 |
 
@@ -1088,7 +1088,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch978 | Implications For Your Work | Book_13_Timeline L3, L13, L21 | 3 |
 | Ch979 | Unequivocally My Thing | Book_13_Timeline L3, L64, L76; Emi_Evans_Asano L7, L17, L59; Nigel_Thornton L22; Marie_Finnegan L64, L64-72, L72; Remy L72; Carlos_Quilido L93 | 12 |
 | Ch980 | The Only Cure is Death | Emi_Evans_Asano L73-77; Afflictions_Boons_and_Damage L93; Book_13_Timeline L93 | 3 |
-| Ch981 | What Forever Means | Book_13_Timeline L3, L5, L7, L11; Gordon L26, L37, L52; Shade L33-35, L37, L51, L62; The_Reaper L37, L62-64; Umber L37, L62-64; Colin L37, L51, L52; The_Deep_Astral_and_Interstice L47; Order_and_Cult_of_the_Reaper L56 | 20 |
+| Ch981 | What Forever Means | Book_13_Timeline L3, L5, L7, L11; Gordon L26, L37, L52; Shade L33-35, L37, L51, L62; The_Reaper L37, L62-64; Umber L37, L37-64, L62-64; Colin L37, L51, L52; The_Deep_Astral_and_Interstice L47; Order_and_Cult_of_the_Reaper L56 | 21 |
 | Ch982 | The Stuff of Faith and Madness | Book_13_Timeline L4; EDJI_and_Post_Reveal_Institutions L30; Earth_Powers L30; Anna_Tilden L30; Holly_Macrossan L30, L42; NPC_Rosters_by_Era L30 | 7 |
 | Ch983 | Something Worse | Book_13_Timeline L3, L15, L24, L84, L92; Holly_Macrossan L62; Merfolk L113; Marie_Finnegan L113 | 8 |
 | Ch984 | What Slumbers Under the Mountain | Book_13_Timeline L3, L12, L62; Marie_Finnegan L34; Remy L73 | 5 |
@@ -1131,7 +1131,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; The_Cabal L36; EDJI_and_Post_Reveal_Institutions L40; Cosmic_Throne_and_the_Sundering L69-71 | 4 |
 | Ch1022 | While We Have the Chance | Book_13_Timeline L3; Erika_Asano L17; Hiro_Asano L19; Rimaros L20; Knowledge L25; Church_of_Knowledge L25; Dimensional_Storage_and_Portals L35; Mirror_Kingdom_Culture L51 … | 12 |
 | Ch1023 | Broken What Matters Most | Book_13_Timeline L3, L12; Open_Questions L12, L103; Kaito_Asano L33; Artefact_Site_One L103; Knowledge L131, L139; Gods_and_Churches L139; Gabrielle_Pellin L139; Knowledge L139 | 11 |
-| Ch1024 | The Next Time We Meet | Book_13_Timeline L3, L82; Roland_Remore L14, L35; Soramir L14; Artefact_Site_One L57; Helsveth L75-81; World_Phoenix L90; Umber L100-104, L118, L118-127, L138; Name_Index L101 … | 29 |
+| Ch1024 | The Next Time We Meet | Book_13_Timeline L3, L82; Roland_Remore L14, L35; Soramir L14; Artefact_Site_One L57; Helsveth L75-81; World_Phoenix L90; Umber L100-104, L100-138, L118, L118-127, L138; Name_Index L101 … | 30 |
 
 ## 6. State changes by book
 
