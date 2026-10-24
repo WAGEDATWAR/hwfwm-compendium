@@ -153,3 +153,29 @@ Chapter-by-chapter order of Book 1, with the in-world time wherever the text giv
 
 - In his recording Jason says "It's been about two months since I arrived here" (Book 1, Ch62 L5). By the calendar anchors the field assessment therefore ends in late January 2018. "Summer moved into autumn" at Ch93 L5 puts the Leust contract in the southern autumn, about March 2018, so Book 1 runs for about four months, M0 to M4.
 - Between Ch62 and Ch93 the book gives only short intervals: eighteen days of contracts (Book 1, Ch65 L50), a week in the arena (Book 1, Ch66 L7), "more than a week" on the thefts (Book 1, Ch100 L79) and three weeks since the memorial service (Book 1, Ch101 L4). The "M2 to M3" labels in the tables are placements from those intervals, not stated dates.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch2 | Naked and bleeding, Jason finds his inventory and learns how looting a monster's body works (Book 1, Ch2 L7, L13, L62). He withdraws lesser spirit coins from the inventory (Book 1, Ch2 L43). |
+| Gap fill | Ch3 | Jason puts on the plain linen pants he is given (Book 1, Ch3 L17). A trowel's description names a blood cult, and he overhears men discussing captives (Book 1, Ch3 L8, L41-45). |
+| Gap fill | Ch4 | Jason crawls through a tight, slimy brick tunnel under the well (Book 1, Ch4 L3). He finds an awakening stone (Book 1, Ch4 L45). |
+| Gap fill | Ch14 | Farrah removes the collars from Rufus and Gary after an ambush by a local contact (Book 1, Ch14 L3-7). Jason finds an outfits tab in his inventory (Book 1, Ch14 L35). |
+| Gap fill | Ch15 | Jason walks the desert trail with Rufus, Farrah and Gary while they explain their world to him (Book 1, Ch15 L3-6). The heat overwhelms him before they rest (Book 1, Ch15 L81). |
+| Gap fill | Ch17 | Anisa is dismissive of Jason as the party plans to loot the cult manor (Book 1, Ch17 L3-6, L34). Farrah summons a creature in a powder circle (Book 1, Ch17 L72). |
+| Gap fill | Ch19 | On a terrace the team talks through monsters, magic manifestations and Jason's looting (Book 1, Ch19 L4, L27, L34). Anisa searches the manor study for letters linking the cult to other regions (Book 1, Ch19 L15). |
+| Gap fill | Ch20 | Rufus and Gary advise Jason on choosing essences, with Farrah as the example of power without versatility (Book 1, Ch20 L3-8). They check combinations and the Adventure Society's restricted list (Book 1, Ch20 L42, L104). |
+| Gap fill | Ch27 | Jason and Hiram fight a slow, crab-legged monster in a tunnel (Book 1, Ch27 L3-7, L26). His special attacks inflict bleeding and he gains ten iron-rank spirit coins (Book 1, Ch27 L58, L96). |
+| Gap fill | Ch28 | A rush of water throws Jason and Hiram out of the tunnel, and his cloak slows their fall (Book 1, Ch28 L3-6). He plans to use inexorable doom on the shabs (Book 1, Ch28 L73). |
+| Gap fill | Ch52 | Jason trains in the mirage chamber against five illusory attackers (Book 1, Ch52 L4-6, L15). Lucian receives Clarissa in his lounge to discuss Sophie's protection (Book 1, Ch52 L47-64). |
+| Gap fill | Ch55 | On the third morning of the field assessment the group stops in a town where Jason heals the sick (Book 1, Ch55 L3-5). Mobley's attempt to fight a monster goes badly (Book 1, Ch55 L67-75). |
+| Gap fill | Ch57 | Jason kills a trapped monster and Vincent teases him about affliction specialists (Book 1, Ch57 L4-8). Vincent briefs the candidates on a bark lurker and Jason waits in mangrove shadows as bait (Book 1, Ch57 L41, L60). |
+| Gap fill | Ch59 | Humphrey dispatches dog-headed monsters while Jason watches (Book 1, Ch59 L17). Vincent leads the group to help locals (Book 1, Ch59 L27). |
+| Gap fill | Ch64 | Jason takes one or two contracts a day from the jobs hall (Book 1, Ch64 L3-7). Clive apologises to a small woman who is scolding him (Book 1, Ch64 L85). |
+| Gap fill | Ch71 | Jason, in his battle robe, takes his first contract inside Old City (Book 1, Ch71 L3). In the Townhouse cellar he finds a man kneeling by a hole in the wall (Book 1, Ch71 L48). |
+| Gap fill | Ch79 | Sand elementals surround Humphrey's team and Phoebe shouts to break them up with powerful attacks (Book 1, Ch79 L3-8). Humphrey takes to the air with dragon wings (Book 1, Ch79 L24). |
+| Gap fill | Ch85 | Jason, Clive and Humphrey look for an entrance to a lair and consider a well-digging ritual (Book 1, Ch85 L3-7). Clive draws a ritual diagram (Book 1, Ch85 L59). |
+| Gap fill | Ch106 | Belinda explains a lock-breaking sequence to Clive at Jory's kitchen table (Book 1, Ch106 L3-6). Arella asks Jason what he wants in return for silence (Book 1, Ch106 L82). |

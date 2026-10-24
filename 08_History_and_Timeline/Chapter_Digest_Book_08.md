@@ -9,7 +9,7 @@ Related: Book_08_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 67 of 68 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 68 of 68 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -75,7 +75,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch60, A Power That Did Not Belong to the World**: The restricted information includes racial gifts going through a secondary evolution, which both societies actively deny (Book 8, Ch60 L13)
 - **Ch61, A Gentleman Doesn’t Tell**: Jason is told that three-star missions at the moment have a good chance of starting trouble (Book 8, Ch61 L91)
 - **Ch62, Recalibrate Their Expectations**: Liara's three children are all silver rank like their father (Book 8, Ch62 L32).
-- **Ch63, Deeds of Legend**: Title only; no summary yet (Book 8, Ch63).
+- **Ch63, Deeds of Legend**: Liara's family dines in Jason's cloud house, and Jason tells how Liara's leak of his route led to a Purity ambush (Book 8, Ch63 L3-8).
 - **Ch64, A King Needs a Throne**: Rufus tells Jason the meditation he taught is meant to prime him for the combat trance (Book 8, Ch64 L15). Jason's cloak has become an aperture to depth (Book 8, Ch64 L47)
 - **Ch65, What Light Does**: His soul space includes a lagoon with a small town (Book 8, Ch65 L31). The third element is the soul forge (Book 8, Ch65 L94).
 - **Ch66, Why Anyone Would Pick You**: Jason says he would turn a throne room into a games room (Book 8, Ch66 L44)

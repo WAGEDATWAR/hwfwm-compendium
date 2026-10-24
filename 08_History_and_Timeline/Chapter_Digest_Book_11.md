@@ -9,7 +9,7 @@ Related: Book_11_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 60 of 68 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 68 of 68 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -23,11 +23,11 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch8, Rock Climbing**: Neil carries the last comatose messenger to where he and Dustin have laid the others (Book 11, Ch8 L45). Having claimed a territory of glass buildings and steel automatons, the freed messengers descend (Book 11, Ch8 L21).
 - **Ch9, Grunts and Sizzling Noises**: Each faction on the field has Builder cultists, Undeath priests or brighthearts leading messengers (Book 11, Ch9 L108)
 - **Ch10, The Man Who Commands the Lightning**: Lorus Durrum tries to reconcile the Builder cult and the brighthearts (Book 11, Ch10 L12)
-- **Ch11, Style Over Substance**: Title only; no summary yet (Book 11, Ch11).
+- **Ch11, Style Over Substance**: Brighthearts and cultists gather under a stone arch with Neil standing between the faction leaders (Book 11, Ch11 L3-6). Neil proposes moving as a lean, elite force (Book 11, Ch11 L50).
 - **Ch12, Precise Control**: Part of Jason's land is water, with territory boundaries cutting through the offshore sea (Book 11, Ch12 L19)
 - **Ch13, Impostor Syndrome**: Of the silver-rankers, Relia Vin Vala proves the pick of the bunch (Book 11, Ch13 L4)
-- **Ch14, Gauntlet**: Title only; no summary yet (Book 11, Ch14).
-- **Ch15, Creepy Stuff**: Title only; no summary yet (Book 11, Ch15).
+- **Ch14, Gauntlet**: Belinda hides in a floating hollow log with ritual traps set around the elemental forest (Book 11, Ch14 L3-5). A gold-ranker roars in pain and Belinda expects her to hunt them (Book 11, Ch14 L6, L27).
+- **Ch15, Creepy Stuff**: Kol Kelis Vel stomps to the pond and sees through Belinda's illusion of Cas Vin Baral (Book 11, Ch15 L3-7). Belinda scolds that an ordinary person would be dead (Book 11, Ch15 L68).
 - **Ch16, Group Dynamics**: Jason floats over a savannah of roaming dinosaurs (Book 11, Ch16 L29)
 - **Ch17, As Many as We Can Get**: Lorenn explains the rules of territory holding to the council (Book 11, Ch17 L27). Jason says using his soul realm portal too often destabilises it (Book 11, Ch17 L33)
 - **Ch18, Alienness and Familiarity**: Mahk reflects that the territory has existed for less than two weeks (Book 11, Ch18 L4)
@@ -35,7 +35,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch20, A Bitter Cup**: Undeath's avatar moves through the lightning field, as tall as the iron towers (Book 11, Ch20 L3)
 - **Ch21, Good Leader**: Sophie sits next to Humphrey, facing Clive and Belinda (Book 11, Ch21 L9)
 - **Ch22, I Want Those Things For You**: Jason works through the conscious and unconscious choices behind the rabbit's creation (Book 11, Ch22 L66)
-- **Ch23, Small, Easy or Inconsequential**: Title only; no summary yet (Book 11, Ch23).
+- **Ch23, Small, Easy or Inconsequential**: Jason walks a forest path with the unnamed rabbit and talks about names (Book 11, Ch23 L3-6). He says they must find the avatar before the Undeath high priest takes control of it (Book 11, Ch23 L65).
 - **Ch24, Another Astral King**: Boris says Vesta Carmis Zell would never accept a member of the Unorthodoxy (Book 11, Ch24 L85).
 - **Ch25, Unorthodoxy**: He tells the story of the original astral kings, who were not messengers (Book 11, Ch25 L51).
 - **Ch26, Messengers Don’t Have Hearts**: Garth throws off his robes to reveal a skeletal, many-limbed form (Book 11, Ch26 L96)
@@ -43,7 +43,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch28, Risking Everything**: Miriam calls the hold at the fortresses the most precarious part of the battle (Book 11, Ch28 L40)
 - **Ch29, A Dangerous Power**: The System tells Jason he has been dimensionally isolated (Book 11, Ch29 L31).
 - **Ch30, Bit of an Odd Bloke**: He and Garth fight in a warped Escher-like castle (Book 11, Ch30 L6; Ch31 L3).
-- **Ch31, Asking For a Lot of Trust**: Title only; no summary yet (Book 11, Ch31).
+- **Ch31, Asking For a Lot of Trust**: In the Escher-like castle Garth trapped them in, Jason watches Garth cross a bridge (Book 11, Ch31 L3). Boris warns that the avatar is moving fast (Book 11, Ch31 L67).
 - **Ch32, It Used to Be Completely Dark**: Boris's fighting style is unlike Sophie's, Rufus's or Dawn's (Book 11, Ch32 L8).
 - **Ch33, He Likes to Name-Drop**: Gordon's butterflies are absorbed into the avatar (Book 11, Ch33 L4)
 - **Ch34, He Isn’t Always Evil and He is Not Always Wrong**: Jason says it is time to go and that they can pick up the talk when he does not have a god to kill (Book 11, Ch34 L124). He describes the god item as showing how to work with higher-tier magic such as authority (Book 11, Ch34 L15).
@@ -57,9 +57,9 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch42, A Decision Made Poorly and in Haste**: Boris describes a war of skirmishes between elite forces on Earth that began in earnest shortly after Jason left (Book 11, Ch42 L38)
 - **Ch43, Binaries**: Boris says the process to become an astral king takes years, and it ends with a prime avatar (Book 11, Ch43 L131). Jason and Boris stand in Boris's soul space, a flat desert (Book 11, Ch43 L14)
 - **Ch44, When We Worry the Most**: Clive objects to calling the structure a weather machine (Book 11, Ch44 L64)
-- **Ch45, Paranoid**: Title only; no summary yet (Book 11, Ch45).
+- **Ch45, Paranoid**: Lightning storms keep the adventurers working at the shattered array while Jason feeds its remains into his cloud flask (Book 11, Ch45 L3-5). A listener tells Mrs Remore her account of Jason is not hopeful (Book 11, Ch45 L45).
 - **Ch46, Academically Unsound**: Farrah, an outworlder on Earth, can form bonds of trust that copy knowledge (Book 11, Ch46 L17). Clive says devising the rituals to link the nodes took "a few weeks" (Book 11, Ch46 L20)
-- **Ch47, Not All of Us Are Demigods**: Title only; no summary yet (Book 11, Ch47).
+- **Ch47, Not All of Us Are Demigods**: Gary, Miriam and Arabelle defeat an odd round purple boss anomaly by draining its mana (Book 11, Ch47 L3-7). Miriam asks Jason to claim the territory so they can return to base (Book 11, Ch47 L104).
 - **Ch48, The Price**: Rufus asks why Gary cannot simply take the natural array option (Book 11, Ch48 L62). Jason says that if Gary would stay in the soul realm a few months, maybe a year, he could keep the power (Book 11, Ch48 L22)
 - **Ch49, Guaranteed to Become Enemies**: Territories are being claimed while the adventurers are idle, and some adventurers take part in linking the nodes (Book 11, Ch49 L69)
 - **Ch50, Assuming We Win**: Nik, "six months old", insists it is a weather machine and not a satellite weapon (Book 11, Ch50 L11). Sophie reports the zone breaking down at the edges and moving inward (Book 11, Ch50 L56)
@@ -80,4 +80,4 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch65, A Power That No One and Nothing Should Have**: Velius says the throne must be left empty as a neutral arbiter (Book 11, Ch65 L8). The World-Phoenix prefers the current state of affairs (Book 11, Ch65 L34)
 - **Ch66, Party to Betrayal**: Jason would hand Builder cultists to the Adventure Society after removing star seeds (Book 11, Ch66 L22). Boris can take two people to Earth, Taika among them (Book 11, Ch66 L89)
 - **Ch67, Farewells**: Before the forest arrived, Melody Jain was the only permanent occupant of Jason's realm (Book 11, Ch67 L5)
-- **Ch68, Compassionate Strangers**: Title only; no summary yet (Book 11, Ch68).
+- **Ch68, Compassionate Strangers**: Jason leaves the world after thanking Gary for the sword (Book 11, Ch68 L115). The book ends with the System message (Book 11, Ch68 L2540).

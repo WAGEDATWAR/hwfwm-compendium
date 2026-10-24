@@ -616,6 +616,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Recurring motifs and in-world sayings, build plan item 3.7 (2026-10-24)**
 - Added `10_Roleplay_Support/Motifs_and_Sayings.md`: "Feed me your sins" with the chapters where it recurs, the biscuits, Handsome Doctor, pants, Clive's non-existent wife, sausage sizzle, chuunibyou and Captain Tremendous gags, and the Star Wars, Mario Kart and other pop-culture references, each with cites and no reproduced passages. Cross-linked from the voice notes' purpose; open question: Jason's other casting phrases.
 
+**Chapter digest gaps filled, build plan item 3.6b (2026-10-24)**
+- Read a sample of lines from each of the 70 title-only chapters and added a cited one- or two-sentence summary for each, held in `src/tools/digest_fill.py` and written as an "Additional chapter rows" section at the end of the matching `Book_NN_Timeline.md` (Books 1-11 and 13). All 987 chapters now have a digest entry.
+- These sentences come from a sample of each chapter's lines, not a full read, so they are less complete than the older timeline rows; a few register rows are marked "near". The Book 12 Ch65 and Book 13 Ch951 original rows are still to be tightened.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

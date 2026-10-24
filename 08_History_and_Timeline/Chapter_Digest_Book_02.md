@@ -9,7 +9,7 @@ Related: Book_02_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 70 of 76 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 76 of 76 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -30,7 +30,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch15, Damage You Shouldn’t Walk Away From**: Humphrey tells Jason that Beaufort Mercer's wife tipped off his mother (Book 2, Ch15 L29).
 - **Ch16, Picking Out the Good Ones**: Rumours of Jonah, Thadwick and the others are disrupting the upper crust (Book 2, Ch16 L75)
 - **Ch17, Events Loom Large**: Danielle says Boko and Hornis have their own Magic Society people (Book 2, Ch17 L61). Rufus asks Dorgan to track smugglers who may be bringing unusual materials through Greenstone or Hornis (Book 2, Ch17 L109).
-- **Ch18, What the Geller Name is Worth**: Title only; no summary yet (Book 2, Ch18).
+- **Ch18, What the Geller Name is Worth**: Rick leads Clive and Belinda through the Geller grounds (Book 2, Ch18 L3). Clive reactivates the control system of a rune-covered block (Book 2, Ch18 L39, L54).
 - **Ch19, Cleansed**: Jason wears the Trap Weaver Battle Robe, iron and epic (Book 2, Ch19 L31).
 - **Ch20, It Just Takes Practise**: Humphrey tells Sophie that a couple of months ago he and Jason retrieved the body of an adventurer killed because the contract details were wrong (Book 2, Ch20 L23)
 - **Ch21, World Building**: Danielle, Emir, Thalia, Arella and the archbishop walk from the ritual building to the main house after witnessing Jonah's death (Book 2, Ch21 L19). The archbishop says a star seed was implanted in the boy (Book 2, Ch21 L23) and that star seeds are creations of entities that exist only in the deep astral (Book 2, Ch21 L26)
@@ -40,14 +40,14 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch25, Resurrection**: Emir's private study occupies the top floor of the tallest tower (Book 2, Ch25 L3). Clive explains that clockwork kings are creatures, not monsters (Book 2, Ch25 L39) and how the soul lingers with the body (Book 2, Ch25 L53)
 - **Ch26, Manifestation**: Belinda tells Sophie to go and fight monsters while she and Jory have a picnic (Book 2, Ch26 L19).
 - **Ch27, Potential**: Cassandra and her mother have been back in the city for six months (Book 2, Ch27 L44). Sophie awakens Between the Raindrops (Book 2, Ch27 L25)
-- **Ch28, Weaponising a Barbecue**: Title only; no summary yet (Book 2, Ch28).
+- **Ch28, Weaponising a Barbecue**: Jason brings Neil to the cloud palace for a welcome lunch (Book 2, Ch28 L3-6). Humphrey tells Neil about Farrah's fall (Book 2, Ch28 L43).
 - **Ch29, This Town Ain’t Big Enough**: The mirage chamber builds a sprawl of ancient desert ruins (Book 2, Ch29 L3). Dustin Kettering's cousin Hudson is his counterpart on Beth Cavendish's team (Book 2, Ch29 L9).
 - **Ch30, The Second-Best Iron Ranker**: Afterwards Sophie says Humphrey is "sick of being called the second-best iron-ranker" (Book 2, Ch30 L32)
 - **Ch31, Arrival**: Vincent tells the candidates nine grass darters are reported (Book 2, Ch31 L4). Jason notes that Rufus "failed everyone when he ran the assessment" (Book 2, Ch31 L21)
 - **Ch32, Full Jason**: Rufus introduces his mother Arabelle and the other newcomers (Book 2, Ch32 L52). He mentions an informal wake "a couple of weeks ago" (Book 2, Ch32 L58)
 - **Ch33, Versatile**: Jason explains the Stanislavski system to Gabriel (Book 2, Ch33 L94)
 - **Ch34, I Don’t Like This Plan**: Julian Cross gives his name (Book 2, Ch34 L10) and Jason says neither he nor Sophie's would-be buyer has a say in her indenture (Book 2, Ch34 L19). Emir declares that Jason is under his protection (Book 2, Ch34 L45) and explains the contract of the Order of the Reaper (Book 2, Ch34 L47).
-- **Ch35, Impossible to Subdue**: Title only; no summary yet (Book 2, Ch35).
+- **Ch35, Impossible to Subdue**: Jason and Sophie walk an embankment road in the delta while he talks about standing out and trust (Book 2, Ch35 L5-9, L27, L52).
 - **Ch36, The Price We Pay Doesn’t Matter**: Thalia reports that three survivors of the star seeds are awake with limited recollection (Book 2, Ch36 L36). Jason and Sophie look at the four crystalline stars that were people (Book 2, Ch36 L68)
 - **Ch37, Make the Most of It**: The hooded Builder cultist who had been posing as the foreman follows a woman through the grounds (Book 2, Ch37 L24), and the archbishop rebukes the cult's failures (Book 2, Ch37 L31, L33). The intact star seed looks like a sphere of tiny cubes in a rune-covered glass box (Book 2, Ch37 L55).
 - **Ch38, Wake**: The wake is held in the guest wing lounge of the cloud palace (Book 2, Ch38 L4). Padma and her team trained at Remore Academy a few years behind Rufus (Book 2, Ch38 L40).
@@ -63,7 +63,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch48, A Well-Informed Man**: The margoll pack is dealt with and ten Myriad Quintessence Gems are added to the inventory (Book 2, Ch48 L43).
 - **Ch49, The Danger is Us**: Their abilities improve quickly in the first few days (Book 2, Ch49 L22)
 - **Ch50, Surplus to Requirements**: Jason's group finds three dead leonids, and then something they had been waiting for happens (Book 2, Ch50 L5)
-- **Ch51, A Worse Plan**: Title only; no summary yet (Book 2, Ch51).
+- **Ch51, A Worse Plan**: Clive's team climbs a precarious tall building and Valdis crosses to fasten the other end (Book 2, Ch51 L3, L26). They fight a wingless dragon-like creature in a circle (Book 2, Ch51 L40, L70).
 - **Ch52, No One Has That Coming**: A flesh abomination adapts to how it is fought (Book 2, Ch52 L34), and Jason's team places afflictions on it (Book 2, Ch52 L51). Neil, Jory and Keane have fought together for several days (Book 2, Ch52 L71; Book 2, Ch53 L13).
 - **Ch53, Part of Being a Team**: Imran Keane is added to Jason's party (Book 2, Ch53 L64)
 - **Ch54, Making a Spectacle of Himself**: Keane says there are six days left (Book 2, Ch54 L6). Jory identifies the blood root vine's underground root network (Book 2, Ch54 L70).
@@ -76,9 +76,9 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch61, Making an Exit**: Jason finally lets himself savour the quest rewards (Book 2, Ch61 L131). Clive's Human Ambition evolves to Thirst For Knowledge (Book 2, Ch61 L144), and Humphrey's Special Attack Affinity to Attack of the Mirage Dragon (Book 2, Ch61 L147)
 - **Ch62, Shallow Earth**: Humphrey's team is eager to test its new abilities, but things are busy on the shore (Book 2, Ch62 L3). Humphrey's father Keith is a solid and reliable counterpoint to Danielle (Book 2, Ch62 L24)
 - **Ch63, Relief**: Emir arrives with 419 time-displaced priests who came out of the archway "asking for you by name" (Book 2, Ch63 L9)
-- **Ch64, Glory**: Title only; no summary yet (Book 2, Ch64).
+- **Ch64, Glory**: Jason uses his final awakening stone for Avatar of Doom (Book 2, Ch64 L3-5). Humphrey receives the awakening stone of the Reaper (Book 2, Ch64 L72).
 - **Ch65, Display of Gratitude**: Jason drops through a man's shadow as though a hole had opened (Book 2, Ch65 L18). Zara, a royal highness, is the third woman in the room (Book 2, Ch65 L22, L47).
-- **Ch66, The Person I Decided to Be**: Title only; no summary yet (Book 2, Ch66).
+- **Ch66, The Person I Decided to Be**: Emir tells Jason that his aura signature has changed (Book 2, Ch66 L8). Emir shows him a scar (Book 2, Ch66 L27).
 - **Ch67, You Have Friends to Help You**: Sophie awakens Deny the Reaper, 5 of 5 balance essence abilities (Book 2, Ch67 L49). Clive tells Emir he knows what happens to people who get so close to so many gods (Book 2, Ch67 L168)
 - **Ch68, Blob Body**: Belinda absorbs the Charlatan Essence, 4 of 4 (Book 2, Ch68 L36). Emir will have Hester portal them out for a shopping trip in the morning, to her hometown (Book 2, Ch68 L129)
 - **Ch69, Particular Appetites**: Killian tells Cole Silva he is "a man of particular appetites" (Book 2, Ch69 L95). Zara says Emir is a person of interest to her royal family over a theft several years ago (Book 2, Ch69 L25) and introduces her aunt Vesper Rimaros (Book 2, Ch69 L17)

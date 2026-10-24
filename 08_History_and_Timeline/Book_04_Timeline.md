@@ -116,3 +116,14 @@ Chapter-by-chapter order of Book 4, with the day or week wherever the text gives
 
 - The text fixes the return (early June 2019), the first weeks by weekday, and the end by the month of seclusion; the "Week N" labels from week 5 onward are counted from those anchors and from the "last week" remarks, not from stated dates. Examples: "last week, I got mildly kidnapped" (Book 4, Ch50 L84); "They started filming us last week" (Book 4, Ch64 L82).
 - Earth time and Pallimustus time run together, so Book 4 overlaps no Pallimustus event: the team is out of the story.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch8 | Hiro finds Jason in his penthouse and Jason will not say what he is involved in (Book 4, Ch8 L3-7). Aram leads the Sydney incident investigation (Book 4, Ch8 L84). |
+| Gap fill | Ch14 | A bullet shatters the car's back window and Jason tells Taika to keep driving (Book 4, Ch14 L3-5). Jason's shadow rider carries him closer to the bikers (Book 4, Ch14 L33). |
+| Gap fill | Ch39 | Jason hammers out an agreement with Keith and Anna on his houseboat (Book 4, Ch39 L3-4). He still has family to tell (Book 4, Ch39 L6). |
+| Gap fill | Ch40 | Nigel briefs Jason on the Sydney branch's category-three contingent (Book 4, Ch40 L3-4). The force enters a jungle with a tower of crude brick (Book 4, Ch40 L37). |

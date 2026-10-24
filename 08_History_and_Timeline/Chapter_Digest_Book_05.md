@@ -9,7 +9,7 @@ Related: Book_05_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 65 of 67 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 67 of 67 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -39,7 +39,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch25, Warmth and Levity**: Asya says they are en route to Darwin and will throw Jason out of the plane (Book 5, Ch25 L94). Cloak of Night at Silver 0 manipulates space slightly (Book 5, Ch25 L23)
 - **Ch26, An Intelligent King**: In the crowded proto-space the monsters seem to operate in a hierarchy (Book 5, Ch26 L9).
 - **Ch27, Hunted**: The proto-space version of Makassar is overrun with rainforest, the sky filled with volcanic ash (Book 5, Ch27 L3)
-- **Ch28, Gamble**: Title only; no summary yet (Book 5, Ch28).
+- **Ch28, Gamble**: King tells Jason he can hear through his vessel, and Jason says he is sorry for the circumstances of King's creation (Book 5, Ch28 L4-11). The proto-space reaches its final stage of dissolution (Book 5, Ch28 L70).
 - **Ch29, Dying of Thirst in the Desert**: Kaito is freshly bronze-rank and flies the strongest silver-rankers north (Book 5, Ch29 L19). Jason's execute, unboosted, is the most powerful he has ever cast (Book 5, Ch29 L65).
 - **Ch30, Enough Power**: Jason's part in the aftermath is done after eight days (Book 5, Ch30 L57)
 - **Ch31, Silver**: Jason sits in a cross-legged meditation pose radiating silver light as he ranks to silver (Book 5, Ch31 L6). Dawn tells him he was not chosen by the World-Phoenix but was an opportunistic selection (Book 5, Ch31 L34).
@@ -52,7 +52,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch38, Fanboy**: Jason asks Itsuki whether he reached bronze rank in five months (Book 5, Ch38 L41).
 - **Ch39, A Very Bad Mistake**: He is poisoned with Serpent Nettle Extract (Book 5, Ch39 L15). Denji says the door has been hidden on an uninhabited island in the Pacific (Book 5, Ch39 L88)
 - **Ch40, An Unexpected Direction**: Emi and Jason descend the shaft (Book 5, Ch40 L18). Mr North says he was originally a rune spider (Book 5, Ch40 L79)
-- **Ch41, Parade of Delights**: Title only; no summary yet (Book 5, Ch41).
+- **Ch41, Parade of Delights**: Mr North argues that repairing the link between worlds is only the beginning (Book 5, Ch41 L3-8). The obsidian portal arch absorbs dust from the stones (Book 5, Ch41 L85).
 - **Ch42, Collateral Damage**: The team's understanding is that the Network's founder used the door to create the imbalance in the link (Book 5, Ch42 L59)
 - **Ch43, I Intend to Do Damage**: Anna and three silver-rankers stand outside the main gate (Book 5, Ch43 L3). He says he is going to tell the family how they will spend the next few months (Book 5, Ch43 L75)
 - **Ch44, A Chance to Control the Narrative**: As Jason sees more and more people, he realises almost all of them have been transformed from human into different humanoid species (Book 5, Ch44 L56)

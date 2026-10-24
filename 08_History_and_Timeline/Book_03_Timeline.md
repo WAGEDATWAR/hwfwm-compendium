@@ -103,3 +103,17 @@ Chapter-by-chapter order of Book 3. The book's epilogue sections are part of Ch6
 - The book gives its own anchors for a long Book 3: a winter start, a spring contract, a five-month stay in the astral space, and a death "a few months more than a year" after arrival. Together they put the astral space entry in spring (about September to October 2018) and the death in the following autumn or late summer (about February to April 2019, M15 to M17).
 - The old Master Timeline placed Jason's death at "M18" (the earlier wiki-based count). The text instead fixes his return to Earth at M18 (early June 2019, Book 4, Ch3 L112), and the death some weeks to months earlier.
 - The memorial and farewell gathering follow Jason's death by at least a month (Book 3, Ch69 L894), which fits a death in the M15 to M16 range and the Earth awakening at M18.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch6 | A rainbow manifestation opens over Old City and Henrietta directs the adventurers who respond (Book 3, Ch6 L3-5). Filthy water geysers up and the team fights the monster (Book 3, Ch6 L15, L20). |
+| Gap fill | Ch10 | The team clears adventure notices town to town while Henrietta breaks down their weaknesses (Book 3, Ch10 L3). Belinda and Clive set rune traps for a monster (Book 3, Ch10 L23). |
+| Gap fill | Ch11 | The team faces six-legged desert horde lizards and Henrietta pairs Jason with Belinda (Book 3, Ch11 L3-7). Belinda casts Jason's spell on a second lizard (Book 3, Ch11 L26). |
+| Gap fill | Ch18 | Killian prepares to use the star seed on Jason hanging from a spike (Book 3, Ch18 L3-4). Silva asks how Killian learned a Builder cult ritual (Book 3, Ch18 L6-7). |
+| Gap fill | Ch43 | Spider constructs emerge from holes in the floor, and Clive and Belinda cast rune traps (Book 3, Ch43 L3-6). |
+| Gap fill | Ch48 | The team hears monsters approaching through the jungle and gathers on a stone platform (Book 3, Ch48 L3-6). Clive's first spell covers the platform, including summons (Book 3, Ch48 L53). |
+| Gap fill | Ch50 | Jason's recovery power heals the front line and he singles out the sturdier bronze-rank monsters (Book 3, Ch50 L3-4). Colin devours vampires while Clive keeps Onslow on the ground monsters (Book 3, Ch50 L54-61). |

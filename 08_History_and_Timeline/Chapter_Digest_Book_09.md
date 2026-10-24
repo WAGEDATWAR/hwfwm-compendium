@@ -9,18 +9,18 @@ Related: Book_09_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 93 of 104 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 104 of 104 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
-- **Ch1, Don’t Show Up to the Fancy Party in Shorts**: Title only; no summary yet (Book 9, Ch1).
+- **Ch1, Don’t Show Up to the Fancy Party in Shorts**: Jason convalesces after a rescue in a flooded mining complex where he opened a portal he should not have been able to (Book 9, Ch1 L3-6). Rick tells him the Adventure Society is open to him spending decades being nice and quiet (Book 9, Ch1 L103).
 - **Ch2, What She Was Willing to Do**: Rural populations must leave the cities and fortress towns and return to monster-ravaged towns and villages around the Storm Kingdom (Book 9, Ch2 L18). A guest says Jason's meeting was agreed only because of a name Havi Estos dropped (Book 9, Ch2 L76).
 - **Ch3, More Than Just a Name**: Havi Estos, Estella and two bodyguards reach the boutique district, where the festival is a bit more subdued (Book 9, Ch3 L56). Havi shares something he had hoped to keep for his own influence base (Book 9, Ch3 L90)
 - **Ch4, The Making of That Man**: Havi knows Killian Laurent by reputation only (Book 9, Ch4 L11).
 - **Ch5, A Lesson of Days Gone**: Killian is chained to a thick metal pole with a suppression collar in Havi's place (Book 9, Ch5 L4). A speaker tells Killian, "You're a target of opportunity" (Book 9, Ch5 L76)
 - **Ch6, Dear John**: Dawn's recording gives the real list of auxiliaries, starting with Rufus as a trainer (Book 9, Ch6 L41).
 - **Ch7, This Doesn’t Feel Glorious**: Eleven people move through the jungle on the western mainland toward Autumn's ritual site (Book 9, Ch7 L33)
-- **Ch8, El Demonio Que Hace Trofeos de los Hombres**: Title only; no summary yet (Book 9, Ch8).
+- **Ch8, El Demonio Que Hace Trofeos de los Hombres**: Two adventuring teams in dense jungle are attacked by an unseen foe and Carilo is dragged into the scrub (Book 9, Ch8 L3-12). A blue-and-orange eyed figure appears overhead (Book 9, Ch8 L25).
 - **Ch9, Occasionally Carnivorous**: Sophie notes that after three years of spirit coins Jason adapted to being back on the team quickly (Book 9, Ch9 L42). Jason considers Rangel's and Tellez's teams (Book 9, Ch9 L24).
 - **Ch10, If You’re Going to Punish Someone**: Autumn's new familiar is a long-tongue jumping hydra the size of a two-storey house (Book 9, Ch10 L106)
 - **Ch11, One More Loyalty to Balance**: Vidal Ladiv has done very well out of the surge, reaching silver and getting promotions (Book 9, Ch11 L5).
@@ -59,7 +59,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch44, The Same Thing as Telling the Truth**: Bellory tells the thug she has the loan repayment (Book 9, Ch44 L25)
 - **Ch45, The Point of Sacrifice**: Taika moved his family first to Asano Village, then to Jason's spirit realm in France (Book 9, Ch45 L4). Jason senses a valash (Book 9, Ch45 L58).
 - **Ch46, What You Want Instead of What You Need**: The valash introduces himself as Zolit Kreen (Book 9, Ch46 L12) and explains the single-round elimination with collars (Book 9, Ch46 L32)
-- **Ch47, Settling Differences With a Nice Chat**: Title only; no summary yet (Book 9, Ch47).
+- **Ch47, Settling Differences With a Nice Chat**: Zolit congratulates Jason in the fighters' locker room (Book 9, Ch47 L3-6). A prestigious underground figure joins Zolit and tells a story (Book 9, Ch47 L29-36).
 - **Ch48, The Sex Magic Thing**: The woman looming over Jason is an unusually tall elf (Book 9, Ch48 L42)
 - **Ch49, The Power and the Control**: Emir says he had been meant to meet Jason in a couple of weeks (Book 9, Ch49 L79) and is told he will not be available until the end of next week (Book 9, Ch49 L80). Emir slides a gold spirit coin onto the bar (Book 9, Ch49 L81)
 - **Ch50, Distant Power**: Emir's preferred design is a castle with five towers topped by domes (Book 9, Ch50 L27).
@@ -71,18 +71,18 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch56, Even Though You Fear**: Kaal thanks Hess Jor Nasala (Book 9, Ch56 L40).
 - **Ch57, Mockery**: Carlos suspects a heat-consuming parasite with a swarm hive mind (Book 9, Ch57 L16).
 - **Ch58, Die Immediately Without Prompting**: "You have inflicted [Inexorable Doom] on [World-Taker Worm]" (Book 9, Ch58 L45)
-- **Ch59, The Old Groove**: Title only; no summary yet (Book 9, Ch59).
+- **Ch59, The Old Groove**: The team gets a brief respite from the worm-host elves (Book 9, Ch59 L3). Clive attaches ritual circles to their weapons, and rough edges show after years apart (Book 9, Ch59 L23, L54).
 - **Ch60, Grisly Chore**: Neil's golem becomes a crystalline wasp the size of a bread van (Book 9, Ch60 L15).
 - **Ch61, Inferior**: Pei Vas Kartha waits in her hidden lair (Book 9, Ch61 L3).
 - **Ch62, Apocalypse**: The messengers know these apocalypse beasts and use them as weapons (Book 9, Ch62 L22).
 - **Ch63, Superior**: Jason feels Pei's faith "shaking like a naked child in a storm" (Book 9, Ch63 L23).
 - **Ch64, Significantly More Powerful**: Colin's greenhouse is built around an almost empty pit of blood (Book 9, Ch64 L96)
-- **Ch65, Evil Lair**: Title only; no summary yet (Book 9, Ch65).
+- **Ch65, Evil Lair**: Jason emerges from his soul space and Clive says the messengers were easier than expected (Book 9, Ch65 L3-4). A hidden slate-brick basement leads to a wide chamber (Book 9, Ch65 L63).
 - **Ch66, Imperfect Responses**: Kaal hovers over a circular tower (Book 9, Ch66 L3).
 - **Ch67, Triage**: The elves are dirty from living in their own filth (Book 9, Ch67 L6).
 - **Ch68, Unquestionably Authoritarian**: Clive speculates on the intelligence of the larger worm (Book 9, Ch68 L77)
-- **Ch69, Voice of the Will**: Title only; no summary yet (Book 9, Ch69).
-- **Ch70, He Himself Does Not Become a Monster**: Title only; no summary yet (Book 9, Ch70).
+- **Ch69, Voice of the Will**: Sophie argues for eradicating the worms rather than studying them (Book 9, Ch69 L3-4). Colin could use the devoured power of the World-Taker Worm Matriarch to awaken as a Voice of the Will (Book 9, Ch69 L55).
+- **Ch70, He Himself Does Not Become a Monster**: Jason goes outside and takes in the bodies of the dead town (Book 9, Ch70 L3-5). He talks about the line he can go to without losing himself (Book 9, Ch70 L34).
 - **Ch71, An Egg Starting to Hatch**: Jason has reconfigured his cloud construct from land-yacht to palace (Book 9, Ch71 L31).
 - **Ch72, What the Swarm Came to Cure**: Five elite worm-hosts move down a hall (Book 9, Ch72 L46).
 - **Ch73, A Mortal Perspective**: He sanctioned himself." (Book 9, Ch73 L41). The gods have unilaterally decreed that none will interfere with the search for the artefact (Book 9, Ch73 L90)
@@ -95,19 +95,19 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch80, Luck That Good**: Hana directs all the clergy away from Jason's bunker (Book 9, Ch80 L7)
 - **Ch81, Nice and Grunty**: Silver rank is the threshold for becoming a real adventurer in high-magic zones (Book 9, Ch81 L5).
 - **Ch82, Breach**: Each rescue demands its own adaptation from the craftspeople (Book 9, Ch82 L24)
-- **Ch83, Gary Goes To Work**: Title only; no summary yet (Book 9, Ch83).
+- **Ch83, Gary Goes To Work**: Barrier breaches spread across the city and Jason's team defends the entertainment district (Book 9, Ch83 L3-5). Gary leads a group and keeps it moving rather than securing kills (Book 9, Ch83 L18).
 - **Ch84, The Lady Shooting Hurricanes at People**: Clive's variant one is Prismatic Affliction (Book 9, Ch84 L50).
 - **Ch85, Humphrey’s New Normal**: Belinda activates the discs Humphrey left (Book 9, Ch85 L50).
 - **Ch86, Not Enough Monsters to Fight**: Marek Nior Vargas leads the breach force over the entertainment district (Book 9, Ch86 L16)
-- **Ch87, The Difference in Conviction**: Title only; no summary yet (Book 9, Ch87).
+- **Ch87, The Difference in Conviction**: Humphrey's second foray into the summons is far more powerful, though his Relentless Assault drains his mana (Book 9, Ch87 L3-5). Belinda uses Pit of the Reaper and her tethers (Book 9, Ch87 L25).
 - **Ch88, Something to Turn the Tide**: Valk Vohl is no stand-up citizen, but he stands up when angels attack (Book 9, Ch88 L36).
 - **Ch89, The Strongest Arrow in His Quiver**: Rufus notes an affliction specialist doing the main work (Book 9, Ch89 L26).
 - **Ch90, Win a Fight**: Fal is "not having a good day" (Book 9, Ch90 L3)
-- **Ch91, King of the Sky**: Title only; no summary yet (Book 9, Ch91).
+- **Ch91, King of the Sky**: Fal Vin Garath heads for the pyramid, sneering at his commander (Book 9, Ch91 L3). A harpoon drags him into the cloud stuff (Book 9, Ch91 L35).
 - **Ch92, A Pretty Creepy Dude**: Taika's change takes less than a second (Book 9, Ch92 L76).
 - **Ch93, Security Oversight**: Fal finds the pyramid all hallways and no doors, and changing as he moves (Book 9, Ch93 L67).
 - **Ch94, I Have to Go Fight Evil**: Eilaf Hayel commands the defence of the entertainment district (Book 9, Ch94 L3). Gordon draws an elaborate ritual (Book 9, Ch94 L30)
-- **Ch95, Stray Thought**: Title only; no summary yet (Book 9, Ch95).
+- **Ch95, Stray Thought**: Jason enters Gordon's ritual diagram to prepare to become more fully an astral king (Book 9, Ch95 L3-6, L11). His soul declares itself and his aura floods the city (Book 9, Ch95 L41).
 - **Ch96, Heretic**: Schaat's first thought is to abandon the raid, but the breach itself is a trap (Book 9, Ch96 L14).
 - **Ch97, An Extremely Annoying Catalyst**: Turn around and leave this city." (Book 9, Ch97 L74).
 - **Ch98, Teaching Moment**: Current star phoenix state availability: 1 (Book 9, Ch98 L56). Allayeth and Charist, both elves, find Schaat's corpse (Book 9, Ch98 L4)

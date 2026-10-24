@@ -117,3 +117,12 @@ Chapter-by-chapter order of Book 5, with the in-world time wherever the text giv
 
 - The text fixes the opening at about nine months after the return (March 2020), Jason's birthday on 1 April at Ch20, and the funeral in an Australian winter at Ch52. The labels from "May" onward are placements based on those anchors and on the stated intervals ("two months", "eight days", "weeks in isolation", "two weeks"); no chapter gives a calendar date after Ch20.
 - The old Master Timeline gave "M36" for Kaito's death. With the funeral in an Australian winter, his death falls in about May to June 2020, which is M30 to M31 counting from November 2017.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch28 | King tells Jason he can hear through his vessel, and Jason says he is sorry for the circumstances of King's creation (Book 5, Ch28 L4-11). The proto-space reaches its final stage of dissolution (Book 5, Ch28 L70). |
+| Gap fill | Ch41 | Mr North argues that repairing the link between worlds is only the beginning (Book 5, Ch41 L3-8). The obsidian portal arch absorbs dust from the stones (Book 5, Ch41 L85). |

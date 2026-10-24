@@ -117,3 +117,11 @@ Chapter-by-chapter order of Book 7, with the in-world time wherever the text giv
 
 - The "When" labels are placements by chapter order, anchored only where the text states an interval: nineteen days of forging (Book 7, Ch2 L76), several days after arrival (Book 7, Ch18 L48), two weeks on the road (Book 7, Ch57 L3), "a few weeks ago" (Book 7, Ch62 L43) and a month after the war (Book 7, Ch66 L27). The book gives no calendar dates.
 - Counting from Jason's departure in autumn 2021 (Book 6, Ch47 L155), Book 7 ends about a month after the One Day War, so the surge is still running when Book 7 closes. The old Master Timeline placed the arrival at "M50" and the end of the surge at "M55-M56"; neither figure is supported by the text.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch44 | Liara, Vesper, Trenchant and Liara's teammates assess Jason in a conference room (Book 7, Ch44 L3-5). Trenchant says he would run from an affliction skirmisher (Book 7, Ch44 L23). |

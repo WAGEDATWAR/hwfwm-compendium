@@ -9,7 +9,7 @@ Related: Book_06_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 45 of 47 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 47 of 47 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -22,12 +22,12 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch7, Instinct is All We Have**: Chen arrives through the portal, followed by Gerling and the other two Chinese category-fours (Book 6, Ch7 L22)
 - **Ch8, Step Back**: Tran stands holding the spheres ripped out of the anomalies (Book 6, Ch8 L3).
 - **Ch9, Guns & Money**: The dead anomalies lie thickest around the pagoda (Book 6, Ch9 L7). The Instability Regulator is a silver-rank epic item (Book 6, Ch9 L43)
-- **Ch10, Old Habit**: Title only; no summary yet (Book 6, Ch10).
+- **Ch10, Old Habit**: Jason expands his spirit domain from a rooftop into a city-like territory (Book 6, Ch10 L3-5). He holes up in a store to treat his wounds as anomalies converge (Book 6, Ch10 L19-25).
 - **Ch11, It’s Still Not About Killing Monsters**: Reclamation cores could potentially drain the power from gold-rankers and ancient vampires (Book 6, Ch11 L14)
 - **Ch12, Open to the Unanticipated**: A Dark Orb unseals a random Dark Essence ability (Book 6, Ch12 L7). The third territory is renamed Tranquil Shadow Woods (Book 6, Ch12 L59).
 - **Ch13, I’m Going to Bet on Myself**: The rescued celestine family asks where they are (Book 6, Ch13 L3). His Spirit Vault evolves to a secondary gift (Book 6, Ch13 L77)
 - **Ch14, No Perfect Options**: His eyes are "A shifting mix of gold, silver and blue" (Book 6, Ch14 L31). Shade says the industrial city is from one of the first worlds the new Builder plundered (Book 6, Ch14 L74).
-- **Ch15, Stillness**: Title only; no summary yet (Book 6, Ch15).
+- **Ch15, Stillness**: Jason fights zombie cyborgs across industrial ruins (Book 6, Ch15 L3-7). He meditates to extend his aura into the territory (Book 6, Ch15 L40).
 - **Ch16, Whatever We Face**: The territory is renamed Steamforge Circuit (Book 6, Ch16 L60). Guo is warped by the unstable cores into a tentacle monster (Book 6, Ch16 L83)
 - **Ch17, You Really Aren’t Local**: 1327 stable genesis cores are consumed in the apotheosis (Book 6, Ch17 L13). A red-haired, freckled man with inhumanly bright green eyes stands in front of the portal (Book 6, Ch17 L37).
 - **Ch18, A Sliver of Hope**: Dawn tells Shako he has come to this world and killed Jason Asano in violation of the compact (Book 6, Ch18 L6). The Fundament Gate would let Jason securely anchor the bridge (Book 6, Ch18 L39).

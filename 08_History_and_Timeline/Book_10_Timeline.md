@@ -118,3 +118,18 @@ Chapter-by-chapter order of Book 10, with the in-world time wherever the text gi
 - The early chapters are "a few weeks" after the Yaresh raid (Book 10, Ch17 L52), and Jason is twenty-nine by Ch33 (Book 10, Ch33 L76), after 1 April 2023. Together these put the Battle of Yaresh no later than about February 2023 and revise the Book 9 estimate: the road south, the Yaresh stay and the battle together take longer than the autumn 2022 placement in the old notes. Book 10's expedition falls in about April to mid 2023, ending as the transformation zone begins around the natural array.
 - The old Master Timeline placed the expedition at "M65" and the Death Pact in the same period; the text supports an end of Book 10 in mid 2023, and Book 11 then runs for about nine months of the zone (see `Book_11_Timeline.md`).
 - The labels after "Third week" are chapter-order placements after the one stated anchor, the third week of adventuring (Book 10, Ch31 L9); they say only what the chapters order.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch9 | Jason's team, with new member Taika, gathers at Emir's palace for a large meeting (Book 10, Ch9 L3-4). Ebson Jillet introduces himself as chief information officer of the combined holy forces (Book 10, Ch9 L46). |
+| Gap fill | Ch23 | Elemental messengers are captured and Charist's air vortex clears the cloud, revealing a massive shaft (Book 10, Ch23 L3-6). Rufus notes they have provoked the local authorities again (Book 10, Ch23 L91). |
+| Gap fill | Ch27 | Jason and Allayeth walk his garden estate and she asks about a spirit coin farm and about making enemies talk (Book 10, Ch27 L3-16). Allayeth says the messengers are still invading and killing her people (Book 10, Ch27 L52). |
+| Gap fill | Ch41 | Sophie enters Jason's soul realm and confronts him (Book 10, Ch41 L3-7). Jason says he can do things in the realm that violate the laws of reality (Book 10, Ch41 L43). |
+| Gap fill | Ch56 | Vesta Carmis Zell asks how many of her messengers Jason intends to steal (Book 10, Ch56 L3-4). Jali spits that it is better to be a pet than food (Book 10, Ch56 L62). |
+| Gap fill | Ch64 | Miriam Vance floats up to Jason over the shaft full of butterflies (Book 10, Ch64 L3-5). He says he is used to being betrayed by the people he works with (Book 10, Ch64 L18). |
+| Gap fill | Ch73 | Jason, Clive and Miriam sit in the council chamber with Beaufort, Lorenn and Marla (Book 10, Ch73 L3). Beaufort says the Builder still observes him and told him to exploit a weakness (Book 10, Ch73 L32). |
+| Gap fill | Ch81 | The first major breach of the wall comes on the fifth floor, and Gary smashes a shield mantis creature (Book 10, Ch81 L3-5). Clive sets ritual circles on nine platforms around the tree (Book 10, Ch81 L15). |

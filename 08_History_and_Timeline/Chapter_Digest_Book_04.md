@@ -9,7 +9,7 @@ Related: Book_04_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 70 of 74 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 74 of 74 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -20,13 +20,13 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch5, It Would Be Weirder If Magic Wasn’t Responsible**: Ketevan says the rated strength of his arrival still registers above five on every test, and the proto-astral space existed for less than a second (Book 4, Ch5 L127)
 - **Ch6, Not the Regular Sort of Dangerous**: Hiro asks how many gold bars Jason has (Book 4, Ch6 L91). Jason says "It's Erika's birthday next Friday" (Book 4, Ch6 L105)
 - **Ch7, Boogie Man**: Jason recognises a board game thanks to an old school friend named Greg, who roped Jason and Amy into long games (Book 4, Ch7 L42)
-- **Ch8, More Plausible Than the Reality**: Title only; no summary yet (Book 4, Ch8).
+- **Ch8, More Plausible Than the Reality**: Hiro finds Jason in his penthouse and Jason will not say what he is involved in (Book 4, Ch8 L3-7). Aram leads the Sydney incident investigation (Book 4, Ch8 L84).
 - **Ch9, I Suggest You Be Very Polite**: Victor Tollman offers refreshments at noon on a Tuesday (Book 4, Ch9 L65). Jason tells Tollman he came to give him face and to meet Vermillion (Book 4, Ch9 L93).
 - **Ch10, A Leather Coat and Tight, Black Pants**: Jason's time in the astral space cost him but massively accelerated his growth (Book 4, Ch10 L7).
 - **Ch11, A Knife in Its Sheath**: Vermillion explains the Engineers of Ascension as those who came to magic from outside the normal channels (Book 4, Ch11 L72), and that the Network has taken drastic steps since it started involving governments (Book 4, Ch11 L90)
 - **Ch12, Underworld Bargain**: we need to take the man sitting behind you" (Book 4, Ch12 L16-17); he is nothing like the converted Jason met in the other world (Book 4, Ch12 L51).
 - **Ch13, Time to Rip Off the Band-Aid**: A bunch of bikers converge on Hiro's car (Book 4, Ch13 L94-95), and Vermillion calls the Blood Riders a motorcycle gang entirely turned into blood servants (Book 4, Ch13 L96)
-- **Ch14, Bullets, Bikes and Blood**: Title only; no summary yet (Book 4, Ch14).
+- **Ch14, Bullets, Bikes and Blood**: A bullet shatters the car's back window and Jason tells Taika to keep driving (Book 4, Ch14 L3-5). Jason's shadow rider carries him closer to the bikers (Book 4, Ch14 L33).
 - **Ch15, A Good Friend and a Very Bad Enemy**: The starlight glow of his cloak dims to black (Book 4, Ch14 L50), and the media dub the figure the Starlight Rider (Book 4, Ch15 L12). Vermillion has to take responsibility for the Blood Riders (Book 4, Ch15 L13).
 - **Ch16, Flavour Text**: In the gallery, owner Susan tells Jason about an unusual condition attached to a painting (Book 4, Ch16 L4, L14).
 - **Ch17, Time For Context**: Vermillion gives Tollman three options (Book 4, Ch17 L113). Jason says they leave Sydney "the day after tomorrow" (Book 4, Ch17 L126)
@@ -51,8 +51,8 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch36, Hardline Position**: Anna asks Asya Karadeniz what brings her back from the International Committee (Book 4, Ch36 L34). Jason pours lemonade for the delegation (Book 4, Ch36 L153)
 - **Ch37, Otherwise Best Avoided**: Anna says of the boxed coins, "The other outworlder" (Book 4, Ch37 L103).
 - **Ch38, Terms**: Jason says getting the other outworlder released is what brings him to the table (Book 4, Ch38 L45)
-- **Ch39, Section**: Title only; no summary yet (Book 4, Ch39).
-- **Ch40, Core Users**: Title only; no summary yet (Book 4, Ch40).
+- **Ch39, Section**: Jason hammers out an agreement with Keith and Anna on his houseboat (Book 4, Ch39 L3-4). He still has family to tell (Book 4, Ch39 L6).
+- **Ch40, Core Users**: Nigel briefs Jason on the Sydney branch's category-three contingent (Book 4, Ch40 L3-4). The force enters a jungle with a tower of crude brick (Book 4, Ch40 L37).
 - **Ch41, What You Call Observing**: An incursion team talks about roamers breaking the category cap (Book 4, Ch41 L55). Darce's golem is overpowered by a troll (Book 4, Ch41 L19)
 - **Ch42, Not the Monster**: The ADEs of the incursion are river hydras, with lots of regeneration, poison and heads (Book 4, Ch42 L3). Koen sends Jason after the third hydra (Book 4, Ch42 L26).
 - **Ch43, Letting Him Run Rampant**: A power ruptures the dimensional fabric of the incursion space above the hydra (Book 4, Ch42 L66), and the Network's Sydney offices review the footage (Book 4, Ch43 L3)

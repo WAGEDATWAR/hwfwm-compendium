@@ -86,3 +86,12 @@ Chapter-by-chapter order of Book 6. The Earth chapters (Ch1 to Ch46) cover Jason
 
 - The text gives a relative frame (two weeks, a month, a cold winter day, six months, a warm autumn day), not dates. Counting from the Nitra dome in about October 2020 (Book 5, Ch68 L68), the Saint-Étienne zone in winter (about December 2020 to February 2021) and six months of the French domain together put Jason's farewell in about September or October 2021, matching the autumn departure in `Master_Timeline.md`.
 - The "two years since Jason's memorial" for the Pallimustus group (Book 6, Ch47 L941) matches a memorial in about spring 2019 and the same autumn 2021 end point.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch10 | Jason expands his spirit domain from a rooftop into a city-like territory (Book 6, Ch10 L3-5). He holes up in a store to treat his wounds as anomalies converge (Book 6, Ch10 L19-25). |
+| Gap fill | Ch15 | Jason fights zombie cyborgs across industrial ruins (Book 6, Ch15 L3-7). He meditates to extend his aura into the territory (Book 6, Ch15 L40). |

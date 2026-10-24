@@ -130,3 +130,11 @@ Book 13 is set almost entirely on Earth, and its chapters carry on the series-wi
 - Book 13's present is 2038: a character asks how not knowing a kids' show in 2038 can be un-Australian (Book 13, Ch951 L50). If Jason left Earth in autumn 2021 (Book 6, Ch47 L155) and has been gone sixteen years (Book 13, Ch972 L51), his return falls around 2037 to 2038, which agrees with the dated line. The "twenty years" lines count from the arrival or from the first events on Earth, not from his departure.
 - The order inside the book is chapter order. Gaps between scenes are not stated except for "a decade" and "fifteen years" of background.
 - The old notes for this book mix up several chapter numbers (for example Nik's gold rank); the rows above cite only lines that were read.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch951 | Jason comforts a nervous Nik in a cloud ship corridor (Book 13, Ch951 L3-6). Emi's parents pry her off Nik while Hana and Jace look on (Book 13, Ch951 L70). |

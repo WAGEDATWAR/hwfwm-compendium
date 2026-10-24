@@ -109,3 +109,21 @@ Chapter-by-chapter order of Book 9, with the in-world time wherever the text giv
 - The departure from Rimaros is "half a year" after the arrival (Book 9, Ch24 L44), so about April 2022 by the calendar anchors. The road south then takes "about four months" of monsoon weather (Book 9, Ch26 L26), and the team stops at Rajoras, Cartise and elsewhere on the way. Book 10 fixes the outer limit: Jason is twenty-nine in Book 10, Ch33 (Book 10, Ch33 L76), which is after 1 April 2023, and the chapters before it are "a few weeks" after the battle (Book 10, Ch17 L52). The Battle of Yaresh therefore falls no later than about February 2023, and the arrival at Yaresh somewhat earlier. The old Master Timeline gave "wiki M58" for the battle; counted from November 2017 the text supports about M60 to M62.
 - The "Early in the stay", "During the stay" and "Later in the stay" labels are placements by chapter order within the stay in Yaresh, anchored by the two-week schedules in Ch42, Ch43 and Ch49. Humphrey says Jason and Estella will remain in the city for two weeks (Book 9, Ch42 L31); Jason says "See you in two weeks" (Book 9, Ch43 L72); a speaker says he will not be available until the end of next week (Book 9, Ch49 L80). The book gives no calendar date for the battle.
 - Ch21 and Ch100 round Jason's time on Pallimustus up to "five years" and "six years" (Book 9, Ch21 L4; Book 9, Ch100 L51); the calendar anchors give about four and a half years at Ch21 and about five at Ch100.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch1 | Jason convalesces after a rescue in a flooded mining complex where he opened a portal he should not have been able to (Book 9, Ch1 L3-6). Rick tells him the Adventure Society is open to him spending decades being nice and quiet (Book 9, Ch1 L103). |
+| Gap fill | Ch8 | Two adventuring teams in dense jungle are attacked by an unseen foe and Carilo is dragged into the scrub (Book 9, Ch8 L3-12). A blue-and-orange eyed figure appears overhead (Book 9, Ch8 L25). |
+| Gap fill | Ch47 | Zolit congratulates Jason in the fighters' locker room (Book 9, Ch47 L3-6). A prestigious underground figure joins Zolit and tells a story (Book 9, Ch47 L29-36). |
+| Gap fill | Ch59 | The team gets a brief respite from the worm-host elves (Book 9, Ch59 L3). Clive attaches ritual circles to their weapons, and rough edges show after years apart (Book 9, Ch59 L23, L54). |
+| Gap fill | Ch65 | Jason emerges from his soul space and Clive says the messengers were easier than expected (Book 9, Ch65 L3-4). A hidden slate-brick basement leads to a wide chamber (Book 9, Ch65 L63). |
+| Gap fill | Ch69 | Sophie argues for eradicating the worms rather than studying them (Book 9, Ch69 L3-4). Colin could use the devoured power of the World-Taker Worm Matriarch to awaken as a Voice of the Will (Book 9, Ch69 L55). |
+| Gap fill | Ch70 | Jason goes outside and takes in the bodies of the dead town (Book 9, Ch70 L3-5). He talks about the line he can go to without losing himself (Book 9, Ch70 L34). |
+| Gap fill | Ch83 | Barrier breaches spread across the city and Jason's team defends the entertainment district (Book 9, Ch83 L3-5). Gary leads a group and keeps it moving rather than securing kills (Book 9, Ch83 L18). |
+| Gap fill | Ch87 | Humphrey's second foray into the summons is far more powerful, though his Relentless Assault drains his mana (Book 9, Ch87 L3-5). Belinda uses Pit of the Reaper and her tethers (Book 9, Ch87 L25). |
+| Gap fill | Ch91 | Fal Vin Garath heads for the pyramid, sneering at his commander (Book 9, Ch91 L3). A harpoon drags him into the cloud stuff (Book 9, Ch91 L35). |
+| Gap fill | Ch95 | Jason enters Gordon's ritual diagram to prepare to become more fully an astral king (Book 9, Ch95 L3-6, L11). His soul declares itself and his aura floods the city (Book 9, Ch95 L41). |

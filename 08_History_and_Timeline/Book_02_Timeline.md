@@ -102,3 +102,16 @@ Chapter-by-chapter order of Book 2, with the in-world time wherever the text giv
 
 - The text states about four months since arrival at Ch9 (Book 2, Ch9 L67), roundings of "six months" at Ch14 and Ch37, and an eighteen-day trial window (Book 2, Ch44 L87), so Book 2 runs from about M4 (late March 2018) to about M6 (May-June 2018). The southern winter that opens Book 3 (Book 3, Ch1 L14) follows this.
 - The "Day N" labels in section 4 follow the text only at day 1 (arrival), day 12 (six days left, Book 2, Ch54 L6) and the eighteen-day limit (Book 2, Ch44 L87). Other rows are placed by chapter order. The Greenstone scenes of Ch59 happen in the city while the iron-rankers are away.
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch18 | Rick leads Clive and Belinda through the Geller grounds (Book 2, Ch18 L3). Clive reactivates the control system of a rune-covered block (Book 2, Ch18 L39, L54). |
+| Gap fill | Ch28 | Jason brings Neil to the cloud palace for a welcome lunch (Book 2, Ch28 L3-6). Humphrey tells Neil about Farrah's fall (Book 2, Ch28 L43). |
+| Gap fill | Ch35 | Jason and Sophie walk an embankment road in the delta while he talks about standing out and trust (Book 2, Ch35 L5-9, L27, L52). |
+| Gap fill | Ch51 | Clive's team climbs a precarious tall building and Valdis crosses to fasten the other end (Book 2, Ch51 L3, L26). They fight a wingless dragon-like creature in a circle (Book 2, Ch51 L40, L70). |
+| Gap fill | Ch64 | Jason uses his final awakening stone for Avatar of Doom (Book 2, Ch64 L3-5). Humphrey receives the awakening stone of the Reaper (Book 2, Ch64 L72). |
+| Gap fill | Ch66 | Emir tells Jason that his aura signature has changed (Book 2, Ch66 L8). Emir shows him a scar (Book 2, Ch66 L27). |

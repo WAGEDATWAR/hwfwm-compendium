@@ -121,3 +121,18 @@ All references in this section are to Book 11, Ch68. The order below follows the
 - Part II covers years. The stated intervals are chained inside the file: a year in the room for Lenora (L412), almost a year for Gary (L703), two years of team work (L1034), two years more on Earth (L1341), and two years on the empty road (L2244). They are not on one clock, so no total is asserted here.
 - **Open tension (Emi's age against the sword line)**: Emi is fifteen when Rufus arrives (L782) and was thirteen in spring 2020, so fifteen fits late 2022 to early 2023. Yet "six years since you first gave it to me" (L115) and Jason's age of 29 (Book 10, Ch33 L76) place the departure in late 2023 or 2024. Both statements are in the text; this file does not resolve them (see `Appendices/Open_Questions.md`).
 - Book 12 opens roughly twenty years after the arrival, in the world's own count (see `Book_12_Timeline.md`).
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch11 | Brighthearts and cultists gather under a stone arch with Neil standing between the faction leaders (Book 11, Ch11 L3-6). Neil proposes moving as a lean, elite force (Book 11, Ch11 L50). |
+| Gap fill | Ch14 | Belinda hides in a floating hollow log with ritual traps set around the elemental forest (Book 11, Ch14 L3-5). A gold-ranker roars in pain and Belinda expects her to hunt them (Book 11, Ch14 L6, L27). |
+| Gap fill | Ch15 | Kol Kelis Vel stomps to the pond and sees through Belinda's illusion of Cas Vin Baral (Book 11, Ch15 L3-7). Belinda scolds that an ordinary person would be dead (Book 11, Ch15 L68). |
+| Gap fill | Ch23 | Jason walks a forest path with the unnamed rabbit and talks about names (Book 11, Ch23 L3-6). He says they must find the avatar before the Undeath high priest takes control of it (Book 11, Ch23 L65). |
+| Gap fill | Ch31 | In the Escher-like castle Garth trapped them in, Jason watches Garth cross a bridge (Book 11, Ch31 L3). Boris warns that the avatar is moving fast (Book 11, Ch31 L67). |
+| Gap fill | Ch45 | Lightning storms keep the adventurers working at the shattered array while Jason feeds its remains into his cloud flask (Book 11, Ch45 L3-5). A listener tells Mrs Remore her account of Jason is not hopeful (Book 11, Ch45 L45). |
+| Gap fill | Ch47 | Gary, Miriam and Arabelle defeat an odd round purple boss anomaly by draining its mana (Book 11, Ch47 L3-7). Miriam asks Jason to claim the territory so they can return to base (Book 11, Ch47 L104). |
+| Gap fill | Ch68 | Jason leaves the world after thanking Gary for the sword (Book 11, Ch68 L115). The book ends with the System message (Book 11, Ch68 L2540). |

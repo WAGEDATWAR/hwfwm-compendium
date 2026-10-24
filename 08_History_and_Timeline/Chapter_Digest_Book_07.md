@@ -9,7 +9,7 @@ Related: Book_07_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 65 of 66 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 66 of 66 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -56,7 +56,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch41, Murky Waters**: Jason reads the emotions in the auras around Kasper Irios, a peak bronze-ranker (Book 7, Ch41 L3). The Adventure Society Director is a prominent position (Book 7, Ch41 L73)
 - **Ch42, Integrity is Forever**: Soramir says several months earlier the Builder cult started a project buried under an uninhabited island (Book 7, Ch42 L29). Integrity is forever." (Book 7, Ch42 L92)
 - **Ch43, How Deep a Hole**: The Geller family will accommodate the outworlders at their fortified estate (Book 7, Ch43 L62). Vesper says a very annoying man is at the crux of certain events (Book 7, Ch43 L84)
-- **Ch44, The Part That Knows How to Quit**: Title only; no summary yet (Book 7, Ch44).
+- **Ch44, The Part That Knows How to Quit**: Liara, Vesper, Trenchant and Liara's teammates assess Jason in a conference room (Book 7, Ch44 L3-5). Trenchant says he would run from an affliction skirmisher (Book 7, Ch44 L23).
 - **Ch45, Bad Apples**: Jason tells Liara that being a child of farmers and immigrants does not make him less worthy of respect (Book 7, Ch45 L61)
 - **Ch46, Idiot Plan**: Farrah says they could just walk away: turn the house into a boat (Book 7, Ch46 L19). The royal guards step from the pier to the boat (Book 7, Ch46 L40)
 - **Ch47, The Days They Sing Songs About**: Jeni Kavaloa, gold-rank expedition leader, checks her pocket watch (Book 7, Ch47 L33). Orin Pensinata stands impassively apart from the guild group (Book 7, Ch47 L39)

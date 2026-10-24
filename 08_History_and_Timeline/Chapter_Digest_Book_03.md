@@ -9,7 +9,7 @@ Related: Book_03_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 62 of 69 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 69 of 69 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
@@ -18,19 +18,19 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch3, Adventurers Are People Too**: Inspector Gert assigns Jason a road contract, with the promotion to be reinstated on its completion (Book 3, Ch3 L50)
 - **Ch4, Valkyrie**: Valdis and Sigrid are the first to fall in the final mirage match (Book 3, Ch4 L44).
 - **Ch5, Departures**: The Mirror King marches his son to Hastor's glass portal (Book 3, Ch5 L50). Henrietta's fourth familiar is bonded to her (Book 3, Ch5 L70)
-- **Ch6, No Pot of Gold**: Title only; no summary yet (Book 3, Ch6).
+- **Ch6, No Pot of Gold**: A rainbow manifestation opens over Old City and Henrietta directs the adventurers who respond (Book 3, Ch6 L3-5). Filthy water geysers up and the team fights the monster (Book 3, Ch6 L15, L20).
 - **Ch7, The Glory of Success or the Price of Failure**: Bertrand is the ranking adventurer at an elemental manifestation in Old City (Book 3, Ch7 L3). Henrietta says remote areas have been neglected "given the events of recent months" (Book 3, Ch7 L5).
 - **Ch8, Adequate**: Clive suggests Jason go without his umbrella to break the drowning reflex (Book 3, Ch8 L58).
 - **Ch9, Trash Bonanza**: The team crosses the empty desert in a heavy skimmer (Book 3, Ch9 L53)
-- **Ch10, Strangeness**: Title only; no summary yet (Book 3, Ch10).
-- **Ch11, Full Circle**: Title only; no summary yet (Book 3, Ch11).
+- **Ch10, Strangeness**: The team clears adventure notices town to town while Henrietta breaks down their weaknesses (Book 3, Ch10 L3). Belinda and Clive set rune traps for a monster (Book 3, Ch10 L23).
+- **Ch11, Full Circle**: The team faces six-legged desert horde lizards and Henrietta pairs Jason with Belinda (Book 3, Ch11 L3-7). Belinda casts Jason's spell on a second lizard (Book 3, Ch11 L26).
 - **Ch12, Regretting it Later**: The grounds of the Vane Estate are wilting, with leaves "the brown, red and yellow of deep autumn" (Book 3, Ch12 L16). Neil asks how Jason has old friends after "Three days, six months ago" (Book 3, Ch12 L95)
 - **Ch13, Swat**: An Oasis Tyrant, an elemental like a statue carved from water with rock floating through it, appears at the quarry village (Book 3, Ch13 L14). The objective is to delay it until the villagers escape or help arrives (Book 3, Ch13 L17)
 - **Ch14, The Purpose of the Adventure Society**: Neil says Jason has a soul scar and has slept four days (Book 3, Ch14 L9). He receives the title Resolute (Book 3, Ch14 L81)
 - **Ch15, Elven Storage Solutions**: Midnight Eyes reaches Bronze 0 (Book 3, Ch15 L47)
 - **Ch16, Disbanded**: Clarissa Ventress had been extremely quiet even before the purge, having pushed into Silva's territory in the summer (Book 3, Ch16 L6). Word that she is dead spread "just over a week ago" (Book 3, Ch16 L7)
 - **Ch17, The Man Behind the Mouth**: Jason is held in a dark stone box with a heavy steel door (Book 3, Ch17 L3). Coburn is solid, and Jerrick has real potential (Book 3, Ch17 L16)
-- **Ch18, Search**: Title only; no summary yet (Book 3, Ch18).
+- **Ch18, Search**: Killian prepares to use the star seed on Jason hanging from a spike (Book 3, Ch18 L3-4). Silva asks how Killian learned a Builder cult ritual (Book 3, Ch18 L6-7).
 - **Ch19, Defiance**: Killian tells Silva that Jason may be trying to regain admittance to the Adventure Society (Book 3, Ch19 L92). Jason reflects on enduring pain after six months of suffering (Book 3, Ch19 L3)
 - **Ch20, Hanging Around**: Jason is emaciated and covered in blood (Book 3, Ch20 L9). Silva has brutal strangulation marks and multiple stab wounds (Book 3, Ch20 L41)
 - **Ch21, What Doesn’t Kill You**: Rufus confirms that Jason's aura power has reached bronze (Book 3, Ch21 L59); Gary thinks it may be stronger than his own (Book 3, Ch21 L60). Jason wakes to morning light through a transparent ceiling (Book 3, Ch21 L97) and lies on a cloud lounger on a mild winter day (Book 3, Ch21 L102)
@@ -55,14 +55,14 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch40, Brave Little Tailor**: The team uses its "Brave Little Tailor" tactic against larger groups (Book 3, Ch40 L138).
 - **Ch41, Terms of the Pact**: Zato invokes the pact: Nicolas Hendren will lead his people when the tunnel finishes (Book 3, Ch41 L84)
 - **Ch42, Trading Safety Today For Death Tomorrow**: The first legendary-set site is a subterranean forge complex (Book 3, Ch42 L6).
-- **Ch43, Stalwart**: Title only; no summary yet (Book 3, Ch43).
+- **Ch43, Stalwart**: Spider constructs emerge from holes in the floor, and Clive and Belinda cast rune traps (Book 3, Ch43 L3-6).
 - **Ch44, I’m Sick of Fighting Magic Rocks**: Tartarian constructs rise from the floor (Book 3, Ch43 L23), and a poison cloud inflicts Breath of Tartarus (Book 3, Ch44 L25).
 - **Ch45, Crossing the Threshold**: In a circular chamber a stone plinth holds a block with a sword (Book 3, Ch45 L16) Neil and Jason meditate, anticipating ascension to bronze (Book 3, Ch45 L72).
 - **Ch46, Anyone Can Be Useful**: Dread Salvation advances from iron to bronze rank (Book 3, Ch46 L26).
 - **Ch47, A Series of Familiar Powers**: Shade is not visibly changed in his new bronze-rank vessel (Book 3, Ch47 L3).
-- **Ch48, It’s Not About Killing Monsters**: Title only; no summary yet (Book 3, Ch48).
+- **Ch48, It’s Not About Killing Monsters**: The team hears monsters approaching through the jungle and gathers on a stone platform (Book 3, Ch48 L3-6). Clive's first spell covers the platform, including summons (Book 3, Ch48 L53).
 - **Ch49, Sin Eater**: The Amulet of the Dark Guardian is a bronze growth item (Book 3, Ch49 L77).
-- **Ch50, The Most Dangerous Thing in the Dark**: Title only; no summary yet (Book 3, Ch50).
+- **Ch50, The Most Dangerous Thing in the Dark**: Jason's recovery power heals the front line and he singles out the sturdier bronze-rank monsters (Book 3, Ch50 L3-4). Colin devours vampires while Clive keeps Onslow on the ground monsters (Book 3, Ch50 L54-61).
 - **Ch51, The Boss Comes to Town**: Humphrey says no one expected the suicide rush from the cultists (Book 3, Ch51 L32). In the ritual with Dougall at the centre and Zato and Timos on opposite sides, the sigils on the three robes light (Book 3, Ch51 L85).
 - **Ch52, It’s Very Complicated and You All Need to Go Away**: The team stores a huge metal plate found in the cultist camp (Book 3, Ch52 L66).
 - **Ch53, Strong Foundations**: Clive is certain Landemere Vane made it (Book 3, Ch53 L12) and estimates the tunnel will take "at least a month" but less than three (Book 3, Ch53 L36). The first silver-rank monsters the team fights are headless jungle cats (Book 3, Ch53 L58)

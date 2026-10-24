@@ -108,3 +108,11 @@ Chapter-by-chapter order of Book 8, with the in-world time wherever the text giv
 
 - The text names two durations for the convalescence and the dinner at Ch62 ("the last two months", Book 8, Ch62 L52) and "weeks ago" for the Builder's withdrawal (Book 8, Ch59 L6). Book 8 therefore covers about three months after the One Day War: roughly January to April 2022 by the calendar anchors, with the end of the surge close.
 - The labels "Opening", "Early", "Mid" and "Convalescence" are chapter-order placements; the book gives no dates for the mining complex raid, the stronghold raid or the negotiation with the Builder, but orders them clearly: the raid (Ch30 to Ch38), the portal (Ch39), Jason's collapse and recovery (Ch40 to Ch53), the deal (Ch54 to Ch55) and the aftermath (Ch56 to Ch68).
+
+## Additional chapter rows (digest gap fill)
+
+Rows added in the chapter-digest pass for chapters that had no timeline row. Each cites the chapter lines it summarises.
+
+| When | Chapters | Event |
+|---|---|---|
+| Gap fill | Ch63 | Liara's family dines in Jason's cloud house, and Jason tells how Liara's leak of his route led to a Purity ambush (Book 8, Ch63 L3-8). |

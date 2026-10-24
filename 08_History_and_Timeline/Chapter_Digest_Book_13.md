@@ -9,12 +9,12 @@ Related: Book_13_Timeline.md, Master_Timeline.md, ../Appendices/Source_Map.md
 
 ## 1. How to use this digest
 
-One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 74 of 75 chapters have a summary sentence; the rest are titles only.
+One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations. Use it to find which chapter covers an event, then open the chapter file or the timeline for detail. It quotes no passages. Coverage in this book: 75 of 75 chapters have a summary sentence; the rest are titles only.
 
 ## 2. Chapters
 
 - **Ch950, A Person the Other Used to Know**: Erika asks whether Jason must get back to Australia, where he has things left to do (Book 13, Ch950 L41)
-- **Ch951, Messy but Delicious**: Title only; no summary yet (Book 13, Ch951).
+- **Ch951, Messy but Delicious**: Jason comforts a nervous Nik in a cloud ship corridor (Book 13, Ch951 L3-6). Emi's parents pry her off Nik while Hana and Jace look on (Book 13, Ch951 L70).
 - **Ch952, All Your Well-Learned Politesse**: Jason says his personal universe holds a space station (Book 13, Ch952 L35)
 - **Ch953, Perfect Humanoid Specimens**: The Australian security team returns through the portal to report, and Jason sends Lu Yan through a separate portal (Book 13, Ch953 L3)
 - **Ch954, Misgivings**: Boris contemplates events from the Cabal's main headquarters in what was the Democratic Republic of Congo (Book 13, Ch954 L20). The Cosmic Throne detour gave Earth fifteen extra years to prepare (Book 13, Ch954 L17)
