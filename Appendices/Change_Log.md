@@ -592,6 +592,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Length is shorter than the plan's 3-6 pages (about 600-1,000 words each); they are meant as starting points and link to the timelines for detail.
 - Open: the era guides do not repeat plot hooks; hooks stay in `Plot_Hooks.md` (item 4.3).
 
+**War and crisis files, build plan item 3.2 (2026-10-24)**
+- Added `08_History_and_Timeline/Crises/` with `One_Day_War.md` (the War of Four Cities, Book 7), `Boko_Evacuation.md` (Book 12), `Messenger_War.md` (Books 7-13) and `Vampire_War.md` (collects the duration statements behind Open_Questions item 19 and points to the era guide). The Battle of Yaresh is covered by `Era_Guides/Battle_of_Yaresh.md` and the Messenger War file; no separate crisis file was written for it.
+- Open: casualty numbers for the One Day War and Boko; the first vampire war's length.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

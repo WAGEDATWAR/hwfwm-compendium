@@ -35,6 +35,13 @@ The list below is generated from the folder contents (`src/tools/overviews.py`).
 - [Book 13 Timeline: Jason on Earth in 2038](Book_13_Timeline.md) (spoiler level 3)
 - [Master Timeline](Master_Timeline.md) (spoiler level 3)
 
+**Crises/**
+
+- [The Boko Evacuation (Book 12)](Crises/Boko_Evacuation.md) (spoiler level 3): Boko is destroyed on the day an assassin spears Jason's avatar there.
+- [The Messenger War (Books 7-13)](Crises/Messenger_War.md) (spoiler level 3): The messenger war is the long conflict between the winged servants of the astral kings and the people of Pallimustus, with Jason caught between them as a...
+- [The One Day War (War of Four Cities)](Crises/One_Day_War.md) (spoiler level 2): During the Rimaros monster surge, the Builder cult sends mobile cities against the Storm Kingdom: a ground city that walks south, an underwater city and a...
+- [The Vampire War (Books 5-13)](Crises/Vampire_War.md) (spoiler level 3): The Earth vampire war runs in two phases: a first war that "ended without conclusion" when both sides were exhausted and the vampires got nuclear weapons,...
+
 **Era_Guides/**
 
 - [Era Guide: The Battle of Yaresh (Book 9)](Era_Guides/Battle_of_Yaresh.md) (spoiler level 2): After a four-month journey south from Rimaros, Jason's convoy reaches the rainforest elf city of Yaresh as messengers besiege it.
