@@ -600,6 +600,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Extended `08_History_and_Timeline/Master_Timeline.md` with four new sections instead of rewriting it, since the existing sections 1-7 already held the verified anchors: section 8 (month-count summary by book), section 9 (rank and level checkpoints for core characters, each with the first cited line), section 10 (the Book 11 Part II clock) and section 11 (corrections recorded in later passes).
 - Decision recorded in section 10: a working convention (editorial, not a book statement) places Jason's void departure in late 2023 and runs the Earth-side threads from Rufus and Taika's arrival; Emi's "fifteen" is treated as the outlier. The void threads stay on their own clock. Open_Questions is unchanged.
 
+**Rank and progression tracks, build plan item 3.4 (2026-10-24)**
+- Added `03_Magic_and_Adventuring/Progression_Tracks.md`: the first line for each of Jason's four essences, his twenty abilities, his rank steps and other major gains, and a table for Sophie, Belinda, Clive and a few others. Sanguine Horror, Haemorrhage, Castigate, Punition and Verdict are given as "first shown" because the awakening message was not found. Gold rank is dated only by the later report of a day of golden light.
+- Gary, Rufus, Farrah, Taika, Humphrey and Neil's full tracks are not in this file; their character files hold what is known.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

@@ -98,6 +98,7 @@ Magic in the world is raw power from the astral. In a magic-rich world it conden
 - [Jason's Power Set at Gold](Jason_Power_Set_Reference.md) (spoiler level 3): The appendices of Book 12 are the only complete statement of one character's essence abilities across all ranks.
 - [Monster Cores and Training](Monster_Cores_and_Training.md) (spoiler level 0): An essence user can grow in power in two ways.
 - [Monsters](Monsters.md) (spoiler level 0): Monsters are the most common way magic manifests in a magic-rich world.
+- [Progression Tracks: When Rank, Essence and Ability Were Gained](Progression_Tracks.md) (spoiler level 2): This file records, for Jason and a few teammates, the first chapter where each rank, essence and ability appears.
 - [Ranks and Advancement](Ranks_and_Advancement.md) (spoiler level 0): Rank is the world's measure of power.
 - [Rituals, Arrays and Formations](Rituals_Arrays_and_Formations.md) (spoiler level 0): Ritual magic is the practice of drawing a diagram, a circle with lines and glyphs, and powering it with external magic to do something an essence ability...
 - [Skill Books and Learning](Skill_Books_and_Learning.md) (spoiler level 0): A skill book is a consumable magical book that implants knowledge directly into the reader.
