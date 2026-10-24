@@ -58,7 +58,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Emir Bahadir](Emir_Bahadir.md) (spoiler level 2): Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and owner of a cloud ship and palace that becomes Jason's team's base.
 - [Erigo Fin Desca](Erigo_Fin_Desca.md) (spoiler level 3): Erigo Fin Desca is the Builder's new prime vessel, a former messenger of the Unorthodoxy heavily modified by the Builder after Shako was taken by the...
 - [Erika Asano](Erika_Asano.md) (spoiler level 3): Erika Asano is Jason's older sister, a television presenter living in Melbourne, married to Ian Evans, mother of Emi.
-- [Estella Warnock](Estella_Warnock.md) (spoiler level 0): A Livaros spy and scout with fourfold senses who works for Jason's team and later marries Belinda.
+- [Estella Warnock](Estella_Warnock.md) (spoiler level 3): Estella Warnock is a Livaros spy and urban scout with fourfold senses who works for Jason's team and later marries Belinda.
 - [Fal Vin Garath](Fal_Vin_Garath.md) (spoiler level 2): Fal Vin Garath is a silver-rank messenger master who is abusive but within the bounds his peers accept.
 - [The Familiars: Shade, Colin, Gordon and Stash](Familiars.md) (spoiler level 0): A familiar is a purely magical creature from the deep astral given a body by a summoning (Clive, Book 1, Ch69 L85-107).
 - [Farrah Hurin](Farrah_Hurin.md) (spoiler level 0): Farrah Hurin (also spelt Huren) is a small, pale, strawberry-blonde ritual magician from Vitesse.
@@ -88,8 +88,8 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): Jamis Fran Muskar is an astral king whose avatar attends the Builder's observation scene, berates defiant messengers and, in Book 13, advises Jason on...
 - [Jason Asano](Jason_Asano.md) (spoiler level 0): Jason Asano is the series' protagonist: an Australian from the coastal town of Casselton Beach who, at twenty-three, is pulled across the cosmos to...
 - [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): Jeni Kavaloa is the gold-rank leader of the mixed-force surge expedition in Book 7.
-- [Jes Fin Kaal](Jes_Fin_Kaal.md) (spoiler level 2): A gold-rank messenger ritualist and Voice of the Will who leads the messengers' dealings with Yaresh.
-- [Jonah Geller](Jonah_Geller.md) (spoiler level 0): A heavy-armoured Geller family fighter on Rick's team who is captured by the Builder cult and dies when the star seed is extracted.
+- [Jes Fin Kaal](Jes_Fin_Kaal.md) (spoiler level 3): Jes Fin Kaal is a gold-rank messenger ritualist and Voice of the Will who leads the messengers' dealings with Yaresh.
+- [Jonah Geller](Jonah_Geller.md) (spoiler level 3): Jonah Geller is a heavy-armoured Geller family fighter on Rick's team who is captured by the Builder cult and dies when the star seed is extracted.
 - [Jory Tillman](Jory_Tillman.md) (spoiler level 3): Jory Tillman is Greenstone's gentle alchemist and clinic-runner, Jason's first friend, and later Belinda's boyfriend.
 - [Jota Withers](Jota_Withers.md) (spoiler level 3): Jota Withers is a gold-rank dimension ship captain in a pirate admiral's service who is sent to Earth in Book 12.
 - [Kaito Asano](Kaito_Asano.md) (spoiler level 2): Kaito Asano is Jason's older brother, a year his senior, married to Amy, with two daughters, Hana and Jace.
@@ -109,10 +109,10 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Lorenn](Lorenn.md) (spoiler level 3): Lorenn is the last councilwoman of the brighthearts of Cardinas and, after Jason's intervention, the leader of her people.
 - [Lorus](Lorus.md) (spoiler level 3): Lorus is a fire-aspect brightheart who claims a territory in the unified battlefield and wants all the power.
 - [Lucian Lamprey](Lucian_Lamprey.md) (spoiler level 2): Lucian Lamprey is the corrupt director of Greenstone's Magic Society branch, an elf with a fighter's physique "banished to Greenstone for previous...
-- [Marcus Hargrave Xenoria](Marcus_Hargrave_Xenoria.md) (spoiler level 2): A massive leonid troubleshooter for the Adventure Society's continental council, sent to Yaresh to break the aristocrats' hold and an ally of Jason there.
+- [Marcus Hargrave Xenoria](Marcus_Hargrave_Xenoria.md) (spoiler level 3): Marcus Hargrave Xenoria is a massive leonid troubleshooter for the Adventure Society's continental council, sent to Yaresh to break the aristocrats' hold.
 - [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 3): Marek Nior Vargas is a gold-rank messenger commander who leads the breach force over Yaresh's entertainment district in Book 9.
 - [Marie Finnegan](Marie_Finnegan.md) (spoiler level 3): Marie Finnegan is the recently expelled director of the Zurich Network branch who ran a secret programme working with Elizabeth and Simon McKean.
-- [Marla](Marla.md) (spoiler level 3): A fire-aspect brightheart who commands the brightheart military defending Cardinas.
+- [Marla](Marla.md) (spoiler level 3): Marla is a fire-aspect brightheart who commands the brightheart military defending Cardinas.
 - [Melody Jain](Melody_Jain.md) (spoiler level 3): Melody Jain is Sophie's mother, who faked her death twenty years before Book 6 and then led the Order of Redeeming Light in the Storm Kingdom, brainwashed...
 - [General Michael Mills](Michael_Mills.md) (spoiler level 3): General Michael Mills of the United States Army is the operational commander of the EDJI's largest military action to date, the war against the vampires in...
 - [Miles Cotezee](Miles_Cotezee.md) (spoiler level 3): Miles Cotezee is a senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the Book 7 surge.
