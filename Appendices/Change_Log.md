@@ -557,6 +557,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Fixes found along the way: Akari is Itsuki Tiwari's wife (Book 13, Ch1004), which the two older files had not said; the Network's Keith and Humphrey's father Keith Geller are now told apart; several relationship lines that overstated their cites were reworded.
 - Left in their earlier layout because they already hold 6 or more cited facts and the section numbering differs only cosmetically: `Dawn.md`, `Anna_Tilden.md`, `Boris_Ket_Lundi.md`, `Knowledge.md`, and the grouped files `Baseph_and_the_Rimaros_Children.md` and `Hannah_and_Claire_Adeah.md`. The 2E.2 individual files (Lorenn, Remy, Sendira and the rest) and the Minor_Cast group files were already complete.
 
+**Relationship files, build plan item 2E.5 (2026-10-24)**
+- Added `07_Characters/Relationships/` with `Family_Trees.md` (Asano and Evans line, Remore, Geller, Mercer circle, Rimaros royal house), `Romances_and_Rivalries.md` (marriages, break-ups, standing rivalries) and `Teams_by_Era.md` (Team Biscuit, Rick's, Beth's, Padma's, Shining Scabbard, Storm Shredder, Moon's Edge, Emir's old team, Nigel's unit). Every link is drawn from a cited line in the character files, with a few re-read in the chapters.
+- Not stated in the lines read, and noted as such in the files: how the Japanese Asano patriarch's line connects to Ken and Hiro, any romance between Jason and Farrah, and a full Moon's Edge roster. The Noriko/Yumi "matriarch" overlap stays an open point.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

@@ -179,6 +179,12 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Order of Redeeming Light Members](Minor_Cast/Minor_Cast_Order_of_Redeeming_Light.md) (spoiler level 2): The named members of Melody Jain's Sea of Storms contingent. Entries: Laront, Esteban Galo, Fila, Ramona, Rhett and Jaime, Caitlyn, Heston, Marika and Elise, Kelleigh.
 - [Greenstone and Academy Team Members](Minor_Cast/Minor_Cast_Remore_Academy_and_Greenstone_Teams.md) (spoiler level 1): The named members of Beth Cavendish's and Padma Parsell's teams. Entries: Mose Cavendish, Niko, Emily, Lance and Oscar.
 
+**Relationships/**
+
+- [Family Trees](Relationships/Family_Trees.md) (spoiler level 3): This file gathers who is related to whom in the six family lines roleplay needs most: the Asano family (with the Evans line through Erika), the Remores, the...
+- [Romances and Rivalries](Relationships/Romances_and_Rivalries.md) (spoiler level 3): This file lists romantic ties and standing rivalries between named characters, in the order a reader meets them.
+- [Teams by Era](Relationships/Teams_by_Era.md) (spoiler level 3): This file lists the named adventuring teams and who was on them, by era.
+
 <!-- files:end -->
 
 ## 3. Conventions
