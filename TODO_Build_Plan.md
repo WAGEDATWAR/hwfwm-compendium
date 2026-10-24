@@ -119,7 +119,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 
 ## Tier 4: Roleplay and use-ready products
 
-- **4.1 Era starter packs (L).** For each era in `Era_Selection.md`: one page of setting, three starting situations from `Plot_Hooks.md`, a cast list with voice cues, dangers, what the characters know, and spoiler-safe language for the narrator.
+- **4.1 (Done 2026-10-24) Era starter packs (L).** For each era in `Era_Selection.md`: one page of setting, three starting situations from `Plot_Hooks.md`, a cast list with voice cues, dangers, what the characters know, and spoiler-safe language for the narrator.
 - **4.2 NPC cards (M, suggested).** A half-page card per recurring NPC with appearance, voice cue, goal, secret and valid-from/through, generated from the character files.
 - **4.3 Expand `Plot_Hooks.md` to 3-5 hooks per era, with a branching-outcome note (M).** Keep the rule that hooks state no outcome the books do not give.
 - **4.4 Secrets and rumours sheets (M).** Per era, the true facts, the common beliefs and the lies in circulation (Emir's account of the Order against Shade's, the churches' story of Purity).

@@ -37,4 +37,14 @@ Start from the era table, then check each character's "valid from" book before y
 - [Tone and Voice Notes](Tone_and_Voice.md) (spoiler level 0): The register the books use, how forms of address work, and a condensed voice note for the main speakers, each tied to a line.
 - [Who Knows What, and When (by Group)](Who_Knows_What_When.md) (spoiler level 3): This matrix follows the series' main secrets across groups of people, not individuals.
 
+**Starter_Packs/**
+
+- [Starter Pack: Era 1, Greenstone (Books 1-2)](Starter_Packs/Era_1_Greenstone.md) (spoiler level 1)
+- [Starter Pack: Era 2, Bronze and the Builder (Book 3)](Starter_Packs/Era_2_Bronze_and_the_Builder.md) (spoiler level 1)
+- [Starter Pack: Era 3, Earth (Books 4-6)](Starter_Packs/Era_3_Earth.md) (spoiler level 2)
+- [Starter Pack: Era 4, Rimaros (Books 7-8)](Starter_Packs/Era_4_Rimaros.md) (spoiler level 2)
+- [Starter Pack: Era 5, Yaresh and the Messengers (Books 9-10)](Starter_Packs/Era_5_Yaresh.md) (spoiler level 3)
+- [Starter Pack: Era 6, The Cardinas Zone (Books 10-11)](Starter_Packs/Era_6_Cardinas.md) (spoiler level 3)
+- [Starter Pack: Era 7, The Return (Books 12-13)](Starter_Packs/Era_7_The_Return.md) (spoiler level 3)
+
 <!-- files:end -->

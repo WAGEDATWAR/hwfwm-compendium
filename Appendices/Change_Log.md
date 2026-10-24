@@ -620,6 +620,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Read a sample of lines from each of the 70 title-only chapters and added a cited one- or two-sentence summary for each, held in `src/tools/digest_fill.py` and written as an "Additional chapter rows" section at the end of the matching `Book_NN_Timeline.md` (Books 1-11 and 13). All 987 chapters now have a digest entry.
 - These sentences come from a sample of each chapter's lines, not a full read, so they are less complete than the older timeline rows; a few register rows are marked "near". The Book 12 Ch65 and Book 13 Ch951 original rows are still to be tightened.
 
+**Era starter packs, build plan item 4.1 (2026-10-24)**
+- Added `10_Roleplay_Support/Starter_Packs/` with seven packs, one per era in `Era_Selection.md`: Greenstone, Bronze and the Builder, Earth, Rimaros, Yaresh, Cardinas and the Return. Each has the setting, three starting situations drawn from `Plot_Hooks.md`, a cast list with voice cues, live dangers, what the characters know (from the knowledge tables), spoiler-safe narrator language and what to leave closed. All facts come from earlier cited files; no new book reading was done.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
