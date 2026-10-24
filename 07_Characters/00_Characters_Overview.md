@@ -40,7 +40,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Carlos Quilido](Carlos_Quilido.md) (spoiler level 3): Carlos Quilido is a gold-rank priest of the Healer and the world's leading specialist in soul damage, star seeds and aura conditions.
 - [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 3): Cassandra Mercer is Thalia's daughter and Thadwick's older sister, an adventurer who becomes Jason's first romance on Pallimustus, ends it when her family...
 - [Charist](Charist.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more social of the pair.
-- [Cheryl Asano](Cheryl_Asano.md) (spoiler level 1): Jason's mother, from a large Australian farming and mining family, and the one in the family fascinated with Japan.
+- [Cheryl Asano](Cheryl_Asano.md) (spoiler level 2): Cheryl Asano is Jason's mother, from a large Australian farming and mining family.
 - [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 3): Chloe Baudrillard is a French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 while healing patients in a quarantine tent.
 - [Clarissa Ventress](Clarissa_Ventress.md) (spoiler level 0): A crime lord of Old City who holds Sophie's indenture.
 - [Clive Standish](Clive_Standish.md) (spoiler level 0): Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised on an eel farm, who becomes Jason's team's ritualist and astral-magic scholar.
@@ -83,7 +83,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
 - [Humphrey Geller](Humphrey_Geller.md) (spoiler level 0): Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for...
 - [Ian Evans](Ian_Evans.md) (spoiler level 3): Ian Evans (Evans-Asano) is Jason's brother-in-law, Erika's husband and Emi's father.
-- [Itsuki Tiwari](Itsuki_Tiwari.md) (spoiler level 1): A young Japanese essence user who idolises Jason and has a doom confluence.
+- [Itsuki Tiwari](Itsuki_Tiwari.md) (spoiler level 3): Itsuki Tiwari is a young Japanese essence user from the Tiwari clan, an admirer of Jason with a doom confluence.
 - [Jameela](Jameela.md) (spoiler level 3): Jameela is a priestess of Undeath, Garth Larosse's most trusted subordinate, tall and elegant, capable and quick to learn.
 - [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): An astral king whose avatar attends the Builder's observation scene and who berates defiant messengers.
 - [Jason Asano](Jason_Asano.md) (spoiler level 0): Jason Asano is the series' protagonist: an Australian from the coastal town of Casselton Beach who, at twenty-three, is pulled across the cosmos to...
@@ -96,7 +96,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
 - [Kasper Irios](Kasper_Irios.md) (spoiler level 0): A peak-bronze heir of House Irios whom Jason meets after the Zara marriage scandal.
 - [Keith Geller](Keith_Geller.md) (spoiler level 0): Humphrey's father, a solid and reliable counterpoint to Danielle.
-- [Ken Asano](Ken_Asano.md) (spoiler level 1): Jason's father, a Japanese-born Australian landscape architect.
+- [Ken Asano](Ken_Asano.md) (spoiler level 3): Ken Asano is Jason's father, a Japanese-born Australian landscape architect who embraces the Australian lifestyle with convert's zeal.
 - [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): An analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
 - [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.

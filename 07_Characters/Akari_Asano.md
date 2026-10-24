@@ -5,7 +5,7 @@ Spoiler level: 3
 Valid from: Book 5
 Valid through: Book 13
 Sources: Books 5, 6, 13 (chapter files)
-Related: Yumi_Asano.md, Jason_Asano.md, Dawn.md, Valdis_Volaire.md, Kaito_Asano.md, ../05_Organisations/The_Network.md
+Related: Yumi_Asano.md, Jason_Asano.md, Dawn.md, Valdis_Volaire.md, Itsuki_Tiwari.md, Kaito_Asano.md, ../05_Organisations/The_Network.md
 
 ## 1. Summary
 
@@ -37,18 +37,19 @@ Not described in detail in the lines read; she crouches on rooftops (Book 5, Ch1
 ## 6. Timeline of involvement
 
 - **Book 5**: she watches Jason pass on a rooftop (Book 5, Ch12 L18); Jason says her clan should have sent her home (Book 5, Ch12 L83); spars with him (Book 5, Ch21 L24); chases him across the slum rooftops (Book 5, Ch26 L50); the Tiwari trip (Book 5, Ch36 L63).
-- **Book 13**: wears the sword Valdis gave her (Book 13, Ch1004 L3).
+- **Book 13**: wears the sword Valdis gave her; her husband Itsuki leaves her three weeks before she notices (Book 13, Ch1004 L3-9).
 
 ## 7. Relationships
 
 - **Jason**: sparring partner and relative (Book 5, Ch21 L24).
 - **Dawn**: spars with her (Book 5, Ch21 L106).
+- **Itsuki Tiwari**: her husband, who tells her "your life doesn't have room for me anymore" and moves out to join the vampire war (Book 13, Ch1004 L5-23).
 - **Valdis Volaire**: sword training partner for the past decade (Book 13, Ch1004 L3).
-- **Her father and grandmother**: the clan's patriarch and his mother (Book 5, Ch34 L70-100).
+- **Her father and grandmother**: the clan's patriarch, and her grandmother (Book 5, Ch34 L70-100).
 
 ## 8. Secrets and spoiler notes
 
-Nothing hidden in the lines read.
+Her years of sword training, after having her monster core residue removed, cost her marriage: "You love the sword" (Book 13, Ch1004 L16).
 
 ## 9. Roleplay notes
 
