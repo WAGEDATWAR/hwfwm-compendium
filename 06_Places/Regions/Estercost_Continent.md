@@ -27,7 +27,7 @@ Estercost is the kingdom whose capital Cyrion is the largest city in the world a
 
 ## 4. Magic and culture
 
-The books give no density figure for Vitesse; the wiki says it is much greater than Greenstone's (wiki; see ../Vitesse.md). For customs and dress see ../../04_Peoples_and_Cultures/Estercost_Culture.md and Vitesse_Culture.md.
+The books give no numeric density figure for Vitesse, but its monsters run to silver with frequent gold (Book 1, Ch30 L44; see ../Vitesse.md). For customs and dress see ../../04_Peoples_and_Cultures/Estercost_Culture.md and Vitesse_Culture.md.
 
 ## 5. Open questions
 

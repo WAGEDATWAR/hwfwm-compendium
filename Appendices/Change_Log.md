@@ -580,6 +580,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Locations by era, build plan item 2F.4 (2026-10-24)**
 - Added `06_Places/Locations_by_Era.md`: for the places that change (Greenstone, Boko, Cartise, Yaresh and Cardinas, Rimaros, the Earth sites, Estercost and a few others), their state in each of the seven eras from `Era_Selection.md`, with cites drawn from the place files. Open: whether other Era 1-2 places changed state by Era 7, and the timing of Cartise's fall.
 
+**Vitesse magic density, build plan item 2F.5 (2026-10-24)**
+- Searched the chapter text for Vitesse's density and found a rank band rather than a figure: typical monsters silver, as many golds as bronzes, occasional diamonds (Book 1, Ch30 L43-44); surge precursors show as gold-rank increases (Book 3, Ch26 L13); no adventurer below silver operates unsupervised (Book 12, Ch43 L68). Updated `Vitesse.md`, `00_Places_Overview.md`, `Regions/Estercost_Continent.md` and Open_Questions item 13 (narrowed, not closed). The wiki-only claim in the overview was replaced by the book evidence.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

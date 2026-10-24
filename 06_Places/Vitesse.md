@@ -27,7 +27,7 @@ Vitesse, in the kingdom of Estercost, is the City of Flowers, "located in what J
 
 ## 4. Magic level
 
-The books I searched give no figure for Vitesse; Gary and Farrah explain that Vitesse is a large city with a much greater magic density than the Greenstone area, which is why iron-rank adventurers there are not allowed to hunt alone (Book 1, Ch30 L44 for the silver-heavy monster mix; Book 2, Ch53 L27: Keane says iron-rankers in areas of high magic density are not allowed to hunt by themselves).
+The books give no numeric figure for Vitesse, but they give a rank band. Farrah says the area has a higher density of magic than Greenstone's region, so monsters are stronger on average (Book 1, Ch30 L43), and Gary says there "you get more silver rank monsters than anything. You see as many golds as you do bronze, and sometimes even diamond rank monsters" (Book 1, Ch30 L44). Compare Clive's rating of Greenstone as about mid-iron (Book 3, Ch34 L60). A surge precursor that shows as more silver-rank monsters in Greenstone shows as more gold-rank monsters in Vitesse (Book 3, Ch26 L13). Consequences: even bronze-rankers go out with a silver escort (Book 1, Ch30 L55), no adventurer below silver operates unsupervised (Book 12, Ch43 L68), monster manifestations are powerful and frequent across the whole region (Book 12, Ch43 L47), the Adventure Society detects them with a grid like Earth's (Book 12, Ch43 L48) and magical vehicles work for everyone on ambient magic (Book 7, Ch25 L3). Typical monster rank is therefore silver, with frequent gold and occasional diamond; this is a band, not a measured density figure.
 
 ## 5. History
 
