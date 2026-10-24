@@ -26,7 +26,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Amy Asano](Amy_Asano.md) (spoiler level 1): Kaito's wife and Jason's childhood best friend from next door.
 - [Anisa Lasalle](Anisa_Lasalle.md) (spoiler level 1): A zealous elf priestess of Purity from the Lasalle family who guides Rufus's party in Book 1, is thrown out for killing a captive, and dies serving the...
 - [Annabeth "Anna" Tilden](Anna_Tilden.md) (spoiler level 1-2): Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a member of its steering committee, serves as the Asano clan's UN...
-- [Arabelle Remore](Arabelle_Remore.md) (spoiler level 1): Rufus's mother, a priestess of the Healer who specialises in mental health and trauma recovery.
+- [Arabelle Remore](Arabelle_Remore.md) (spoiler level 3): Arabelle Remore is Rufus's mother, a gold-rank member of the Church of the Healer who specialises in mental health and trauma recovery.
 - [Argy (Emmett Dillivan)](Argy.md) (spoiler level 0): A fruit grower in Palisaros who calls himself Argy and brings Jason to the mayor.
 - [Asya Karadeniz](Asya_Karadeniz.md) (spoiler level 0): A school friend of Jason's and Network administrator who crews Kaito's helicopter and is killed in Book 5.
 - [Audrey Blaine](Audrey_Blaine.md) (spoiler level 3): A Network committee member ("Mrs South") who survives a failed secret programme in a cloned body and later directs the Asano clan's energy-vampire research.
@@ -37,7 +37,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Beth Cavendish](Beth_Cavendish.md) (spoiler level 1): A bronze-rank Greenstone adventurer and water healer who leads a team in the Ustei campaign and the City of Fallen Echoes.
 - [Boris Ket Lundi (Boris Ketland)](Boris_Ket_Lundi.md) (spoiler level 3): Boris Ket Lundi, who goes by Boris Ketland on Earth, is a messenger from Earth who is secretly one of the Unorthodoxy.
 - [Callum Morse](Callum_Morse.md) (spoiler level 2): A gold-rank stealth assassin, former teammate of Emir and of Rufus's parents, whose long hunt for Sophie's mother Melody Jain drives his later scenes.
-- [Carlos Quilido](Carlos_Quilido.md) (spoiler level 1): A priest of the Healer who helps Jason restore his soul and later develops the Quilido Procedure.
+- [Carlos Quilido](Carlos_Quilido.md) (spoiler level 3): Carlos Quilido is a gold-rank priest of the Healer and the world's leading specialist in soul damage, star seeds and aura conditions.
 - [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 0): Thalia's daughter and Thadwick's older sister, an adventurer.
 - [Charist](Charist.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more social of the pair.
 - [Cheryl Asano](Cheryl_Asano.md) (spoiler level 1): Jason's mother, from a large Australian farming and mining family, and the one in the family fascinated with Japan.
@@ -55,9 +55,9 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Elizabeth (vampire queen)](Elizabeth.md) (spoiler level 3): The gold-rank leader of the vampires who take Europe.
 - [Elspeth Arella](Elspeth_Arella.md) (spoiler level 0): The director of the Greenstone branch of the Adventure Society.
 - [Emi Evans-Asano](Emi_Evans_Asano.md) (spoiler level 2): Emi Evans-Asano is Jason's niece, the daughter of Erika and Ian Evans, whom Jason calls "Moppet".
-- [Emir Bahadir](Emir_Bahadir.md) (spoiler level 0): A gold-rank adventurer and patron of the Reaper contest whose cloud palace becomes Jason's team's base.
+- [Emir Bahadir](Emir_Bahadir.md) (spoiler level 2): Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and owner of a cloud ship and palace that becomes Jason's team's base.
 - [Erigo Fin Desca](Erigo_Fin_Desca.md) (spoiler level 3): The Builder's prime vessel, a former messenger of the Unorthodoxy heavily modified by the Builder.
-- [Erika Asano](Erika_Asano.md) (spoiler level 1): Jason's older sister, a television presenter whose daughter is Emi.
+- [Erika Asano](Erika_Asano.md) (spoiler level 3): Erika Asano is Jason's older sister, a television presenter living in Melbourne, married to Ian Evans, mother of Emi.
 - [Estella Warnock](Estella_Warnock.md) (spoiler level 0): A Livaros spy and scout with fourfold senses who works for Jason's team and later marries Belinda.
 - [Fal Vin Garath](Fal_Vin_Garath.md) (spoiler level 2): A silver-rank messenger master who is abusive but within the bounds his peers accept.
 - [The Familiars: Shade, Colin, Gordon and Stash](Familiars.md) (spoiler level 0): A familiar is a purely magical creature from the deep astral given a body by a summoning (Clive, Book 1, Ch69 L85-107).
@@ -66,7 +66,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Gabrielle Pellin](Gabrielle_Pellin.md) (spoiler level 0): An acolyte of Knowledge who is Humphrey's girlfriend and later a priestess.
 - [Garth Larosse](Garth_Larosse.md) (spoiler level 3): The High Priest of Undeath, a nine-foot skeletal undead built from the skeletons of a dozen monsters.
 - [Gary (Gareth Xandier) and Gary Sharpton](Gary.md) (spoiler level 0): Gareth "Gary" Xandier is an enormous leonid smith and warrior from Vitesse.
-- [Gerling](Gerling.md) (spoiler level 2): A US Network gold-ranker who kills Kaito, Asya and Greg in Book 5.
+- [Gerling (Jack Gerling)](Gerling.md) (spoiler level 3): Jack Gerling is a US Network category-four (gold-rank) essence user with an explosion-based power set, who kills Jason's brother, lover and best friend in...
 - [Gilbert Bertinelli](Gilbert_Bertinelli.md) (spoiler level 0): A Greenstone tailor who sells Jason his combat robe and later suits.
 - [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 2): A gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria and Jason.
 - [Greg](Greg.md) (spoiler level 0): An old school friend of Jason's who joins Kaito's crew and is killed in Book 5.
@@ -78,7 +78,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Henrietta Geller](Henrietta_Geller.md) (spoiler level 0): Humphrey's older sister, a stoic summoner.
 - [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): A silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
 - [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
-- [Hiro Asano](Hiro_Asano.md) (spoiler level 1): Jason's estranged uncle, the family's black sheep, who runs a Sydney bar and later manages the clan's relocation programme.
+- [Hiro Asano](Hiro_Asano.md) (spoiler level 3): Hiro Asano is Jason's uncle, a Sydney crime figure and the family's black sheep, who knew about hidden magic and the factions around it before Jason returned.
 - [Holly Macrossan](Holly_Macrossan.md) (spoiler level 2): Anna Tilden's successor at the UN Office of Supernatural Affairs, later liaison to the Multinational Supernatural Response Taskforce.
 - [Hudson Kettering](Hudson_Kettering.md) (spoiler level 1): Hudson Kettering is the huge earth-essence front-liner of Beth Cavendish's team and cousin of Dustin Kettering.
 - [Humphrey Geller](Humphrey_Geller.md) (spoiler level 0): Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for...
@@ -90,7 +90,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): A gold-rank expedition leader who runs a mixed surge expedition and seals an astral aperture with Jason's help.
 - [Jes Fin Kaal](Jes_Fin_Kaal.md) (spoiler level 2): A gold-rank messenger ritualist and Voice of the Will who leads the messengers' dealings with Yaresh.
 - [Jonah Geller](Jonah_Geller.md) (spoiler level 0): A heavy-armoured Geller family fighter on Rick's team who is captured by the Builder cult and dies when the star seed is extracted.
-- [Jory Tillman](Jory_Tillman.md) (spoiler level 0): A Greenstone alchemist who gives Jason a ride into the city and later builds a miracle-potion facility.
+- [Jory Tillman](Jory_Tillman.md) (spoiler level 3): Jory Tillman is Greenstone's gentle alchemist and clinic-runner, Jason's first friend, and later Belinda's boyfriend.
 - [Jota Withers](Jota_Withers.md) (spoiler level 3): A gold-rank dimension ship captain in a pirate admiral's service who is sent to Earth in Book 12.
 - [Kaito Asano](Kaito_Asano.md) (spoiler level 1): Jason's brother, married to Amy; he is killed in Book 5.
 - [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
@@ -104,7 +104,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Landemere Vane](Landemere_Vane.md) (spoiler level 1): The Vane heir whose failed summoning pulls Jason to Pallimustus.
 - [Lenora Coleman](Lenora_Coleman.md) (spoiler level 1): The bureaucrat who runs the dimensional artefact site in Australia.
 - [Li Li Mei](Li_Li_Mei.md) (spoiler level 2): A Chinese silver-ranker and daughter of Li Ning who deals with Jason on Earth in Books 4-6, ends up in Pallimustus, is found hiding in Boko, and becomes a...
-- [Liara Rimaros](Liara_Rimaros.md) (spoiler level 1): A gold-rank member of the Rimaros royal house who screens adventurers for Builder cultists.
+- [Liara Rimaros](Liara_Rimaros.md) (spoiler level 2): Liara Rimaros is a gold-rank Adventure Society special-operations officer and a lesser member of the Rimaros royal house.
 - [Lorelei Grantham](Lorelei_Grantham.md) (spoiler level 1): A researcher and later Vice-Dean and Vice Chancellor of astral magic research who recruits Clive, covers for his escape from Rakesh and becomes his partner...
 - [Lorenn](Lorenn.md) (spoiler level 3): Lorenn is the last councilwoman of the brighthearts of Cardinas and, after Jason's intervention, the leader of her people.
 - [Lorus](Lorus.md) (spoiler level 3): Lorus is a fire-aspect brightheart who claims a territory in the unified battlefield and wants all the power.
@@ -117,7 +117,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [General Michael Mills](Michael_Mills.md) (spoiler level 3): General Michael Mills of the United States Army is the operational commander of the EDJI's largest military action to date, the war against the vampires in...
 - [Miles Cotezee](Miles_Cotezee.md) (spoiler level 1): A senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the surge.
 - [Miriam Vance](Miriam_Vance.md) (spoiler level 3): The gold-rank leader of Team Moon's Edge and Tactical Commander of the Cardinas expedition, who shares overall command with Jason.
-- [Mr North (Noreth)](Mr_North.md) (spoiler level 3): The EOA Cardinal Mr North, who is the Network founder's former familiar Noreth.
+- [Mr North (Noreth)](Mr_North.md) (spoiler level 3): Mr North is the true leader of the Engineers of Ascension, first among its four Cardinals, and the Network founder's former familiar Noreth.
 - [Musin Heath](Musin_Heath.md) (spoiler level 2): The director of the Adventure Society's Yaresh branch.
 - [Natalie Park](Natalie_Park.md) (spoiler level 2): An ASIS agent assigned as Jason's liaison during the 2038 events.
 - [Neil Davone](Neil_Davone.md) (spoiler level 0): Neil Davone is an elf of Greenstone's Island families, a healer who grows from the Mercers' hanger-on into the heart of Jason's team.
@@ -132,7 +132,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Pochard Finn](Pochard_Finn.md) (spoiler level 0): Lamprey's deputy director, an elf and a local who keeps the city campus running.
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
 - [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
-- [Rick Geller](Rick_Geller.md) (spoiler level 0): A Geller adventurer who demands a rematch with Jason's team and leads his own team of Gellers and elves.
+- [Rick Geller](Rick_Geller.md) (spoiler level 3): Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone.
 - [Roland Remore](Roland_Remore.md) (spoiler level 0): Rufus's grandfather, a diamond-rank sword master and the archchancellor of Remore Academy in Vitesse.
 - [Rosa Liselos](Rosa_Liselos.md) (spoiler level 3): Rosa Liselos is the scout of Korinne's Team Storm Shredder, with the best perception on the team.
 - [Rufus Remore](Rufus_Remore.md) (spoiler level 0): Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the diamond-ranker Roland Remore.
@@ -142,12 +142,12 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Simon McKean](Simon_McKean.md) (spoiler level 3): The head of the Earth researchers in the Network's grid workgroup, who becomes Jason's final enemy on Earth.
 - [Sophie Wexler](Sophie_Wexler.md) (spoiler level 0): Sophie Wexler is a celestine fighter known as the Nightingale in the Greenstone fighting pits.
 - [Soramir](Soramir.md) (spoiler level 2): A palindromically named Rimaros royal.
-- [Taika](Taika.md) (spoiler level 1): A huge man in Hiro's employ who becomes a core fighter of the Asano clan and a garuda shape-changer.
+- [Taika (Taika Williams)](Taika.md) (spoiler level 3): Taika is a huge Māori man who works for Hiro Asano, befriends Jason on his return to Earth and becomes one of the Asano clan's core fighters.
 - [Tera Jun Casta](Tera_Jun_Casta.md) (spoiler level 2): A branded messenger who challenges Jason to a duel and later has her seal removed.
-- [Thadwick Mercer](Thadwick_Mercer.md) (spoiler level 0): Thalia's son, a spoiled Greenstone aristocrat who is taken by the Builder.
+- [Thadwick Mercer](Thadwick_Mercer.md) (spoiler level 3): Thadwick Mercer is the arrogant heir of House Mercer, who torments his two "offsiders" Neil and Dustin, feuds with Jason, takes a Builder star seed and...
 - [Thalia Mercer](Thalia_Mercer.md) (spoiler level 0): The matriarch of the Mercer family.
 - [Timos](Timos.md) (spoiler level 1): A Builder cultist embedded in Greenstone for years.
-- [Travis Noble](Travis_Noble.md) (spoiler level 0): A young American magitech engineer who joins Jason and Farrah, becomes a diamond-ranker and co-builds the Sky Link Network.
+- [Travis Noble](Travis_Noble.md) (spoiler level 3): Travis Noble is a young Californian magitech weapons engineer who becomes Jason's outworlder weapons researcher on Pallimustus, marries the Knowledge...
 - [Trenchant Moore](Trenchant_Moore.md) (spoiler level 2): A gold-rank human sword specialist of the Sapphire Crown royal guard who escorts Jason's group in Rimaros.
 - [Umber](Umber.md) (spoiler level 3): Shade's brother, an astral being of the Reaper's kind who trapped Shade in an astral space for centuries and, in Book 13, serves Knowledge's plan against Jason.
 - [Valdis Volaire](Valdis_Volaire.md) (spoiler level 1): A swordmaster prince of the Kingdom of Mirrors whom Clive meets in the City of Fallen Echoes; he is cheerful, reckless and a rival and friend to Jason's team.

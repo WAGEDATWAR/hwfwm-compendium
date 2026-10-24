@@ -541,6 +541,12 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Two errors fixed: `Nicolas_Hendren.md` cited Book 3, Ch59 L112 (Belinda's Power Thief) for his force wave, now Book 3, Ch59 L103; `Audrey_Blaine.md` cited Book 13, Ch998 L109 (a description of Gerling) for her research directorship, which Ch992 L116 supports alone.
 - Everything else read matched: low overlap scores were paraphrase, not mismatch. The check does not test whether a claim is complete, only whether the cited line supports it.
 
+**Older character files brought up to the template, build plan item 2E.4, first batch (2026-10-24)**
+- Revised to the full character template (Appearance, Personality and voice, Powers, Background, Timeline, Relationships, Secrets, Roleplay), with line-cited facts and spoiler tags: `Mr_North.md`, `Emir_Bahadir.md`, `Liara_Rimaros.md`, `Taika.md`, `Gerling.md`, `Erika_Asano.md`, `Jory_Tillman.md`, `Carlos_Quilido.md`, `Arabelle_Remore.md`, `Rick_Geller.md`, `Thadwick_Mercer.md`, `Travis_Noble.md`, `Hiro_Asano.md`. Ordered by first-name mention count; Boris Ket Lundi was skipped.
+- Added `src/tools/dossier.py`, which samples narration, appearance and relationship lines per book band with cites.
+- Corrections made while writing: Mr North's briefing is Jason telling Anna (Book 13, Ch987 L16); several cites that did not support their clause were removed or split.
+- Not done: the remaining stub files, in the order Asya Karadeniz, Allayeth, Melody Jain, Vincent Trenslow, Vincent Baudrillard, Kaito Asano, Nigel Thornton and onward. Recorded as 2E.4b in `TODO_Build_Plan.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
