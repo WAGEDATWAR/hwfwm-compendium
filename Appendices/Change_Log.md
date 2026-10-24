@@ -574,6 +574,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `06_Places/Regions/` with `Africa_like_Continent.md` (Greenstone, Hornis, Boko, Rakesh, Oleyu, Zartos, Sadi Andali, Leust; the Great Southern Continent noted as one route mention), `Estercost_Continent.md` (Cyrion, Vitesse, Kazlahk, links to Greenstone, Rakesh and Dreisil) and `Storm_Kingdom_Islands.md` (the three public islands, Jaitari, Palisaros, Girlano and Casallini on its southern border). Each gathers facts the place files already cite and lists open questions.
 - Left unplaced and recorded as open: which continent Zartos, Sadi Andali, Cartise and Arcazitlan lie on; whether Dreisil is on Estercost's continent.
 
+**Jason's domains, build plan item 2F.3 (2026-10-24)**
+- Added `06_Places/Domains.md`: the rules for Jason's domains in one place (made of set-state authority, claiming by zone, perception inside, sin afflictions, gods unable to spy, portal tracking, divine-ground and temple rules from Book 13) with a table pointing to each domain's place file. Drawn from passages in Books 6, 8, 9, 11, 12 and 13, cross-linked to `Authority_and_Sanctioning.md` and `Transformation_Zones.md`.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
