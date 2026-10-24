@@ -182,6 +182,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 **Relationships/**
 
 - [Family Trees](Relationships/Family_Trees.md) (spoiler level 3): This file gathers who is related to whom in the six family lines roleplay needs most: the Asano family (with the Evans line through Erika), the Remores, the...
+- [Knowledge States: Who Knows What, and When](Relationships/Knowledge_States.md) (spoiler level 3): This file tracks four things a roleplayer needs to keep straight for the core characters: whether the character knows that Jason is an outworlder from...
 - [Romances and Rivalries](Relationships/Romances_and_Rivalries.md) (spoiler level 3): This file lists romantic ties and standing rivalries between named characters, in the order a reader meets them.
 - [Teams by Era](Relationships/Teams_by_Era.md) (spoiler level 3): This file lists the named adventuring teams and who was on them, by era.
 

@@ -561,6 +561,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `07_Characters/Relationships/` with `Family_Trees.md` (Asano and Evans line, Remore, Geller, Mercer circle, Rimaros royal house), `Romances_and_Rivalries.md` (marriages, break-ups, standing rivalries) and `Teams_by_Era.md` (Team Biscuit, Rick's, Beth's, Padma's, Shining Scabbard, Storm Shredder, Moon's Edge, Emir's old team, Nigel's unit). Every link is drawn from a cited line in the character files, with a few re-read in the chapters.
 - Not stated in the lines read, and noted as such in the files: how the Japanese Asano patriarch's line connects to Ken and Hiro, any romance between Jason and Farrah, and a full Moon's Edge roster. The Noriko/Yumi "matriarch" overlap stays an open point.
 
+**Character knowledge-state tables, build plan item 2E.6 (2026-10-24)**
+- Added `07_Characters/Relationships/Knowledge_States.md`: for eleven core characters, the earliest scene showing them know that Jason is an outworlder, use the party interface, know the Earth link and know Knowledge's plan, grouped in four book bands. The System as a world event (Book 11 end, Book 12) is described separately.
+- Method: first evidence, not full proof; blanks mean no scene was found in the lines read. Open points recorded: first-telling scenes for Sophie, Belinda, Neil and Gary, and the team's grasp of the Earth link before Book 9. The Book 13 lecture (Ch1017) is the first scene where Knowledge's plan is laid out to a group.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
