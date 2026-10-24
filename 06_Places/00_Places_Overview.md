@@ -99,4 +99,10 @@ Earth appears from Book 4. Its principal sites are Casselton Beach (Jason's home
 - [Sadi Andali](Minor_Places/Sadi_Andali.md) (spoiler level 3): Sadi Andali is "a little dirtball country", famously almost lawless, where slave markets sell unusual and restricted goods and the Adventure Society keeps...
 - [Zartos](Minor_Places/Zartos.md) (spoiler level 2): Zartos is a subterranean city built around an underground river, largely populated by celestines, and the home of the diamond-rank smith Virid, Gary's...
 
+**Regions/**
+
+- [The Africa-like Continent](Regions/Africa_like_Continent.md) (spoiler level 2): The continent that Jason would call Africa holds Greenstone, where Books 1-3 are set.
+- [Estercost and Its Continent](Regions/Estercost_Continent.md) (spoiler level 2): Estercost is the kingdom whose capital Cyrion is the largest city in the world and whose Vitesse sits on the equivalent of the French Riviera (Book 6, Ch47...
+- [The Storm Kingdom's Islands](Regions/Storm_Kingdom_Islands.md) (spoiler level 2): The Storm Kingdom is a nation of islands in the Sea of Storms, the Caribbean analogue (Book 7, Ch3 L44-47), founded by Soramir Rimaros.
+
 <!-- files:end -->

@@ -570,6 +570,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Checked against the text and left alone: Oleyu already has its file (`Oleyu.md`, with the river left as an open question, Book 6, Ch47 L838); the Great Southern Continent appears once, in the team's route plan (Book 9, Ch25 L4), with no scene, so no file was added, as the plan instructs.
 - Correction in `Cressida_Vane.md`: Jason's remark in Book 1, Ch97 L122 confirms her head was smashed open; the file now says she is killed.
 
+**Region overviews, build plan item 2F.2 (2026-10-24)**
+- Added `06_Places/Regions/` with `Africa_like_Continent.md` (Greenstone, Hornis, Boko, Rakesh, Oleyu, Zartos, Sadi Andali, Leust; the Great Southern Continent noted as one route mention), `Estercost_Continent.md` (Cyrion, Vitesse, Kazlahk, links to Greenstone, Rakesh and Dreisil) and `Storm_Kingdom_Islands.md` (the three public islands, Jaitari, Palisaros, Girlano and Casallini on its southern border). Each gathers facts the place files already cite and lists open questions.
+- Left unplaced and recorded as open: which continent Zartos, Sadi Andali, Cartise and Arcazitlan lie on; whether Dreisil is on Estercost's continent.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
