@@ -1,22 +1,47 @@
 # Musin Heath
 
 Status: Draft (book text; facts carry a reference "Book N, ChX LY" to Source_Text; "notes" marks chapter-summary-only facts)
-Spoiler level: 2
-Valid from: Book 9
+Spoiler level: 3
+Valid from: Book 10
 Valid through: Book 10
-Sources: Books 9, 10 (chapter files); notes for Book 10
-Related: Hana_Shavar.md, ../06_Places/Yaresh.md
+Sources: Book 10 (chapter files)
+Related: Hana_Shavar.md, ../06_Places/Yaresh.md, ../05_Organisations/Adventure_Society.md
 
 ## 1. Summary
 
-The director of the Adventure Society's Yaresh branch.
+Musin Heath is the director of the Adventure Society's Yaresh branch, an elf and veteran administrator who presides over the meetings at Jason's cloud palace and brokers a possible alliance with the messenger leader.
 
-## 2. Facts
+## 2. Appearance
 
-- "Musin Heath, director of the Adventure Society's Yaresh branch" (Book 10, Ch9 L38).
-- Announces a potential alliance with the messenger leader and shows his equanimity (Book 10, Ch10 L3); presents the messenger-delivered device with distrust (Book 10, Ch11 L4).
-- He is director of the Adventure Society's Yaresh branch (Book 10, Ch9 L38); he is an elf, as are most Yaresh locals (Book 10, Ch9 L37); his rank and core use are not stated in the chapters. He is a veteran administrator, not an expert at handling monsters, who calms an unruly room of silver-rankers by spreading his aura and imposing calm through aura suppression (Book 10, Ch10 L3).
+Not described in the lines read.
 
-## 3. Roleplay notes
+## 3. Personality and voice
 
-Careful, political and unflappable.
+- **Calm**: he announces a potential alliance with the messenger leader while auras erupt in consternation (Book 10, Ch10 L3).
+- **Careful**: he talks behind a privacy screen with Jillet, watched by the whole room (Book 10, Ch11 L57).
+- **Distrustful**: he presents the messenger-delivered device with distrust (Book 10, Ch11 L4).
+
+## 4. Powers and skills as world facts
+
+- His rank and core use are not stated in the lines read.
+
+## 5. Background
+
+- An elf, as are most Yaresh locals (Book 10, Ch9 L37).
+- He is "director of the Adventure Society's Yaresh branch" (Book 10, Ch9 L38).
+
+## 6. Timeline of involvement
+
+- **Book 10**: the meeting at Emir's palace (Book 10, Ch9 L38; Book 10, Ch10 L3); the privacy-screen talk (Book 10, Ch11 L57); stares down Vidal Ladiv in his office (Book 10, Ch18 L71).
+
+## 7. Relationships
+
+- **Jillet**: an official he consults (Book 10, Ch11 L57).
+
+## 8. Secrets and spoiler notes
+
+Nothing hidden in the lines read.
+
+## 9. Roleplay notes
+
+**Voice (condensed)**: Careful, political and unflappable. Cue: a privacy screen and a level stare.

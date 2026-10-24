@@ -41,7 +41,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 3): Cassandra Mercer is Thalia's daughter and Thadwick's older sister, an adventurer who becomes Jason's first romance on Pallimustus, ends it when her family...
 - [Charist](Charist.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more social of the pair.
 - [Cheryl Asano](Cheryl_Asano.md) (spoiler level 1): Jason's mother, from a large Australian farming and mining family, and the one in the family fascinated with Japan.
-- [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 2): A French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 and who later shelters with her family.
+- [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 3): Chloe Baudrillard is a French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 while healing patients in a quarantine tent.
 - [Clarissa Ventress](Clarissa_Ventress.md) (spoiler level 0): A crime lord of Old City who holds Sophie's indenture.
 - [Clive Standish](Clive_Standish.md) (spoiler level 0): Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised on an eel farm, who becomes Jason's team's ritualist and astral-magic scholar.
 - [Cole Silva](Cole_Silva.md) (spoiler level 0): The newest of Old City's Big Three crime lords.
@@ -87,7 +87,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Jameela](Jameela.md) (spoiler level 3): Jameela is a priestess of Undeath, Garth Larosse's most trusted subordinate, tall and elegant, capable and quick to learn.
 - [Jamis Fran Muskar](Jamis_Fran_Muskar.md) (spoiler level 3): An astral king whose avatar attends the Builder's observation scene and who berates defiant messengers.
 - [Jason Asano](Jason_Asano.md) (spoiler level 0): Jason Asano is the series' protagonist: an Australian from the coastal town of Casselton Beach who, at twenty-three, is pulled across the cosmos to...
-- [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): A gold-rank expedition leader who runs a mixed surge expedition and seals an astral aperture with Jason's help.
+- [Jeni Kavaloa](Jeni_Kavaloa.md) (spoiler level 2): Jeni Kavaloa is the gold-rank leader of the mixed-force surge expedition in Book 7.
 - [Jes Fin Kaal](Jes_Fin_Kaal.md) (spoiler level 2): A gold-rank messenger ritualist and Voice of the Will who leads the messengers' dealings with Yaresh.
 - [Jonah Geller](Jonah_Geller.md) (spoiler level 0): A heavy-armoured Geller family fighter on Rick's team who is captured by the Builder cult and dies when the star seed is extracted.
 - [Jory Tillman](Jory_Tillman.md) (spoiler level 3): Jory Tillman is Greenstone's gentle alchemist and clinic-runner, Jason's first friend, and later Belinda's boyfriend.
@@ -100,7 +100,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): An analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
 - [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.
-- [Korinne Pescos](Korinne_Pescos.md) (spoiler level 0): A guild-elite team leader who first meets Jason in the Rimaros surge and later asks him to train her team.
+- [Korinne Pescos](Korinne_Pescos.md) (spoiler level 3): Korinne Pescos leads a Rimaros guild-elite team, later called Storm Shredder, that fights beside Jason in the surge, travels with him in Book 9 and joins...
 - [Landemere Vane](Landemere_Vane.md) (spoiler level 2): Landemere Vane is the Vane heir whose failed summoning pulls Jason to Pallimustus.
 - [Lenora Coleman](Lenora_Coleman.md) (spoiler level 1): The bureaucrat who runs the dimensional artefact site in Australia.
 - [Li Li Mei](Li_Li_Mei.md) (spoiler level 2): A Chinese silver-ranker and daughter of Li Ning who deals with Jason on Earth in Books 4-6, ends up in Pallimustus, is found hiding in Boko, and becomes a...
@@ -118,7 +118,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Miles Cotezee](Miles_Cotezee.md) (spoiler level 1): A senior Vitesse Adventure Society administrator whose silver rank comes entirely from cores and who supervises missions in the surge.
 - [Miriam Vance](Miriam_Vance.md) (spoiler level 3): The gold-rank leader of Team Moon's Edge and Tactical Commander of the Cardinas expedition, who shares overall command with Jason.
 - [Mr North (Noreth)](Mr_North.md) (spoiler level 3): Mr North is the true leader of the Engineers of Ascension, first among its four Cardinals, and the Network founder's former familiar Noreth.
-- [Musin Heath](Musin_Heath.md) (spoiler level 2): The director of the Adventure Society's Yaresh branch.
+- [Musin Heath](Musin_Heath.md) (spoiler level 3): Musin Heath is the director of the Adventure Society's Yaresh branch, an elf and veteran administrator who presides over the meetings at Jason's cloud...
 - [Natalie Park](Natalie_Park.md) (spoiler level 2): An ASIS agent assigned as Jason's liaison during the 2038 events.
 - [Neil Davone](Neil_Davone.md) (spoiler level 0): Neil Davone is an elf of Greenstone's Island families, a healer who grows from the Mercers' hanger-on into the heart of Jason's team.
 - [Nicolas Hendren](Nicolas_Hendren.md) (spoiler level 1): The archbishop of the Church of Purity, a silver-rank barrier-and-force specialist who flees the inquiry and joins the Builder cult's camp before Jason's...
