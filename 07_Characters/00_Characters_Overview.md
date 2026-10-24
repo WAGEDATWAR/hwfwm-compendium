@@ -46,7 +46,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Clive Standish](Clive_Standish.md) (spoiler level 0): Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised on an eel farm, who becomes Jason's team's ritualist and astral-magic scholar.
 - [Cole Silva](Cole_Silva.md) (spoiler level 0): The newest of Old City's Big Three crime lords.
 - [Constance](Constance.md) (spoiler level 3): Constance is Emir Bahadir's chief of staff and later his wife.
-- [Craig Vermillion](Craig_Vermillion.md) (spoiler level 2): A Cabal figure who explains the magical world to Jason.
+- [Craig Vermillion](Craig_Vermillion.md) (spoiler level 3): Craig Vermillion is a vampire of seventy years' standing and the Cabal's front man in Sydney.
 - [Cressida Vane](Cressida_Vane.md) (spoiler level 0): The matriarch of the blood-cult family that holds Jason and his friends in Book 1.
 - [Danielle Geller](Danielle_Geller.md) (spoiler level 0): Danielle Geller is Humphrey's mother and the head of the Geller family's household in Greenstone.
 - [Dawn](Dawn.md) (spoiler level 2): Dawn is the World-Phoenix's First Servant, the head of its cult and its primary vessel (Book 3, Ch69 L1036-1040 describes the post; the notes identify Dawn...
@@ -127,7 +127,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Noriko Asano](Noriko_Asano.md) (spoiler level 2): The strongest member of the old Asano clan and its patriarch's mother, who takes control from her son and opposes Jason's family; she is matriarch of the...
 - [Orin Pensinata](Orin_Pensinata.md) (spoiler level 2): A calm silver-rank guild adventurer, Amos Pensinata's nephew, who rises to gold and survives Team Storm Shredder's losses.
 - [Padma Parsell](Padma_Parsell.md) (spoiler level 1): An adventurer from Remore Academy and Farrah's half-disciple, who leads a Vitesse team in the City of Fallen Echoes.
-- [Pelli](Pelli.md) (spoiler level 0): The sharp-tongued mayor of Palisaros and a contact for Jason in the Storm Kingdom.
+- [Pelli](Pelli.md) (spoiler level 2): Pelli is a sharp-tongued core-using gold-ranker who keeps the town of Palisaros quiet and safe, is "Aunt Pelli" to the royal family, and is a contact for...
 - [Phoebe Geller](Phoebe_Geller.md) (spoiler level 0): A distant Geller cousin who is Humphrey's contemporary and later Rick's teammate.
 - [Pochard Finn](Pochard_Finn.md) (spoiler level 0): Lamprey's deputy director, an elf and a local who keeps the city campus running.
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
@@ -139,7 +139,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Sendira](Sendira.md) (spoiler level 2): Sendira is Melody Jain's second in command in the Order of Redeeming Light's local enclave: a silver-rank zealot and the person Melody trusts most.
 - [Shako](Shako.md) (spoiler level 3): Shako is a diamond-rank servant of the Builder who kills Jason in Book 6, apparently possessed by the Builder at the moment he does it.
 - [Sigrid Freyn (Volaire)](Sigrid_Freyn.md) (spoiler level 1): A celestine healer and the leader of Valdis's team, who becomes his wife.
-- [Simon McKean](Simon_McKean.md) (spoiler level 3): The head of the Earth researchers in the Network's grid workgroup, who becomes Jason's final enemy on Earth.
+- [Simon McKean](Simon_McKean.md) (spoiler level 3): Simon McKean is the former head of the Earth researchers in the Network's grid workgroup.
 - [Sophie Wexler](Sophie_Wexler.md) (spoiler level 0): Sophie Wexler is a celestine fighter known as the Nightingale in the Greenstone fighting pits.
 - [Soramir (Soramir Rimaros)](Soramir.md) (spoiler level 3): Soramir Rimaros is the founder of the Rimaros royal house, a diamond-rank ruler with a palindromic name, who guides Jason through the Builder crisis.
 - [Taika (Taika Williams)](Taika.md) (spoiler level 3): Taika is a huge Māori man who works for Hiro Asano, befriends Jason on his return to Earth and becomes one of the Asano clan's core fighters.
