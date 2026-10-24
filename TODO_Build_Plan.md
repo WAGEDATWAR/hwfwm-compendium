@@ -100,7 +100,7 @@ Add topic files in this order, each with the Topic template (Summary / How it wo
 - **2F.1 (Done 2026-10-24) Places named only once:** the Great Southern Continent, Casallini, Lindover Lumber Mill, Clementson's property, Oleyu's river (add only if later scenes give them substance).
 - **2F.2 (Done 2026-10-24) Missing region overviews (M each, suggested):** the Africa-like continent (Greenstone, Boko, Rakesh, Hornis, Oleyu, Zartos, Sadi Andali), Estercost's continent, the Great Southern Continent, the Storm Kingdom's islands.
 - **2F.3 (Done 2026-10-24) Jason's domains (M):** Nitra, Saint-Étienne, Casselton Beach, Asano Village and the astral kingdom are written; collect the "set-state authority" and domain-rule passages into one `Domains.md` (suggested).
-- **2F.4 A locations-by-era table (S, suggested):** which places exist and in what state in each era (Boko before and after, Cartise ruined, Yaresh before and after the battle).
+- **2F.4 (Done 2026-10-24) A locations-by-era table (S, suggested):** which places exist and in what state in each era (Boko before and after, Cartise ruined, Yaresh before and after the battle).
 - **2F.5 Vitesse magic density (S):** see Tier 1.5; the check may remain open.
 
 ### 2G. Items (`09_Items_and_Artefacts`)
