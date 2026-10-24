@@ -33,6 +33,19 @@ The list below is generated from the folder contents (`src/tools/overviews.py`).
 - [Book 11 Timeline: The Transformation Zone and the Long Epilogue (from mid 2023, then years of epilogue)](Book_11_Timeline.md) (spoiler level 3)
 - [Book 12 Timeline: Return to the World (about fifteen years after Jason went into the void)](Book_12_Timeline.md) (spoiler level 3): The book keeps two counts that must not be confused.
 - [Book 13 Timeline: Jason on Earth in 2038](Book_13_Timeline.md) (spoiler level 3)
+- [Chapter Digest: Book 1](Chapter_Digest_Book_01.md) (spoiler level 1): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 2](Chapter_Digest_Book_02.md) (spoiler level 1): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 3](Chapter_Digest_Book_03.md) (spoiler level 1): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 4](Chapter_Digest_Book_04.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 5](Chapter_Digest_Book_05.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 6](Chapter_Digest_Book_06.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 7](Chapter_Digest_Book_07.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 8](Chapter_Digest_Book_08.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 9](Chapter_Digest_Book_09.md) (spoiler level 2): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 10](Chapter_Digest_Book_10.md) (spoiler level 3): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 11](Chapter_Digest_Book_11.md) (spoiler level 3): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 12](Chapter_Digest_Book_12.md) (spoiler level 3): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
+- [Chapter Digest: Book 13](Chapter_Digest_Book_13.md) (spoiler level 3): One entry per chapter, in book order: the chapter number and title, then up to two sentences from the timeline with their citations.
 - [Master Timeline](Master_Timeline.md) (spoiler level 3)
 
 **Crises/**

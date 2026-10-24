@@ -608,6 +608,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `10_Roleplay_Support/Who_Knows_What_When.md`: seven secrets (Jason an outworlder, Jason an astral king, the Order's survival, the Builder's identity and plan, the Network founder and the door, the System and Knowledge's plan, Jason's deaths) against groups of people, with the earliest cited scene and a book band for each. Linked from `Spoiler_Management.md`. It complements the per-character tables in `Relationships/Knowledge_States.md`.
 - Dashes mark cells where no scene was found.
 
+**Chapter digest, build plan item 3.6, first pass (2026-10-24)**
+- Added `src/tools/chapter_digest.py` and the thirteen files `08_History_and_Timeline/Chapter_Digest_Book_01.md` to `Chapter_Digest_Book_13.md`. Each lists every chapter (987 in all) with its cleaned title and up to two sentences from the per-book timeline whose own citation names that chapter; sentences with long quotations are skipped, so no passages are reproduced. About 917 of 987 chapters have a summary sentence; the other 70 are marked "title only".
+- Two timeline rows the register flagged weak (Book 12, Ch65; Book 13, Ch951) are skipped by the generator until those rows are tightened.
+- Remaining work, recorded as item 3.6b in the plan: write summary sentences for the title-only chapters by reading them, and add a second sentence where only one exists.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
