@@ -53,7 +53,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Durrum](Durrum.md) (spoiler level 3): Durrum is a massive earth-aspect brightheart, one of two leaders who claim territory in Jason's unified battlefield.
 - [Dustin Kettering](Dustin_Kettering.md) (spoiler level 1): An ice-armoured defender from the Kettering family who starts as one of Thadwick Mercer's offsiders, joins Rick's team in Book 2 and later fights beside...
 - [Elizabeth](Elizabeth.md) (spoiler level 3): Elizabeth is the gold-rank leader of the vampires who take Europe, a blood-ritual specialist who establishes a détente with the world and later trades with...
-- [Elspeth Arella](Elspeth_Arella.md) (spoiler level 0): The director of the Greenstone branch of the Adventure Society.
+- [Elspeth Arella](Elspeth_Arella.md) (spoiler level 3): Elspeth Arella is the elf director of the Greenstone branch of the Adventure Society and the secret daughter of Old City crime lord Dorgan.
 - [Emi Evans-Asano](Emi_Evans_Asano.md) (spoiler level 2): Emi Evans-Asano is Jason's niece, the daughter of Erika and Ian Evans, whom Jason calls "Moppet".
 - [Emir Bahadir](Emir_Bahadir.md) (spoiler level 2): Emir Bahadir is a gold-rank treasure hunter, patron of the Reaper contest and owner of a cloud ship and palace that becomes Jason's team's base.
 - [Erigo Fin Desca](Erigo_Fin_Desca.md) (spoiler level 3): The Builder's prime vessel, a former messenger of the Unorthodoxy heavily modified by the Builder.
@@ -75,7 +75,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Hannah and Claire Adeah](Hannah_and_Claire_Adeah.md) (spoiler level 1): Twin elf sisters on Rick Geller's team: Hannah the archer and Claire the healer.
 - [Hassan Dukhtar](Hassan_Dukhtar.md) (spoiler level 3): A Pakistani doctor praised for courageous medical work in a vampire war zone, whose name Jason turns into a running joke.
 - [Helsveth](Helsveth.md) (spoiler level 2): A draconian World-Phoenix servant being groomed to become First Sister as Dawn moves to the Hierophants.
-- [Henrietta Geller](Henrietta_Geller.md) (spoiler level 0): Humphrey's older sister, a stoic summoner.
+- [Henrietta Geller](Henrietta_Geller.md) (spoiler level 3): Henrietta Geller is Humphrey's older sister, a bronze-rank summoning specialist who takes her sibling role seriously.
 - [Hess Jor Nasala](Hess_Jor_Nasala.md) (spoiler level 3): A silver-rank messenger, dark-skinned and silver-haired, who serves as Jes Fin Kaal's chief assistant and mouthpiece.
 - [Hester Maharala](Hester_Maharala.md) (spoiler level 0): Emir's portal user and head of logistics, born in Jayapura in Pranay.
 - [Hiro Asano](Hiro_Asano.md) (spoiler level 3): Hiro Asano is Jason's uncle, a Sydney crime figure and the family's black sheep, who knew about hidden magic and the factions around it before Jason returned.
@@ -128,7 +128,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Orin Pensinata](Orin_Pensinata.md) (spoiler level 2): A calm silver-rank guild adventurer, Amos Pensinata's nephew, who rises to gold and survives Team Storm Shredder's losses.
 - [Padma Parsell](Padma_Parsell.md) (spoiler level 1): An adventurer from Remore Academy and Farrah's half-disciple, who leads a Vitesse team in the City of Fallen Echoes.
 - [Pelli](Pelli.md) (spoiler level 2): Pelli is a sharp-tongued core-using gold-ranker who keeps the town of Palisaros quiet and safe, is "Aunt Pelli" to the royal family, and is a contact for...
-- [Phoebe Geller](Phoebe_Geller.md) (spoiler level 0): A distant Geller cousin who is Humphrey's contemporary and later Rick's teammate.
+- [Phoebe Geller](Phoebe_Geller.md) (spoiler level 3): Phoebe Geller is a distant Geller cousin of Humphrey's, Rick Geller's sister, and a pugilist on Rick's team.
 - [Pochard Finn](Pochard_Finn.md) (spoiler level 0): Lamprey's deputy director, an elf and a local who keeps the city campus running.
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
 - [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
