@@ -74,6 +74,10 @@ A **title** is how the System writes down a change to the soul: it appears as a 
 
 - The Healer gives Jory's clinic his blessing and declares it a sanctuary (Book 1, Ch95 L120, L128). Compare Church_of_the_Healer.md.
 
+### Names given by enemies
+
+- **The Rejector**: Builder cultists call Jason "the Rejector" (Book 3, Ch32 L105), a living demonstration that the Builder's power is not absolute (Book 3, Ch34 L7). Jason finds it "not a cool nickname" (Book 3, Ch32 L106).
+
 ## 4. Not in the text
 
 The full list of titles a person can earn is not given; only Jason's and Delia's are shown. Blessings from the Legion and the All-Devouring Eye are described as not handed out (Book 7, Ch11 L75).
