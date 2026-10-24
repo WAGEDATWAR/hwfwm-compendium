@@ -44,7 +44,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 3): Chloe Baudrillard is a French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 while healing patients in a quarantine tent.
 - [Clarissa Ventress](Clarissa_Ventress.md) (spoiler level 1): Clarissa Ventress is one of the crime lords of Old City and holds Sophie's indenture.
 - [Clive Standish](Clive_Standish.md) (spoiler level 0): Clive Standish is a tall, lanky Magic Society researcher in Greenstone, raised on an eel farm, who becomes Jason's team's ritualist and astral-magic scholar.
-- [Cole Silva](Cole_Silva.md) (spoiler level 0): The newest of Old City's Big Three crime lords.
+- [Cole Silva](Cole_Silva.md) (spoiler level 2): Cole Silva is the newest of Old City's Big Three crime lords, who inherits his father's operation and, with Lucian Lamprey, orchestrates Jason's kidnapping...
 - [Constance](Constance.md) (spoiler level 3): Constance is Emir Bahadir's chief of staff and later his wife.
 - [Craig Vermillion](Craig_Vermillion.md) (spoiler level 3): Craig Vermillion is a vampire of seventy years' standing and the Cabal's front man in Sydney.
 - [Cressida Vane](Cressida_Vane.md) (spoiler level 1): Cressida Vane is the matriarch of the blood-cult family that holds Jason and his friends in Book 1.
@@ -102,13 +102,13 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.
 - [Korinne Pescos](Korinne_Pescos.md) (spoiler level 3): Korinne Pescos leads a Rimaros guild-elite team, later called Storm Shredder, that fights beside Jason in the surge, travels with him in Book 9 and joins...
 - [Landemere Vane](Landemere_Vane.md) (spoiler level 2): Landemere Vane is the Vane heir whose failed summoning pulls Jason to Pallimustus.
-- [Lenora Coleman](Lenora_Coleman.md) (spoiler level 1): The bureaucrat who runs the dimensional artefact site in Australia.
+- [Lenora Coleman](Lenora_Coleman.md) (spoiler level 3): Lenora Coleman is the bureaucrat who runs the dimensional artefact site in Australia.
 - [Li Li Mei](Li_Li_Mei.md) (spoiler level 2): A Chinese silver-ranker and daughter of Li Ning who deals with Jason on Earth in Books 4-6, ends up in Pallimustus, is found hiding in Boko, and becomes a...
 - [Liara Rimaros](Liara_Rimaros.md) (spoiler level 2): Liara Rimaros is a gold-rank Adventure Society special-operations officer and a lesser member of the Rimaros royal house.
 - [Lorelei Grantham](Lorelei_Grantham.md) (spoiler level 1): A researcher and later Vice-Dean and Vice Chancellor of astral magic research who recruits Clive, covers for his escape from Rakesh and becomes his partner...
 - [Lorenn](Lorenn.md) (spoiler level 3): Lorenn is the last councilwoman of the brighthearts of Cardinas and, after Jason's intervention, the leader of her people.
 - [Lorus](Lorus.md) (spoiler level 3): Lorus is a fire-aspect brightheart who claims a territory in the unified battlefield and wants all the power.
-- [Lucian Lamprey](Lucian_Lamprey.md) (spoiler level 0): The corrupt director of Greenstone's Magic Society branch.
+- [Lucian Lamprey](Lucian_Lamprey.md) (spoiler level 2): Lucian Lamprey is the corrupt director of Greenstone's Magic Society branch, an elf with a fighter's physique "banished to Greenstone for previous...
 - [Marcus Hargrave Xenoria](Marcus_Hargrave_Xenoria.md) (spoiler level 2): A massive leonid troubleshooter for the Adventure Society's continental council, sent to Yaresh to break the aristocrats' hold and an ally of Jason there.
 - [Marek Nior Vargas](Marek_Nior_Vargas.md) (spoiler level 3): Marek Nior Vargas is a gold-rank messenger commander who leads the breach force over Yaresh's entertainment district in Book 9.
 - [Marie Finnegan](Marie_Finnegan.md) (spoiler level 3): The expelled director of the Zurich Network branch who ran a secret programme working with Elizabeth and Simon McKean.
@@ -129,7 +129,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Padma Parsell](Padma_Parsell.md) (spoiler level 1): An adventurer from Remore Academy and Farrah's half-disciple, who leads a Vitesse team in the City of Fallen Echoes.
 - [Pelli](Pelli.md) (spoiler level 2): Pelli is a sharp-tongued core-using gold-ranker who keeps the town of Palisaros quiet and safe, is "Aunt Pelli" to the royal family, and is a contact for...
 - [Phoebe Geller](Phoebe_Geller.md) (spoiler level 3): Phoebe Geller is a distant Geller cousin of Humphrey's, Rick Geller's sister, and a pugilist on Rick's team.
-- [Pochard Finn](Pochard_Finn.md) (spoiler level 0): Lamprey's deputy director, an elf and a local who keeps the city campus running.
+- [Pochard Finn](Pochard_Finn.md) (spoiler level 3): Pochard Finn is Lucian Lamprey's long-time deputy director in Greenstone, an elf and local who does the actual work while Lamprey enjoys the title.
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
 - [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
 - [Rick Geller](Rick_Geller.md) (spoiler level 3): Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone.
