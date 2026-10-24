@@ -48,7 +48,7 @@ Not described in detail in the lines read; he greets Jason with a respectful bow
 
 ## 8. Secrets and spoiler notes
 
-His Book 13 marriage breakdown is his own choice, framed as a gift to Akari's sword path (Book 13, Ch1004 L20).
+He tells Akari that "sometimes the right thing to do is let go" (Book 13, Ch1004 L20).
 
 ## 9. Roleplay notes
 

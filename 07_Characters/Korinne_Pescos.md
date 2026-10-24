@@ -49,7 +49,7 @@ Not described in detail in the lines read; in Book 11 she has "dead eyes" until 
 
 ## 8. Secrets and spoiler notes
 
-Book 11 shows her stalked and traumatised during the Undeath siege (Book 11, Ch6 L13-20).
+In Book 11 she scrambles between rocks in a desert canyon while a priest taunts her (Book 11, Ch6 L13-16).
 
 ## 9. Roleplay notes
 

@@ -37,6 +37,13 @@ Start from the era table, then check each character's "valid from" book before y
 - [Tone and Voice Notes](Tone_and_Voice.md) (spoiler level 0): The register the books use, how forms of address work, and a condensed voice note for the main speakers, each tied to a line.
 - [Who Knows What, and When (by Group)](Who_Knows_What_When.md) (spoiler level 3): This matrix follows the series' main secrets across groups of people, not individuals.
 
+**NPC_Cards/**
+
+- [NPC Cards: Characters First Appearing in Books 1-3](NPC_Cards/NPC_Cards_Books_01-03.md) (spoiler level 1): One card per character, in alphabetical order.
+- [NPC Cards: Characters First Appearing in Books 4-6](NPC_Cards/NPC_Cards_Books_04-06.md) (spoiler level 2): One card per character, in alphabetical order.
+- [NPC Cards: Characters First Appearing in Books 7-9](NPC_Cards/NPC_Cards_Books_07-09.md) (spoiler level 2): One card per character, in alphabetical order.
+- [NPC Cards: Characters First Appearing in Books 10-13](NPC_Cards/NPC_Cards_Books_10-13.md) (spoiler level 3): One card per character, in alphabetical order.
+
 **Starter_Packs/**
 
 - [Starter Pack: Era 1, Greenstone (Books 1-2)](Starter_Packs/Era_1_Greenstone.md) (spoiler level 1)

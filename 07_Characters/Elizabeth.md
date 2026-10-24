@@ -47,7 +47,7 @@ Elizabeth is the gold-rank leader of the vampires who take Europe, a blood-ritua
 
 ## 8. Secrets and spoiler notes
 
-Her treatment of humans is strategic rather than compassionate (Book 11, Ch68 L2261).
+Her edicts on humans were "not out of compassion" but for critical upsides (Book 11, Ch68 L2261).
 
 ## 9. Roleplay notes
 

@@ -623,6 +623,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 **Era starter packs, build plan item 4.1 (2026-10-24)**
 - Added `10_Roleplay_Support/Starter_Packs/` with seven packs, one per era in `Era_Selection.md`: Greenstone, Bronze and the Builder, Earth, Rimaros, Yaresh, Cardinas and the Return. Each has the setting, three starting situations drawn from `Plot_Hooks.md`, a cast list with voice cues, live dangers, what the characters know (from the knowledge tables), spoiler-safe narrator language and what to leave closed. All facts come from earlier cited files; no new book reading was done.
 
+**NPC cards, build plan item 4.2 (2026-10-24)**
+- Added `src/tools/npc_cards.py` and four files in `10_Roleplay_Support/NPC_Cards/` (Books 1-3, 4-6, 7-9, 10-13 by first appearance) with 138 cards: role, appearance, voice cue, secret or spoiler note and valid-from/through, copied with citations from the individual character files. Group files (Familiars, Baseph and the Rimaros children, Hannah and Claire) and Jason are not carded.
+- The generator exposed three character-file lines whose cites did not support their wording (Elizabeth, Itsuki Tiwari, Korinne Pescos); they were reworded. The "goal" field in the plan has no source field in the character files, so the cards give role instead.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
