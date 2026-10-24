@@ -5,7 +5,7 @@ Spoiler level: 0
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1-13 (chapter files)
-Related: 00_Roleplay_Overview.md, ../07_Characters/00_Characters_Overview.md, ../00_Project_Structure.md
+Related: Motifs_and_Sayings.md, 00_Roleplay_Overview.md, ../07_Characters/00_Characters_Overview.md, ../00_Project_Structure.md
 
 ## 1. Summary
 

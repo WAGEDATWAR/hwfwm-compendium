@@ -613,6 +613,9 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Two timeline rows the register flagged weak (Book 12, Ch65; Book 13, Ch951) are skipped by the generator until those rows are tightened.
 - Remaining work, recorded as item 3.6b in the plan: write summary sentences for the title-only chapters by reading them, and add a second sentence where only one exists.
 
+**Recurring motifs and in-world sayings, build plan item 3.7 (2026-10-24)**
+- Added `10_Roleplay_Support/Motifs_and_Sayings.md`: "Feed me your sins" with the chapters where it recurs, the biscuits, Handsome Doctor, pants, Clive's non-existent wife, sausage sizzle, chuunibyou and Captain Tremendous gags, and the Star Wars, Mario Kart and other pop-culture references, each with cites and no reproduced passages. Cross-linked from the voice notes' purpose; open question: Jason's other casting phrases.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
