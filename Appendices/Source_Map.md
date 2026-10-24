@@ -219,7 +219,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch8 | Getting Stoned | Sophie_Wexler_Power_Set L22, L40, L98, L122, L173; Book_02_Timeline L28; Afflictions_Boons_and_Damage L44; Abilities_and_Attributes L45, L170-171, L171, L174-175; Confluences L45-49; Emir_Bahadir L168; Cloud_Constructs_and_Palaces L168; Sophie_Wexler L170-173 | 15 |
 | Ch9 | Children | Awakening_Stones L9, L17, L17-18, L29, L38, L40 …; Essence_Catalogue L9, L17, L21; Essences L21; Clive_Standish L21; 01_World_Primer L30-31; Abilities_and_Attributes L31-35; Book_02_Timeline L51, L67; Cole_Silva L60 … | 24 |
 | Ch10 | Star Seed | Adventure_Society L16; Minor_Cast_Books_1-3 L16; Jonah_Geller L26-50; Plot_Hooks L26-50; House_Geller L28; Book_02_Timeline L51, L62; Open_Questions L51; Badges_and_Guild_Membership L85 … | 13 |
-| Ch11 | It’s About How You Use It | Cassandra_Mercer L3; Book_02_Timeline L3; Education L37; Jason_Asano L41; Kaito_Asano L61, L65 | 6 |
+| Ch11 | It’s About How You Use It | Cassandra_Mercer L3; Book_02_Timeline L3; Education L37; Jason_Asano L41; Beth_Cavendish L54; Kaito_Asano L61, L65 | 7 |
 | Ch12 | We End Here | Belinda_Callahan L6; Book_02_Timeline L82, L88, L102; Badges_and_Guild_Membership L83 | 5 |
 | Ch13 | Poison Pill | Book_02_Timeline L8, L60, L95, L128; Neil_Davone L19; Tokens_Stones_and_Relics L57, L60, L62, L66, L76-78; Gods_and_Churches L60, L103; 00_Items_Overview L60; Awakening_Stones L60; Awakening_Stones L60-62, L62, L66, L70, L71-76, L76-78 …; 00_Magic_Overview L60-90 … | 27 |
 | Ch14 | Let’s Just Fight Monsters | Hornis L16, L116; Book_02_Timeline L20, L35; Jason_Asano L35; Jonah_Geller L116 | 6 |
@@ -443,7 +443,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
 | Ch1 | Too Valuable to Lose | Minor_Cast_Books_4-6 L15-17, L35, L85; Essence_Catalogue L17; Book_05_Timeline L21, L38; 01_World_Primer L38; Alchemy_Artifice_and_Magical_Materials L49; Monster_Cores_and_Training L51-52, L53; Skill_Books_and_Learning L51-52; Earth_Magic L51-53 | 12 |
-| Ch2 | All I Can Do is My Best | Chloe_Baudrillard L9, L44, L44-85, L51-53, L85; Vincent_Baudrillard L9; Book_05_Timeline L9, L108, L126; Emi_Evans_Asano L116 | 10 |
+| Ch2 | All I Can Do is My Best | Chloe_Baudrillard L9, L44, L44-85, L51-53, L85; Book_05_Timeline L9, L108, L126; Emi_Evans_Asano L116 | 9 |
 | Ch3 | A Modern Myth | Engineers_of_Ascension L5, L8-12, L9, L51; Book_05_Timeline L5, L57, L170, L212; Mr_North L5-12; Earth_Powers L8-12; Plot_Hooks L8-19; Confluences L77; Essence_Catalogue L77; Ian_Evans L126, L130 … | 22 |
 | Ch5 | Grand Tour | Book_05_Timeline L7, L59, L66, L104; 00_Magic_Overview L11; Earth_Magic L11; Rituals_Arrays_and_Formations L11; Ken_Asano L59; Emi_Evans_Asano L59-68; Ranks_and_Advancement L82; Casselton_and_Asano_Village L83-89, L106-113 … | 14 |
 | Ch6 | New Groove | Book_05_Timeline L48, L69; Monsters L85 | 3 |
@@ -1032,7 +1032,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch45 | A Sense of Responsibility | Book_12_Timeline L3, L55, L62; Badges_and_Guild_Membership L3, L8, L14; Burning_Violet L6, L12, L14, L95; Vitesse_Culture L12-14; House_Remore L12-14; Guilds_and_Houses L14; Roland_Remore L56, L97; Minor_Cast_Books_10-13 L64 … | 17 |
 | Ch46 | Trouble Always Knows Where to Find Me | Cassandra_Mercer L3, L3-4, L4, L20; Henrietta_Geller L3; Book_12_Timeline L3, L15, L105; Glossary L54; Gods_and_Churches L89 | 10 |
 | Ch47 | Tactical Playbook | Monsters L3; Book_12_Timeline L4; Stash L61 | 3 |
-| Ch48 | I Don’t Blow Up Cities on Purpose | Estercost_Culture L3, L22, L53; Cyrion L3, L4, L4-5, L22, L53; Book_12_Timeline L3, L5; Glossary L5; Li_Li_Mei L26, L33; Cloud_Constructs_and_Palaces L26; Law_and_Indenture L53; Open_Questions L53 | 16 |
+| Ch48 | I Don’t Blow Up Cities on Purpose | Estercost_Culture L3, L22, L53; Cyrion L3, L4, L4-5, L22, L53; Book_12_Timeline L3, L5; Glossary L5; Li_Li_Mei L26; Cloud_Constructs_and_Palaces L26; Law_and_Indenture L53; Open_Questions L53 | 15 |
 | Ch49 | Following Through on Bad Ideas | Estercost_Culture L3; Storm_Kingdom_Culture L3; Book_12_Timeline L3; Minor_Cast_Books_10-13 L3-5; Orin_Pensinata L5; Zara_Rimaros L7; Kurdansk_Culture L77; Kurdansk L77 … | 9 |
 | Ch50 | Heavily Compromised Baked Goods | Clothing_Food_Festivals_and_Transport_by_Region L3; Estercost_Culture L3; House_Headingway L3; Minor_Cast_Books_10-13 L3, L43-52, L120-126; Glossary L3; The_System L13-16, L28, L28-29, L29; Book_12_Timeline L15, L28, L43; Law_and_Indenture L28 … | 29 |
 | Ch51 | The Line Between Mortal and Immortal | The_System L3, L13, L59, L76-77, L82-84; Book_12_Timeline L3; Minor_Cast_Books_10-13 L3-23; Clothing_Food_Festivals_and_Transport_by_Region L11; Estercost_Culture L13; Law_and_Indenture L13; Cyrion L13; Plot_Hooks L13 … | 14 |
@@ -1078,7 +1078,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch968 | A Brief but Firm Reminder | Book_13_Timeline L4; Adrien_Barbou L34-38, L45-54, L47-54, L54 | 5 |
 | Ch969 | Good Lord | Book_13_Timeline L3; Zara_Rimaros L56-63; Natalie_Park L88 | 3 |
 | Ch970 | The Wisdom These Situations Demand | Engineers_of_Ascension L3, L16-18; The_Network L3, L5-13, L7; Book_13_Timeline L3, L29; Simon_McKean L38; Natalie_Park L52 | 9 |
-| Ch971 | All the Fuel It Needed | NPC_Rosters_by_Era L3, L49; Vincent_Baudrillard L3-28, L50, L52, L55, L56; Emi_Evans_Asano L30, L49; Education L51; House_Remore L51; Book_13_Timeline L66 | 12 |
+| Ch971 | All the Fuel It Needed | Vincent_Baudrillard L3, L3-28, L3-56, L50, L51-52, L52 …; NPC_Rosters_by_Era L3, L49; Emi_Evans_Asano L30, L49; Education L51; House_Remore L51; Book_13_Timeline L66 | 15 |
 | Ch972 | Little Umbrellas | Book_13_Timeline L51; Master_Timeline L51; Open_Questions L51; Emi_Evans_Asano L78, L78-82 | 5 |
 | Ch973 | A Cruelty or a Mercy | Book_13_Timeline L24; Gerling L46, L49; Marie_Finnegan L49; Remy L73-82; Elizabeth L82; Tera_Jun_Casta L85 | 7 |
 | Ch974 | Most Practical Purposes | Natalie_Park L31; Minor_Cast_Books_10-13 L52; Book_13_Timeline L78 | 3 |
