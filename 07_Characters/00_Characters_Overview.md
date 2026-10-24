@@ -39,7 +39,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Callum Morse](Callum_Morse.md) (spoiler level 2): A gold-rank stealth assassin, former teammate of Emir and of Rufus's parents, whose long hunt for Sophie's mother Melody Jain drives his later scenes.
 - [Carlos Quilido](Carlos_Quilido.md) (spoiler level 3): Carlos Quilido is a gold-rank priest of the Healer and the world's leading specialist in soul damage, star seeds and aura conditions.
 - [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 3): Cassandra Mercer is Thalia's daughter and Thadwick's older sister, an adventurer who becomes Jason's first romance on Pallimustus, ends it when her family...
-- [Charist](Charist.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more social of the pair.
+- [Charist](Charist.md) (spoiler level 3): Charist is one of Yaresh's two resident diamond-rank elves, the more social of the pair, who dislikes the responsibilities of his power.
 - [Cheryl Asano](Cheryl_Asano.md) (spoiler level 2): Cheryl Asano is Jason's mother, from a large Australian farming and mining family.
 - [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 3): Chloe Baudrillard is a French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 while healing patients in a quarantine tent.
 - [Clarissa Ventress](Clarissa_Ventress.md) (spoiler level 0): A crime lord of Old City who holds Sophie's indenture.
@@ -71,7 +71,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Gormanston Bynes](Gormanston_Bynes.md) (spoiler level 2): A gold-rank elf, leader of Yaresh's Aristocratic Faction and head of its civic administration, who is outmanoeuvred by Marcus Xenoria and Jason.
 - [Greg](Greg.md) (spoiler level 2): Greg is an old school friend of Jason's who joins the Network defectors on Kaito's helicopter crew and is killed in Book 5.
 - [Gwydion Remore](Gwydion_Remore.md) (spoiler level 2): Rufus's older brother, a priest of Hero.
-- [Hana Shavar](Hana_Shavar.md) (spoiler level 1): The elf High Priestess of the Healer for Yaresh.
+- [Hana Shavar](Hana_Shavar.md) (spoiler level 3): Hana Shavar is the elf High Priestess of the Church of the Healer for Yaresh.
 - [Hannah and Claire Adeah](Hannah_and_Claire_Adeah.md) (spoiler level 1): Twin elf sisters on Rick Geller's team: Hannah the archer and Claire the healer.
 - [Hassan Dukhtar](Hassan_Dukhtar.md) (spoiler level 3): A Pakistani doctor praised for courageous medical work in a vampire war zone, whose name Jason turns into a running joke.
 - [Helsveth](Helsveth.md) (spoiler level 2): A draconian World-Phoenix servant being groomed to become First Sister as Dawn moves to the Hierophants.
@@ -95,7 +95,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Kaito Asano](Kaito_Asano.md) (spoiler level 2): Kaito Asano is Jason's older brother, a year his senior, married to Amy, with two daughters, Hana and Jace.
 - [Kalif](Kalif.md) (spoiler level 3): Kalif is a member of Team Storm Shredder who has "bad blood" with Jason from their first meeting, and who ends up on his side in the war against the undead...
 - [Kasper Irios](Kasper_Irios.md) (spoiler level 0): A peak-bronze heir of House Irios whom Jason meets after the Zara marriage scandal.
-- [Keith Geller](Keith_Geller.md) (spoiler level 0): Humphrey's father, a solid and reliable counterpoint to Danielle.
+- [Keith Geller](Keith_Geller.md) (spoiler level 3): Keith Geller is Danielle Geller's husband and Humphrey and Henrietta's father.
 - [Ken Asano](Ken_Asano.md) (spoiler level 3): Ken Asano is Jason's father, a Japanese-born Australian landscape architect who embraces the Australian lifestyle with convert's zeal.
 - [Ketevan Arziani](Ketevan_Arziani.md) (spoiler level 2): An analytical Network officer in Sydney, Anna Tilden's assistant, who later becomes Yumi Asano's chief of staff.
 - [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
