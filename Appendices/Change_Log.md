@@ -604,6 +604,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Added `03_Magic_and_Adventuring/Progression_Tracks.md`: the first line for each of Jason's four essences, his twenty abilities, his rank steps and other major gains, and a table for Sophie, Belinda, Clive and a few others. Sanguine Horror, Haemorrhage, Castigate, Punition and Verdict are given as "first shown" because the awakening message was not found. Gold rank is dated only by the later report of a day of golden light.
 - Gary, Rufus, Farrah, Taika, Humphrey and Neil's full tracks are not in this file; their character files hold what is known.
 
+**Who-knows-what-when matrix, build plan item 3.5 (2026-10-24)**
+- Added `10_Roleplay_Support/Who_Knows_What_When.md`: seven secrets (Jason an outworlder, Jason an astral king, the Order's survival, the Builder's identity and plan, the Network founder and the door, the System and Knowledge's plan, Jason's deaths) against groups of people, with the earliest cited scene and a book band for each. Linked from `Spoiler_Management.md`. It complements the per-character tables in `Relationships/Knowledge_States.md`.
+- Dashes mark cells where no scene was found.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

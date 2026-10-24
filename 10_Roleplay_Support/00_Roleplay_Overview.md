@@ -34,5 +34,6 @@ Start from the era table, then check each character's "valid from" book before y
 - [Plot Hooks by Era](Plot_Hooks.md) (spoiler level 0): Open situations in each era that a scene can start from.
 - [Spoiler Management and Secrets](Spoiler_Management.md) (spoiler level 0): How to use the four spoiler levels, a table of the series' main secrets with the line where each first surfaces, and rules for who knows what.
 - [Tone and Voice Notes](Tone_and_Voice.md) (spoiler level 0): The register the books use, how forms of address work, and a condensed voice note for the main speakers, each tied to a line.
+- [Who Knows What, and When (by Group)](Who_Knows_What_When.md) (spoiler level 3): This matrix follows the series' main secrets across groups of people, not individuals.
 
 <!-- files:end -->
