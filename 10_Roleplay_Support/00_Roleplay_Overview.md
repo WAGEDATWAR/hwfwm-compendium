@@ -45,6 +45,14 @@ Start from the era table, then check each character's "valid from" book before y
 - [NPC Cards: Characters First Appearing in Books 7-9](NPC_Cards/NPC_Cards_Books_07-09.md) (spoiler level 2): One card per character, in alphabetical order.
 - [NPC Cards: Characters First Appearing in Books 10-13](NPC_Cards/NPC_Cards_Books_10-13.md) (spoiler level 3): One card per character, in alphabetical order.
 
+**Quick_Reference/**
+
+- [Quick Reference: Calendar and Festivals](Quick_Reference/Calendar_and_Festivals.md) (spoiler level 2)
+- [Quick Reference: The Churches at a Glance](Quick_Reference/Churches_at_a_Glance.md) (spoiler level 3)
+- [Quick Reference: Coin Table](Quick_Reference/Coin_Table.md) (spoiler level 1): "The basic coin of the realm was the lesser spirit coin.
+- [Quick Reference: Forms of Address](Quick_Reference/Forms_of_Address.md) (spoiler level 3)
+- [Quick Reference: Ranks and Lifespans](Quick_Reference/Ranks_and_Lifespans.md) (spoiler level 2): The sequence is iron, bronze, silver, gold, diamond (Book 1, Ch22 L58).
+
 **Spoiler_Safe_Summaries/**
 
 - [Spoiler-Safe Summary: Level 0, Public Setting](Spoiler_Safe_Summaries/Level_0_Public_Setting.md) (spoiler level 0): This page uses only facts visible in the world from the first chapters.

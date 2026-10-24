@@ -5,7 +5,7 @@ Spoiler level: 0
 Valid from: Book 1
 Valid through: Book 13
 Sources: Books 1-13 (chapter files)
-Related: Motifs_and_Sayings.md, 00_Roleplay_Overview.md, ../07_Characters/00_Characters_Overview.md, ../00_Project_Structure.md
+Related: Motifs_and_Sayings.md, 00_Roleplay_Overview.md, ../07_Characters/00_Characters_Overview.md, ../00_Project_Structure.md, Quick_Reference/Forms_of_Address.md, Quick_Reference/Ranks_and_Lifespans.md, Quick_Reference/Coin_Table.md, Quick_Reference/Calendar_and_Festivals.md, Quick_Reference/Churches_at_a_Glance.md
 
 ## 1. Summary
 
