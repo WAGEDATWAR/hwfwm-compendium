@@ -101,11 +101,11 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch6 | Potent Potable | Book_01_Timeline L3-6; 01_World_Primer L15, L50; Alchemy_Artifice_and_Magical_Materials L46, L53-54, L54 | 6 |
 | Ch7 | Spoils | Alchemy_Artifice_and_Magical_Materials L17-21, L68; Soul_Bound_Items_and_Regalia L17-21; Alchemy_Association L25; Jason_Asano L26; Book_01_Timeline L38; Skill_Books_and_Learning L41-43, L46, L50-51, L55-58, L60; 01_World_Primer L68; Glossary L68-69 | 13 |
 | Ch8 | Dark Magic | Book_01_Timeline L32, L35, L59; Abilities_and_Attributes L34, L35, L62; Awakening_Stones L35, L51-57; Jason_Asano L35, L37; Jason_Power_Set_Reference L62; Skill_Books_and_Learning L88-93 | 12 |
-| Ch9 | Escape | Calendar_Holidays_and_Naming_Customs L28, L53; Book_01_Timeline L47; Cressida_Vane L47-50; Landemere_Vane L47-50; Era_Selection L50; Gary L121; Tone_and_Voice L121; Leonids L131 | 9 |
+| Ch9 | Escape | Calendar_Holidays_and_Naming_Customs L28, L53; Book_01_Timeline L47; Cressida_Vane L47-50; Landemere_Vane L47-50, L47-54, L54; Era_Selection L50; Gary L121; Tone_and_Voice L121; Leonids L131 | 11 |
 | Ch10 | The Evil Pit of Evil | Book_01_Timeline L23; Skill_Books_and_Learning L38 | 2 |
-| Ch11 | Dashing Heroics | Gary L4-6; Awakening_Stones L17, L17-20; Rufus_Remore L49, L51; NPC_Rosters_by_Era L49; Book_01_Timeline L64, L80, L91-92; Minor_Cast_Books_1-3 L73; Glossary L73; Calendar_Holidays_and_Naming_Customs L80 … | 14 |
+| Ch11 | Dashing Heroics | Gary L4-6; Awakening_Stones L17, L17-20; Rufus_Remore L49, L51; NPC_Rosters_by_Era L49; Book_01_Timeline L64, L80, L91-92; Landemere_Vane L65; Minor_Cast_Books_1-3 L73; Glossary L73 … | 15 |
 | Ch12 | Sanguine Horror | Farrah_Hurin L11; NPC_Rosters_by_Era L11; Skill_Books_and_Learning L15; Monsters L70; Book_01_Timeline L72 | 5 |
-| Ch13 | This is the Part Where We Step Back | Minor_Cast_Books_1-3 L3; Glossary L3; Book_01_Timeline L90, L107 | 4 |
+| Ch13 | This is the Part Where We Step Back | Minor_Cast_Books_1-3 L3; Glossary L3; Landemere_Vane L13; Book_01_Timeline L90, L107 | 5 |
 | Ch14 | Worlds Apart | Leonids L14; Gary L14; NPC_Rosters_by_Era L14; Minor_Cast_Books_1-3 L18 | 4 |
 | Ch15 | Outworlder | Skill_Books_and_Learning L41, L113; Elves L50, L51; Leonids L50, L84; Outworlders L50, L74-76; 00_Peoples_Overview L56; Humans L56; Essences L57, L58, L112, L113, L114; Ranks_and_Advancement L58, L85, L100 … | 25 |
 | Ch16 | Rescue Party | Gary_Power_Set L28; Gary L28; Rufus_Remore L31-36, L38; Rufus_Remore_Power_Set L38; 01_World_Primer L49; Glossary L51; Zartos_Culture L53-58, L57; Zartos L53-58, L57 … | 13 |
@@ -145,18 +145,18 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch50 | The Full Keanu | Skill_Books_and_Learning L20-22, L22, L41, L65-73, L67, L69 …; The_Reaper L40; Book_01_Timeline L40-41; Great_Astral_Beings L41; Greenstone L85-91, L103, L104; Cole_Silva L92; Sophie_Wexler L92; Era_Selection L92 … | 19 |
 | Ch51 | Song of the Nightingale | Book_01_Timeline L11 | 1 |
 | Ch52 | Pain | Mirage_Chamber_Association L5; Jason_Asano L7-11; Greenstone L46 | 3 |
-| Ch53 | Nightlife | Book_01_Timeline L4; Cassandra_Mercer L45-49; NPC_Rosters_by_Era L45-49; Thalia_Mercer L45-62, L47-49, L54; Thadwick_Mercer L54 | 7 |
+| Ch53 | Nightlife | Book_01_Timeline L4; NPC_Rosters_by_Era L45-49; Thalia_Mercer L45-62, L47-49, L54; Thadwick_Mercer L54; Cassandra_Mercer L60 | 7 |
 | Ch54 | Field Assessment | Vincent_Trenslow L29; Adventure_Society L33, L35, L36; Calendar_Holidays_and_Naming_Customs L36; Book_01_Timeline L36; NPC_Rosters_by_Era L36; Tone_and_Voice L36; Alchemy_Artifice_and_Magical_Materials L52 | 9 |
 | Ch56 | Gary’s Gift | House_Geller L6; Skill_Books_and_Learning L18, L47; Onslow L24; Gary L46-51; Soul_Bound_Items_and_Regalia L47, L49-52; Book_01_Timeline L49, L77; Alchemy_Artifice_and_Magical_Materials L49-52; Jason_Asano L49-52 … | 14 |
 | Ch57 | Rainbow Smoke | Awakening_Stones L21; Adventuring_Profession L33; Adventure_Society L33 | 3 |
 | Ch58 | A Man of Malevolent Intellect | Book_01_Timeline L3, L19, L85, L118; Monsters L40 | 5 |
 | Ch59 | Falling Short | Alchemy_Artifice_and_Magical_Materials L8; Book_01_Timeline L18; Clothing_Food_Festivals_and_Transport_by_Region L30; Daily_Life L30 | 4 |
 | Ch60 | Making Music | Book_01_Timeline L30, L34 | 2 |
-| Ch61 | Trade Hall | Book_01_Timeline L17; Adventuring_Profession L32; Greenstone L32; Awakening_Stones L36; Alchemy_Artifice_and_Magical_Materials L40, L129; Alchemy_Association L56; Economy_and_Money L63-65, L65, L114; 01_World_Primer L65 … | 14 |
+| Ch61 | Trade Hall | Book_01_Timeline L17; Adventuring_Profession L32; Greenstone L32; Awakening_Stones L36; Alchemy_Artifice_and_Magical_Materials L40, L129; Landemere_Vane L41; Alchemy_Association L56; Economy_and_Money L63-65, L65, L114 … | 15 |
 | Ch62 | Have Some Damn Adventures | Book_01_Timeline L5, L44, L67; Badges_and_Guild_Membership L44, L46, L47, L47-48, L61; Adventure_Society L46, L47, L47-54, L61, L81-85, L91; Alchemy_Artifice_and_Magical_Materials L46-47; Adventuring_Profession L55-59, L61, L64, L66, L68-70, L70 …; Unusual_and_Unique_Magic L55-59; Vincent_Trenslow L61-93; Era_Selection L66-67 | 28 |
 | Ch63 | Sunk-Cost Fallacy | Adventuring_Profession L54, L77, L81; Book_01_Timeline L108 | 4 |
 | Ch64 | Take My Wife, Please | Adventuring_Profession L3, L5, L12, L81; Adventure_Society L3; Minor_Cast_Books_1-3 L5, L83; Alchemy_Artifice_and_Magical_Materials L12; Awakening_Stones L80, L81; House_Geller L80; Awakening_Stones L80, L81, L82 | 14 |
-| Ch65 | Curious Urges | Gilbert_Bertinelli L6; Book_01_Timeline L50, L60, L99; Adventure_Society L60; Elspeth_Arella L60; NPC_Rosters_by_Era L60; Auras L91; Gods_and_Churches L130; Church_of_Purity L130 … | 11 |
+| Ch65 | Curious Urges | Gilbert_Bertinelli L6; Book_01_Timeline L50, L60, L99; Adventure_Society L60; Elspeth_Arella L60; NPC_Rosters_by_Era L60; Auras L91; Cassandra_Mercer L120; Gods_and_Churches L130 … | 12 |
 | Ch66 | A Stronger Weapon Than the One in Your Hand | Phoebe_Geller L3-4; Humphrey_Geller L3-6, L58, L58-62; Calendar_Holidays_and_Naming_Customs L4; House_Geller L4, L18, L27; Book_01_Timeline L7; Rick_Geller L17, L58; Education L18, L27; Hannah_and_Claire_Adeah L31 … | 16 |
 | Ch67 | This is What it Means to Fight Me | Jonah_Geller L14-15, L66; Hannah_and_Claire_Adeah L15, L18-33, L71-95, L126-128; NPC_Rosters_by_Era L15; Glossary L15; Book_01_Timeline L95; Rick_Geller L99 | 10 |
 | Ch68 | Good News For Clive | Familiars_Summons_and_Conjurations L20, L22; Book_01_Timeline L65, L102, L106; Clive_Standish L92-94; Tone_and_Voice L92-94; Onslow L106; Alchemy_Artifice_and_Magical_Materials L114 | 9 |
@@ -179,7 +179,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch86 | Some Kind of Secret | Book_01_Timeline L9, L123; Greenstone L25; Draconians L31; Runics L31, L40; 00_Peoples_Overview L40; Clive_Standish L115-116 | 8 |
 | Ch87 | Can’t Lose | Badges_and_Guild_Membership L39; Book_01_Timeline L51, L85; Monsters L53; Jason_Asano L85; Abilities_and_Attributes L91; Awakening_Stones L91; Essences L91; Afflictions_Boons_and_Damage L97, L99 … | 15 |
 | Ch88 | The Nature of Absolution | Education L3; House_Geller L3, L9; House_Remore L3; Book_01_Timeline L25, L46; Humphrey_Geller_Power_Set L25-30, L94-96, L97; Skill_Books_and_Learning L80-85; Humphrey_Geller L94-106; Awakening_Stones L118-125 … | 13 |
-| Ch89 | Anti-Pirate Operations | Book_01_Timeline L3-5, L50, L77; Ustei L50, L50-51, L68; Ustei_Homeland_Culture L50; Plot_Hooks L50; Open_Questions L50; Beth_Cavendish L53-85, L77; Hudson_Kettering L54, L60, L77, L89; Smoulder_and_Brighthearts L63 … | 20 |
+| Ch89 | Anti-Pirate Operations | Cassandra_Mercer L3; Book_01_Timeline L3-5, L50, L77; Ustei L50, L50-51, L68; Ustei_Homeland_Culture L50; Plot_Hooks L50; Open_Questions L50; Beth_Cavendish L53-85, L77; Hudson_Kettering L54, L60, L77, L89 … | 21 |
 | Ch90 | The Path to Bronze | Ustei_Homeland_Culture L8-9, L14, L42, L44; Hudson_Kettering L11, L16, L49; Minor_Cast_Remore_Academy_and_Greenstone_Teams L13, L15; Book_01_Timeline L14; Desert_Transport_Skimmers_and_Barges L14; Minor_Cast_Books_1-3 L32; Beth_Cavendish L61 | 13 |
 | Ch91 | Life & Death | Book_01_Timeline L5, L53; Adventuring_Profession L34; Awakening_Stones L34; Adventure_Society L34; Alchemy_Artifice_and_Magical_Materials L58; Alchemy_Association L58; Clothing_Food_Festivals_and_Transport_by_Region L64 | 8 |
 | Ch92 | Unusual Contract | Book_01_Timeline L12, L65; Ustei_Homeland_Culture L12-16, L30, L36; Economy_and_Money L32; Law_and_Indenture L32, L33-34, L36; Plot_Hooks L32; Ustei L36; Monsters L49; Leust L59-65, L61, L63 … | 17 |
@@ -188,7 +188,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch95 | Punishment | Church_of_the_Healer L8; Minor_Cast_Books_1-3 L16, L46; Souls_Death_and_Healing L69, L126; Book_01_Timeline L78, L90; The_Healer L84-86, L90-95, L106-109, L120-126; Dominion L87, L94, L101, L103-104; Gods_and_Churches L90-94, L94, L104; Gary L104 … | 21 |
 | Ch96 | You Don’t Get a Third | Church_of_the_Healer L16; Essences L18; Book_01_Timeline L24, L47 | 4 |
 | Ch97 | Integrity is Sexy | Dominion L7; Book_01_Timeline L17, L29, L93; Open_Questions L19-21; Ustei_Homeland_Culture L21, L23; House_Geller L50; House_Mercer L50; Minor_Cast_Books_1-3 L101; Thalia_Mercer L108 | 11 |
-| Ch98 | The Point of Money and Power | Desert_Transport_Skimmers_and_Barges L4; House_Mercer L20; Book_01_Timeline L57, L70; Adventure_Society L63; Minor_Cast_Books_1-3 L63; Badges_and_Guild_Membership L82 | 7 |
+| Ch98 | The Point of Money and Power | Desert_Transport_Skimmers_and_Barges L4; House_Mercer L20; Cassandra_Mercer L35; Book_01_Timeline L57, L70; Adventure_Society L63; Minor_Cast_Books_1-3 L63; Badges_and_Guild_Membership L82 | 8 |
 | Ch99 | Someone Else’s Game | Jason_Asano L24, L67-70; Book_01_Timeline L36, L43, L61; Clothing_Food_Festivals_and_Transport_by_Region L39; Monsters L61; Abilities_and_Attributes L65; Essence_Catalogue L67-70; Monster_Cores_and_Training L155; Afflictions_Boons_and_Damage L166, L169 … | 13 |
 | Ch100 | Legwork | Desert_Astral_Space L8; Book_01_Timeline L69, L79; Auras L85 | 4 |
 | Ch101 | Fantasy World Goodness | Book_01_Timeline L4, L64, L98; Minor_Cast_Books_1-3 L9; Auras L16; Ranks_and_Advancement L16; Alchemy_Artifice_and_Magical_Materials L64, L103; Emir_Bahadir L64, L103; Cloud_Constructs_and_Palaces L64, L103; NPC_Rosters_by_Era L64 … | 16 |
@@ -212,14 +212,14 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1 | Climbing Mountains | Cloud_Constructs_and_Palaces L3; Book_02_Timeline L4, L90; Skill_Books_and_Learning L47; Law_and_Indenture L77; Jory_Tillman L77; Sophie_Wexler L77-80; Tone_and_Voice L77-80; NPC_Rosters_by_Era L112 | 9 |
 | Ch2 | Nothing Can Hurt You Like Hope | Book_02_Timeline L21, L23, L58, L60, L100 | 5 |
 | Ch3 | See You in Court | Education L22; Church_of_Knowledge L22; Law_and_Indenture L43; Book_02_Timeline L53, L76, L77 | 6 |
-| Ch4 | Six-Month Lease | Book_02_Timeline L7, L24, L111; Hannah_and_Claire_Adeah L10; Cassandra_Mercer L19-29 | 5 |
+| Ch4 | Six-Month Lease | Book_02_Timeline L7, L24, L111; Hannah_and_Claire_Adeah L10 | 4 |
 | Ch5 | The Perks of Being an Essence User | Book_02_Timeline L37, L116; Sophie_Wexler_Power_Set L37-41, L82-87; Sophie_Wexler L37-41, L82-87; Education L38; Danielle_Geller L46; Essence_Catalogue L65, L82-87; Confluences L82-87, L83, L87; Essences L82-87 … | 18 |
 | Ch6 | This is the Moment | Book_02_Timeline L3; 01_World_Primer L5; Rituals_Arrays_and_Formations L41, L43; Abilities_and_Attributes L43; Awakening_Stones L43; Essence_Catalogue L56 | 7 |
 | Ch7 | Iron Rank | Book_02_Timeline L28, L116; Dimensional_Storage_and_Portals L47; Clive_Standish L62; Rituals_Arrays_and_Formations L117, L130; Sophie_Wexler_Power_Set L118, L123, L133, L152, L158; Sophie_Wexler L129; Afflictions_Boons_and_Damage L162 | 13 |
 | Ch8 | Getting Stoned | Sophie_Wexler_Power_Set L22, L40, L98, L122, L173; Book_02_Timeline L28; Afflictions_Boons_and_Damage L44; Abilities_and_Attributes L45, L170-171, L171, L174-175; Confluences L45-49; Emir_Bahadir L168; Cloud_Constructs_and_Palaces L168; Sophie_Wexler L170-173 | 15 |
 | Ch9 | Children | Awakening_Stones L9, L17, L17-18, L29, L38, L40 …; Essence_Catalogue L9, L17, L21; Essences L21; Clive_Standish L21; 01_World_Primer L30-31; Abilities_and_Attributes L31-35; Book_02_Timeline L51, L67; Master_Timeline L67 … | 23 |
 | Ch10 | Star Seed | Adventure_Society L16; Minor_Cast_Books_1-3 L16; Jonah_Geller L26-50; Plot_Hooks L26-50; House_Geller L28; Book_02_Timeline L51, L62; Open_Questions L51; Badges_and_Guild_Membership L85 … | 13 |
-| Ch11 | It’s About How You Use It | Book_02_Timeline L3; Education L37; Jason_Asano L41; Kaito_Asano L61, L65 | 5 |
+| Ch11 | It’s About How You Use It | Cassandra_Mercer L3; Book_02_Timeline L3; Education L37; Jason_Asano L41; Kaito_Asano L61, L65 | 6 |
 | Ch12 | We End Here | Belinda_Callahan L6; Book_02_Timeline L82, L88, L102; Badges_and_Guild_Membership L83 | 5 |
 | Ch13 | Poison Pill | Book_02_Timeline L8, L60, L95, L128; Neil_Davone L19; Tokens_Stones_and_Relics L57, L60, L62, L66, L76-78; Gods_and_Churches L60, L103; 00_Items_Overview L60; Awakening_Stones L60; Awakening_Stones L60-62, L62, L66, L70, L71-76, L76-78 …; 00_Magic_Overview L60-90 … | 27 |
 | Ch14 | Let’s Just Fight Monsters | Hornis L16, L116; Book_02_Timeline L20, L35; Jason_Asano L35; Jonah_Geller L116 | 6 |
@@ -248,7 +248,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch38 | Wake | Book_02_Timeline L4, L40, L61, L69; Arabelle_Remore L23; Glossary L23; Draconians L29; Leonids L29; Padma_Parsell L35, L40-41, L42, L43, L65, L84; House_Remore L36; NPC_Rosters_by_Era L65 … | 17 |
 | Ch39 | I Can’t Trust Any of It | House_Geller L7; Book_02_Timeline L8, L11; Minor_Cast_Remore_Academy_and_Greenstone_Teams L12, L37; Padma_Parsell L13; Draconians L15, L34; Dragon_Lands_Culture L15, L34 | 10 |
 | Ch40 | Legacy | 01_World_Primer L3; Book_02_Timeline L27, L57, L59, L63; Emir_Bahadir L54, L65; Alchemy_Artifice_and_Magical_Materials L61, L80; Desert_Transport_Skimmers_and_Barges L80, L81 | 11 |
-| Ch41 | A Rash Decision | Book_02_Timeline L4, L67; Thadwick_Mercer L80, L80-89 | 4 |
+| Ch41 | A Rash Decision | Book_02_Timeline L4, L67; Cassandra_Mercer L35; Thadwick_Mercer L80, L80-89 | 5 |
 | Ch42 | It’s A Good One | Neil_Davone_Power_Set L40; Book_02_Timeline L52, L77; Clive_Standish_Power_Set L52-62; Familiars_Summons_and_Conjurations L70; Stash L70; Dimensional_Storage_and_Portals L79; Alchemy_Artifice_and_Magical_Materials L86; 01_World_Primer L96 | 9 |
 | Ch43 | The City of Fallen Echoes | Book_02_Timeline L7, L95; Dimensional_Storage_and_Portals L24; Monsters L56 | 4 |
 | Ch44 | Shade | Gilbert_Bertinelli L8; Familiars L37, L93; Book_02_Timeline L39, L57, L76, L85, L87, L93 …; City_of_Fallen_Echoes L39-41, L41-45, L47, L57-59, L119-128; Shade L65, L93, L119; Cults_and_Orders L72-78, L85-89, L99-109; Order_and_Cult_of_the_Reaper L72-78, L85-89, L99-109; Spoiler_Management L72-78 … | 31 |
@@ -356,14 +356,14 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch66 | Here We Are | Zato L45; Onslow L46-47; Book_03_Timeline L47; Belinda_Callahan_Power_Set L48 | 4 |
 | Ch67 | Outmatched | Cults_and_Orders L6; Book_03_Timeline L39, L56; Zato L69, L69-100, L100; Belinda_Callahan_Power_Set L73; Afflictions_Boons_and_Damage L93; Ranks_and_Advancement L95; Unusual_and_Unique_Magic L95 | 10 |
 | Ch68 | The Power of Friendship | Titles_and_Blessings L13-16; Celestines L14; Book_03_Timeline L14, L42; Sophie_Wexler L14-15; Sophie_Wexler_Power_Set L15; Zato L46, L46-61, L58-60, L60; Humphrey_Geller L61; Humphrey_Geller_Power_Set L68-73 | 12 |
-| Ch69 | A War of Stolen Moments | Book_03_Timeline L38, L42, L60, L91, L108, L129 …; Onslow L97; Tokens_Stones_and_Relics L108; Hester_Maharala L186; Death L189; Shako L193, L193-236, L196, L207-213; The_Deep_Astral_and_Interstice L219, L220, L221, L222, L224-225; 01_World_Primer L219-222 … | 107 |
+| Ch69 | A War of Stolen Moments | Book_03_Timeline L38, L42, L60, L91, L108, L129 …; Onslow L97; Tokens_Stones_and_Relics L108; Hester_Maharala L186; Death L189; Shako L193, L193-236, L196, L207-213; The_Deep_Astral_and_Interstice L219, L220, L221, L222, L224-225; 01_World_Primer L219-222 … | 108 |
 
 ### Book 4
 
 | Chapter | Title | Cited by (lines) | Rows |
 |---|---|---|---|
 | Ch1 | A Better Pants Solution | Titles_and_Blessings L33-35; Book_04_Timeline L34, L38, L63; 00_Places_Overview L39; 00_Earth_Overview L39; Casselton_and_Asano_Village L39; Jason_Asano L66-67, L67; NPC_Rosters_by_Era L66-67 | 10 |
-| Ch2 | Time to Front Up | Book_04_Timeline L8, L74; 01_World_Primer L11; Essence_Catalogue L18; Monsters L18; Jason_Asano L22; Titles_and_Blessings L22-24, L25, L26, L44, L45; Auras L23-24, L26; Souls_Death_and_Healing L25-26, L26, L50, L60 … | 26 |
+| Ch2 | Time to Front Up | Book_04_Timeline L8, L74; 01_World_Primer L11; Essence_Catalogue L18; Monsters L18; Jason_Asano L22; Titles_and_Blessings L22-24, L25, L26, L44, L45; Auras L23-24, L26; Souls_Death_and_Healing L25-26, L26, L50, L60 … | 27 |
 | Ch3 | The Single Greatest Thing on This Planet | Shade L28, L83; Death L30; Order_and_Cult_of_the_Reaper L30; Souls_Death_and_Healing L34, L36, L38, L40; Titles_and_Blessings L46, L48, L70; World_Phoenix L66; Book_04_Timeline L80, L108, L112, L126; 00_Earth_Overview L87 … | 33 |
 | Ch4 | Some Secrets Change You Forever | Casselton_and_Asano_Village L8; Book_04_Timeline L8, L87, L94; Taika L17, L27; Hiro_Asano L52, L52-54; Cheryl_Asano L105; NPC_Rosters_by_Era L105 | 10 |
 | Ch5 | It Would Be Weirder If Magic Wasn’t Responsible | Earth_Powers L3; Anna_Tilden L5-7, L111-112; Ketevan_Arziani L10; Earth_Magic L13; Ranks_and_Advancement L13-14; 01_World_Primer L13-16; Shade L33; Taika L40 … | 12 |
@@ -610,7 +610,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch43 | How Deep a Hole | Vitesse L18, L58; Rimaros L47; Minor_Cast_Books_7-9 L47; Estercost_Culture L58; Cyrion L58; Glossary L58; Open_Questions L58; Danielle_Geller L61, L61-62 … | 13 |
 | Ch44 | The Part That Knows How to Quit | Adventuring_Profession L7; Pain_and_Discord L23; Book_07_Timeline L23, L30; Amos_Pensinata L30; Taika L61; Travis_Noble L61 | 7 |
 | Ch45 | Bad Apples | NPC_Rosters_by_Era L54; Book_07_Timeline L61; Education L79; Fertility L106; House_Geller L106 | 5 |
-| Ch46 | Idiot Plan | Book_07_Timeline L19, L40; Soramir L74, L74-98, L86, L98; Trenchant_Moore L81 | 7 |
+| Ch46 | Idiot Plan | Book_07_Timeline L19, L40; Soramir L74, L74-98, L86, L98; Roland_Remore L78; Trenchant_Moore L81 | 8 |
 | Ch47 | The Days They Sing Songs About | Jeni_Kavaloa L33, L41-49, L60; Book_07_Timeline L33, L39; NPC_Rosters_by_Era L33, L39, L54; Amos_Pensinata L39; Orin_Pensinata L39, L51-53, L72; Glossary L39; Korinne_Pescos L54, L59; Kalif L59 … | 18 |
 | Ch48 | The Source of the Madness | Orin_Pensinata L7; Korinne_Pescos L16; Book_07_Timeline L33, L45, L58; Saint-Etienne L36; Mr_North L36 | 7 |
 | Ch49 | A Fair Fight | Book_07_Timeline L21; Jeni_Kavaloa L39 | 2 |
@@ -619,7 +619,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch52 | Staying with Friends | Minor_Cast_Books_7-9 L50; Book_07_Timeline L51, L66; Leonids L66; Outworlders L66; Liara_Rimaros L71; Soramir L71; Rimaros L73; Arabelle_Remore L89 | 9 |
 | Ch53 | Meanwhile, Two Weeks Ago in Vitesse | Book_07_Timeline L12, L38, L75; Trenchant_Moore L102 | 4 |
 | Ch54 | Hegemon’s Will | Celestines L87; Dawn L87; Spoiler_Management L87; Zartos L108-120; Gary L108-120; Jason_Asano L108-120; Soul_Bound_Items_and_Regalia L108-120; Hegemons_Will_and_Dominion L118-119, L120, L121, L123, L124, L125 … … | 26 |
-| Ch55 | A Story About a Magic Trowel | The_Deep_Astral_and_Interstice L16; Emi_Evans_Asano_Power_Set L35; Farrah_Hurin_Power_Set L35; Emi_Evans_Asano L35; Book_07_Timeline L40, L79; Landemere_Vane L64-79; 01_World_Primer L75; Glossary L75 | 9 |
+| Ch55 | A Story About a Magic Trowel | The_Deep_Astral_and_Interstice L16; Emi_Evans_Asano_Power_Set L35; Farrah_Hurin_Power_Set L35; Emi_Evans_Asano L35; Book_07_Timeline L40, L79; Landemere_Vane L64, L64-79; 01_World_Primer L75; Glossary L75 | 10 |
 | Ch56 | What It Sent Us | Soramir L6; Book_07_Timeline L62, L74; Master_Timeline L62; Church_of_Knowledge L62-66; Travis_Noble L71 | 6 |
 | Ch57 | I Am Not Jason Asano | Book_07_Timeline L3, L27; Stash L34; House_Geller L72; House_Remore L72 | 5 |
 | Ch58 | That Powerful and That Old | Dimensional_Storage_and_Portals L10; Sendira L38; Minor_Cast_Order_of_Redeeming_Light L38; Book_07_Timeline L38, L76; Melody_Jain L38-46; Sophie_Wexler L38-46; Trenchant_Moore L53 | 8 |
@@ -726,7 +726,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch15 | Hefty Nuggets | Minor_Cast_Books_7-9 L14, L53, L67; Zareen_Rimaros L16, L103; Book_09_Timeline L114 | 6 |
 | Ch16 | Following Your Convictions to Your Death | Liara_Rimaros L3; Zareen_Rimaros L3; Book_09_Timeline L29; Minor_Cast_Books_4-6 L50; Glossary L50 | 5 |
 | Ch17 | The God in This Scenario | Sapphire_Crown L8; Book_09_Timeline L61 | 2 |
-| Ch18 | The Only Person Who Thinks It’s Obvious | Book_09_Timeline L3; Zareen_Rimaros L15; Essence_Catalogue L54; Vitesse L70; Sapphire_Crown L98 | 5 |
+| Ch18 | The Only Person Who Thinks It’s Obvious | Book_09_Timeline L3; Zareen_Rimaros L15; Essence_Catalogue L54; Vitesse L70; Roland_Remore L70; Sapphire_Crown L98 | 6 |
 | Ch19 | Uncharacteristic Sincerity | Melody_Jain L3; Sophie_Wexler L3-6; Book_09_Timeline L31 | 3 |
 | Ch20 | The Only Wound You Can Truly Suffer | Confluences L12; Rufus_Remore_Power_Set L12, L12-13, L14, L16, L20; Unusual_and_Unique_Magic L15; Essence_Catalogue L16; Education L26-27; House_Remore L26-27, L57; Book_09_Timeline L62 | 12 |
 | Ch21 | Mother’s Favourite | Book_09_Timeline L4, L47, L91; House_Davone L5; House_Geller L18, L20; Education L20; Jory_Tillman L32 | 8 |
@@ -916,7 +916,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch3 | Contrition Born at the Point of a Sword | Book_11_Timeline L19, L46 | 2 |
 | Ch4 | Overestimating the Length | Kalif L21; Marla L21; Book_11_Timeline L21, L57; Gods_and_Churches L85 | 5 |
 | Ch5 | Good Friends | Book_11_Timeline L8, L63 | 2 |
-| Ch6 | Lackeys | Book_11_Timeline L13; Minor_Cast_Books_10-13 L50; Messengers_as_a_People L55; House_Mercer L57, L58, L59, L61; Thadwick_Mercer L57, L59, L61; Minor_Cast_Books_1-3 L59; Neil_Davone L60, L63; House_Kettering L61 … | 16 |
+| Ch6 | Lackeys | Book_11_Timeline L13; Minor_Cast_Books_10-13 L50; Messengers_as_a_People L55; House_Mercer L57, L58, L59, L61; Thadwick_Mercer L57, L59, L61; Minor_Cast_Books_1-3 L59; Cassandra_Mercer L60; Neil_Davone L60, L63 … | 17 |
 | Ch7 | Yellow Bell | Name_Index L14; Book_11_Timeline L36, L82 | 3 |
 | Ch8 | Rock Climbing | Undeath L20; Church_of_Undeath L20; Garth_Larosse L20; Book_11_Timeline L21, L45, L102; Dustin_Kettering L23; Neil_Davone L23-24; Nik_Asano L102, L102-106; Tone_and_Voice L102, L102-106 | 12 |
 | Ch9 | Grunts and Sizzling Noises | Church_of_Undeath L100; Book_11_Timeline L108 | 2 |
@@ -976,7 +976,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch65 | A Power That No One and Nothing Should Have | Cosmic_Throne_and_the_Sundering L3, L6, L8, L8-9, L20, L28 …; 01_World_Primer L8; Book_11_Timeline L8, L34; Master_Timeline L8; World_Phoenix L34-36; Undeath L43; Keeper_of_Moments L47; 00_Cosmology_Overview L55, L57-58, L75 … | 31 |
 | Ch66 | Party to Betrayal | Beaufort_Builder_Cult_Commander L5-17, L24-31; Book_11_Timeline L22, L89; Open_Questions L95 | 5 |
 | Ch67 | Farewells | Book_11_Timeline L5; Gods_and_Churches L6; Open_Questions L9; Tera_Jun_Casta L12; The_Unorthodoxy L18; Nik_Asano L19; Church_of_Hero L20; Gwydion_Remore L20 | 8 |
-| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 265 |
+| Ch68 | Compassionate Strangers | Hegemons_Will_and_Dominion L103-106; Book_11_Timeline L115, L412, L703, L782, L918, L1034 …; Master_Timeline L115, L703, L782, L918, L2260; Open_Questions L115, L159, L703, L707-709, L782, L1580; Legion L159, L161, L178, L229, L238, L261 …; Seeker_of_Songs L159, L175, L236, L2164, L2530-2531; Whisper_in_Corners L159, L231, L2160, L2180; Thadwick_Mercer L160, L160-186 … | 266 |
 
 ### Book 12
 
@@ -1027,8 +1027,8 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch42 | A Thing That Makes the Car Work | Book_12_Timeline L4, L21, L65, L70, L72, L82; The_System L92, L99-101; Anna_Tilden L99, L100, L104 | 11 |
 | Ch43 | A Long Time Coming | Minor_Cast_Books_10-13 L16, L31-34; Open_Questions L46, L47; Nik_Asano L46-50; Estercost_Culture L47; Vitesse_Culture L47, L48, L52, L53, L54, L64; Book_12_Timeline L62, L64; Badges_and_Guild_Membership L62, L64; Guilds_and_Houses L64, L64-68 … | 21 |
 | Ch44 | A Big Juicy Hole | Book_12_Timeline L4, L20, L62; Vitesse L13, L112; Badges_and_Guild_Membership L20; Burning_Violet L26, L82; Guilds_and_Houses L26-30; Belinda_Callahan L34; Adventure_Society L98; Minor_Cast_Books_10-13 L112 | 12 |
-| Ch45 | A Sense of Responsibility | Book_12_Timeline L3, L55, L62; Badges_and_Guild_Membership L3, L8, L14; Burning_Violet L6, L12, L14, L95; Vitesse_Culture L12-14; House_Remore L12-14; Guilds_and_Houses L14; Minor_Cast_Books_10-13 L64; Roland_Remore L97 … | 16 |
-| Ch46 | Trouble Always Knows Where to Find Me | Book_12_Timeline L3, L15, L105; Glossary L54; Gods_and_Churches L89 | 5 |
+| Ch45 | A Sense of Responsibility | Book_12_Timeline L3, L55, L62; Badges_and_Guild_Membership L3, L8, L14; Burning_Violet L6, L12, L14, L95; Vitesse_Culture L12-14; House_Remore L12-14; Guilds_and_Houses L14; Roland_Remore L56, L97; Minor_Cast_Books_10-13 L64 … | 17 |
+| Ch46 | Trouble Always Knows Where to Find Me | Cassandra_Mercer L3, L3-4, L4, L20; Book_12_Timeline L3, L15, L105; Glossary L54; Gods_and_Churches L89 | 9 |
 | Ch47 | Tactical Playbook | Monsters L3; Book_12_Timeline L4; Stash L61 | 3 |
 | Ch48 | I Don’t Blow Up Cities on Purpose | Estercost_Culture L3, L22, L53; Cyrion L3, L4, L4-5, L22, L53; Book_12_Timeline L3, L5; Glossary L5; Li_Li_Mei L26, L33; Cloud_Constructs_and_Palaces L26; Law_and_Indenture L53; Open_Questions L53 | 16 |
 | Ch49 | Following Through on Bad Ideas | Estercost_Culture L3; Storm_Kingdom_Culture L3; Book_12_Timeline L3; Minor_Cast_Books_10-13 L3-5; Orin_Pensinata L5; Zara_Rimaros L7; Kurdansk_Culture L77; Kurdansk L77 … | 9 |
@@ -1104,7 +1104,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch996 | The More I Listen, The More I Hear | NPC_Rosters_by_Era L3; Nik_Asano L5-9, L181; Book_13_Timeline L71 | 4 |
 | Ch997 | The Man Who Fought the Monsters | Emi_Evans_Asano L11; Nik_Asano L11, L23; Sophie_Wexler L28-31; Clive_Standish L32; NPC_Rosters_by_Era L32; Neil_Davone L37-38; Essence_Catalogue L38; Taika_Power_Set L38 … | 10 |
 | Ch998 | Sitting on a Volcano | Emi_Evans_Asano L3-4, L4; Emi_Evans_Asano_Power_Set L4; Nik_Asano L4; Book_13_Timeline L4, L99; Master_Timeline L4; Natalie_Park L105; Plot_Hooks L105; Gerling L110 | 10 |
-| Ch999 | An Interesting Message | Thalia_Mercer L3; Book_13_Timeline L3; The_Council_of_Kings L77 | 3 |
+| Ch999 | An Interesting Message | Cassandra_Mercer L3; Thalia_Mercer L3; Book_13_Timeline L3; The_Council_of_Kings L77 | 4 |
 | Ch1000 | Cosmic Tyrant Warlord Cult Leader | Boris_Ket_Lundi L3-7; The_Council_of_Kings L34-36, L36, L38, L40, L74; The_Unorthodoxy L36, L65-74, L65-76; Book_13_Timeline L37; The_Rules_of_Intrusion L72; Simon_McKean L104 | 12 |
 | Ch1001 | It’s All Quite Australian | Michael_Mills L3, L4, L6, L7, L91, L91-94 …; Book_13_Timeline L6; Master_Timeline L6; EDJI_and_Post_Reveal_Institutions L6-7, L8, L9, L44, L45, L46 …; Rufus_Remore L8; NPC_Rosters_by_Era L8; Earth_Magic L8-9, L9; Monster_Cores_and_Training L9, L10 … | 35 |
 | Ch1002 | The One Who Gets to Decide | Book_13_Timeline L3, L68; Yumi_Asano L23, L31; Simon_McKean L40-42; Michael_Mills L42, L49, L55, L65; Open_Questions L64, L69; Master_Timeline L69 | 12 |
@@ -1129,7 +1129,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch1021 | The One Way I Know to Kill a God | Book_13_Timeline L4; The_Cabal L36; EDJI_and_Post_Reveal_Institutions L40; Cosmic_Throne_and_the_Sundering L69-71 | 4 |
 | Ch1022 | While We Have the Chance | Book_13_Timeline L3; Erika_Asano L17; Hiro_Asano L19; Rimaros L20; Knowledge L25; Church_of_Knowledge L25; Dimensional_Storage_and_Portals L35; Mirror_Kingdom_Culture L51 … | 11 |
 | Ch1023 | Broken What Matters Most | Book_13_Timeline L3, L12; Open_Questions L12, L103; Kaito_Asano L33; Artefact_Site_One L103; Knowledge L131, L139; Gods_and_Churches L139; Gabrielle_Pellin L139; Knowledge L139 | 11 |
-| Ch1024 | The Next Time We Meet | Book_13_Timeline L3, L82; Soramir L14; Artefact_Site_One L57; Helsveth L75-81; World_Phoenix L90; Umber L100-104, L118, L118-127, L138; Name_Index L101; NPC_Rosters_by_Era L102 … | 27 |
+| Ch1024 | The Next Time We Meet | Book_13_Timeline L3, L82; Roland_Remore L14, L35; Soramir L14; Artefact_Site_One L57; Helsveth L75-81; World_Phoenix L90; Umber L100-104, L118, L118-127, L138; Name_Index L101 … | 29 |
 
 ## 6. State changes by book
 

@@ -38,7 +38,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Boris Ket Lundi (Boris Ketland)](Boris_Ket_Lundi.md) (spoiler level 3): Boris Ket Lundi, who goes by Boris Ketland on Earth, is a messenger from Earth who is secretly one of the Unorthodoxy.
 - [Callum Morse](Callum_Morse.md) (spoiler level 2): A gold-rank stealth assassin, former teammate of Emir and of Rufus's parents, whose long hunt for Sophie's mother Melody Jain drives his later scenes.
 - [Carlos Quilido](Carlos_Quilido.md) (spoiler level 3): Carlos Quilido is a gold-rank priest of the Healer and the world's leading specialist in soul damage, star seeds and aura conditions.
-- [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 0): Thalia's daughter and Thadwick's older sister, an adventurer.
+- [Cassandra Mercer](Cassandra_Mercer.md) (spoiler level 3): Cassandra Mercer is Thalia's daughter and Thadwick's older sister, an adventurer who becomes Jason's first romance on Pallimustus, ends it when her family...
 - [Charist](Charist.md) (spoiler level 2): One of Yaresh's two resident diamond-rank elves, the more social of the pair.
 - [Cheryl Asano](Cheryl_Asano.md) (spoiler level 1): Jason's mother, from a large Australian farming and mining family, and the one in the family fascinated with Japan.
 - [Chloe Baudrillard](Chloe_Baudrillard.md) (spoiler level 2): A French epidemiologist with Doctors Without Borders whom Jason befriends in Book 5 and who later shelters with her family.
@@ -101,7 +101,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Killian Laurent](Killian_Laurent.md) (spoiler level 1): Cole Silva's right-hand man, the leader of Silva's bronze-rankers, who works with the Builder cult, uses a star seed and flees Greenstone with Silva's wealth.
 - [Knowledge](Knowledge.md) (spoiler level 0): Knowledge is the goddess of Knowledge.
 - [Korinne Pescos](Korinne_Pescos.md) (spoiler level 0): A guild-elite team leader who first meets Jason in the Rimaros surge and later asks him to train her team.
-- [Landemere Vane](Landemere_Vane.md) (spoiler level 1): The Vane heir whose failed summoning pulls Jason to Pallimustus.
+- [Landemere Vane](Landemere_Vane.md) (spoiler level 2): Landemere Vane is the Vane heir whose failed summoning pulls Jason to Pallimustus.
 - [Lenora Coleman](Lenora_Coleman.md) (spoiler level 1): The bureaucrat who runs the dimensional artefact site in Australia.
 - [Li Li Mei](Li_Li_Mei.md) (spoiler level 2): A Chinese silver-ranker and daughter of Li Ning who deals with Jason on Earth in Books 4-6, ends up in Pallimustus, is found hiding in Boko, and becomes a...
 - [Liara Rimaros](Liara_Rimaros.md) (spoiler level 2): Liara Rimaros is a gold-rank Adventure Society special-operations officer and a lesser member of the Rimaros royal house.
@@ -133,7 +133,7 @@ The list below is generated from the folder contents (`src/tools/overviews.py`) 
 - [Raythe](Raythe.md) (spoiler level 3): A prime vessel of the Keeper of Moments who steps in on Jason's behalf.
 - [Remy](Remy.md) (spoiler level 3): Remy is a portal specialist whose range is limited.
 - [Rick Geller](Rick_Geller.md) (spoiler level 3): Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone.
-- [Roland Remore](Roland_Remore.md) (spoiler level 0): Rufus's grandfather, a diamond-rank sword master and the archchancellor of Remore Academy in Vitesse.
+- [Roland Remore](Roland_Remore.md) (spoiler level 3): Roland Remore is Rufus's grandfather, a diamond-rank sword master, archchancellor of Remore Academy in Vitesse and leader of Burning Violet.
 - [Rosa Liselos](Rosa_Liselos.md) (spoiler level 3): Rosa Liselos is the scout of Korinne's Team Storm Shredder, with the best perception on the team.
 - [Rufus Remore](Rufus_Remore.md) (spoiler level 0): Rufus Remore is a bald, dark-skinned swordsman from Vitesse, grandson of the diamond-ranker Roland Remore.
 - [Sendira](Sendira.md) (spoiler level 2): Sendira is Melody Jain's second in command in the Order of Redeeming Light's local enclave: a silver-rank zealot and the person Melody trusts most.
