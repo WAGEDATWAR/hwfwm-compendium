@@ -7,6 +7,8 @@ Checks every compendium .md (not the generated register and map, the logs, the T
   ERROR  a Related link does not resolve to a file
   ERROR  a spoiler-level tag (<!-- level:N -->) is unbalanced, has an invalid level, or is lower than the header level
   ERROR  the generated file list in a folder overview is out of date (src/tools/overviews.py)
+  ERROR  a Markdown link [text](path.md#anchor) points to a file or a heading that does not exist
+  WARN   a backticked `Name.md` that matches no file in the compendium (a stale reference after a move or rename)
   WARN   a cite written in a non-standard form (for example "Book 9 Ch29 L17")
   WARN   leftover note shorthand ("->", " w/ ")
   WARN   a file in a folder that has an overview is not mentioned by that overview
@@ -62,9 +64,48 @@ def related_targets(val):
     return out
 
 
+LINK = re.compile(r"(?<!!)\[[^\]\n]*\]\(([^)\s]+)\)")
+TICK_MD = re.compile(r"`([A-Za-z0-9_./-]+\.md)`")
+
+
+def slug(h):
+    """GitHub-style heading anchor."""
+    h = re.sub(r"[`*_]", "", h.strip().lower())
+    h = re.sub(r"[^a-z0-9 _-]", "", h)
+    return h.replace(" ", "-")
+
+
+_anchors = {}
+
+
+def anchors(path):
+    if path not in _anchors:
+        s = set()
+        for ln in open(path, encoding="utf-8").read().split("\n"):
+            m = re.match(r"^#{1,6}\s+(.*)$", ln)
+            if m:
+                s.add(slug(m.group(1)))
+        _anchors[path] = s
+    return _anchors[path]
+
+
+def known_md(ds):
+    names = {os.path.basename(d) for d in ds} | {d for d in ds}
+    for extra in ("00_Project_Structure.md", "TODO_Verification.md", "TODO_Build_Plan.md", "Appendices/Source_Register.md",
+                  "Appendices/Source_Map.md", "Appendices/Change_Log.md", "README.md", "TL_PROGRESS.md"):
+        names.add(extra)
+        names.add(os.path.basename(extra))
+    for root, dirs, files in os.walk(os.path.join(base, "src")):
+        for f in files:
+            if f.endswith(".md"):
+                names.add(f)
+    return names
+
+
 def run(write=True):
     errors, warns = [], []
     ds = docs()
+    known = known_md(ds)
     for rel in ds:
         path = os.path.join(base, *rel.split("/"))
         text = open(path, encoding="utf-8").read()
@@ -94,6 +135,22 @@ def run(write=True):
                 if lo < 1 or hi > n or hi < lo:
                     errors.append((rel, "cite line out of range (chapter has %d lines): %s" % (n, m.group(0))))
                     break
+        for m in LINK.finditer(plain):
+            tgt = m.group(1)
+            if re.match(r"[a-z]+:", tgt):
+                continue
+            fpart, _, frag = tgt.partition("#")
+            dest = path if not fpart else os.path.normpath(os.path.join(os.path.dirname(path), fpart))
+            if not os.path.exists(dest):
+                errors.append((rel, "link target not found: " + tgt))
+            elif frag and dest.endswith(".md") and frag.lower() not in anchors(dest):
+                errors.append((rel, "link anchor not found: " + tgt))
+        for m in TICK_MD.finditer(re.sub(r"```.*?```", "", text, flags=re.S)):
+            nm = m.group(1)
+            if "NN" in nm or "N_" in nm:
+                continue
+            if nm not in known and os.path.basename(nm) not in known and not os.path.exists(os.path.join(base, *nm.split("/"))):
+                warns.append((rel, "backticked file not found: " + nm))
         for m in BAD_CITE.finditer(text):
             warns.append((rel, "non-standard cite form: " + m.group(0)))
         for i, ln in enumerate(plain.split("\n"), 1):
