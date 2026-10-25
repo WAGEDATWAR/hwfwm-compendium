@@ -39,21 +39,44 @@ def cite(f):
     return "Book %d, chapter %d, line %d" % f if f else ""
 
 
-def scan(names, suffix_rx):
-    """first (book, ch, line) where '<name> <suffix>' occurs in the chapter files."""
+_LINES = None
+
+
+def chapter_lines():
+    """(book, chapter, line number, text) for every line of the chapter files, read once."""
+    global _LINES
+    if _LINES is None:
+        _LINES = []
+        for b in range(1, 14):
+            d = os.path.join(ST, "Book_%02d" % b)
+            for fn in sorted(os.listdir(d)):
+                ch = int(re.match(r"Ch_(\d+)_", fn).group(1))
+                for i, l in enumerate(open(os.path.join(d, fn), encoding="utf-8").read().split("\n"), 1):
+                    _LINES.append((b, ch, i, l))
+    return _LINES
+
+
+def scan(names, suffix_rx, prefix_rx=""):
+    """first (book, ch, line) where '<prefix><name><suffix>' occurs in the chapter files (matched without regard to case)."""
     low = {n.lower(): n for n in names}
-    rx = re.compile(r"\b(" + "|".join(re.escape(n) for n in sorted(low, key=len, reverse=True)) + r")" + suffix_rx, re.I)
+    rx = re.compile(prefix_rx + r"(?<![A-Za-z])(" + "|".join(re.escape(n) for n in sorted(low, key=len, reverse=True)) + r")" + suffix_rx, re.I)
     first = {}
-    for b in range(1, 14):
-        d = os.path.join(ST, "Book_%02d" % b)
-        for fn in sorted(os.listdir(d)):
-            ch = int(re.match(r"Ch_(\d+)_", fn).group(1))
-            for i, l in enumerate(open(os.path.join(d, fn), encoding="utf-8").read().split("\n"), 1):
-                for m in rx.finditer(l):
-                    k = m.group(1).lower()
-                    if k not in first:
-                        first[k] = (b, ch, i)
+    for b, ch, i, l in chapter_lines():
+        for m in rx.finditer(l):
+            k = m.group(1).lower()
+            if k not in first:
+                first[k] = (b, ch, i)
     return first
+
+
+def earliest(*maps):
+    """merge scan results, keeping the earliest line for each name."""
+    out = {}
+    for mp in maps:
+        for k, v in mp.items():
+            if k not in out or v < out[k]:
+                out[k] = v
+    return out
 
 
 # ------------------------------------------------------------ essences and confluences
@@ -83,7 +106,9 @@ for blk in kc.split("\n|-"):
     CONF[m.group(1)] = (held, combos)
 pages = sorted(t[:-len(" (Essence)")] for t in P if t.endswith("(Essence)"))
 names = sorted(set(pages) | set(rar) | set(CONF))
-first = scan(names, r" essences?\b")
+first = earliest(scan(names, r" essences?(?![A-Za-z])"),
+                 scan(names, r" confluence(?![A-Za-z])"),
+                 scan(names, r"(?![A-Za-z])", r"essences? of (?:the )?"))
 
 
 def pageinfo(n):
@@ -121,7 +146,7 @@ print("essences", n_ess, "confluences", len(CONF), collections.Counter(rar.value
 # ------------------------------------------------------------ awakening stones
 stones = sorted(t for t in P if t.startswith("Awakening Stone of") or t.startswith("Awakening Stones of") or t.startswith("Divine Awakening Stone"))
 sn = [re.sub(r"^(Divine )?Awakening Stones? of (the )?", "", t) for t in stones]
-sfirst = scan(sn, r"\b")
+sfirst = scan(sn, r"(?![A-Za-z])", r"(?:awakening )?stones? of (?:the )?")
 sl = ["| Stone | Rarity (wiki) | Description (wiki) | Abilities it has given (wiki) | In the book text |", "|---|---|---|---|---|"]
 for t, short in zip(stones, sn):
     txt = P[t]
@@ -134,7 +159,7 @@ for t, short in zip(stones, sn):
     for h, ls in sections(txt).items():
         if "abilit" in h.lower():
             ab += [re.sub(r"\s*\(.*$", "", b) for b in bullets(ls)]
-    sl.append("| %s | %s | %s | %s | %s |" % (t.replace("Awakening Stones of", "Awakening Stone of"), rr, desc[:110].replace("|", "/"), "; ".join(ab[:5]) + (" …" if len(ab) > 5 else ""), ""))
+    sl.append("| %s | %s | %s | %s | %s |" % (t.replace("Awakening Stones of", "Awakening Stone of"), rr, desc[:110].replace("|", "/"), "; ".join(ab[:5]) + (" …" if len(ab) > 5 else ""), cite(sfirst.get(short.lower()))))
 open(os.path.join(HERE, "wiki_stone_table.md"), "w", encoding="utf-8").write("\n".join(sl))
 print("stones", len(stones))
 

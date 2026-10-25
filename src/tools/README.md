@@ -27,7 +27,7 @@ Scripts and data that build and check the compendium. This folder replaced `src/
 | `chk.py` | Name checker: confirms that names occur near cited lines (`chk.py SPECFILE` with lines `name|book|chapter|line`). |
 | `common.py` | Shared helpers (paths, chapter index, term overlap) used by `cc2.py` and `loc2.py`. |
 | `mkchar.py`, `grplib.py` | Templates for writing a character file (`mk`) or a grouped minor-cast file (`grp`) in the standard layout. |
-| `wiki_lists.py`, `compose_wiki.py` | Rebuild the wiki-tier lists in `03_Magic_and_Adventuring/Wiki_Reference_Lists.md` and the gods table in `02_Cosmology_and_Powers/Gods_and_Churches.md` from `wiki/pages.json`. |
+| `wiki_lists.py`, `compose_wiki.py` | Rebuild the wiki-tier lists in `Appendices/Wiki_Reference_Lists.md` and the gods table in `02_Cosmology_and_Powers/Gods_and_Churches.md` from `wiki/pages.json`. |
 | `fetchwiki.py` | Refreshes the fan-wiki cache in `wiki/` (ignored by git). |
 | `ess_scan.py` | Counts "<name> essence" phrases in the chapter text. |
 

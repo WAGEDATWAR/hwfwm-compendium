@@ -11,7 +11,7 @@ Related: Essences.md, Confluences.md, Abilities_and_Attributes.md, ../07_Charact
 
 The books name far more essences than the wiki lists give with evidence. This file collects those the text actually shows, with who holds them and what the text says of their behaviour. Rarity statements come from the text; where the text gives none, none is invented. It is intended as a quick reference for building a character's power set, not as a mechanical list. The full set of essences the Magic Society knows is in its living document (Book 1, Ch20 L97).
 
-The wiki's fuller lists of essences, confluences and combinations are in `Wiki_Reference_Lists.md` (wiki tier), with a cross-reference to the first book line for each entry found in the text. Where the wiki gives a rarity, it agrees with the text so far: sin is Legendary, renewal is Epic (the text's "second-highest rarity", Book 6, Ch13 L68) and rune and vast are among the highest.
+The wiki's fuller lists of essences, confluences and combinations are in `../Appendices/Wiki_Reference_Lists.md` (wiki tier), with a cross-reference to the first book line for each entry found in the text. Where the wiki gives a rarity, it agrees with the text so far: sin is Legendary, renewal is Epic (the text's "second-highest rarity", Book 6, Ch13 L68) and rune and vast are among the highest.
 
 ## 2. How to read it
 
@@ -95,7 +95,7 @@ The order follows first appearance in the series within each group.
 
 ### More essences named in the text, by first appearance
 
-Found by scanning the chapter files for essence lists (`src/tools/ess_lists.py`). Each row gives the first line that names the essence in an essence context; the wiki's fuller list is in `Wiki_Reference_Lists.md`.
+Found by scanning the chapter files for essence lists (`src/tools/ess_lists.py`). Each row gives the first line that names the essence in an essence context; the wiki's fuller list is in `../Appendices/Wiki_Reference_Lists.md`.
 
 | Essence | First named, and what the text says |
 |---|---|

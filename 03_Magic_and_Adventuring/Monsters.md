@@ -90,7 +90,7 @@ More named monsters from Books 4 to 9:
 - **Elemental tyrant** (Book 10, Ch60 L42): the elemental tyrant is a silver-rank water elemental that left Jason's first and largest scar.
 <!-- /level -->
 
-The fan wiki's rank pages list further monsters by rank (wiki); they are copied, tier-marked, into `Wiki_Reference_Lists.md`, section 4.
+The fan wiki's rank pages list further monsters by rank (wiki); they are copied, tier-marked, into `../Appendices/Wiki_Reference_Lists.md`, section 4.
 
 ## 5. Common misconceptions in-world
 
