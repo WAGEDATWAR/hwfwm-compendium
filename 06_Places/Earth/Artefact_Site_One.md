@@ -9,7 +9,7 @@ Related: 00_Earth_Overview.md, Casselton_and_Asano_Village.md
 
 ## 1. Summary
 
-Dimensional Artefact Site One, called the artefact city, is "a small city" in outback Australia (Book 12, Ch61 L21), with "nine thousand or so workers" before an evacuation (Book 12, Ch64 L21), built around the standing stones where Jason and Farrah left Earth. It is run by a multinational coalition and is where the Earth end of the Earth-Pallimustus bridge sits.
+Dimensional Artefact Site One, called the artefact city, is "a small city" in outback Australia (Book 12, Ch61 L21), with "nine thousand or so workers" (Book 12, Ch64 L21) before an evacuation (Book 12, Ch64 L21), built around the standing stones where Jason and Farrah left Earth. It is run by a multinational coalition and is where the Earth end of the Earth-Pallimustus bridge sits.
 
 ## 2. Layout
 

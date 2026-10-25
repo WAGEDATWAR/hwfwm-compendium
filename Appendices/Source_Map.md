@@ -129,8 +129,8 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch34 | Waving the Flag For Secular Morality | Book_01_Timeline L34, L57; Chapter_Digest_Book_01 L34, L57; Motifs_and_Sayings L34; Abilities_and_Attributes L39; Afflictions_Boons_and_Damage L40, L47 | 8 |
 | Ch35 | Greenstone | Alchemy_Artifice_and_Magical_Materials L10, L21, L22, L23, L63; Jory_Tillman L10, L21, L57, L63; NPC_Rosters_by_Era L10-12; Greenstone L15, L19, L59; Book_01_Timeline L15; Chapter_Digest_Book_01 L15; Place_Changes_Between_Eras L19, L59; Level_1_Books_1-3 L19, L59 … | 29 |
 | Ch36 | The Island | Book_01_Timeline L7, L71; Chapter_Digest_Book_01 L7, L71; Alchemy_Artifice_and_Magical_Materials L28, L72; Alchemy_Association L28; Jory_Tillman L28; Greenstone L68, L71-72, L89, L95, L98; Economy_and_Money L71; Open_Questions L71 … | 17 |
-| Ch37 | A Good Adventurer and a Great One | Book_01_Timeline L3; Chapter_Digest_Book_01 L3; House_Geller L3-4; Calendar_Holidays_and_Naming_Customs L8; Forms_of_Address L8; Greenstone L21; Danielle_Geller L21, L43-55; Education L40 … | 16 |
-| Ch38 | Just Another Adventurer | Greenstone L3; Skill_Books_and_Learning L11; Church_of_the_Healer L34; Churches_at_a_Glance L34, L68; Book_01_Timeline L41, L56; Chapter_Digest_Book_01 L41, L56; Jason_Asano L45, L55; Adventuring_Profession L52 … | 40 |
+| Ch37 | A Good Adventurer and a Great One | Book_01_Timeline L3; Chapter_Digest_Book_01 L3; House_Geller L3-4; Calendar_Holidays_and_Naming_Customs L8; Forms_of_Address L8; Greenstone L21, L81; Danielle_Geller L21, L43-55; Education L40 … | 17 |
+| Ch38 | Just Another Adventurer | Greenstone L3; Skill_Books_and_Learning L11; Church_of_the_Healer L34; Churches_at_a_Glance L34, L68; Book_01_Timeline L41, L56; Chapter_Digest_Book_01 L41, L56; Jason_Asano L45, L55; Adventuring_Profession L52 … | 42 |
 | Ch39 | Training | Monster_Cores_and_Training L30; Greenstone L32-33, L34; Motifs_and_Sayings L65; Abilities_and_Attributes L70-71; Afflictions_Boons_and_Damage L70-71; Skill_Books_and_Learning L109, L110, L112, L115, L117; Education L117; Awakening_Stones L137, L147-148, L150, L154 … | 22 |
 | Ch40 | Eyebeams and the Ethics of Adventuring | Book_01_Timeline L3; Chapter_Digest_Book_01 L3; Skill_Books_and_Learning L26; Jason_Asano L31, L50-52; Farrah_Hurin L31-35; Abilities_and_Attributes L37; Auras L37-41, L44, L46, L46-48, L50, L52 …; Afflictions_Boons_and_Damage L41, L42 … | 22 |
 | Ch41 | Vulnerable and Exposed | Book_01_Timeline L27; Chapter_Digest_Book_01 L27; Jason_Asano L35; Church_of_Purity L87 | 4 |
@@ -143,7 +143,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch48 | An Endless, Inescapable Nightmare | Rituals_Arrays_and_Formations L3; Mirage_Chamber_Association L3, L7, L13, L16; Book_01_Timeline L49; Chapter_Digest_Book_01 L49; Gods_and_Churches L92; Hero L92; Rufus_Remore L92-96; Gabriel_Remore L101-102 … | 16 |
 | Ch49 | A Voice From Home | Greenstone L5; Book_01_Timeline L26-27, L98; Chapter_Digest_Book_01 L26-27, L98; Daily_Life L27; Gabriel_Remore L27; Pochard_Finn L27; Danielle_Geller L42; Knowledge_States L42 … | 15 |
 | Ch50 | The Full Keanu | Skill_Books_and_Learning L20-22, L22, L41, L65-73, L67, L69 …; The_Reaper L40; Book_01_Timeline L40-41; Chapter_Digest_Book_01 L40-41; Great_Astral_Beings L41; Greenstone L85-91, L103, L104; Clarissa_Ventress L92, L92-96, L93, L96; Cole_Silva L92, L96 … | 29 |
-| Ch51 | Song of the Nightingale | Book_01_Timeline L11; Chapter_Digest_Book_01 L11; Cole_Silva L37; Secrets_and_Rumours L37 | 4 |
+| Ch51 | Song of the Nightingale | Book_01_Timeline L11; Chapter_Digest_Book_01 L11; Sophie_Wexler L26; Cole_Silva L37; Secrets_and_Rumours L37 | 5 |
 | Ch52 | Pain | Book_01_Timeline L4-6, L15, L47-64; Chapter_Digest_Book_01 L4-6, L15, L47-64; Mirage_Chamber_Association L5; Jason_Asano L7-11, L27; Greenstone L46; Clarissa_Ventress L57 | 11 |
 | Ch53 | Nightlife | Book_01_Timeline L4; Chapter_Digest_Book_01 L4; NPC_Rosters_by_Era L45-49; Thalia_Mercer L45-62, L47-49, L54; Thadwick_Mercer L54; Cassandra_Mercer L60; Clarissa_Ventress L70 | 9 |
 | Ch54 | Field Assessment | Vincent_Trenslow L29, L30, L32, L32-33, L35-60, L41 …; NPC_Cards_Books_01-03 L29; Adventure_Society L33, L35, L36; Calendar_Holidays_and_Naming_Customs L36; Book_01_Timeline L36; Chapter_Digest_Book_01 L36; NPC_Rosters_by_Era L36; Tone_and_Voice L36 … | 20 |
@@ -327,7 +327,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch33 | I’m Very Big on Cowardice | Book_03_Timeline L4, L13, L45; Chapter_Digest_Book_03 L4, L13; Rufus_Remore L11-12; Dimensional_Storage_and_Portals L62 | 7 |
 | Ch34 | More Powerful Than We Anticipated | Book_03_Timeline L3, L16, L28; Chapter_Digest_Book_03 L3, L16; Titles_and_Blessings L7; Timos L10; Builder_Cult_in_Greenstone L16-28; 01_World_Primer L60; 00_Places_Overview L60; Vitesse L60 … | 14 |
 | Ch35 | Fate Can’t Wait to Kill Us All | Book_03_Timeline L4, L71; Chapter_Digest_Book_03 L4, L71; Builder_Cult_in_Greenstone L4; Badges_and_Guild_Membership L43, L45 | 7 |
-| Ch36 | Running Towards Something | Era_Selection L36; Level_1_Books_1-3 L36; Era_2_Bronze_and_the_Builder L36; Monsters L50; Book_03_Timeline L90; Chapter_Digest_Book_03 L90 | 6 |
+| Ch36 | Running Towards Something | Book_03_Timeline L36, L90; Chapter_Digest_Book_03 L36, L90; Builder_Cult_in_Greenstone L36; Era_Selection L36; Level_1_Books_1-3 L36; Era_2_Bronze_and_the_Builder L36; Monsters L50 | 9 |
 | Ch37 | Greenhouse Flowers | Ranks_and_Advancement L9; 00_Astral_Overview L9; Clive_Standish L13; Clive_Standish_Power_Set L32; Book_03_Timeline L32; Chapter_Digest_Book_03 L32 | 6 |
 | Ch38 | A Man Transformed | Abilities_and_Attributes L5; Progression_Tracks L5, L95, L110; Book_03_Timeline L5, L95, L110; Chapter_Digest_Book_03 L5, L95, L110; Rituals_Arrays_and_Formations L30; Clive_Standish_Power_Set L38, L60, L68, L78, L97; Onslow L54; Master_Timeline L110 | 18 |
 | Ch39 | The Worst Possible Option | Dimensional_Storage_and_Portals L37; Book_03_Timeline L80; Chapter_Digest_Book_03 L80 | 3 |
@@ -394,7 +394,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch26 | It’s Complicated | Erika_Asano L29, L71; Book_04_Timeline L29, L59; Chapter_Digest_Book_04 L29, L59; Kaito_Asano L45, L47-50; Amy_Asano L45-48, L46, L47; NPC_Cards_Books_04-06 L46, L71; Family_Trees L47; Romances_and_Rivalries L47-50 … | 18 |
 | Ch27 | A Big Dose of Normal | Book_04_Timeline L3, L97, L167; Ken_Asano L41, L41-44, L44, L109; Kaito_Asano L55, L55-70; Amy_Asano L74; Chapter_Digest_Book_04 L97; Earth_and_the_Monster_Waves L97; NPC_Cards_Books_01-03 L109; Emi_Evans_Asano L171 | 14 |
 | Ch28 | Moppet | Anna_Tilden L48; Emi_Evans_Asano L126, L135-139, L154; Book_04_Timeline L126, L139; Chapter_Digest_Book_04 L126, L139; Earth_and_the_Monster_Waves L139 | 9 |
-| Ch29 | Always Tell the Truth if You Can Get Away With It | Emi_Evans_Asano L43, L45-54, L69-73, L103; Book_04_Timeline L45, L103; Chapter_Digest_Book_04 L45, L103 | 8 |
+| Ch29 | Always Tell the Truth if You Can Get Away With It | Incursion_Sites L43; Emi_Evans_Asano L43, L45-54, L69-73, L103; Book_04_Timeline L45, L103; Chapter_Digest_Book_04 L45, L103 | 9 |
 | Ch30 | Discretion is a Good Idea | Erika_Asano L4; Book_04_Timeline L5, L38; Chapter_Digest_Book_04 L5, L38; Spirit_Vault_and_Astral_Kingdom L45, L49; Hiro_Asano L74; NPC_Cards_Books_04-06 L74 | 9 |
 | Ch31 | The Cold Eyes of a Stranger | Cheryl_Asano L3, L3-6, L6; Ian_Evans L3; Family_Trees L3; Emi_Evans_Asano L25; Book_04_Timeline L25, L48; Chapter_Digest_Book_04 L25, L48; 01_World_Primer L48; Earth_Magic L48 … | 15 |
 | Ch32 | Looking Down the Point of a Sword | Emi_Evans_Asano L4, L19; Shade L21; All_Devouring_Eye L36; Book_04_Timeline L36; Chapter_Digest_Book_04 L36 | 6 |
@@ -604,7 +604,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch33 | The Hitting-It-a-Bunch Plan | Book_07_Timeline L17, L112; Chapter_Digest_Book_07 L17, L112 | 4 |
 | Ch34 | I Liked the Fighting Better | Book_07_Timeline L77; Chapter_Digest_Book_07 L77 | 2 |
 | Ch35 | That Usually is My Day | Book_07_Timeline L8; Chapter_Digest_Book_07 L8; Gods_and_Churches L39; Trenchant_Moore L72 | 4 |
-| Ch36 | Unyielding Faith | Henrietta_Geller L8; The_Deep_Astral_and_Interstice L14; Book_07_Timeline L47; Chapter_Digest_Book_07 L47; Messenger_War L47; Miles_Cotezee L65; Outworlders L86; Master_Timeline L86 … | 12 |
+| Ch36 | Unyielding Faith | Henrietta_Geller L8; The_Deep_Astral_and_Interstice L14; Book_07_Timeline L47; Chapter_Digest_Book_07 L47; Messenger_War L47; Miles_Cotezee L65; Outworlders L86; Danielle_Geller L86 … | 13 |
 | Ch37 | Something He Could Never Get Back | Book_07_Timeline L3, L57, L59; Chapter_Digest_Book_07 L3, L57; Monster_Cores_and_Training L4; Knowledge_States L6; Taika L25; Monsters L59; Alchemy_Association L62; Rimaros L64 | 11 |
 | Ch38 | Dignified Young Adventurer | Astral_Spaces_Zones_and_Surges L6; Adventuring_Profession L7; Guild_Quotas_and_Contribution L7; Runics L10; Liara_Rimaros L91; Book_07_Timeline L92, L98; Chapter_Digest_Book_07 L92, L98 | 9 |
 | Ch39 | I Can Do Sleazy | Fertility L74; Book_07_Timeline L79; Chapter_Digest_Book_07 L79 | 3 |
@@ -753,7 +753,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch38 | People That You Didn’t Aggravate | Book_09_Timeline L5, L60; Chapter_Digest_Book_09 L5, L60; Travis_Noble L21 | 5 |
 | Ch39 | Not You | Isart L12, L12-26, L16, L26; 00_Places_Overview L12-20; Book_09_Timeline L26, L91; Chapter_Digest_Book_09 L26, L91; Teams_by_Era L80; Korinne_Pescos L87 | 11 |
 | Ch40 | Inventing a Man in Your Head | Book_09_Timeline L5; Chapter_Digest_Book_09 L5; Zara_Rimaros L7-13, L13, L18, L21, L32, L55 …; Family_Trees L18; Sapphire_Crown L43 | 11 |
-| Ch41 | Doing Things That You Shouldn’t | Astral_Kings_and_Messengers L81; Korinne_Pescos L119; Teams_by_Era L119; Book_09_Timeline L119; Chapter_Digest_Book_09 L119; Battle_of_Yaresh L119; Era_5_Yaresh L119 | 7 |
+| Ch41 | Doing Things That You Shouldn’t | Gods_and_Churches L11; Astral_Kings_and_Messengers L81; Korinne_Pescos L119; Teams_by_Era L119; Book_09_Timeline L119; Chapter_Digest_Book_09 L119; Battle_of_Yaresh L119; Era_5_Yaresh L119 | 8 |
 | Ch42 | Quiet Professionalism | Book_09_Timeline L5, L31, L57, L74; Chapter_Digest_Book_09 L5, L57; Yaresh_Culture L26; 00_Places_Overview L26; Locations_by_Era L26, L80; Yaresh L26, L34; Era_Selection L26, L80; Place_Changes_Between_Eras L26, L80 … | 31 |
 | Ch43 | A Man of Many Talents | Yaresh_Culture L33; Yaresh L33; Estella_Warnock L33; Book_09_Timeline L33, L72; Chapter_Digest_Book_09 L33, L72; Battle_of_Yaresh L33, L72; Clothing_Food_Festivals_and_Transport_by_Region L64, L85 | 11 |
 | Ch44 | The Same Thing as Telling the Truth | Yaresh_Culture L3; Clothing_Food_Festivals_and_Transport_by_Region L16; Minor_Cast_Books_7-9 L25, L60; Book_09_Timeline L25; Chapter_Digest_Book_09 L25 | 6 |
@@ -940,7 +940,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch19 | The Reason We Have To | Book_11_Timeline L19; Chapter_Digest_Book_11 L19; Miriam_Vance L56; Cardinas_Expedition_and_Zone L56 | 4 |
 | Ch20 | A Bitter Cup | Book_11_Timeline L3; Chapter_Digest_Book_11 L3; Onslow L19; Stash L19 | 4 |
 | Ch21 | Good Leader | Book_11_Timeline L9; Chapter_Digest_Book_11 L9; Cardinas_Expedition_and_Zone L9; Rick_Geller L104 | 4 |
-| Ch22 | I Want Those Things For You | Great_Astral_Beings L11; Velius L11; Raythe L12; Keeper_of_Moments L21-22, L29-32; All_Devouring_Eye L29, L38; Helsveth L32; Book_11_Timeline L66; Chapter_Digest_Book_11 L66 | 10 |
+| Ch22 | I Want Those Things For You | Great_Astral_Beings L11, L29; Velius L11; Raythe L12; Keeper_of_Moments L21-22, L29-32; All_Devouring_Eye L29, L38; Helsveth L32; Book_11_Timeline L66; Chapter_Digest_Book_11 L66 | 11 |
 | Ch23 | Small, Easy or Inconsequential | Book_11_Timeline L3-6, L65; Chapter_Digest_Book_11 L3-6, L65; Calendar_Holidays_and_Naming_Customs L33; Nik_Asano L38, L42; 01_World_Primer L42; Lehenik L42, L44, L45-46; Tone_and_Voice L42; Beaufort_Builder_Cult_Commander L78 | 13 |
 | Ch24 | Another Astral King | Church_of_Undeath L5; Jameela L28, L43; House_Remore L50; Garth_Larosse L59; Boris_Ket_Lundi L69, L85; Book_11_Timeline L85; Chapter_Digest_Book_11 L85; Messenger_War L85 … | 20 |
 | Ch25 | Unorthodoxy | The_Unorthodoxy L47, L47-57, L49-51, L53-55, L56-57; Open_Questions L47-55, L49-57, L51, L53; 01_World_Primer L49-51; Astral_Kings_and_Messengers L51, L53; Messengers_as_a_People L51; Book_11_Timeline L51; Chapter_Digest_Book_11 L51; Cardinas_Expedition_and_Zone L51 … | 20 |
@@ -968,7 +968,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch47 | Not All of Us Are Demigods | Book_11_Timeline L3-7, L104; Chapter_Digest_Book_11 L3-7, L104; Amos_Pensinata L64 | 5 |
 | Ch48 | The Price | Book_11_Timeline L22, L62; Chapter_Digest_Book_11 L22, L62; Cardinas_Expedition_and_Zone L22, L30 | 6 |
 | Ch49 | Guaranteed to Become Enemies | Book_11_Timeline L69; Chapter_Digest_Book_11 L69; The_Unorthodoxy L71; Open_Questions L71; Miriam_Vance L79; Amos_Pensinata L86 | 6 |
-| Ch50 | Assuming We Win | Arabelle_Remore L6; Nik_Asano L10-25, L15; Book_11_Timeline L11, L15, L56; Chapter_Digest_Book_11 L11, L56; Cardinas_Expedition_and_Zone L11, L15; Transformation_Zones L15; Master_Timeline L15; Open_Questions L15 | 13 |
+| Ch50 | Assuming We Win | Arabelle_Remore L6; Nik_Asano L10-25, L15; Book_11_Timeline L11, L15, L56; Chapter_Digest_Book_11 L11, L15, L56; Cardinas_Expedition_and_Zone L11, L15; Transformation_Zones L15; Master_Timeline L15; Open_Questions L15 | 14 |
 | Ch51 | Don’t Throw Our Dead Friend’s Stuff Out of a Tortoise | Transformation_Zones L3; Book_11_Timeline L3; Chapter_Digest_Book_11 L3; Beaufort_Builder_Cult_Commander L45; Lorenn L61; Miriam_Vance L64 | 6 |
 | Ch52 | Beware of Chicken | Miriam_Vance L10; Taika L29; Fertility L54; Book_11_Timeline L104; Chapter_Digest_Book_11 L104 | 5 |
 | Ch53 | A Better Adventurer | Book_11_Timeline L8; Chapter_Digest_Book_11 L8; Onslow L12; Miriam_Vance L25; Nik_Asano L56 | 5 |
@@ -1018,7 +1018,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch23 | Objectives | Magical_Research_Association L3-4; Alchemy_Artifice_and_Magical_Materials L25; Book_12_Timeline L25; Chapter_Digest_Book_12 L25; Danielle_Geller L79; Tone_and_Voice L79; NPC_Cards_Books_01-03 L79; Era_7_The_Return L79 | 8 |
 | Ch24 | The Protection of a Dictator | Knowledge L3; 01_World_Primer L6; Book_12_Timeline L13; Chapter_Digest_Book_12 L13 | 4 |
 | Ch25 | You Want Your Adventurers Happy | Book_12_Timeline L3, L5, L63, L66; Chapter_Digest_Book_12 L3, L5, L63, L66; Danielle_Geller L7 | 9 |
-| Ch26 | Making Things Worse | Dragon_Lands L5, L5-6, L6, L7, L9, L10-11 …; Book_12_Timeline L5, L16, L68; Chapter_Digest_Book_12 L5, L16; Draconians L5-6; Dragon_Lands_Culture L5-6, L7, L9, L11, L12; Locations_by_Era L5-7; The_Council_of_Kings L18, L20, L29, L30; The_Unorthodoxy L19, L27 … | 32 |
+| Ch26 | Making Things Worse | Dragon_Lands L5, L5-6, L6, L7, L9, L10-11 …; Book_12_Timeline L5, L16, L68; Chapter_Digest_Book_12 L5, L16; Draconians L5-6; Dragon_Lands_Culture L5-6, L7, L9, L11, L12; Locations_by_Era L5-7; 00_Places_Overview L6; The_Council_of_Kings L18, L20, L29, L30 … | 33 |
 | Ch27 | Sometimes We Need Scars | Minor_Cast_Books_1-3 L5; Book_12_Timeline L12, L19, L45; Chapter_Digest_Book_12 L12, L19; Boko_Evacuation L12; The_Return_and_the_Bridge L12; Alchemy_Artifice_and_Magical_Materials L19; Astral_Spaces_Zones_and_Surges L19; Belinda_Callahan L23 … | 19 |
 | Ch28 | That’s What Adventurers Do | Vincent_Trenslow L3; Book_12_Timeline L3, L41, L76; Chapter_Digest_Book_12 L3, L41; NPC_Cards_Books_01-03 L3 | 7 |
 | Ch29 | A Matter of Mindset | Alchemy_Association L9; House_Davone L15; Elspeth_Arella L24-32, L32; Romances_and_Rivalries L32; Greenstone L38, L59-60; Adris_Dorgan L38, L48; Open_Questions L38; Book_12_Timeline L40, L65 … | 25 |
@@ -1051,7 +1051,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch56 | The End of What Can Be Productively Achieved Here | Artefact_Site_One L3-4, L124; Open_Questions L3-4; 01_World_Primer L4; Travis_Noble L10; Liara_Rimaros L117; Zareen_Rimaros L117; Book_12_Timeline L117; Chapter_Digest_Book_12 L117 … | 13 |
 | Ch57 | Someone Got Sucked Off | 00_Cosmology_Overview L3; The_Deep_Astral_and_Interstice L3, L4, L5-7, L9-10, L20; 00_Astral_Overview L3; Jota_Withers L3, L7-12, L14; Book_12_Timeline L3, L7, L22, L24, L36, L58; Chapter_Digest_Book_12 L3, L7, L22, L36; The_Return_and_the_Bridge L3; Era_Selection L3 … | 31 |
 | Ch58 | A City With No Dawn | The_Deep_Astral_and_Interstice L39; Gabrielle_Pellin L41; Book_12_Timeline L41; Chapter_Digest_Book_12 L41; Name_Index L41; Merfolk L42-43; Emi_Evans_Asano L49; Craig_Vermillion L78-103, L89-90, L97, L103 | 11 |
-| Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Chapter_Digest_Book_12 L5, L17, L24, L39; Master_Timeline L5; Glossary L5; Essence_Catalogue L9; Taika L35; The_Return_and_the_Bridge L60-72; Era_7_The_Return L60-72 | 19 |
+| Ch59 | A Clark Kent Problem | Book_12_Timeline L5, L17, L24, L39, L60, L66 …; Chapter_Digest_Book_12 L5, L17, L24, L39; Master_Timeline L5; Glossary L5; Essence_Catalogue L9; Taika L35; The_Return_and_the_Bridge L60-72; Era_7_The_Return L60-72 | 20 |
 | Ch60 | God-King | Book_12_Timeline L6, L10, L19, L33, L62, L93; Chapter_Digest_Book_12 L6, L10, L19; The_Return_and_the_Bridge L6-10; Cosmic_Throne_and_the_Sundering L16; World_Phoenix L16, L19-20; Reality_and_Genesis_Cores L28; The_Rules_of_Intrusion L52, L52-54; The_Deep_Astral_and_Interstice L68, L70-71 | 18 |
 | Ch61 | Jason’s Arrival Inevitably Caused a Massive Problem | Book_12_Timeline L3, L17, L18, L29, L55, L105 …; Chapter_Digest_Book_12 L3, L55; Artefact_Site_One L16, L17, L18, L21, L22, L25 …; Lenora_Coleman L16, L22, L25; 00_Earth_Overview L17, L21; 00_Places_Overview L21; EDJI_and_Post_Reveal_Institutions L22; Minor_Cast_Books_10-13 L103-104 | 24 |
 | Ch62 | It Sets a Tone | Book_12_Timeline L3, L4, L51, L98, L101, L117; Chapter_Digest_Book_12 L4, L51, L98, L101, L117; Leonids L4-9; Gary L4-9; Taika L4-9; Lenora_Coleman L28, L54, L80; Artefact_Site_One L45, L53; Minor_Cast_Books_10-13 L45, L64 | 21 |
@@ -1069,7 +1069,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch951 | Messy but Delicious | Book_13_Timeline L3-6, L50, L70; Chapter_Digest_Book_13 L3-6, L70; Nik_Asano L4-11, L7, L11; Dimensional_Storage_and_Portals L25; Hearth L33; Education L38-40; Book_12_Timeline L50; Master_Timeline L50 … | 20 |
 | Ch952 | All Your Well-Learned Politesse | Book_13_Timeline L35; Chapter_Digest_Book_13 L35 | 2 |
 | Ch953 | Perfect Humanoid Specimens | Book_13_Timeline L3; Chapter_Digest_Book_13 L3; Anna_Tilden L9; Engineers_of_Ascension L23; Sigrid_Freyn L39; Zareen_Rimaros L50-51, L56; Liara_Rimaros L51; Emi_Evans_Asano_Power_Set L84 … | 13 |
-| Ch954 | Misgivings | Earth_Powers L3-6; Astral_Kings_and_Messengers L4; The_Cabal L4; Boris_Ket_Lundi L4, L5-6, L7-12, L9, L20; Goblins_and_Fairies L5; Messengers_as_a_People L5; The_Unorthodoxy L6, L6-7, L9; The_Council_of_Kings L7 … | 26 |
+| Ch954 | Misgivings | Earth_Powers L3-6, L9; Astral_Kings_and_Messengers L4; The_Cabal L4; Boris_Ket_Lundi L4, L5-6, L7-12, L9, L20; Goblins_and_Fairies L5; Messengers_as_a_People L5; The_Unorthodoxy L6, L6-7, L9; The_Council_of_Kings L7 … | 27 |
 | Ch955 | The Unadulterated Jason | Book_13_Timeline L63; Chapter_Digest_Book_13 L63 | 2 |
 | Ch956 | Emergent Situation | Zara_Rimaros L3, L40, L41; Romances_and_Rivalries L3; Minor_Cast_Books_4-6 L23; Emi_Evans_Asano L26, L56-58; Book_13_Timeline L41; Chapter_Digest_Book_13 L41 | 9 |
 | Ch957 | When the Screaming Began | Book_13_Timeline L32; Chapter_Digest_Book_13 L32 | 2 |

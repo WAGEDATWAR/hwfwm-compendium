@@ -70,7 +70,7 @@ For each of the seven eras, three lists: what is true, what people commonly beli
 | True | The Healer says Purity sanctioned himself, though most mortals believe the gods did it | Book 9, Ch73 L41 |
 | Believed | Asano is responsible for the messenger invasion; Humphrey corrects that Jason and Farrah triggered the surge, not the invasion | Book 9, Ch42 L75-77 |
 | Told or hidden | An Adventure Society functionary hides seething anger behind an aura mask | Book 9, Ch77 L13 |
-| Told or hidden | Kaal "played things mostly straight but kept things" from them | Book 10, Ch59 L38 |
+| Told or hidden | Kaal has "mostly played things straight" but "also kept things" from them | Book 10, Ch59 L38 |
 | Told or hidden | Emir expects Kaal to betray an alliance | Book 10, Ch10 L64 |
 
 ## 8. Era 6: The Cardinas zone (Books 10-11)

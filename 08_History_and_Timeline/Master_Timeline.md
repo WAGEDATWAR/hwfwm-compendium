@@ -135,7 +135,7 @@ Each row names the first line in which the text shows the character at that rank
 | Jason Asano | Diamond | Not reached in Book 13 (section 6 above) |
 | Rufus Remore | Bronze at the start | "We're bronze-rank adventurers" (Book 1, Ch15 L92); the most powerful combatant on Earth below gold in Book 11 (Book 11, Ch68 L1514) |
 | Humphrey, Clive, Neil | Bronze perception powers | Humphrey and Clive have bronze-rank perception, and Neil likewise (Book 3, Ch15 L21) |
-| Clive Standish | Bronze | "Clive has reached bronze rank" (Book 3, Ch38 L110) |
+| Clive Standish | Bronze | "You have reached bronze rank", to Clive (Book 3, Ch38 L110) |
 | Sophie, Belinda | Bronze | Reach bronze in the astral space (Book 3, Ch53 L68-69) |
 | Humphrey's team | Silver | Humphrey struggled on first reaching silver (Book 9, Ch85 L53); the team pushed through silver as fast as they could after Jason left (Book 11, Ch68 L1031) |
 | Constance | Gold | Trained with Callum to reach gold (Book 9, Ch50 L51) |

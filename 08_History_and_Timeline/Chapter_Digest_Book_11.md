@@ -62,7 +62,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch47, Not All of Us Are Demigods**: Gary, Miriam and Arabelle defeat an odd round purple boss anomaly by draining its mana (Book 11, Ch47 L3-7). Miriam asks Jason to claim the territory so they can return to base (Book 11, Ch47 L104).
 - **Ch48, The Price**: Rufus asks why Gary cannot simply take the natural array option (Book 11, Ch48 L62). Jason says that if Gary would stay in the soul realm a few months, maybe a year, he could keep the power (Book 11, Ch48 L22)
 - **Ch49, Guaranteed to Become Enemies**: Territories are being claimed while the adventurers are idle, and some adventurers take part in linking the nodes (Book 11, Ch49 L69)
-- **Ch50, Assuming We Win**: Nik, "six months old", insists it is a weather machine and not a satellite weapon (Book 11, Ch50 L11). Sophie reports the zone breaking down at the edges and moving inward (Book 11, Ch50 L56)
+- **Ch50, Assuming We Win**: Nik, "six months old", insists it is a weather machine and not a satellite weapon (Book 11, Ch50 L11, L15). Sophie reports the zone breaking down at the edges and moving inward (Book 11, Ch50 L56)
 - **Ch51, Don’t Throw Our Dead Friend’s Stuff Out of a Tortoise**: The final unclaimed territory is a small tree territory around eight kilometres across (Book 11, Ch51 L3).
 - **Ch52, Beware of Chicken**: Gary grows to match the root avatar (Book 11, Ch52 L104).
 - **Ch53, A Better Adventurer**: The silver-rankers have gained a great deal in the zone (Book 11, Ch53 L8).

@@ -28,7 +28,7 @@ Suspicious of kindness at first: "Are you trying to tell me that Jory is such a 
 
 ## 5. Background
 
-Born in Kurdansk, in the People's Holy Federation of Dreisil (Book 6, Ch47 L390, Emir). Her father's failed expedition left her with a huge debt at sixteen or seventeen, and she worked as a pit fighter; Cole Silva, whose father her father had worked for, wanted her (Book 1, Ch50 L92). Her mother is Melody Jain (Book 9, Ch19 L3-6), who faked her death some twenty years earlier (Book 6, Ch47 L510-513).
+Born in Kurdansk, in the People's Holy Federation of Dreisil (Book 6, Ch47 L390, Emir). Her father's failed expedition left her with a huge debt at sixteen or seventeen, and she worked as a pit fighter; Cole Silva, whose father her father had worked for, wanted her (Book 1, Ch51 L26; Book 1, Ch50 L92). Her mother is Melody Jain (Book 9, Ch19 L3-6), who faked her death some twenty years earlier (Book 6, Ch47 L510-513).
 
 ## 6. Timeline of involvement
 

@@ -34,7 +34,7 @@ Mother of Humphrey and wife of Keith Geller (Book 2, Ch62 L24). The Geller famil
 
 - **Book 1**: Gabriel Remore asks about "this outworlder of yours" in a call (Book 1, Ch49 L42); Danielle leads the search pattern on the Greenstone expedition into the desert astral space (Book 1, Ch104 L60-61), where Henry Geller dies (Book 1, Ch110 L51).
 - **Book 3**: confronts Lamprey with Humphrey.
-- **Book 7**: takes the 119 outworlders to the Geller estate in Cyrion (Book 7, Ch43 L61-62).
+- **Book 7**: takes the 119 outworlders (Book 7, Ch36 L86) to the Geller estate in Cyrion (Book 7, Ch43 L61-62).
 - **Book 11**: sits with Gwydion Remore, a priest of Hero, at her table (Book 11, Ch60 L13) and later helps Lorenn with diplomacy.
 - **Book 12**: Jason asks her to be his political adviser on Earth (Book 12, Ch26 L54).
 

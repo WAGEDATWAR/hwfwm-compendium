@@ -104,7 +104,7 @@ Chapter-by-chapter order of Book 7, with the in-world time wherever the text giv
 | Late surge | Ch61 | Jason senses an aura and finds its owner waiting on a rooftop, a celestine woman (Book 7, Ch61 L66) |
 | Late surge | Ch62 | Warwick asks what she has got herself into (Book 7, Ch62 L38); Estella says Havi Estos hired her "a few weeks ago" to poke around Asano's aura (Book 7, Ch62 L43) |
 | Late surge | Ch63 | Jason's life force is bolstered by the accumulated healing from fighting the lobhoppers (Book 7, Ch63 L26) |
-| Late surge | Ch64 | The adventurers have six diamond-rankers, with Soramir absent (Book 7, Ch64 L14). Dawn's words of fire and thunder carry over land and water as the nearby battle lulls (Book 7, Ch64 L40). Jason says "That is a Builder fortress-city, appearing over Livaros" (Book 7, Ch64 L72) |
+| Late surge | Ch64 | The adventurers have six diamond-rankers, with Soramir absent (Book 7, Ch64 L14). Dawn's words of fire and thunder carry over land and water as the nearby battle lulls (Book 7, Ch64 L40). Jason says it "is a Builder fortress-city, appearing over Livaros" (Book 7, Ch64 L72) |
 
 ## 8. The One Day War and its aftermath (Ch65 to Ch66)
 

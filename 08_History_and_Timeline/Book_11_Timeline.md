@@ -71,7 +71,7 @@ Book 11 has two halves. Part I (Ch1 to Ch67) is the unified transformation zone 
 |---|---|---|
 | Late | Ch48 | Rufus asks why Gary cannot simply take the natural array option (Book 11, Ch48 L62). Jason says that if Gary would stay in the soul realm a few months, maybe a year, he could keep the power (Book 11, Ch48 L22) |
 | Late | Ch49 | Territories are being claimed while the adventurers are idle, and some adventurers take part in linking the nodes (Book 11, Ch49 L69) |
-| Late | Ch50 | Nik, "six months old", insists it is a weather machine and not a satellite weapon (Book 11, Ch50 L11). Sophie reports the zone breaking down at the edges and moving inward (Book 11, Ch50 L56) |
+| Late | Ch50 | Nik, "six months old", insists it is a weather machine and not a satellite weapon (Book 11, Ch50 L11, L15). Sophie reports the zone breaking down at the edges and moving inward (Book 11, Ch50 L56) |
 | Late | Ch51 to Ch55 | The final unclaimed territory is a small tree territory around eight kilometres across (Book 11, Ch51 L3). Gary grows to match the root avatar (Book 11, Ch52 L104). The silver-rankers have gained a great deal in the zone (Book 11, Ch53 L8). Time is the resource the defenders buy (Book 11, Ch54 L61). The tree's Voice of the Will challenge power has its completion conditions listed (Book 11, Ch55 L25) |
 | Late | Ch56 to Ch57 | Jason says there is a genuine soul in the tree and that Nik is a living being he created (Book 11, Ch56 L48). Gary will not accept a "ghost, rattling around in a hole" (Book 11, Ch57 L60) |
 | Late | Ch58 to Ch59 | The reintegration plan includes a "self-destruct button" in the volcano lair (Book 11, Ch58 L91). Emir plans cloud palaces on the side of the tree (Book 11, Ch59 L10) |

@@ -315,7 +315,7 @@ Valid from Book 1 to Book 2. Spoiler level 1. Character file: [Hudson Kettering]
 Valid from Book 1 to Book 13. Spoiler level 3. Character file: [Humphrey Geller](../../07_Characters/Humphrey_Geller.md).
 
 - **Role**: Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shouldered, handsome young man from a family that has been adventuring for sixteen generations. He begins the series a shy teenager and becomes a steady leader and one of the team's strongest fighters.
-- **Appearance**: Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 (Book 1, Ch66 L58).
+- **Appearance**: Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 (Book 1, Ch38 L114; Book 1, Ch66 L58).
 - **Voice**: Precise, shy about romance, crisp when commanding. Cues: he turns white and shakes his head when Jason asks about Gabrielle (Book 1, Ch47 L88-89); in expedition leader mode he refers to his mother by name and issues her orders (Book 13, Ch958 L48).
 - **Secret or spoiler note**: His race-gift evolution is level 2. His engagement is level 3.
 <!-- /level -->

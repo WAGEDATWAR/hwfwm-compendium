@@ -40,7 +40,7 @@ Arabelle tells Jason the story as Callum gave it to her (Book 9, Ch27).
 - **Marta Fries**: Melody's best friend in the order, who warned her and helped smuggle the husband and Sophie out (Book 9, Ch27 L30). Fries is under scrutiny after Melody's defection, and later helps trace Melody (Book 9, Ch27 L91).
 - **Callum Morse**: a cult member, made Melody's handler when she came to the cult. They investigated the order together for years, but the cult never truly accepted her (Book 9, Ch27 L47, L63). He is in love with her (Book 9, Ch27 L65, L78).
 - **The search**: Callum steered Emir and a diamond-rank historian friendly to the cult towards collecting Way of the Reaper skill books, hoping a stray user of the techniques would turn up Melody's husband (Book 9, Ch27 L65-73). That is how Sophie and Emir came to Marta Fries (Book 9, Ch27 L81).
-- **The Purity infiltration**: the cult required Melody to infiltrate the Order of Redeeming Light as a momentous gesture before it would accept her, over Callum's objection (Book 9, Ch27 L83-85). She was "cleansed" and became an artificial zealot, and Callum lost track of her (Book 9, Ch27 L90-91).
+- **The Purity infiltration**: the cult required Melody to infiltrate the Order of Redeeming Light as a momentous gesture before it would accept her, over Callum's objection (Book 9, Ch27 L83-85). She was subjected to the "cleansing fire" and became an artificial zealot, and Callum lost track of her (Book 9, Ch27 L90-91).
 - **Melody and Jason**: she fights Jason using the Way of the Reaper and says she was trained in it before he was born (Book 8, Ch34 L41). Her therapy and the Flames' damage are covered in Melody_Jain.md and Book 10, Ch36 L13-17.
 <!-- /level -->
 

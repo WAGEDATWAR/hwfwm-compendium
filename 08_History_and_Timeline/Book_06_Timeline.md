@@ -45,7 +45,7 @@ Chapter-by-chapter order of Book 6. The Earth chapters (Ch1 to Ch46) cover Jason
 | Weeks later | Ch22 | Jason expects to find nodes directly through node space rather than proto-spaces (Book 6, Ch22 L5). Erika leaves Emi playing a board game from the collection Greg bequeathed (Book 6, Ch22 L52) |
 | Weeks later | Ch23 | Jason has been "turning on all the cool uncle taps in the last few weeks" (Book 6, Ch23 L31). In the month since the dome came down, gold-rankers have been exploring his domain (Book 6, Ch23 L3) |
 | About 1 month after the dome | Ch24 | A delegation includes an EOA representative named Alexander Clerck (Book 6, Ch24 L6) |
-| About 1 month after the dome | Ch25 to Ch26 | Vermillion explains ghouls (Book 6, Ch25 L79). The target is a sealed astral space such as the one at Saint-Étienne (Book 6, Ch25 L102). Anna reports that Gerling "has gone rogue" (Book 6, Ch26 L63), and Akari and Jason discuss the combat trance (Book 6, Ch26 L71) |
+| About 1 month after the dome | Ch25 to Ch26 | Vermillion explains ghouls (Book 6, Ch25 L79). The target is a sealed astral space such as the one at Saint-Étienne (Book 6, Ch25 L102). Anna reports that of Gerling "He's gone rogue" (Book 6, Ch26 L63), and Akari and Jason discuss the combat trance (Book 6, Ch26 L71) |
 | Weeks later | Ch27 | The plan is to steal a magically enhanced SADM, a nuclear bomb in a backpack (Book 6, Ch27 L51) |
 | Weeks later | Ch28 to Ch29 | Travis Noble is twenty-one, a category-two magitech engineer, having a very bad month (Book 6, Ch28 L36). His family has been in the Network since before the Revolutionary War (Book 6, Ch29 L84) |
 | Weeks later | Ch30 | Gerling grabs Adrien Barbou on a whirlwind trip back to the US (Book 6, Ch30 L29) |

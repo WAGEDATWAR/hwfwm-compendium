@@ -32,7 +32,7 @@ Boko is destroyed on the day an assassin spears Jason's avatar there. Jason uses
 ## 5. The blast and the invasion
 
 - **The blast**: when the containment gives out the outer regions are rubble and the space within is a hole (Book 12, Ch33 L3). A System alert reads "[System Administrator] assassinated. The Hegemon has arisen. Beware his wrath" (Book 12, Ch33 L9-10).
-- **The messenger army**: four Voices of the Will watch an assassin kill Jason and say "It is time for an example to be made" (Book 12, Ch32 L49-53). Massive portals open and disgorge messengers by the thousand (Book 12, Ch33 L4, L7).
+- **The messenger army**: four Voices of the Will watch an assassin kill Jason and say "It is time ... for an example to be made" (Book 12, Ch32 L49-53). Massive portals open and disgorge messengers by the thousand (Book 12, Ch33 L4, L7).
 - **The phoenix**: a vast dark bird, speckled with lights like a starry night and limned in silver flames, rises from the crater and batters the messengers into disorder (Book 12, Ch33 L11-12). The ghost fire phoenix arcs through the host (Book 12, Ch33 L16).
 
 ## 6. Aftermath

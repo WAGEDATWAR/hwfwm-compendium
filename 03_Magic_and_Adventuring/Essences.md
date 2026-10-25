@@ -31,7 +31,7 @@ An essence is the most powerful and rarest of the forms in which magic condenses
 
 ## 3. Variations and exceptions
 
-**Outworlder absorption.** Jason absorbed his first essence "without a ritual" and thinks it was tied to the same power that lets him speak every language (Book 1, Ch15 L114). The ritual knowledge from the skill book tells him a ritual is normally required, "except, he knew from experience that wasn't always true" (Book 1, Ch15 L113).
+**Outworlder absorption.** Jason absorbed his first essence without using a ritual ("I just kind of absorbed it") and thinks it was tied to the same power that lets him speak every language (Book 1, Ch15 L114). The ritual knowledge from the skill book tells him a ritual is normally required, "except, he knew from experience that wasn't always true" (Book 1, Ch15 L113).
 
 **Racial difference.** Humans "have their essence abilities increase faster than other races" (Book 1, Ch15 L58). Abilities and their awakening differ by person as well as race (Book 1, Ch15 L57).
 

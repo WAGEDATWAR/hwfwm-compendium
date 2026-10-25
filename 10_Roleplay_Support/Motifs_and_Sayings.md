@@ -36,7 +36,7 @@ The series leans on a handful of repeated phrases and running jokes. This file l
 
 - **Greetings and address**: "G'day" and "mate" (Book 1, Ch38 L55), "Strewth" (Book 2, Ch44 L130). See Tone_and_Voice.md.
 - **Personas**: the media name the cloaked figure the Starlight Rider and the healer the Starlight Angel (Book 4, Ch15 L12; Book 5, Ch11 L12).
-- **Adventurers' proverbs**: a bronze-ranker is "not allowed to hunt alone" in high-magic zones (Book 2, Ch53 L27); see Tone_and_Voice.md for others.
+- **Adventurers' proverbs**: iron-rankers "aren't allowed to hunt by ourselves" in areas of high magic density, Keane says (Book 2, Ch53 L27); see Tone_and_Voice.md for others.
 
 ## 6. Using these in play
 

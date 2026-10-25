@@ -26,7 +26,7 @@ The messenger war is the long conflict between the winged servants of the astral
 
 ## 4. The reprisal (Book 12)
 
-- **Boko**: four Voices of the Will watch the assassination and say "It is time for an example to be made" (Book 12, Ch32 L49-53). Massive portals open over the ruins and disgorge an army (Book 12, Ch33 L4). See Boko_Evacuation.md.
+- **Boko**: four Voices of the Will watch the assassination and say "It is time ... for an example to be made" (Book 12, Ch32 L49-53). Massive portals open over the ruins and disgorge an army (Book 12, Ch33 L4). See Boko_Evacuation.md.
 - **The Council of Kings**: Jamis Fran Muskar is told "We are all astral kings" and that the Council may guide but does not rule (Book 12, Ch33 L55). He apologises for the deaths in Boko; Jason refuses to blunt his fury by giving up areas or to slaughter a quarter of a million messengers (Book 12, Ch35 L6, L66, L88).
 - **Later portals**: more messengers pour out over the crater but never reach the survivors (Book 12, Ch36 L6).
 

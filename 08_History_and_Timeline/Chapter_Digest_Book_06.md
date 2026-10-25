@@ -38,7 +38,7 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch23, Little Cost in Exploring**: In the month since the dome came down, gold-rankers have been exploring his domain (Book 6, Ch23 L3)
 - **Ch24, Intentions**: A delegation includes an EOA representative named Alexander Clerck (Book 6, Ch24 L6)
 - **Ch25, I Need That Song to Play Out**: Vermillion explains ghouls (Book 6, Ch25 L79). The target is a sealed astral space such as the one at Saint-Étienne (Book 6, Ch25 L102).
-- **Ch26, Wash Them First**: Anna reports that Gerling "has gone rogue" (Book 6, Ch26 L63), and Akari and Jason discuss the combat trance (Book 6, Ch26 L71)
+- **Ch26, Wash Them First**: Anna reports that of Gerling "He's gone rogue" (Book 6, Ch26 L63), and Akari and Jason discuss the combat trance (Book 6, Ch26 L71)
 - **Ch27, The Language of Passion**: The plan is to steal a magically enhanced SADM, a nuclear bomb in a backpack (Book 6, Ch27 L51)
 - **Ch28, Forthright Honesty**: Travis Noble is twenty-one, a category-two magitech engineer, having a very bad month (Book 6, Ch28 L36).
 - **Ch29, Pertinent Factor**: His family has been in the Network since before the Revolutionary War (Book 6, Ch29 L84)

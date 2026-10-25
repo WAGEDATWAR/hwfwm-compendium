@@ -14,7 +14,7 @@ For about a year after the Reaper trials, a hidden cult of the Builder works ins
 ## 2. The world at the start (Book 2, about M3 to M5)
 
 - **Where things stand**: Jason is an iron-ranker in Greenstone; Farrah has just died covering civilians (Book 1, Ch113 L41); the Adventure Society campus holds "a continual series of memorial services" (Book 2, Ch6 L3).
-- **The first sign**: Cassandra says her brother Thadwick "woke up different" (Book 2, Ch4 L24); Henry Geller is among the missing faces (Book 2, Ch4 L7). A Continental Council inquiry team arrives (Book 2, Ch10 L51).
+- **The first sign**: Cassandra says her brother Thadwick "woke up on the way back" and is "different" (Book 2, Ch4 L24); Henry Geller is among the missing faces (Book 2, Ch4 L7). A Continental Council inquiry team arrives (Book 2, Ch10 L51).
 - **Rumours in the upper crust** about Jonah, Thadwick and the others disrupt Greenstone's aristocracy (Book 2, Ch16 L75).
 
 ## 3. Key events
@@ -32,7 +32,7 @@ For about a year after the Reaper trials, a hidden cult of the Builder works ins
 - **Evacuation**: Zato, the last silver-ranker in the cult's local forces, leads the survivors off the island (Book 3, Ch7 L88-89).
 - **Jason's capture**: Cole Silva and Lucian Lamprey orchestrate Jason's kidnapping and star seed implantation (Book 9, Ch2 L84); he is held in a stone box, emaciated and bloodied (Book 3, Ch17 L3; Book 3, Ch20 L9).
 - **The war council**: Jason's team and allies meet as a war council for the anti-Builder effort (Book 3, Ch31 L56).
-- **Into the astral space**: the team arrives on one of twelve portal towers ringing the city (Book 3, Ch35 L4); a legendary-set site is a subterranean forge (Book 3, Ch42 L6). The church of Purity arrives at the Vane estate through a portal, fifty-eight in all (Book 3, Ch54 L19). Hendren dissolves under transcendent light (Book 3, Ch59 L126).
+- **Into the astral space**: the team arrives on one of twelve portal towers ringing the city (Book 3, Ch35 L4; Book 3, Ch36 L36); a legendary-set site is a subterranean forge (Book 3, Ch42 L6). The church of Purity arrives at the Vane estate through a portal, fifty-eight in all (Book 3, Ch54 L19). Hendren dissolves under transcendent light (Book 3, Ch59 L126).
 - **The truth of the place**: Clive says the astral space is artificial, "a giant boarding vessel" (Book 3, Ch65 L79).
 - **The ending**: the Builder grabs Jason by the face (Book 3, Ch67 L39); Zato is defeated (Book 3, Ch69 L42); the Builder, the World-Phoenix and the Reaper negotiate (Book 3, Ch69 L279). Jason's soul is vouchsafed on his death (Book 3, Ch69 L378).
 

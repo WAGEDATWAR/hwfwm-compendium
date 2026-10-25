@@ -47,10 +47,10 @@ One entry per chapter, in book order: the chapter number and title, then up to t
 - **Ch32, The World Needs People Like You**: Jason's Dark Hydra Robe is bronze rank and epic (Book 3, Ch32 L48). Clive and Neil have growth items to ascend (Book 3, Ch32 L66).
 - **Ch33, I’m Very Big on Cowardice**: Rufus has split his time between the academy annex and the cult investigation (Book 3, Ch33 L13). The farewell barbecue precedes months away from family (Book 3, Ch33 L4).
 - **Ch34, More Powerful Than We Anticipated**: Zato fumes in the lair under the Vane Estate ruins (Book 3, Ch34 L3) and tells the cult a team has entered the astral space (Book 3, Ch34 L16).
-- **Ch35, Fate Can’t Wait to Kill Us All**: The team arrives on one of the twelve portal towers ringing the city (Book 3, Ch35 L4). Clive draws a diagram to open a hidden door (Book 3, Ch35 L71)
+- **Ch35, Fate Can’t Wait to Kill Us All**: The team arrives on one of the twelve portal towers ringing the city (Book 3, Ch35 L4; Book 3, Ch36 L36). Clive draws a diagram to open a hidden door (Book 3, Ch35 L71)
 - **Ch36, Running Towards Something**: The soul compass is spherical, with a needle floating within (Book 3, Ch36 L90).
 - **Ch37, Greenhouse Flowers**: Clive's Wrath of the Magister is a Magic ability (Book 3, Ch37 L32).
-- **Ch38, A Man Transformed**: Blade of Doom reaches Bronze 0 (Book 3, Ch38 L5). Clive "has reached bronze rank" (Book 3, Ch38 L110), after his Vengeance Mirror reaches Bronze 0 (Book 3, Ch38 L95)
+- **Ch38, A Man Transformed**: Blade of Doom reaches Bronze 0 (Book 3, Ch38 L5). the system tells Clive "You have reached bronze rank" (Book 3, Ch38 L110), after his Vengeance Mirror reaches Bronze 0 (Book 3, Ch38 L95)
 - **Ch39, The Worst Possible Option**: The blood weaver is a silver-rank spider monster, more intelligent than most lower-rank monsters (Book 3, Ch39 L80).
 - **Ch40, Brave Little Tailor**: The team uses its "Brave Little Tailor" tactic against larger groups (Book 3, Ch40 L138).
 - **Ch41, Terms of the Pact**: Zato invokes the pact: Nicolas Hendren will lead his people when the tunnel finishes (Book 3, Ch41 L84)

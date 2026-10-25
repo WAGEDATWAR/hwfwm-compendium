@@ -27,7 +27,7 @@ The church of Purity is the church of cleansing: it supplies the healers who tre
 <!-- level:2 -->
 ## 4. The ecumenical council and the false god
 
-- **Council**: the churches convene an ecumenical council to judge the church's behaviour; it finds the church "had been operating well outside its dictates for some time" (Book 8, Ch48 L32). People from the church are detained under its authority (Book 3, Ch5 L67).
+- **Council**: the churches convene an ecumenical council to judge the church's behaviour; it finds the church "had been operating well outside their own dictates" (Book 8, Ch48 L32). People from the church are detained under its authority (Book 3, Ch5 L67).
 - **Replacement**: Carlos argues that Purity has been replaced by a deception god (Book 8, Ch48; see Purity_and_Disguise.md).
 <!-- /level -->
 

@@ -32,7 +32,7 @@ An incursion is a proto-astral space that opens on Earth and spills monsters int
 
 ## 5. Other sites
 
-Sydney's Kings Cross (the Stone Wall bar), the Network's Sydney clinic where Jason secretly works as the "Starlight Angel", and the Starlight Rider episodes belong to Book 4: the media dub the figure the Starlight Rider after earlier stories of a starlight angel (Book 4, Ch15 L12). They are not full place files.
+Sydney's Kings Cross (the Stone Wall bar), the Network's Sydney clinic where Jason secretly works as the "Starlight Angel" (Book 4, Ch29 L43), and the Starlight Rider episodes belong to Book 4: the media dub the figure the Starlight Rider after earlier stories of a starlight angel (Book 4, Ch15 L12). They are not full place files.
 
 ## 6. Dangers and opportunities
 

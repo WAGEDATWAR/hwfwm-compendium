@@ -13,7 +13,7 @@ Humphrey Francis Eugene Geller is the leader of Team Biscuit, a tall, broad-shou
 
 ## 2. Appearance
 
-Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 (Book 1, Ch66 L58). Rick Geller, a family member, shares his tall, broad-shouldered build (Book 1, Ch66 L58-62).
+Tall, broad-shouldered and handsome; sixteen or seventeen in Book 1 (Book 1, Ch38 L114; Book 1, Ch66 L58). Rick Geller, a family member, shares his tall, broad-shouldered build (Book 1, Ch66 L58-62).
 
 ## 3. Personality and voice
 

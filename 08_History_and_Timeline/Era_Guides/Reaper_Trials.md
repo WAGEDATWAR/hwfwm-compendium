@@ -15,7 +15,7 @@ After Farrah's death, Emir Bahadir opens an astral space in the delta and invite
 
 - **The prize and the search**: Emir spent most of two years looking for the conditions to open the astral space (Book 2, Ch22 L82); the prize for the winning team is five legendary awakening stones (Book 2, Ch22 L90).
 - **The announcement**: Emir declares Jason under his protection, explains the Order of the Reaper's contract and introduces Callum Morse (Book 2, Ch34 L45-47).
-- **The mood**: Farrah's wake is held in the cloud palace's guest wing, with Padma and Farrah's parents present (Book 2, Ch38 L4, L40, L69). Emir tells the gathering "things are not as simple as described" (Book 2, Ch40 L57).
+- **The mood**: Farrah's wake is held in the cloud palace's guest wing, with Padma and Farrah's parents present (Book 2, Ch38 L4, L40, L69). Emir tells the gathering "things are not so simple as I have described" (Book 2, Ch40 L57).
 
 ## 3. Key events
 
@@ -24,7 +24,7 @@ After Farrah's death, Emir Bahadir opens an astral space in the delta and invite
 - **The city**: siege golems and flesh abominations adapt to how they are fought (Book 2, Ch45 L52; Book 2, Ch52 L34). Imran Keane joins Jason's party (Book 2, Ch53 L64). A blood root vine is hit with Inexorable Doom (Book 2, Ch54 L122).
 - **Rival teams**: Padma's team is the last to join (Book 2, Ch55 L69), and Beth's team stays put beside Jason's near the end (Book 2, Ch56 L73). Before the trials Beth's and Rick's teams had met in the mirage chamber contest (Book 2, Ch29-30). All reach the city centre, where Humphrey's team staggers in ragged (Book 2, Ch55 L9-12).
 - **The final day**: Shade announces that the second trial ends in one day (Book 2, Ch56 L82) and warns of nightmare hags, diamond-rank astral entities (Book 2, Ch57 L68). Rewards include a True Light (Book 2, Ch57 L142), Summoner's Die: Form (Book 2, Ch58 L41) and an Immortal Crest (Book 2, Ch58 L102).
-- **The Order's truth**: Shade says the Order now "makes connections" instead of keeping a roster of assassins (Book 2, Ch60 L120), and a Reaper Token goes into Jason's inventory (Book 2, Ch60).
+- **The Order's truth**: Shade says the Order, "we make connections", instead of keeping a roster of assassins (Book 2, Ch60 L120), and a Reaper Token goes into Jason's inventory (Book 2, Ch60).
 - **After**: Emir arrives with 419 time-displaced priests "asking for you by name" (Book 2, Ch63 L9). The Healer thanks Jason for returning their people and Jason receives the title Godless Prophet (Book 2, Ch65 L78, L85). The team spends days in Jayapura awakening abilities and getting tattoos (Book 2, Ch74 L14).
 
 ## 4. Who is where

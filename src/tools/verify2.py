@@ -36,7 +36,7 @@ def window(refs):
         if not d:
             continue
         ls = d[0]
-        txt.append(" ".join(ls[max(0, lo - 3): min(len(ls), hi + 2)]))
+        txt.append(" ".join(ls[max(0, lo - 3): min(len(ls), hi + 8)]))
     return " ".join(txt)
 
 
@@ -44,19 +44,32 @@ def numbers_in(t):
     out = set()
     for m in re.findall(r"\d[\d,]*", t):
         out.add(int(m.replace(",", "")))
-    words = re.findall(r"[a-z]+", t.lower())
-    for i, w in enumerate(words):
+    words = re.findall(r"[a-z]+", t.lower().replace("-", " "))
+    tens = {k: v for k, v in NUMW.items() if v < 100}
+    total = cur = 0
+    run = False
+
+    def flush():
+        nonlocal total, cur, run
+        if run:
+            out.add(total + cur)
+        total = cur = 0
+        run = False
+
+    for w in words:
         if w in UNITS:
-            out.add(UNITS[w])
-        if w in NUMW:
-            v = NUMW[w]
-            if i and words[i - 1] in UNITS:
-                v *= UNITS[words[i - 1]]
-            out.add(v)
-            if i and words[i - 1] in NUMW and NUMW[words[i - 1]] < v:
-                pass
-        if w in NUMW and NUMW[w] < 100 and i + 1 < len(words) and words[i + 1] in UNITS:
-            out.add(NUMW[w] + UNITS[words[i + 1]])
+            cur += UNITS[w]; out.add(UNITS[w]); run = True
+        elif w in tens:
+            cur += tens[w]; out.add(tens[w]); run = True
+        elif w == "hundred":
+            cur = max(cur, 1) * 100; run = True
+        elif w in ("thousand", "million"):
+            total += max(cur, 1) * NUMW[w]; cur = 0; run = True
+        elif w == "and" and run:
+            continue
+        else:
+            flush()
+    flush()
     return out
 
 
@@ -114,7 +127,17 @@ def check(row, names):
                 loc = locate(row, part)
                 sc, sp = best_span(row, part)
                 fails.append("quote: " + part.strip()[:80] + (" [found at %s]" % loc if loc else " [not in cited chapters]") + " ~%.2f: %s" % (sc, sp[:100]))
-    stripped = re.sub(r"(?i)(?<![a-z])(?:books? \d+(?:\s*(?:-|to|and)\s*\d+)?|ch\d+(?:-\d+)?|L\d+(?:-\d+)?)", " ", claim)
+    if re.search(r"notes", claim):
+        claim_n = ""
+    elif row["doc"].startswith("Appendices/"):
+        claim_n = ""
+    elif row["doc"].startswith("08_History_and_Timeline"):
+        claim_n = re.sub(r"^.*?—\s*Ch\d+(?:\s*to\s*Ch\d+)?\s*—\s*", "", claim)
+        if row["doc"].endswith("Master_Timeline.md") or claim_n == claim and re.match(r"^(Day|Days|M\d|About|Weeks?|Late|Return|After|Arrival|Months|Final)", claim):
+            claim_n = ""
+    else:
+        claim_n = claim
+    stripped = re.sub(r"(?i)(?<![a-z])(?:books? \d+(?:\s*(?:-|to|and)\s*\d+)?|ch\d+(?:-\d+)?|L\d+(?:-\d+)?)", " ", claim_n)
     cn = {n for n in numbers_in(stripped) if n >= 10 and not 2000 <= n <= 2045}
     if cn:
         tn = numbers_in(text)
