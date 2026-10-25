@@ -42,6 +42,6 @@ Jason, Vesper and Liara Rimaros, Emiliano, Team Biscuit, Zareen Rimaros.
 
 ## 8. Roleplay notes
 
-**Voice (condensed)**: Courtly, with a threat in the smile. Cue: Book 2, Ch69 L17-19. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Courtly, with a threat in the smile. Cue: "Might I introduce my aunt, Vesper Rimaros?" (Book 2, Ch69 L17). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Courtly with a streak of mischief; storms for emphasis.

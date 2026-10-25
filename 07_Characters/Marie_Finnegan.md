@@ -39,7 +39,7 @@ Not described in the lines read; she sips hot chocolate in a glass-walled chalet
 
 - **Elizabeth**: her vampire partner (Book 13, Ch979 L72).
 - **Simon McKean**: contact (Book 13, Ch975 L24).
-- **Jason**: her captor (Book 13, Ch985 L32).
+- **Jason**: interviews her at his estate, "this part is best done by me" (Book 13, Ch985 L32).
 
 ## 8. Secrets and spoiler notes
 

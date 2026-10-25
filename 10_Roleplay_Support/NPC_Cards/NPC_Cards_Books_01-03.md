@@ -393,7 +393,7 @@ Valid from Book 1 to Book 13. Spoiler level 3. Character file: [Knowledge](../..
 
 - **Role**: Knowledge is the goddess of Knowledge. Jason meets her in Book 1 on arriving at her temple, and for twelve books she charms and manipulates him.
 - **Appearance**: In Book 1 a statue is replaced by a woman with colourful clothes and Mediterranean features, beautiful yet "detached and untouchable", not holding the statue's book (Book 1, Ch46 L16).
-- **Voice**: Detached and untouchable in manner. Cue: Book 1, Ch46 L16.
+- **Voice**: Detached and untouchable in manner. Cue: "And you left.
 - **Secret or spoiler note**: The Book 13 briefing says she has been preparing to invade Earth for half a millennium and used Jason; that she promised the messengers' leader a chance to invade Pallimustus and claim Purity's relic; and that around a third of the priests and priestesses of Knowledge are her spies (Book 13, Ch1017 L14-20).
 <!-- /level -->
 
@@ -486,7 +486,7 @@ Valid from Book 1 to Book 11. Spoiler level 3. Character file: [Pochard Finn](..
 
 Valid from Book 1 to Book 13. Spoiler level 3. Character file: [Rick Geller](../../07_Characters/Rick_Geller.md).
 
-- **Role**: Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone. He loses his cousin Jonah to a star seed, takes Dustin Kettering on, and becomes a friend and ally of Jason in Rimaros and the later wars.
+- **Role**: Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone. He loses his teammate Jonah Geller to a star seed, takes Dustin Kettering on, and becomes a friend and ally of Jason in Rimaros and the later wars.
 - **Appearance**: "Like his sister, his skin was dark brown, his hair light brown.
 - **Voice**: Earnest, a bit overawed by Jason and fiercely loyal to his team. Cue: the wide-eyed 'standard Rick' stare.
 - **Secret or spoiler note**: None in the lines read.
@@ -616,7 +616,7 @@ Valid from Book 2 to Book 13. Spoiler level 3. Character file: [Zara Rimaros (Za
 
 - **Role**: Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess". Jason meets her in a tent during the contest for the Scythe of the Reaper, when she is nineteen and he is iron-rank.
 - **Appearance**: Celestine with caramel skin, sapphire eyes and waterfall-blue hair (Book 2, Ch69 L16).
-- **Voice**: Courtly, with a threat in the smile. Cue: Book 2, Ch69 L17-19.
+- **Voice**: Courtly, with a threat in the smile. Cue: "Might I introduce my aunt, Vesper Rimaros?" (Book 2, Ch69 L17).
 - **Secret or spoiler note**: Nothing recorded.
 <!-- /level -->
 

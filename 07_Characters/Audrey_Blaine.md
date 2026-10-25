@@ -37,7 +37,7 @@ Not described in the lines read; her body is a clone grown from her DNA with Cab
 ## 7. Relationships
 
 - **Mr North**: former committee colleague (Book 5, Ch8 L63).
-- **Jason**: now her employer (Book 13, Ch959 L60).
+- **Jason**: brings her down to meet Team Biscuit and vouches for her (Book 13, Ch959 L57-60).
 
 ## 8. Secrets and spoiler notes
 

@@ -28,6 +28,6 @@ Jason; Gabrielle Pellin; Purity and Disguise; the Church of Knowledge (one of th
 
 ## 5. Roleplay notes
 
-**Voice (condensed)**: Detached and untouchable in manner. Cue: Book 1, Ch46 L16. See `../10_Roleplay_Support/Tone_and_Voice.md`.
+**Voice (condensed)**: Detached and untouchable in manner. Cue: "And you left. You have the same option here." (Book 1, Ch46 L15). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
 Warm, detached and omniscient; she answers questions honestly in a way that serves her.

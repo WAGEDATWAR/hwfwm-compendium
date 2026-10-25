@@ -9,7 +9,7 @@ Related: Phoebe_Geller.md, Jonah_Geller.md, Hannah_and_Claire_Adeah.md, Dustin_K
 
 ## 1. Summary
 
-Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone. He loses his cousin Jonah to a star seed, takes Dustin Kettering on, and becomes a friend and ally of Jason in Rimaros and the later wars.
+Rick Geller is a Geller cousin and team leader, a big swordsman who is the main rival of Jason's team in Greenstone. He loses his teammate Jonah Geller to a star seed, takes Dustin Kettering on, and becomes a friend and ally of Jason in Rimaros and the later wars.
 
 ## 2. Appearance
 
@@ -19,7 +19,7 @@ Rick Geller is a Geller cousin and team leader, a big swordsman who is the main 
 
 - **Earnest and wide-eyed**: the 'standard Rick' expression is wide-eyed, as Jason thinks of it (Book 9, Ch1 L111).
 - **Respectful of rank**: he realises he is speaking to a gold-rank princess and his head dips as if yanked by a string (Book 9, Ch1 L59).
-- **Loyal to his team**: he does not like having his team split (Book 9, Ch1 L83), and watches over his cousin in the rescue (Book 2, Ch17 L10).
+- **Loyal to his team**: he does not like having his team split (Book 9, Ch1 L83), and watches over Jonah in the rescue (Book 2, Ch17 L10).
 
 ## 4. Powers and skills as world facts
 
@@ -42,7 +42,7 @@ Rick Geller is a Geller cousin and team leader, a big swordsman who is the main 
 
 - **Dustin**: Rick's team replaced Jonah's role with Dustin, who "was a friend of Neil's" (Book 7, Ch59 L65).
 - **Humphrey**: a close match in style (Book 2, Ch30 L51).
-- **Jonah**: the cousin he fails to save (Book 2, Ch17 L10).
+- **Jonah**: the teammate he fails to save (Book 2, Ch17 L10).
 - **Phoebe**: his sister, on his team (Book 9, Ch104 L54).
 
 ## 8. Secrets and spoiler notes

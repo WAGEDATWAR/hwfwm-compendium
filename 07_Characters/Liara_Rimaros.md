@@ -49,7 +49,7 @@ Liara Rimaros is a gold-rank Adventure Society special-operations officer and a 
 - **Baseph and the children**: Baseph, Dara, Zareen and Joseph (Book 8, Ch62 L28-32); see Baseph_and_the_Rimaros_Children.md and Zareen_Rimaros.md.
 - **Amouz family**: Cassin Amouz is her husband's family; she calls him "Uncle Cassin" when angry (Book 8, Ch20 L21).
 - **Trenchant Moore**: stands beside her in the royal guard crisis (Book 7, Ch52 L71).
-- **Jason**: she keeps him on a short leash for the crown but with warmth (Book 9, Ch6 L73).
+- **Jason**: she asks Farrah whether he knows about the Adventure Society liaison and says loyal, consistent people are to be treasured (Book 9, Ch6 L73-79).
 
 ## 8. Secrets and spoiler notes
 
