@@ -674,6 +674,10 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - The summaries of some documents mention later events without a level tag (for example Boko, Jason Asano, the All-Devouring Eye). The generator holds back sentences that name a later book or a listed later-level term and writes them to `held_back.txt` (48, 87 and 75 sentences for levels 0-2). Those documents should get level tags; not done here.
 - `src/exports/README.md` explains the files and their limits.
 
+**Spoiler-level exports, build plan item 5.5 (2026-10-25)**
+- Added `src/tools/export_levels.py` and `src/exports/markdown/` with four Markdown files (levels 0 to 3: 70, 147, 230 and 379 documents, 0.2 to 1.4 MB). Rule from Decision 3: keep a document when its header level is at or below the requested level, cut tagged sections above it, then hold back lines that cite a later book or name a later-level term (638, 827 and 549 lines for levels 0 to 2, listed in `held_back.txt`). Markdown only: no PDF tool is installed.
+- Leak check on the lower files: no hits for Zithis, Cosmic Throne, Sundered, System Administrator, Network founder, astral king or transformation zone below level 2, and none for the level 3 terms at level 2. The keyword list is a safety net, not a proof.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
