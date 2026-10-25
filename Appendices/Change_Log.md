@@ -669,6 +669,11 @@ Status values used in headers: Draft (written, not yet checked against the book 
 - Moved `03_Magic_and_Adventuring/Wiki_Reference_Lists.md` to `Appendices/Wiki_Reference_Lists.md` (Decision 4). `compose_wiki.py` writes the new path and its Related line uses `../` paths; the links in `00_Magic_Overview.md`, `Essence_Catalogue.md`, `Monsters.md` and `src/tools/README.md` were updated. Earlier Change_Log entries keep the old path as history. The Glossary and `Gods_and_Churches.md` held no link to the file.
 - Not done: a spelling check against `Name_Index.md` for wiki names the books spell differently.
 
+**Lorebook derived from the compendium, build plan item 5.4 (2026-10-25)**
+- Added `src/tools/lorebook.py` and `src/exports/lorebook/` with four world-info files, one per spoiler level (64, 136, 212 and 348 entries). Each entry is a compendium document's Summary plus fact bullets, citations removed, tagged sections above the file's level cut. The earlier hand-made lorebook stays in `src/tools/archive/` and was not used.
+- The summaries of some documents mention later events without a level tag (for example Boko, Jason Asano, the All-Devouring Eye). The generator holds back sentences that name a later book or a listed later-level term and writes them to `held_back.txt` (48, 87 and 75 sentences for levels 0-2). Those documents should get level tags; not done here.
+- `src/exports/README.md` explains the files and their limits.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

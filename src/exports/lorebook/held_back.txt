@@ -1,0 +1,211 @@
+Sentences left out of a lorebook because they name a later book or term (level, document, start of sentence).
+0	01_World_Primer.md	Above both worlds sits a larger cosmos of great astral beings, gods, astral kings and othe
+0	01_World_Primer.md	The chief factors that change from period to period are: who knows what, how powerful the 
+0	02_Cosmology_and_Powers/Gods_and_Churches.md	In Jason's words in Book 8, "gods are like regional managers of full-blown universes".
+0	03_Magic_and_Adventuring/Astral_Spaces_Zones_and_Surges.md	Transformation zones are sealed events that rewrite a place and the people in it.
+0	04_Peoples_and_Cultures/Daily_Life.md	Communication: the Magic Society's water link projects a lifelike image of a speaker; by B
+0	04_Peoples_and_Cultures/Economy_and_Money.md	The Sky Link Company: in Book 12 Travis Noble's sky link service is sold by negotiated spe
+0	04_Peoples_and_Cultures/Estercost_Culture.md	Capital and councils: Cyrion is the capital, yet the Adventure Society's continental counc
+0	04_Peoples_and_Cultures/Kurdansk_Culture.md	Law: Kurdansk locks criminals up for years in prisons, which a Book 12 speaker calls costl
+0	04_Peoples_and_Cultures/Kurdansk_Culture.md	The Reaper link: Melody Jain's story begins in Kurdansk around twenty-five years before Bo
+0	04_Peoples_and_Cultures/Law_and_Indenture.md	Greenstone and Estercost have no slaves, only indentured servants, and indenture is both a
+0	04_Peoples_and_Cultures/Leonids.md	Mixed company: a leonid, an elf and a celestine are among the eleven people who emerge fro
+0	04_Peoples_and_Cultures/Leonids.md	Notable leonids: Gary Xandier, a Vitesse adventurer, and Gary Sharpton in Book 12, who des
+0	04_Peoples_and_Cultures/Outworlders.md	Arrivals: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders amo
+0	04_Peoples_and_Cultures/Outworlders.md	Jason: his character screen lists him as a formerly human outworlder until Book 12.
+0	04_Peoples_and_Cultures/Pranay_Culture.md	Portal stopover: in Book 11 it is a portal stopover on the way to Estercost, "the last of 
+0	04_Peoples_and_Cultures/Smoulder_and_Brighthearts.md	Brighthearts: in Book 10 fewer than ten thousand of the brightheart smoulder survive, cram
+0	04_Peoples_and_Cultures/Storm_Kingdom_Culture.md	Politics later: by Book 12 Zara's brother is the new Storm King, and she remains adopted i
+0	04_Peoples_and_Cultures/Ustei.md	Later: by Book 12 the Ustei who came south are said to predate the Earth arrivals by about
+0	04_Peoples_and_Cultures/Yaresh_Culture.md	Reunion: in Book 12 much of the reunion group has already left Yaresh to make preparations
+0	05_Organisations/Magic_Society_and_Associations.md	By Book 11 Pochard has become director: "It's Director now, Standish.
+0	05_Organisations/Magic_Society_and_Associations.md	In Book 11 onward a rival, the Magical Research Association (MRA), challenges the Magic So
+0	06_Places/Greenstone.md	Adris Dorgan, once a crime lord, is mayor of Old City by Book 12; that the mayor answers t
+0	06_Places/Minor_Places/Boko.md	Book 12: Li Li Mei lives in Boko and is being hunted.
+0	06_Places/Minor_Places/Boko.md	In Book 12 it is destroyed when he is assassinated there.
+0	06_Places/Minor_Places/Boko.md	The crater becomes a harbour, and Jason names the astral city New Water, not Boko.
+0	06_Places/Minor_Places/Boko.md	They shelter in Jason's astral kingdom.
+0	06_Places/Vitesse.md	The books disagree on where the Adventure Society's continental council sits: Book 6 says 
+0	07_Characters/Belinda_Callahan.md	Aura disguise: her power gives her an edge in learning aura disguises, which she teaches J
+0	07_Characters/Belinda_Callahan.md	Disguises: she infiltrates the Order of Redeeming Light as "Keth Gino" and, in the jungle 
+0	07_Characters/Danielle_Geller.md	Rank: silver in Book 1, gold by Book 7.
+0	07_Characters/Farrah_Hurin.md	Rank: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of t
+0	07_Characters/Farrah_Hurin.md	She dies in Book 1, is brought back by the Reaper, and reappears on Earth in Book 4.
+0	07_Characters/Gary.md	In Book 10 he drinks the Cup of Heroes and becomes a demigod; in Book 11 he dies; in Book 
+0	07_Characters/Humphrey_Geller.md	Rank: iron in Book 1; a gold-rank expedition leader by Book 13.
+0	07_Characters/Jason_Asano.md	He becomes an affliction specialist, a bronze-, silver- and gold-rank adventurer, a king o
+0	07_Characters/Jason_Asano.md	Weapons: a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Ga
+0	07_Characters/Knowledge.md	In Book 13 he learns she has prepared for half a millennium to invade Earth and has used h
+0	07_Characters/Rufus_Remore.md	Rank: bronze at the start of the series, and in Book 11 he is the most powerful combatant 
+0	07_Characters/Rufus_Remore.md	The family joke, repeated by Arabelle and Rufus in Book 10, is "my family runs a school".
+0	07_Characters/Sophie_Wexler.md	Late: in Book 13 she has spent several years purging whole cities of disease with her wind
+0	09_Items_and_Artefacts/Cloud_Constructs_and_Palaces.md	Disguised constructs: in Venice his family and Dawn stay in a cloud palace disguised as a 
+0	09_Items_and_Artefacts/Consumables_and_Trial_Rewards.md	They are the source of the transformation zones' treasures and are common in node space.
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	By Book 6 it is silver rank, with the cloud house at iron, cloud vehicle at bronze and clo
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Dread Salvation in Book 6: bronze rank, bound to Jason and sharing his ability to ignore r
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Jason's three soul-bound growth items, joined in Book 6 into the Regalia of the Dark Hegem
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Soul-Imprinting Triune: Jason receives it with a hoard of spirit coins in Book 5; it turns
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	The reforged sword is named Hegemon's Will on its item screen, with its scabbard Hegemon's
+0	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	The reforging by Gary and Virid is Book 7, Ch2 L73-74.
+1	01_World_Primer.md	Above both worlds sits a larger cosmos of great astral beings, gods, astral kings and othe
+1	01_World_Primer.md	The chief factors that change from period to period are: who knows what, how powerful the 
+1	02_Cosmology_and_Powers/Gods/Fertility.md	It grows children in vats, bridges races so that mixed couples can have children, supplies
+1	02_Cosmology_and_Powers/Gods/Knowledge.md	By Book 13 the books reveal she has worked for centuries to invade Earth.
+1	02_Cosmology_and_Powers/Gods/Knowledge.md	Her church is scholarly and wealthy and funds research, and from Book 6 on it is shown mus
+1	02_Cosmology_and_Powers/Gods/Purity_and_Disguise.md	For centuries the god in the Church of Purity was not Purity but Disguise, who masqueraded
+1	02_Cosmology_and_Powers/Gods/Purity_and_Disguise.md	The church's collusion with the cult of the Builder, Disguise's role in the Order of Redee
+1	02_Cosmology_and_Powers/Gods_and_Churches.md	In Jason's words in Book 8, "gods are like regional managers of full-blown universes".
+1	02_Cosmology_and_Powers/Great_Astral_Beings.md	Dawn tells Shako in Book 6 that by killing Jason he violated the compact between the Build
+1	02_Cosmology_and_Powers/Great_Astral_Beings.md	Pacts: after the Sundering, pacts between GABs restrict their direct meddling.
+1	02_Cosmology_and_Powers/Great_Astral_Beings/All_Devouring_Eye.md	Its realm in the deep astral is where Gordon and the apocalypse beasts come from, and the 
+1	02_Cosmology_and_Powers/Great_Astral_Beings/Celestial_Book.md	It gives blessings, is friendlier than the Reaper and more cheerful than most of its peers
+1	02_Cosmology_and_Powers/Great_Astral_Beings/Celestial_Book.md	It locked essence combinations after the sundering.
+1	02_Cosmology_and_Powers/Great_Astral_Beings/The_Reaper.md	Cold, dry and a lover of rules, the Reaper is the mediator among the great astral beings, 
+1	02_Cosmology_and_Powers/Great_Astral_Beings/World_Phoenix.md	It prefers to plant seeds rather than act, has a sense of humour, and fought Jason in his 
+1	03_Magic_and_Adventuring/Astral_Spaces_Zones_and_Surges.md	Transformation zones are sealed events that rewrite a place and the people in it.
+1	03_Magic_and_Adventuring/Earth_Magic.md	By Book 11 the rules have changed.
+1	03_Magic_and_Adventuring/Earth_Magic.md	The monster waves of Book 5 and the transformation zones that follow end that system.
+1	03_Magic_and_Adventuring/Earth_Magic.md	When Jason returns in Book 4, Earth's magic is low and rising, with a planetary Grid of ri
+1	03_Magic_and_Adventuring/Power_Sets/Gary_Power_Set.md	The Book 10 change replaces the set with divine essences and a demigod confluence.
+1	03_Magic_and_Adventuring/Power_Sets/Rufus_Remore_Power_Set.md	In the Greenstone years he fights as a bronze-ranker with a golden and a silver sword; by 
+1	04_Peoples_and_Cultures/Daily_Life.md	Communication: the Magic Society's water link projects a lifelike image of a speaker; by B
+1	04_Peoples_and_Cultures/Economy_and_Money.md	The Sky Link Company: in Book 12 Travis Noble's sky link service is sold by negotiated spe
+1	04_Peoples_and_Cultures/Estercost_Culture.md	Capital and councils: Cyrion is the capital, yet the Adventure Society's continental counc
+1	04_Peoples_and_Cultures/Kurdansk_Culture.md	Law: Kurdansk locks criminals up for years in prisons, which a Book 12 speaker calls costl
+1	04_Peoples_and_Cultures/Kurdansk_Culture.md	The Reaper link: Melody Jain's story begins in Kurdansk around twenty-five years before Bo
+1	04_Peoples_and_Cultures/Law_and_Indenture.md	Greenstone and Estercost have no slaves, only indentured servants, and indenture is both a
+1	04_Peoples_and_Cultures/Leonids.md	Mixed company: a leonid, an elf and a celestine are among the eleven people who emerge fro
+1	04_Peoples_and_Cultures/Leonids.md	Notable leonids: Gary Xandier, a Vitesse adventurer, and Gary Sharpton in Book 12, who des
+1	04_Peoples_and_Cultures/Outworlders.md	Arrivals: a hundred and nineteen outworlders arrive at once in Book 7; two outworlders amo
+1	04_Peoples_and_Cultures/Outworlders.md	Jason: his character screen lists him as a formerly human outworlder until Book 12.
+1	04_Peoples_and_Cultures/Pranay_Culture.md	Portal stopover: in Book 11 it is a portal stopover on the way to Estercost, "the last of 
+1	04_Peoples_and_Cultures/Smoulder_and_Brighthearts.md	Brighthearts: in Book 10 fewer than ten thousand of the brightheart smoulder survive, cram
+1	04_Peoples_and_Cultures/Storm_Kingdom_Culture.md	Politics later: by Book 12 Zara's brother is the new Storm King, and she remains adopted i
+1	04_Peoples_and_Cultures/Ustei.md	Later: by Book 12 the Ustei who came south are said to predate the Earth arrivals by about
+1	04_Peoples_and_Cultures/Yaresh_Culture.md	Reunion: in Book 12 much of the reunion group has already left Yaresh to make preparations
+1	05_Organisations/Churches/Church_of_Knowledge.md	From Book 7 it is also quietly building a fighting force across the world, which at the en
+1	05_Organisations/Cults_and_Orders.md	The Order of Redeeming Light is a Purity zealot order that is in fact the work of Disguise
+1	05_Organisations/Earth_Powers.md	Earth has three old magical powers and, from Book 5 on, a fourth.
+1	05_Organisations/Magic_Society_and_Associations.md	By Book 11 Pochard has become director: "It's Director now, Standish.
+1	05_Organisations/Magic_Society_and_Associations.md	In Book 11 onward a rival, the Magical Research Association (MRA), challenges the Magic So
+1	05_Organisations/Noble_Houses/House_Davone.md	Neil Davone is their best-known member, and by Book 12 the family's standing has changed.
+1	06_Places/Earth/Casselton_and_Asano_Village.md	Book 11: the clan lives in Jason's astral domains in Europe.
+1	06_Places/Earth/Casselton_and_Asano_Village.md	Book 12: the Australian government seizes Asano Village and the stone-circle land and give
+1	06_Places/Earth/Casselton_and_Asano_Village.md	Book 13 (2038): after negotiation the Australian government declares Asano Village and the
+1	06_Places/Earth/Casselton_and_Asano_Village.md	Book 4: Jason wakes in the hospital; contacts uncle Hiro through the Stone Wall bar in Syd
+1	06_Places/Earth/Casselton_and_Asano_Village.md	Books 5-6: the family evacuates to Asano Village when the Grid is sabotaged.
+1	06_Places/Earth/Casselton_and_Asano_Village.md	It is where he wakes in Book 4 after dying on Pallimustus, and it is the model for the hea
+1	06_Places/Greenstone.md	Adris Dorgan, once a crime lord, is mayor of Old City by Book 12; that the mayor answers t
+1	06_Places/Minor_Places/Boko.md	Book 12: Li Li Mei lives in Boko and is being hunted.
+1	06_Places/Minor_Places/Boko.md	In Book 12 it is destroyed when he is assassinated there.
+1	06_Places/Minor_Places/Boko.md	The crater becomes a harbour, and Jason names the astral city New Water, not Boko.
+1	06_Places/Minor_Places/Boko.md	They shelter in Jason's astral kingdom.
+1	06_Places/Minor_Places/Hornis.md	Book 12: a Greenstone resident says Hornis is the furthest south he has been.
+1	06_Places/Minor_Places/Hornis.md	Book 9: the team's route home runs south, across the Great Southern Continent, then north 
+1	06_Places/Minor_Places/Hornis.md	It is Greenstone's nearest rival port, used for smuggling and escapes, and a stop on the t
+1	06_Places/Vitesse.md	The books disagree on where the Adventure Society's continental council sits: Book 6 says 
+1	07_Characters/Anna_Tilden.md	Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a memb
+1	07_Characters/Anna_Tilden.md	In Book 13 she sets up a meeting in Canberra for ambassadors and officials of the nations 
+1	07_Characters/Anna_Tilden.md	Roles: Director of the Network's Sydney operation, a government-faceless "suit" who hunts 
+1	07_Characters/Belinda_Callahan.md	Aura disguise: her power gives her an edge in learning aura disguises, which she teaches J
+1	07_Characters/Belinda_Callahan.md	Disguises: she infiltrates the Order of Redeeming Light as "Keth Gino" and, in the jungle 
+1	07_Characters/Danielle_Geller.md	Rank: silver in Book 1, gold by Book 7.
+1	07_Characters/Dustin_Kettering.md	In Book 11 he is dropped into the same territory as Neil, gives the party a frontline and 
+1	07_Characters/Dustin_Kettering.md	In Book 7 he is a friend of Neil's from their time on Thadwick's team; by Book 9 he is the
+1	07_Characters/Farrah_Hurin.md	Rank: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of t
+1	07_Characters/Farrah_Hurin.md	She dies in Book 1, is brought back by the Reaper, and reappears on Earth in Book 4.
+1	07_Characters/Gary.md	In Book 10 he drinks the Cup of Heroes and becomes a demigod; in Book 11 he dies; in Book 
+1	07_Characters/Hannah_and_Claire_Adeah.md	By Book 10 Hannah is Rick's girlfriend and then fiancée; by Book 12 his wife.
+1	07_Characters/Hannah_and_Claire_Adeah.md	In Book 13 Claire Adeah is on the expedition with Arabelle and Sigrid and says the vampire
+1	07_Characters/Humphrey_Geller.md	Rank: iron in Book 1; a gold-rank expedition leader by Book 13.
+1	07_Characters/Jason_Asano.md	He becomes an affliction specialist, a bronze-, silver- and gold-rank adventurer, a king o
+1	07_Characters/Jason_Asano.md	Weapons: a sword, Dread Salvation, an iron-rank growth item of legendary rarity made by Ga
+1	07_Characters/Knowledge.md	In Book 13 he learns she has prepared for half a millennium to invade Earth and has used h
+1	07_Characters/Rufus_Remore.md	Rank: bronze at the start of the series, and in Book 11 he is the most powerful combatant 
+1	07_Characters/Rufus_Remore.md	The family joke, repeated by Arabelle and Rufus in Book 10, is "my family runs a school".
+1	07_Characters/Sophie_Wexler.md	Late: in Book 13 she has spent several years purging whole cities of disease with her wind
+1	07_Characters/Valdis_Volaire.md	By Book 12 he is Sigrid's husband, assembles an arena event in under two days, and fights 
+1	07_Characters/Zara_Rimaros.md	Rank: gold by Book 12: she stays in a suite fit for gold-rank adventurers and calls up a s
+1	09_Items_and_Artefacts/Cloud_Constructs_and_Palaces.md	Disguised constructs: in Venice his family and Dawn stay in a cloud palace disguised as a 
+1	09_Items_and_Artefacts/Consumables_and_Trial_Rewards.md	They are the source of the transformation zones' treasures and are common in node space.
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	By Book 6 it is silver rank, with the cloud house at iron, cloud vehicle at bronze and clo
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Dread Salvation in Book 6: bronze rank, bound to Jason and sharing his ability to ignore r
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Jason's three soul-bound growth items, joined in Book 6 into the Regalia of the Dark Hegem
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	Soul-Imprinting Triune: Jason receives it with a hoard of spirit coins in Book 5; it turns
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	The reforged sword is named Hegemon's Will on its item screen, with its scabbard Hegemon's
+1	09_Items_and_Artefacts/Soul_Bound_Items_and_Regalia.md	The reforging by Gary and Virid is Book 7, Ch2 L73-74.
+2	01_World_Primer.md	The chief factors that change from period to period are: who knows what, how powerful the 
+2	02_Cosmology_and_Powers/Gods/Fertility.md	It grows children in vats, bridges races so that mixed couples can have children, supplies
+2	02_Cosmology_and_Powers/Gods/Knowledge.md	By Book 13 the books reveal she has worked for centuries to invade Earth.
+2	02_Cosmology_and_Powers/Gods/Purity_and_Disguise.md	For centuries the god in the Church of Purity was not Purity but Disguise, who masqueraded
+2	02_Cosmology_and_Powers/Gods/Purity_and_Disguise.md	The church's collusion with the cult of the Builder, Disguise's role in the Order of Redee
+2	02_Cosmology_and_Powers/Great_Astral_Beings.md	Pacts: after the Sundering, pacts between GABs restrict their direct meddling.
+2	02_Cosmology_and_Powers/Great_Astral_Beings/All_Devouring_Eye.md	Its realm in the deep astral is where Gordon and the apocalypse beasts come from, and the 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Celestial_Book.md	It gives blessings, is friendlier than the Reaper and more cheerful than most of its peers
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Celestial_Book.md	It locked essence combinations after the sundering.
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Keeper_of_Moments.md	It opposed the sundering from the beginning and refused to join the pacts, and it polices 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Keeper_of_Moments.md	Its prime vessel is Raythe, who in Book 13 bargains with Jason over what he may try to do 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Legion.md	In the Book 11 battle it appears in a mortal body as a deep-voiced man with antlers and a 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/Legion.md	It is one of the beings that joined the pacts after the sundering, then came to think the 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/The_Reaper.md	Cold, dry and a lover of rules, the Reaper is the mediator among the great astral beings, 
+2	02_Cosmology_and_Powers/Great_Astral_Beings/World_Phoenix.md	It prefers to plant seeds rather than act, has a sense of humour, and fought Jason in his 
+2	03_Magic_and_Adventuring/Earth_Magic.md	By Book 11 the rules have changed.
+2	03_Magic_and_Adventuring/Power_Sets/Gary_Power_Set.md	The Book 10 change replaces the set with divine essences and a demigod confluence.
+2	04_Peoples_and_Cultures/Daily_Life.md	Communication: the Magic Society's water link projects a lifelike image of a speaker; by B
+2	04_Peoples_and_Cultures/Economy_and_Money.md	The Sky Link Company: in Book 12 Travis Noble's sky link service is sold by negotiated spe
+2	04_Peoples_and_Cultures/Kurdansk_Culture.md	Law: Kurdansk locks criminals up for years in prisons, which a Book 12 speaker calls costl
+2	04_Peoples_and_Cultures/Law_and_Indenture.md	Greenstone and Estercost have no slaves, only indentured servants, and indenture is both a
+2	04_Peoples_and_Cultures/Leonids.md	Notable leonids: Gary Xandier, a Vitesse adventurer, and Gary Sharpton in Book 12, who des
+2	04_Peoples_and_Cultures/Outworlders.md	Jason: his character screen lists him as a formerly human outworlder until Book 12.
+2	04_Peoples_and_Cultures/Pranay_Culture.md	Portal stopover: in Book 11 it is a portal stopover on the way to Estercost, "the last of 
+2	04_Peoples_and_Cultures/Smoulder_and_Brighthearts.md	Brighthearts: in Book 10 fewer than ten thousand of the brightheart smoulder survive, cram
+2	04_Peoples_and_Cultures/Storm_Kingdom_Culture.md	Politics later: by Book 12 Zara's brother is the new Storm King, and she remains adopted i
+2	04_Peoples_and_Cultures/Ustei.md	Later: by Book 12 the Ustei who came south are said to predate the Earth arrivals by about
+2	04_Peoples_and_Cultures/Yaresh_Culture.md	Reunion: in Book 12 much of the reunion group has already left Yaresh to make preparations
+2	05_Organisations/Cults_and_Orders.md	The Order of Redeeming Light is a Purity zealot order that is in fact the work of Disguise
+2	05_Organisations/Guilds/Burning_Violet.md	By Book 11 all of Team Biscuit are members except Jason and Taika.
+2	05_Organisations/Guilds/Burning_Violet.md	Most of Jason's friends belong to it; Jason applies in Book 12, and the application become
+2	05_Organisations/Magic_Society_and_Associations.md	By Book 11 Pochard has become director: "It's Director now, Standish.
+2	05_Organisations/Magic_Society_and_Associations.md	In Book 11 onward a rival, the Magical Research Association (MRA), challenges the Magic So
+2	05_Organisations/Noble_Houses/House_Davone.md	Neil Davone is their best-known member, and by Book 12 the family's standing has changed.
+2	06_Places/Astral_Spaces/Transformation_Zones.md	The wiki's phrase for zones, "scabs over dimensional ulcers", was not found in the book te
+2	06_Places/Earth/Casselton_and_Asano_Village.md	Book 11: the clan lives in Jason's astral domains in Europe.
+2	06_Places/Earth/Casselton_and_Asano_Village.md	Book 12: the Australian government seizes Asano Village and the stone-circle land and give
+2	06_Places/Earth/Casselton_and_Asano_Village.md	Book 13 (2038): after negotiation the Australian government declares Asano Village and the
+2	06_Places/Greenstone.md	Adris Dorgan, once a crime lord, is mayor of Old City by Book 12; that the mayor answers t
+2	06_Places/Minor_Places/Boko.md	Book 12: Li Li Mei lives in Boko and is being hunted.
+2	06_Places/Minor_Places/Boko.md	In Book 12 it is destroyed when he is assassinated there.
+2	06_Places/Minor_Places/Boko.md	The crater becomes a harbour, and Jason names the astral city New Water, not Boko.
+2	06_Places/Minor_Places/Hornis.md	Book 12: a Greenstone resident says Hornis is the furthest south he has been.
+2	06_Places/Minor_Places/Kurdansk.md	Law: the city locks criminals up for years, and a Book 12 speaker asks about the operating
+2	06_Places/Rimaros.md	Book 12: the Storm Kingdom's ambassador Hils Jaramaris is warned not to use water or sky l
+2	06_Places/Rimaros.md	The royal family: Soramir Rimaros (founding king, a diamond-ranker with emerald hair who p
+2	06_Places/Yaresh.md	Book 10: the Cardinas expedition descends, with Death Pact and Undeath events.
+2	06_Places/Yaresh.md	Book 12: Yaresh remains a hub; the Valdis duel is staged in its mirage arena.
+2	07_Characters/Amos_Pensinata.md	In Book 11 he grows troubled, does not flee with the other gold-rankers but goes into the 
+2	07_Characters/Anna_Tilden.md	Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a memb
+2	07_Characters/Anna_Tilden.md	In Book 13 she sets up a meeting in Canberra for ambassadors and officials of the nations 
+2	07_Characters/Anna_Tilden.md	Roles: Director of the Network's Sydney operation, a government-faceless "suit" who hunts 
+2	07_Characters/Belinda_Callahan.md	Aura disguise: her power gives her an edge in learning aura disguises, which she teaches J
+2	07_Characters/Belinda_Callahan.md	Disguises: she infiltrates the Order of Redeeming Light as "Keth Gino" and, in the jungle 
+2	07_Characters/Callum_Morse.md	In Book 13 he conjures rats to track a creature through a pipe.
+2	07_Characters/Dustin_Kettering.md	In Book 11 he is dropped into the same territory as Neil, gives the party a frontline and 
+2	07_Characters/Emi_Evans_Asano.md	By Book 11 she is described as "the princess of the Asano clan".
+2	07_Characters/Emi_Evans_Asano.md	By Book 13 she is an upper-silver ritualist and researcher, and Vincent Baudrillard's part
+2	07_Characters/Emi_Evans_Asano.md	In the last scene of Book 12 she walks out of a bakery to find a portal arch, rams into Ja
+2	07_Characters/Emi_Evans_Asano.md	Rank: she is bronze when she faces a silver-rank manticore with her team, silver by the ti
+2	07_Characters/Farrah_Hurin.md	Rank: silver in Book 4 or 5; in Book 12 she is offered the choice of becoming a Voice of t
+2	07_Characters/Gary.md	In Book 10 he drinks the Cup of Heroes and becomes a demigod; in Book 11 he dies; in Book 
+2	07_Characters/Hannah_and_Claire_Adeah.md	By Book 10 Hannah is Rick's girlfriend and then fiancée; by Book 12 his wife.
+2	07_Characters/Hannah_and_Claire_Adeah.md	In Book 13 Claire Adeah is on the expedition with Arabelle and Sigrid and says the vampire
+2	07_Characters/Humphrey_Geller.md	Rank: iron in Book 1; a gold-rank expedition leader by Book 13.
+2	07_Characters/Jason_Asano.md	He becomes an affliction specialist, a bronze-, silver- and gold-rank adventurer, a king o
+2	07_Characters/Ketevan_Arziani.md	Sceptical: in Book 11 she doubts Jason's plans while Yumi has faith.
+2	07_Characters/Knowledge.md	In Book 13 he learns she has prepared for half a millennium to invade Earth and has used h
+2	07_Characters/Rufus_Remore.md	Rank: bronze at the start of the series, and in Book 11 he is the most powerful combatant 
+2	07_Characters/Rufus_Remore.md	The family joke, repeated by Arabelle and Rufus in Book 10, is "my family runs a school".
+2	07_Characters/Sophie_Wexler.md	Late: in Book 13 she has spent several years purging whole cities of disease with her wind
+2	07_Characters/Valdis_Volaire.md	By Book 12 he is Sigrid's husband, assembles an arena event in under two days, and fights 
+2	07_Characters/Zara_Rimaros.md	Rank: gold by Book 12: she stays in a suite fit for gold-rank adventurers and calls up a s
+2	09_Items_and_Artefacts/Cloud_Constructs_and_Palaces.md	Disguised constructs: in Venice his family and Dawn stay in a cloud palace disguised as a 
+2	09_Items_and_Artefacts/Tokens_Stones_and_Relics.md	Fundamental Realm Authority Token: "transcendent rank, unavailable", bound to Jason and us
