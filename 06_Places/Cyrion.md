@@ -19,7 +19,7 @@ Cyrion is the capital of Estercost and, even discounting its farmland, the large
 
 ## 3. Society and rule
 
-- Seat of the Estercost crown (the monarch is a queen in Book 12, Ch51 L13; her name was not found) and the Adventure Society's continental council.
+- Seat of the Estercost crown (the monarch is a queen in Book 12, Ch51 L13; her name was not found) and, in Book 7, the Adventure Society's continental council (Book 7, Ch43 L58; Book 6, Ch47 L604 places it in Vitesse, see Open_Questions 22).
 - Cyrion's laws "were very much built to favour the aristocratic families, and house guards were technically a form of indentured servitude. Very well-paid servitude"; many noble houses use that power to keep guards from leaving (Book 12, Ch48 L53).
 
 ## 4. Magic level

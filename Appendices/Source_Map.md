@@ -592,7 +592,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch21 | Enemies Even I Would Fear | Fertility L3, L3-5; Storm_Kingdom_Culture L11; Guilds_and_Houses L11; Sapphire_Crown L11, L12, L13, L15, L32; House_Rimaros L11; Rimaros L12; NPC_Rosters_by_Era L13; Era_4_Rimaros L13 … | 23 |
 | Ch22 | True Elites | Gabriel_Remore L81; Book_07_Timeline L92; Chapter_Digest_Book_07 L92; Trenchant_Moore L93 | 4 |
 | Ch23 | Diligent and Considerate | Book_07_Timeline L9; Chapter_Digest_Book_07 L9 | 2 |
-| Ch24 | That Doesn’t Make the Pebble Important | Vitesse L3; House_Geller L4; Book_07_Timeline L37; Chapter_Digest_Book_07 L37 | 4 |
+| Ch24 | That Doesn’t Make the Pebble Important | Vitesse L3; House_Geller L3-4; Book_07_Timeline L37; Chapter_Digest_Book_07 L37 | 4 |
 | Ch25 | They Don’t Send Their Best People | Vitesse L3; Open_Questions L3; Miles_Cotezee L4; Book_07_Timeline L4, L78; Chapter_Digest_Book_07 L4, L78; 00_Places_Overview L77; Arcazitlan L77, L77-78, L78; Rimaros_Surge L78 … | 14 |
 | Ch26 | An Old Friend That He Had No Time For | Book_07_Timeline L7; Chapter_Digest_Book_07 L7; Colin L22; Gordon L29; Arcazitlan L48 | 5 |
 | Ch27 | Never Underestimate Adventurers | Book_07_Timeline L21; Chapter_Digest_Book_07 L21 | 2 |
@@ -634,7 +634,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch63 | This One Time | Book_07_Timeline L26; Chapter_Digest_Book_07 L26; World_Phoenix L111 | 3 |
 | Ch64 | Between Mortal and Something Else | One_Day_War L10-12, L14, L15-16, L17, L18, L20-25 …; Book_07_Timeline L14, L40, L72; Chapter_Digest_Book_07 L14, L40; Rimaros L21; Storm_Kingdom_Islands L21; Pelli L25 | 16 |
 | Ch65 | Stand at the Front | Locations_by_Era L6; Soramir L6; Place_Changes_Between_Eras L6; One_Day_War L17-19, L18, L20, L21, L27, L28-30 …; Book_07_Timeline L19, L21, L77; Chapter_Digest_Book_07 L19, L21; Rimaros_Surge L21; Travis_Noble L44 | 22 |
-| Ch66 | The End of the World | Book_07_Timeline L4, L9, L27, L36, L96; Chapter_Digest_Book_07 L9, L27; Arabelle_Remore L18; Book_08_Timeline L27; Master_Timeline L27; One_Day_War L27, L29, L33, L34, L36, L37-44 …; Rimaros_Surge L27; Era_Selection L27 … | 25 |
+| Ch66 | The End of the World | Book_07_Timeline L4, L9, L27, L36, L96; Chapter_Digest_Book_07 L9, L27; Arabelle_Remore L18; Book_08_Timeline L27; Master_Timeline L27; One_Day_War L27, L29, L33, L34, L36, L37-44 …; Rimaros_Surge L27, L36; Era_Selection L27 … | 26 |
 
 ### Book 8
 
@@ -836,7 +836,7 @@ Every chapter the compendium cites, with the documents that cite it and the line
 | Ch12 | A Man of Principle | Arabelle_Remore L3, L25, L45; Book_10_Timeline L11; Chapter_Digest_Book_10 L11; Minor_Cast_Books_10-13 L11-14, L24-25, L26; Charist L41 | 9 |
 | Ch13 | Experiment | Gabrielle_Pellin L18; Rick_Geller L26; Book_10_Timeline L36; Chapter_Digest_Book_10 L36; Charist L65 | 5 |
 | Ch14 | Spanked | Allayeth L3; Gormanston_Bynes L3; NPC_Rosters_by_Era L3; Book_10_Timeline L8; Chapter_Digest_Book_10 L8; Yaresh_Culture L28-31, L33, L35; Era_Selection L28-35; Plot_Hooks L28-35 … | 18 |
-| Ch15 | Better Ambitions | Astral_Kings_and_Messengers L3, L6, L9; The_Council_of_Kings L3, L3-62, L16-19, L30, L40, L43 …; The_Builder L3-4, L5; Great_Astral_Beings L5; Erigo_Fin_Desca L5, L5-26, L6-10, L10, L15-20, L25-26; Shako L5; NPC_Rosters_by_Era L5, L6; NPC_Cards_Books_10-13 L5 … | 38 |
+| Ch15 | Better Ambitions | Astral_Kings_and_Messengers L3, L6, L9; The_Council_of_Kings L3, L3-62, L16-19, L30, L40, L43 …; The_Builder L3-4, L5; Great_Astral_Beings L5; Erigo_Fin_Desca L5, L5-26, L6-10, L10, L15-20, L25-26; Shako L5; NPC_Rosters_by_Era L5, L6; NPC_Cards_Books_10-13 L5 … | 37 |
 | Ch16 | The Instinct to Kneel | Hess_Jor_Nasala L26, L26-53; Astral_Kings_and_Messengers L48; Messengers_as_a_People L48; Emir_Bahadir L59; Gormanston_Bynes L61, L62, L62-63; Book_10_Timeline L62; Chapter_Digest_Book_10 L62; NPC_Cards_Books_10-13 L62-63 … | 12 |
 | Ch17 | Acceptable Terms | Book_10_Timeline L9, L39, L52; Chapter_Digest_Book_10 L9, L39; Cardinas_Expedition_and_Zone L39; Book_09_Timeline L52; Master_Timeline L52 | 8 |
 | Ch18 | Actual Adventurers | Musin_Heath L71; Book_10_Timeline L92, L96; Chapter_Digest_Book_10 L92, L96; Dominion L129; Gormanston_Bynes L133, L137 | 8 |

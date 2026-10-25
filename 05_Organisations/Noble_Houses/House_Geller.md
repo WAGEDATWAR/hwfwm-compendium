@@ -21,7 +21,7 @@ The Gellers are an adventuring dynasty with branches across the world and a seat
 
 <!-- level:2 -->
 - **No title but one**: the Gellers hold only the title linked to their small provincial city of origin, refusing all others (Book 6, Ch47 L605; Book 7, Ch57 L72). They are "technically aristocracy in some inconsequential city-state somewhere" and their prestige is as an adventuring dynasty (Book 8, Ch28 L45).
-- **Everywhere**: "There are Gellers everywhere, Mr Asano. You'd have to ask the Church of Fertility about that" (Book 7, Ch45 L106). Branches have towers in Cyrion and estates in Rimaros (Book 7, Ch24 L4; Book 7, Ch43 L62).
+- **Everywhere**: "There are Gellers everywhere, Mr Asano. You'd have to ask the Church of Fertility about that" (Book 7, Ch45 L106). Branches have a garden tower in Vitesse (Book 7, Ch24 L3-4) and a fortified estate outside Cyrion (Book 7, Ch43 L62).
 - **The seat in Greenstone**: the family kept Greenstone as its seat even as its power spread, for the experience it gives the young (Book 7, Ch66 L56).
 - **Training methodology**: "you don't understand just how deep Geller family training goes" (Book 9, Ch21 L18), and people scramble to be on a team with a Geller who went through the Greenstone programme (Book 9, Ch21 L20).
 <!-- /level -->

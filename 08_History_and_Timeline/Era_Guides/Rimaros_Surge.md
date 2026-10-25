@@ -28,7 +28,7 @@ Jason returns to Pallimustus at the standing stones in a cyclone, just as a long
 - **The expedition**: bone feasters attack the fortress town of Arcazitlan (Book 7, Ch25 L78); Jeni Kavaloa leads a mixed expedition into an astral aperture and seals it (Book 7, Ch47 L33; Book 7, Ch51 L5).
 - **The Order**: Melody Jain leads the enclave with Sendira (Book 7, Ch58 L38).
 - **The war**: Rick Geller reports a ground city of thick legs (Book 7, Ch59 L65-72); Jason's team is given a device to carry into the city, only one of which is the true bomb (Book 7, Ch65 L21). A Builder fortress-city appears over Livaros (Book 7, Ch64). It had been a month since the War of Four Cities, or the One Day War (Book 7, Ch66 L27).
-- **The cost**: Ledev and Vesper both died saving the city (Book 7, Ch66 L27).
+- **The cost**: Ledev and Vesper both died saving the city (Book 7, Ch66 L36).
 
 ### Book 8: the Order and the throne
 

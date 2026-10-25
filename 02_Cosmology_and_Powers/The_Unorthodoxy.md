@@ -45,7 +45,7 @@ The Unorthodoxy is the messenger resistance: the descendants of the free messeng
 ## 6. Changes over time
 
 - **Book 9**: Marek sees Jason's work as a way to show his people they can live without astral kings (Book 9, Ch103 L114-121).
-- **Book 10**: Boris approaches Jason (Book 10, Ch79 L82-100) and Erigo is revealed to have left (Book 10, Ch15 L14).
+- **Book 10**: Boris approaches Jason (Book 10, Ch79 L82-100) and Erigo, the Builder's new vessel, admits he was once part of it and has moved on (Book 10, Ch15 L14-15).
 - **Book 11**: Boris explains the Unorthodoxy's history and astral kings (Book 11, Ch25 L47-57).
 - **Book 12**: a Voice who serves a secret Unorthodoxy king hides her allegiance (Book 12, Ch26 L19).
 - **Book 13**: the Earth colony becomes a bargaining chip with the Council of Kings (Book 13, Ch1000 L65-76).

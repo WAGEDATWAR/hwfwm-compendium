@@ -21,7 +21,7 @@ Every claim in the compendium that carries a line citation (`Book N, ChX LY`), a
 
 Each reference in the Cited lines column shows its own grade in brackets. The overlap grade is a heuristic: a high grade does not prove the claim, and a low one does not disprove it.
 
-**Totals**: ok 8801, near 535, reviewed 21, notes 2, wiki 17 (9376 rows in 423 documents).
+**Totals**: ok 8806, near 530, reviewed 21, notes 2, wiki 17 (9376 rows in 423 documents).
 
 ## 01_World_Primer.md
 
@@ -468,7 +468,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R0384 | "The Unorthodoxy is a rebellion." Marek says it is far from one, since "you cannot rebel against those without whom you will die". | B9 Ch103 L117 (ok) | B9 Ch103 One Ludicrous Encounter to the Next | ok |  |
 | R0385 | "The Unorthodoxy cares about Pallimustus." Jason says the Unorthodoxy doesn't care about this world, and Boris replies, "No, we care about you". | B10 Ch79 L99-100 (ok) | B10 Ch79 Dubious Alliance | ok |  |
 | R0386 | Book 9: Marek sees Jason's work as a way to show his people they can live without astral kings. | B9 Ch103 L114-121 (ok) | B9 Ch103 One Ludicrous Encounter to the Next | ok |  |
-| R0387 | Book 10: Boris approaches Jason and Erigo is revealed to have left. | B10 Ch79 L82-100 (near); B10 Ch15 L14 (near) | B10 Ch79 Dubious Alliance; B10 Ch15 Better Ambitions | near |  |
+| R0387 | Book 10: Boris approaches Jason and Erigo, the Builder's new vessel, admits he was once part of it and has moved on. | B10 Ch79 L82-100 (near); B10 Ch15 L14-15 (ok) | B10 Ch79 Dubious Alliance; B10 Ch15 Better Ambitions | ok |  |
 | R0388 | Book 11: Boris explains the Unorthodoxy's history and astral kings. | B11 Ch25 L47-57 (ok) | B11 Ch25 Unorthodoxy | ok |  |
 | R0389 | Book 12: a Voice who serves a secret Unorthodoxy king hides her allegiance. | B12 Ch26 L19 (ok) | B12 Ch26 Making Things Worse | ok |  |
 | R0390 | Book 13: the Earth colony becomes a bargaining chip with the Council of Kings. | B13 Ch1000 L65-76 (ok) | B13 Ch1000 Cosmic Tyrant Warlord Cult Leader | ok |  |
@@ -3409,7 +3409,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R2725 | No title but one: the Gellers hold only the title linked to their small provincial city of origin, refusing all others. | B6 Ch47 L605 (ok); B7 Ch57 L72 (ok) | B6 Ch47 Something Other Than Human; B7 Ch57 I Am Not Jason Asano | ok |  |
 | R2726 | They are "technically aristocracy in some inconsequential city-state somewhere" and their prestige is as an adventuring dynasty. | B8 Ch28 L45 (ok) | B8 Ch28 A Little Damage | ok |  |
 | R2727 | Everywhere: "There are Gellers everywhere, Mr Asano. You'd have to ask the Church of Fertility about that". | B7 Ch45 L106 (ok) | B7 Ch45 Bad Apples | ok |  |
-| R2728 | Branches have towers in Cyrion and estates in Rimaros. | B7 Ch24 L4 (near); B7 Ch43 L62 (near) | B7 Ch24 That Doesn’t Make the Pebble Important; B7 Ch43 How Deep a Hole | near |  |
+| R2728 | Branches have a garden tower in Vitesse and a fortified estate outside Cyrion. | B7 Ch24 L3-4 (near); B7 Ch43 L62 (ok) | B7 Ch24 That Doesn’t Make the Pebble Important; B7 Ch43 How Deep a Hole | ok |  |
 | R2729 | The seat in Greenstone: the family kept Greenstone as its seat even as its power spread, for the experience it gives the young. | B7 Ch66 L56 (ok) | B7 Ch66 The End of the World | ok |  |
 | R2730 | Training methodology: "you don't understand just how deep Geller family training goes", and people scramble to be on a team with a Geller who went through the Greenstone programme. | B9 Ch21 L18 (ok); B9 Ch21 L20 (ok) | B9 Ch21 Mother’s Favourite | ok |  |
 | R2731 | Wealth and politics: "The Gellers have more money than any other family in Greenstone", and mostly keep to their compound and stay out of local politics. | B10 Ch37 L49 (ok); B11 Ch68 L1170 (ok) | B10 Ch37 The Whims of People Like Me; B11 Ch68 Compassionate Strangers | ok |  |
@@ -3523,7 +3523,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R2804 | A series of concentric walls rings the city proper, with vast spans of agricultural land in between, "some of the most magical and valuable growing land on the planet" and under "impressive protection". | B12 Ch48 L3 (ok) | B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
 | R2805 | It is closer than Vitesse to the site of the operation that became a debacle of magical explosions, summoned messengers and unexpected outworlders. | B7 Ch43 L58 (ok) | B7 Ch43 How Deep a Hole | ok |  |
 | R2806 | Beyond the outermost wall lie the remains of the Builder cult's attack from before the messenger invasion: the toppled, overgrown forms of the Builder's world engineer golems, which rival diamond-rank monsters in size and look more like hills than engines of war ("almost two decades after their demise"); the messengers had made no attempt to invade Cyrion. | B12 Ch48 L4-5 (ok); B12 Ch48 L4 (ok) | B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
-| R2807 | Seat of the Estercost crown (the monarch is a queen in; her name was not found) and the Adventure Society's continental council. | B12 Ch51 L13 (near) | B12 Ch51 The Line Between Mortal and Immortal | near |  |
+| R2807 | Seat of the Estercost crown (the monarch is a queen in; her name was not found) and, in Book 7, the Adventure Society's continental council (places it in Vitesse, see Open_Questions 22). | B12 Ch51 L13 (weak); B7 Ch43 L58 (ok); B6 Ch47 L604 (ok) | B12 Ch51 The Line Between Mortal and Immortal; B7 Ch43 How Deep a Hole; B6 Ch47 Something Other Than Human | ok |  |
 | R2808 | Cyrion's laws "were very much built to favour the aristocratic families, and house guards were technically a form of indentured servitude. Very well-paid servitude"; many noble houses use that power to keep guards from leaving. | B12 Ch48 L53 (ok) | B12 Ch48 I Don’t Blow Up Cities on Purpose | ok |  |
 | R2809 | The Queen of Estercost is not named in the chapters read. | B12 Ch51 L13 (ok) | B12 Ch51 The Line Between Mortal and Immortal | ok |  |
 | R2810 | Duke Percival Headingway, patriarch of House Headingway, holds a title from Cyrion. | B12 Ch53 L3 (ok) | B12 Ch53 Reason Eighty-Seven | ok |  |
@@ -10123,7 +10123,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R8259 | The symposium: a character places it "two years into the renewed vampire war". | B13 Ch995 L69 (ok) | B13 Ch995 Symposium | ok |  |
 | R8260 | Decades: Simon McKean says the conflict has been fought "off and on for decades". | B13 Ch1002 L69 (ok) | B13 Ch1002 The One Who Gets to Decide | ok |  |
 | R8261 | The end: Jason says the operation will bring it to a final conclusion, and it ended in the months before the farewell. | B13 Ch1002 L64 (ok); B13 Ch1023 L12 (ok) | B13 Ch1002 The One Who Gets to Decide; B13 Ch1023 Broken What Matters Most | ok |  |
-| R8262 | Vampires rise when transformation events release reality cores. | B5 Ch55 L92 (near); B5 Ch51 L127 (near) | B5 Ch55 Trying to Be Merciful; B5 Ch51 Prepare For The Rematch | near |  |
+| R8262 | The old vampires are woken by blood imbued with reality-core power, and sleep again once it runs out. | B5 Ch55 L92 (ok); B5 Ch51 L127 (ok) | B5 Ch55 Trying to Be Merciful; B5 Ch51 Prepare For The Rematch | ok |  |
 | R8263 | Russia and Europe suffer massive vampiric occupation. | B5 Ch66 L8 (ok) | B5 Ch66 Not Entirely Ethical | ok |  |
 | R8264 | In Book 6 the vampires of the Saint-Étienne zone are partly allied with Jason; they later abandon France. | B6 Ch47 L5 (ok) | B6 Ch47 Something Other Than Human | ok |  |
 | R8265 | Under Elizabeth the vampires establish a détente: every major city hides vampires, and bombings in Europe are answered by assassinations in four world capitals. | B11 Ch68 L1489 (ok) | B11 Ch68 Compassionate Strangers | ok |  |
@@ -10330,7 +10330,7 @@ Each reference in the Cited lines column shows its own grade in brackets. The ov
 | R8431 | The Order: Melody Jain leads the enclave with Sendira. | B7 Ch58 L38 (ok) | B7 Ch58 That Powerful and That Old | ok |  |
 | R8432 | The war: Rick Geller reports a ground city of thick legs; Jason's team is given a device to carry into the city, only one of which is the true bomb. | B7 Ch59 L65-72 (near); B7 Ch65 L21 (ok) | B7 Ch59 One Battle at a Time; B7 Ch65 Stand at the Front | ok |  |
 | R8433 | It had been a month since the War of Four Cities, or the One Day War. | B7 Ch66 L27 (ok) | B7 Ch66 The End of the World | ok |  |
-| R8434 | The cost: Ledev and Vesper both died saving the city. | B7 Ch66 L27 (near) | B7 Ch66 The End of the World | near |  |
+| R8434 | The cost: Ledev and Vesper both died saving the city. | B7 Ch66 L36 (ok) | B7 Ch66 The End of the World | ok |  |
 | R8435 | The Order: Sendira, Fila and Ramona raid; the Order travels by underwater vehicle. | B8 Ch9 L3 (ok); B8 Ch9 L11 (ok) | B8 Ch9 Opportunists | ok |  |
 | R8436 | Liara leads an expedition into the Builder complex. | B8 Ch7 L4 (ok) | B8 Ch7 Special Boy | ok |  |
 | R8437 | The mining complex: below the sea floor; Korinne Pescos leads the rescue. | B8 Ch30 L3 (ok); B8 Ch31 L33 (ok) | B8 Ch30 Coming in Hot; B8 Ch31 We Are Fighting Monsters | ok |  |

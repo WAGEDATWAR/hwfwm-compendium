@@ -22,7 +22,7 @@ The Earth vampire war runs in two phases: a first war that "ended without conclu
 
 ## 3. The start (Books 5-6)
 
-- Vampires rise when transformation events release reality cores (Book 5, Ch55 L92; Book 5, Ch51 L127). Russia and Europe suffer massive vampiric occupation (Book 5, Ch66 L8).
+- The old vampires are woken by blood imbued with reality-core power, and sleep again once it runs out (Book 5, Ch55 L92; Book 5, Ch51 L127). Russia and Europe suffer massive vampiric occupation (Book 5, Ch66 L8).
 - In Book 6 the vampires of the Saint-Étienne zone are partly allied with Jason; they later abandon France (Book 6, Ch47 L5).
 
 ## 4. The détente and the purge
