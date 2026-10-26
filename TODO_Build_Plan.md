@@ -141,7 +141,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 
 ## Tier 6: Stretch goals (only after Tiers 0-3)
 
-- **6.1 Text-form maps and distance tables (M, suggested).** The books give relative positions; build text maps of Greenstone's districts, Vitesse's garden towers, Rimaros's islands and Yaresh, with only distances the text states.
+- **6.1 (Done 2026-10-26: `06_Places/Text_Maps_and_Distances.md`) Text-form maps and distance tables (M, suggested).** The books give relative positions; build text maps of Greenstone's districts, Vitesse's garden towers, Rimaros's islands and Yaresh, with only distances the text states.
 - **6.2 A quote bank (M, suggested, copyright-limited).** Short quotes (under fifteen words) that capture voice, with cites, only where `Tone_and_Voice.md` needs them; no long passages.
 - **6.3 Wiki-versus-book discrepancy log (M, suggested).** Record every point where the fan wiki differs from the chapter text (the Hegemon's Will name, the 150-year siphon, nine months for the zone), so future readers know which tier to trust.
 - **6.4 Pronunciation and naming notes (S, suggested).** Only where the text gives them.
