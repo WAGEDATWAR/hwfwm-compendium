@@ -50,6 +50,18 @@ The Network is Earth's largest magical organisation: a federation of old secret 
 - **Later**: the fragmentation was "well over a decade ago". The Chinese and US governments absorbed or were absorbed by their branches, and the largest faction was born from the leadership of the other branches (Book 13, Ch964 L9).
 <!-- /level -->
 
-## 6. Using this in a story
+## 6. Origins and the founder
+
+This section is the home of the Network's founding story; other documents point here.
+
+- **Five centuries ago**: Craig Vermillion says "some five centuries ago, a new kind of magic appeared." People with no connection to the old ways could wield easy-to-use powers; they were collected into secret societies that hoarded their knowledge, and their strength seemed to be limited in growth (Book 4, Ch11 L4).
+- **The founder's familiar**: Mr North says he "was a rune spider, originally" (Book 5, Ch40 L79) and that his essence user, the Network's founder, "was blinded by faith" (Book 5, Ch40 L84). See ../07_Characters/Mr_North.md.
+<!-- level:3 -->
+- **An outworlder predecessor**: Book 13 calls the founder Jason's "outworlder predecessor", whose schemes continue to play out unseen; Boris worked with the founder's familiar to betray the founder to the early magic societies that became the Network (Book 13, Ch954 L9).
+- **Jason's account**: the founder, an outworlder brought into the fake Purity's church, returned to Earth with magic Knowledge had bargained from the messengers, and built the web of secret societies and the Grid as a pressure-release valve for the rising magic (Book 13, Ch1017 L19-23). His familiar Noreth, born on Pallimustus, handed him to the US secret societies at a time Jason guesses was around the War of Independence (Book 13, Ch1017 L24).
+- **Noreth is Mr North**, leader of the Engineers of Ascension (Book 13, Ch1017 L39). The wiki calls him the original creator of the Grid and the Network's founder (wiki).
+<!-- /level -->
+
+## 7. Using this in a story
 
 Treat the Network as a federation of old institutions with rivalries and long memories. Local branches act on their own interest, the IC persuades more than commands, and a branch can hide something for seventy years. A story set before the split can lean on politics and spirit coins. A story set after it should check which bloc a character belongs to.

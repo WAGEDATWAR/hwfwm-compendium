@@ -25,7 +25,7 @@ In a roleplay you can set a story anywhere from the beginning (a rural iron-rank
 
 ### 2.1 Pallimustus
 
-Pallimustus is an alternate Earth whose continents are similar but not identical. Key differences: Africa is separate from Eurasia; a large landmass in Southeast Asia pushes into Australia and consumes New Zealand; Iberia and Arabia are missing; Sri Lanka is huge (Book 1, Ch1 L65) and is called Pranay (Book 2, Ch34 L58). The Mediterranean equivalent is the **Gramid Passage**, which joins directly to the Indian Ocean (Book 6, Ch47 L703). It has two moons (Book 1, Ch1 L23). The year has twelve months of thirty days plus five extra days for the solstices, equinoxes and new year, and the year begins in spring (Book 1, Ch22 L19); the week has six days (Book 6, Ch10 L41). Time units (hours, minutes) match Earth's (Book 1, Ch22 L20).
+Pallimustus is an alternate Earth whose continents are similar but not identical. Key differences: Africa is separate from Eurasia; a large landmass in Southeast Asia pushes into Australia and consumes New Zealand; Iberia and Arabia are missing; Sri Lanka is huge (Book 1, Ch1 L65) and is called Pranay (Book 2, Ch34 L58). The Mediterranean equivalent is the **Gramid Passage**, which joins directly to the Indian Ocean (Book 6, Ch47 L703). It has two moons (Book 1, Ch1 L23). The calendar (twelve months, extra days, a six-day week) is set out in `04_Peoples_and_Cultures/Calendar_Holidays_and_Naming_Customs.md`. Time units (hours, minutes) match Earth's (Book 1, Ch22 L20).
 
 The planet has a thin membrane to the astral, so magic is dense. Features of the world that follow from this:
 - **Astral spaces** (pocket dimensions) attached to the planet through apertures such as waterfalls and caves.

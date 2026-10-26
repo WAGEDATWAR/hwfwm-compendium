@@ -69,7 +69,7 @@ The old version of this file used wiki month counts. Where the book text gives a
 
 ## 5. The Pallimustus calendar
 
-- A year has twelve months of thirty days plus five extra days (Book 1, Ch22 L19).
+- A year has twelve months of thirty days plus five extra days (Book 1, Ch22 L19); the calendar is set out in `04_Peoples_and_Cultures/Calendar_Holidays_and_Naming_Customs.md`.
 - The week is six days (Book 8, Ch58 L19).
 - Earth and Pallimustus run at the same rate (Book 11, Ch63 L80), so Earth dates can be laid beside Pallimustus events.
 

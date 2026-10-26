@@ -5,7 +5,7 @@ Spoiler level: 1 for Book 4 introductions; 2 for Books 5-6; 3 for Books 11-13
 Valid from: Book 4
 Valid through: Book 13
 Sources: Books 4, 5, 6, 11, 12, 13
-Related: 00_Organisations_Overview.md, ../06_Places/Earth/00_Earth_Overview.md, ../02_Cosmology_and_Powers/Astral_Kings_and_Messengers.md
+Related: 00_Organisations_Overview.md, The_Network.md, ../06_Places/Earth/00_Earth_Overview.md, ../02_Cosmology_and_Powers/Astral_Kings_and_Messengers.md
 
 ## 1. Summary
 
@@ -15,7 +15,7 @@ Earth has three old magical powers and, from Book 5 on, a fourth. The **Network*
 
 The full account is in `The_Network.md`; the notes below are the short form.
 
-- **Origins** (Craig Vermillion, Book 4, Ch11 L4): "some five centuries ago, a new kind of magic appeared." People with no connection to the old ways could wield easy-to-use powers; they were collected into secret societies that hoarded their knowledge, and their strength seemed to be limited in growth. Book 13 calls the Network's founder Jason's "outworlder predecessor" (Book 13, Ch954 L9), whose schemes continue to play out unseen; his familiar was Mr North, a rune spider (North says in Book 5 that he "was a rune spider, originally", Book 5, Ch40 L79), and Boris worked with that familiar to betray the founder to the early magic societies that became the Network. Jason's account in Book 13 adds that the founder, an outworlder brought into the fake Purity's church, returned to Earth with magic Knowledge had bargained from the messengers, built the web of secret societies and the Grid as a pressure-release valve for the rising magic (Book 13, Ch1017 L19-23), and was betrayed by his familiar Noreth, born on Pallimustus, who handed him to the US secret societies at a time Jason guesses was around the War of Independence (Book 13, Ch1017 L24); Noreth is Mr North, leader of the Engineers of Ascension (Book 13, Ch1017 L39); the wiki calls him the original creator of the Grid and the Network's founder (wiki).
+- **Origins** (Craig Vermillion, Book 4, Ch11 L4): "some five centuries ago, a new kind of magic appeared." The founder, his familiar Mr North and the link between the worlds are told in `The_Network.md`, section 6, which is their home.
 - **Ranks**: tiers or categories zero to five match the ranks on Pallimustus (Vermillion, Book 4, Ch11 L8, L19).
 - **Going public** (Book 5, Ch17 L7): known to the public as the **Global Defense Network** (GDN) in the weeks after the monster waves began.
 - **Fracture** (Book 11, Ch36 L7; Book 12, Ch3 L3-8): by Book 12 the Network has "fractured"; a nine-person tactical unit led by Nigel Thornton stays together through the upheavals (Book 12, Ch3 L3-8). At the Nitra dome in Book 6 the Network has split into four blocs: the US branches, the Chinese branches, the True Network (the former International Committee, which kept many of the government links) and the Global Defence Network, made up of rank and file and ex-EOA and Cabal members; the Cabal has split between those serving the vampires and those siding with humanity, and the EOA is splintering (Book 6, Ch1 L22-30). Marie Finnegan, the recently expelled director of the Zurich Network branch, lives in a chalet in Zermatt, Switzerland, and is allied with the vampire queen Elizabeth and the scientist Simon McKean (head of the Earth researchers in the old workgroup) in the Book 13 plot; a dimensional bag holds seven reality cores (Book 13, Ch975 L8). Book 13 also says her backers call using Elizabeth "the smart choice" even after miscalculations (Book 13, Ch975 L19-24).

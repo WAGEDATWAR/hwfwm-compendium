@@ -481,6 +481,20 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 ---
 
+## Home files for repeated facts
+
+Where one fact is told in several documents, one file is its home. Other documents may mention it briefly and point to the home; correct the home first. Chosen in the redundancy audit of 2026-10-26 (build plan item 5.7). `src/tools/redundancy_report.py` lists the clusters that remain.
+
+| Fact | Home file | Also derived from it |
+|---|---|---|
+| The calendar: months, extra days, the six-day week | `04_Peoples_and_Cultures/Calendar_Holidays_and_Naming_Customs.md` | `Daily_Life.md`, `01_World_Primer.md` and `Master_Timeline.md` point to it |
+| Spirit coin denominations and values | `04_Peoples_and_Cultures/Economy_and_Money.md` | `10_Roleplay_Support/Quick_Reference/Coin_Table.md`; the Book 1 and Book 3 timelines cite the chapters |
+| The Network's founding, the founder and his familiar | `05_Organisations/The_Network.md`, section 6 | `Earth_Powers.md`, `Mr_North.md`, `Knowledge.md` and `Church_of_Knowledge.md` tell their own part |
+| Ranks, lifespans and rank effects | `03_Magic_and_Adventuring/Ranks_and_Advancement.md` | `Quick_Reference/Ranks_and_Lifespans.md` |
+| Which secrets surface when | `10_Roleplay_Support/Spoiler_Management.md` | `Secrets_and_Rumours.md`, `Who_Knows_What_When.md` |
+| Gods named in the books and the wiki's list | `02_Cosmology_and_Powers/Gods_and_Churches.md` | `Quick_Reference/Churches_at_a_Glance.md` |
+| Wiki-tier lists of essences, confluences, stones and monsters | `Appendices/Wiki_Reference_Lists.md` | `Essence_Catalogue.md`, `Monsters.md` |
+
 ## Spelling and naming variants (use the first form)
 
 The text itself is inconsistent in places. This section records each variant once, with the form the compendium uses, where the other form occurs and what kind of variant it is. Counts were taken over the chapter files on 2026-10-22.

@@ -13,7 +13,7 @@ The practical texture of life in Greenstone and the delta: the calendar, what pe
 
 ## 2. Facts
 
-- **Calendar**: "twelve months of thirty days, divided up into early, mid and late stages of each season", five extra days for the solstices, equinoxes and the new year, which falls at the beginning of spring (Book 1, Ch22 L19). The week has six days (Book 6, Ch10 L41).
+- **Calendar**: twelve months of thirty days with extra days and a six-day week; the calendar is set out in `Calendar_Holidays_and_Naming_Customs.md`, which is its home.
 - **Clothing**: "Most people, whether in Greenstone or the delta, wore loose-fitting, breathable clothes because of the heat"; adventurers on a job wear fitted outfits, often with protective properties (Book 1, Ch59 L30). Elf fashion has flowing, tapered lines (Book 9, Ch46 L5).
 - **Food**: preparation is often familiar, with bread, soup, sandwiches and cake, but the ingredients are mostly different because farms raise different animals and trees bear different fruit (Book 1, Ch45 L8). Jason lists local sauce ingredients with a village cook (Book 1, Ch25 L13).
 - **Housing**: Leust, one of the delta's largest towns, has paved roads and stone buildings "instead of mud-brick" (Book 1, Ch93 L5); in the Island, green stone appears everywhere (Book 1, Ch45 L5).
