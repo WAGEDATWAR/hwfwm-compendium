@@ -159,7 +159,7 @@ def list_docs():
         for f in files:
             if f.endswith(".md"):
                 rel = (f if rel_root == "." else rel_root + "/" + f)
-                if rel not in EXCLUDE:
+                if rel not in EXCLUDE and not rel.startswith("Appendices/Change_Log"):
                     docs.append(rel)
     return sorted(docs, key=doc_key)
 

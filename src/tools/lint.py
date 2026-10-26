@@ -35,7 +35,7 @@ def docs():
         for f in files:
             if f.endswith(".md"):
                 rel = os.path.relpath(os.path.join(root, f), base).replace("\\", "/")
-                if rel not in SKIP_FILES:
+                if rel not in SKIP_FILES and not rel.startswith("Appendices/Change_Log"):
                     out.append(rel)
     return sorted(out)
 
