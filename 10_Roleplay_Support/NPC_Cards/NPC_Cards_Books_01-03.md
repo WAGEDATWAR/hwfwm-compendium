@@ -617,7 +617,7 @@ Valid from Book 2 to Book 13. Spoiler level 3. Character file: [Zara Rimaros (Za
 - **Role**: Zara is a celestine princess of the Storm Kingdom, the "Hurricane Princess". Jason meets her in a tent during the contest for the Scythe of the Reaper, when she is nineteen and he is iron-rank.
 - **Appearance**: Celestine with caramel skin, sapphire eyes and waterfall-blue hair (Book 2, Ch69 L16).
 - **Voice**: Courtly, with a threat in the smile. Cue: "Might I introduce my aunt, Vesper Rimaros?" (Book 2, Ch69 L17).
-- **Secret or spoiler note**: Nothing recorded.
+- **Secret or spoiler note**: Her brother Emiliano, the Storm King of Book 12, is a cousin her father adopted as a baby to shield him from the political consequences when his parents turned out to be traitors (Book 13, Ch1022 L20).
 <!-- /level -->
 
 ### Zato

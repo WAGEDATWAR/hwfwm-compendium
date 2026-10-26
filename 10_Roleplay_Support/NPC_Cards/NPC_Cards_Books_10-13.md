@@ -27,9 +27,9 @@ Valid from Book 10 to Book 11. Spoiler level 3. Character file: [Beaufort (Build
 Valid from Book 10 to Book 13. Spoiler level 3. Character file: [Boris Ket Lundi (Boris Ketland)](../../07_Characters/Boris_Ket_Lundi.md).
 
 - **Role**: Boris Ket Lundi, who goes by Boris Ketland on Earth, is a messenger from Earth who is secretly one of the Unorthodoxy. He appears in Book 10, helps Jason's alliance in Cardinas, takes Rufus and Taika to Earth in Book 11, and is a leader of the Cabal in Book 13.
-- **Appearance**: Not described in the character file.
+- **Appearance**: Boris has long been comfortable with human proportions, and messengers can hide their wings and shrink their size (Book 13, Ch954 L5-6; Book 13, Ch1000 L3-7).
 - **Voice**: Measured and careful. Cue: "I am unfortunately inclined to agree," he tells Taika, and says he will attempt to simplify their situation (Book 11, Ch68 L493-498).
-- **Secret or spoiler note**: Nothing recorded.
+- **Secret or spoiler note**: He is secretly one of the Unorthodoxy, and Vesta Carmis Zell, whose elemental messengers he joins, would never accept one (Book 11, Ch24 L85-86).
 
 ### Durrum
 

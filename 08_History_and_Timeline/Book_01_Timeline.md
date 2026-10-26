@@ -57,16 +57,16 @@ Chapter-by-chapter order of Book 1, with the in-world time wherever the text giv
 |---|---|---|
 | About day 9 | Ch37 | Rufus rides to the gates of the Geller estate (Book 1, Ch37 L3) |
 | About day 10 | Ch38 | Rufus says the next field assessment is in nine days, and Jason can take the following month's (Book 1, Ch38 L41). Humphrey Geller introduces himself and his familiar Stash (Book 1, Ch38 L56) |
-| Days ~10-30 | Ch39 to Ch40 | Jason receives an Awakening Stone of Omens (Book 1, Ch39 L137) and awakens Hegemony (Book 1, Ch39 L154). Rufus moves daily training to the unused courtyard behind Jory's clinic (Book 1, Ch40 L3) |
-| Days ~10-30 | Ch41 | The ability Path of Shadows lets him teleport using shadows as a portal, and he must be able to see the destination shadow (Book 1, Ch41 L27) |
-| Days ~10-30 | Ch42 | The Fortress is the huge stone building in the warehouse district, older than the city walls (Book 1, Ch42 L21). Lucian Lamprey is an elf with a muscular frame (Book 1, Ch42 L26), and his deputy Pochard Finn keeps the city campus running (Book 1, Ch42 L30) |
-| Days ~10-30 | Ch43 to Ch44 | The announcer introduces the Nightingale in the fighting pits (Book 1, Ch43 L67). Sophie fights Fire Fist in a cage (Book 1, Ch44 L3, L14) |
+| Days about 10-30 | Ch39 to Ch40 | Jason receives an Awakening Stone of Omens (Book 1, Ch39 L137) and awakens Hegemony (Book 1, Ch39 L154). Rufus moves daily training to the unused courtyard behind Jory's clinic (Book 1, Ch40 L3) |
+| Days about 10-30 | Ch41 | The ability Path of Shadows lets him teleport using shadows as a portal, and he must be able to see the destination shadow (Book 1, Ch41 L27) |
+| Days about 10-30 | Ch42 | The Fortress is the huge stone building in the warehouse district, older than the city walls (Book 1, Ch42 L21). Lucian Lamprey is an elf with a muscular frame (Book 1, Ch42 L26), and his deputy Pochard Finn keeps the city campus running (Book 1, Ch42 L30) |
+| Days about 10-30 | Ch43 to Ch44 | The announcer introduces the Nightingale in the fighting pits (Book 1, Ch43 L67). Sophie fights Fire Fist in a cage (Book 1, Ch44 L3, L14) |
 | About day 30 | Ch45 | In the temple district Arash shouts "That's Hero. Get down!" (Book 1, Ch45 L38) |
 | About day 30 | Ch46 | Knowledge says "I am Knowledge" and that Jason brought his knowledge with him (Book 1, Ch46 L22). Jason says "A month ago I still thought auras were made up" (Book 1, Ch46 L33), and asks about the world-phoenix token (Book 1, Ch46 L111) |
-| Days ~30-55 | Ch47 to Ch48 | Rufus says Humphrey's confluence essence is dragon (Book 1, Ch47 L36). He tells Danielle he is trying to traumatise her son (Book 1, Ch48 L49) |
-| Days ~30-55 | Ch49 | Rufus speaks to his father, Gabriel Remore, through the Magic Society's water pool (Book 1, Ch49 L26-27) |
-| Days ~30-55 | Ch50 | Rufus gives Jason a martial art skill book (Book 1, Ch49 L98); it is "Way of the Reaper: Five Forms I" (Book 1, Ch50 L40-41) |
-| Days ~30-55 | Ch51 to Ch53 | A bookie gives Sophie's name as Sophie Wexler (Book 1, Ch51 L11). Jason attends the symphony from the Gellers' viewing box (Book 1, Ch53 L4) |
+| Days about 30-55 | Ch47 to Ch48 | Rufus says Humphrey's confluence essence is dragon (Book 1, Ch47 L36). He tells Danielle he is trying to traumatise her son (Book 1, Ch48 L49) |
+| Days about 30-55 | Ch49 | Rufus speaks to his father, Gabriel Remore, through the Magic Society's water pool (Book 1, Ch49 L26-27) |
+| Days about 30-55 | Ch50 | Rufus gives Jason a martial art skill book (Book 1, Ch49 L98); it is "Way of the Reaper: Five Forms I" (Book 1, Ch50 L40-41) |
+| Days about 30-55 | Ch51 to Ch53 | A bookie gives Sophie's name as Sophie Wexler (Book 1, Ch51 L11). Jason attends the symphony from the Gellers' viewing box (Book 1, Ch53 L4) |
 
 ## 5. The field assessment (about days 55 to 62; Ch54 to Ch62)
 

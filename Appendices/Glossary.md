@@ -227,7 +227,7 @@ Essence and confluence names (Fire, Wind, Dragon, Volcano...) are not listed ind
 
 **Hegemon's Will / Dominion**: the reforged sword and scabbard; the scabbard moves afflictions from Jason to the sword's next target (`09_Items_and_Artefacts/Hegemons_Will_and_Dominion.md`). **[2]**
 
-**Hierophant**: a former prime vessel who still serves, e.g. Dawn. **[3]**
+**Hierophant**: a former prime vessel who still serves, for example Dawn. **[3]**
 
 **Hero (god)**: god of heroes, who gives the Cup of Heroes. **[3]**
 

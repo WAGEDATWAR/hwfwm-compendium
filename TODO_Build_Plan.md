@@ -137,7 +137,7 @@ Items listed in 1.7 plus: the Trap Weaver Battle Robe, soul forge, Rexion's arra
 - **5.6 (Done 2026-10-25: body links, anchors and backticked file names checked in `lint.py`) Link and anchor checks in CI-style script (S).** Part of the linter in 0.5.
 - **5.7 (Done 2026-10-26: calendar, coin values and the Network's founding settled, four more homes recorded in the Glossary; the other 190 or so clusters triaged in `src/tools/redundancy_report.md`) Redundancy audit (M, suggested).** The same fact is stated in several documents (calendar, coin table, the Network's founding). Pick one home file for each, replace the repeats with pointers, and record the home in the Glossary.
 - **5.8 (Done 2026-10-26: first three days archived by hand, `log_archive.py` applies the monthly rule from now on) Change_Log housekeeping (S).** The log now exceeds 340 lines; split into one file per month and keep the last two months in `Change_Log.md`.
-- **5.9 Accessibility and style pass (M, suggested).** Check style rules in section 7 of the structure document (full names on first use, past tense for history, no shorthand), and normalise headings across character and place files.
+- **5.9 (Done 2026-10-26: `style_check.py` clean; three legacy character files converted, two templates accepted) Accessibility and style pass (M, suggested).** Check style rules in section 7 of the structure document (full names on first use, past tense for history, no shorthand), and normalise headings across character and place files.
 
 ## Tier 6: Stretch goals (only after Tiers 0-3)
 

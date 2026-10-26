@@ -14,7 +14,7 @@ Purity is the god of cleanliness, with both gentle and extreme aspects; his chur
 ## 2. Facts
 
 - **The church**: Anisa Lasalle is a priestess of the God of Purity (Book 1, Ch20 L80), and a priest of Purity in clean robes attends the Adventure Society inquiry team (Book 2, Ch17 L31). The temple has church militants who guard its interests (Book 2, Ch37 L105).
-- **Collusion with the Builder cult**: when the church's involvement with the cult comes to light, a number of its key members vanish on "previously scheduled sabbaticals", including the archbishop Nicolas Hedron (Book 3, Ch1 L106). The people from the church are detained under the authority of the ecumenical council (Book 3, Ch5 L67).
+- **Collusion with the Builder cult**: when the church's involvement with the cult comes to light, a number of its key members vanish on "previously scheduled sabbaticals", including the archbishop Nicolas Hendren, spelt Hedron in that line (Book 3, Ch1 L106). The people from the church are detained under the authority of the ecumenical council (Book 3, Ch5 L67).
 - **Hendren**: the archbishop calls out, "You think afflictions can take down a priest of Purity?" in the fight (Book 3, Ch59 L45).
 
 ## 3. Later developments, Books 4 to 9

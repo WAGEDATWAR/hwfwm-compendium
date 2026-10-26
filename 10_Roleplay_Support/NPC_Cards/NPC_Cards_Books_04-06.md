@@ -50,9 +50,9 @@ Valid from Book 4 to Book 13. Spoiler level 3. Character file: [Amy Asano](../..
 Valid from Book 4 to Book 13. Spoiler level 3. Character file: [Annabeth "Anna" Tilden](../../07_Characters/Anna_Tilden.md).
 
 - **Role**: Anna Tilden is a Network director who first meets Jason on Earth in Book 4, becomes a member of its steering committee, serves as the Asano clan's UN liaison, and by Book 11 is Under-Secretary-General of the United Nations Office of Supernatural Affairs.
-- **Appearance**: Not described in the character file.
+- **Appearance**: Not described in detail in the lines read; she dresses in a sensible suit that makes her look like a government functionary (Book 4, Ch5 L111).
 - **Voice**: Measured, political, quick to move sides when the facts change.
-- **Secret or spoiler note**: Nothing recorded.
+- **Secret or spoiler note**: No secret is attributed to her in the lines read. Her later posts (the UN Office of Supernatural Affairs in Book 11, Book 13 diplomacy) are level 3 and are told in the timeline above.
 <!-- /level -->
 
 ### Asya Karadeniz

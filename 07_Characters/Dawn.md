@@ -26,7 +26,13 @@ Mentoring and slightly arch. When Jason has just punched her avatar she says "Yo
 - **Art**: the paintings by "Dawn" that Jason buys show two planets with four pillars and "The Invasion of Pallimustus" (Book 4, Ch23 L31-39).
 - **Home**: Interstice, the city-universe at the cosmos's centre (Book 5, Ch20 L65-67).
 
-## 5. Timeline of involvement
+## 5. Background
+
+<!-- level:2 -->
+Dawn is the World-Phoenix's hierophant and agent (Book 7, Ch60 L27); her true body is a celestine with ruby eyes (Book 7, Ch54 L87).
+<!-- /level -->
+
+## 6. Timeline of involvement
 
 - **Book 4**: her paintings; Dawn reveals the Earth-Pallimustus magic link and the Builder/Purity invasion plan to Jason.
 - **Book 5**: arrives at Asano Village in a new avatar; explains the danger of transformation zones as dimensional ulceration; tells him the Reaper "was the one who offered" Farrah's return (Book 5, Ch20 L40-41).
@@ -34,15 +40,15 @@ Mentoring and slightly arch. When Jason has just punched her avatar she says "Yo
 - **Book 7**: her full-power intervention and the arrival of Humphrey's team in Rimaros.
 - **Book 13**: Boris is certain she had "taken actions beyond the mandate of her great astral being" (Book 13, Ch954 L19).
 
-## 6. Relationships
+## 7. Relationships
 
 Jason, the World-Phoenix (Helsveth is the current prime vessel, Book 11, Ch68 L2527-2530), Shako ("I cared about you very deeply, once", notes, Book 6), Soramir Rimaros.
 
-## 7. Secrets and spoiler notes
+## 8. Secrets and spoiler notes
 
 Dawn's identity as First Servant and her use of avatars are level 2; her exceeding her mandate is level 3.
 
-## 8. Roleplay notes
+## 9. Roleplay notes
 
 **Voice (condensed)**: Formal, with a teasing edge. Cue: "You realise that you could have asked that instead of punching my nose through my brain" (Book 5, Ch20 L21). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 

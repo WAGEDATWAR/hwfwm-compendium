@@ -146,7 +146,7 @@ Each **nature** (race) has exactly six inherent **racial gifts** (Book 1, Ch15 L
 
 - **Humans**: the most common; faster advancement and special-attack affinity; the only native race of Earth that can use essences.
 - **Elves**: spellcasters and healers; life and magic affinity; long-lived.
-- **Leonids**: lion-headed, strong and fast (e.g. Gary).
+- **Leonids**: lion-headed, strong and fast (for example Gary).
 - **Celestines**: metallic hair and eyes, skin from alabaster to dark; astral and holy affinity; not a natural race: two outworlders who have a child produce a celestine (Book 5, Ch44 L72); excellent portal users.
 - **Draconians**: scaled, fire-breathing, claim dragon descent.
 - **Smoulder**: earth-and-fire folk; the **brighthearts** are a magical sub-species adapted to the deep.
@@ -192,7 +192,7 @@ An **astral king** is a being whose soul has become a small universe. Most astra
 - The **soul** is the person; the body is its expression. Healing magic uses the soul as a blueprint. **Soul scars** are permanent. **Soul crests** are magical tattoos printed on the soul, which appear on the body (Book 2, Ch70 L34-42).
 - **Death**: the soul lingers near the body for seconds to an hour; gold-rank healers can reverse death inside that window. Great astral beings could resurrect people but the Reaper and the World-Phoenix object. Gods changed magic so resurrection is harder. **(Later: Book 7)**
 - **Outworlders** are souls that wandered into the deep astral and rebuilt a body on arrival.
-- **Reincarnation** exists: a soul renews as a different person (e.g. Gary).
+- **Reincarnation** exists: a soul renews as a different person (for example Gary).
 
 ---
 

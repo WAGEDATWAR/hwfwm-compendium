@@ -39,7 +39,7 @@ Jason Asano is the series' protagonist: an Australian from the coastal town of C
 - **Birthday**: 1 April (Book 5, Ch20 L24-26).
 - **Arrival**: pulled from his bed in late November by Landemere Vane's failed summoning (Book 4, Ch3 L112).
 
-## 6. Timeline of involvement (summary)
+## 6. Timeline of involvement
 
 - **Books 1-3 (levels 0-1)**: arrives in Greenstone, joins the Adventure Society, forms the team that becomes Team Biscuit, gains Shade, Colin and Gordon, reaches bronze, and dies in the Builder's tower.
 - **Books 4-6 (level 2)**: wakes in the old Casselton hospital in early June 2019, reveals magic to his family, rescues Farrah, ranks to silver after the Makassar events, claims transformation zones, is killed by Shako and leaves Earth in autumn 2021.

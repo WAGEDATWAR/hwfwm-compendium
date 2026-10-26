@@ -40,7 +40,13 @@ Firstborn daughter of the Storm King, called the Hurricane Princess (Book 7, Ch5
 
 Jason, Vesper and Liara Rimaros, Emiliano, Team Biscuit, Zareen Rimaros.
 
-## 8. Roleplay notes
+## 8. Secrets and spoiler notes
+
+<!-- level:3 -->
+Her brother Emiliano, the Storm King of Book 12, is a cousin her father adopted as a baby to shield him from the political consequences when his parents turned out to be traitors (Book 13, Ch1022 L20).
+<!-- /level -->
+
+## 9. Roleplay notes
 
 **Voice (condensed)**: Courtly, with a threat in the smile. Cue: "Might I introduce my aunt, Vesper Rimaros?" (Book 2, Ch69 L17). See `../10_Roleplay_Support/Tone_and_Voice.md`.
 
