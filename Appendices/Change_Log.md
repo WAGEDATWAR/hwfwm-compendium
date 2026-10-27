@@ -280,6 +280,9 @@ Entries from 2026-10-20 to 2026-10-22 are in `Change_Log_2026-10-20_to_22.md`. E
 **Text maps and distance tables, build plan item 6.1 (2026-10-26)**
 - Added `06_Places/Text_Maps_and_Distances.md`: for Greenstone, Vitesse, Rimaros and Yaresh, a schematic text map and a table of stated distances. The books give almost no distances (Greenstone: two days plus a couple of days by boat, and the hundred-kilometre and hundreds-of-kilometres figures from the Builder's astral space; Vitesse: none; Rimaros: 120 km from Jason's cloud house on Arnote to the palace above Livaros, and four months to Yaresh; Yaresh: a dozen kilometres across the city, ten kilometres to a fight, hours to the camps, two hours to the array chamber), so most rows say "none stated". Diagrams carry no figures. Cardinas and Rexion are under a level-3 tag.
 
+**Quote bank, build plan item 6.2 (2026-10-27)**
+- Added `10_Roleplay_Support/Quote_Bank.md`: 22 short quotations (all under fifteen words, longest twelve) for 19 speakers, each with the trait it shows and its line, drawn only from lines `Tone_and_Voice.md` already cites. Checked with `verify2.py`: one benign flag, a line split by a speech tag. Speakers the voice notes describe without a short quotable line (Gary's growl, Neil, Humphrey) are left to their character files, and the file says so.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).
