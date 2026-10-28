@@ -283,6 +283,11 @@ Entries from 2026-10-20 to 2026-10-22 are in `Change_Log_2026-10-20_to_22.md`. E
 **Quote bank, build plan item 6.2 (2026-10-27)**
 - Added `10_Roleplay_Support/Quote_Bank.md`: 22 short quotations (all under fifteen words, longest twelve) for 19 speakers, each with the trait it shows and its line, drawn only from lines `Tone_and_Voice.md` already cites. Checked with `verify2.py`: one benign flag, a line split by a speech tag. Speakers the voice notes describe without a short quotable line (Gary's growl, Neil, Humphrey) are left to their character files, and the file says so.
 
+**Wiki-versus-book discrepancy log, build plan item 6.3 (2026-10-28)**
+- Added `Appendices/Wiki_vs_Book_Discrepancies.md`: ten rows where the wiki differs from the chapter text (the first mentions of the gods of Death and Earth, gold lifespans, Vitesse's density, the Cardinas zone's length, Neil and Cassandra, Hearth and Refuge, Belinda and Estella's dating, the Reaper's martial art, Pain and Discord), each with the line and the tier the compendium follows, plus the structural differences (chapter numbering, what counts as a first mention).
+- Corrected two earlier statements: the 2026-10-22 log recorded "essence revelations" and "combat trance" as not found, and the "Hegemon's Will" name as wiki-only. All three are in the text (Book 9, Ch28 L75; Book 6, Ch26 L71; Book 7, Ch2 L89). The earlier search had used one apostrophe form. The compendium files already treated Hegemon's Will as the book's name, so no document changed.
+- Not claimed: the plan's example of a "150-year siphon" was not found in the wiki cache or the compendium, so it has no row. The log covers the gods list, the lists and the points above, not the whole wiki.
+
 ## Pending index updates
 
 Names and terms from the Places and Magic documents that are still missing from the Glossary or Name Index (add when next touching those files): Argy (Palisaros resident), Hester (Emir's portaler, first named Book 1), Jacinta Adeline (already indexed; check spelling), Keane (Rimaros adventurer), Casallini (Girlano border city), the Ustei (nomad tribe; Book 1), Medallion of Escape, Summoner's Die: Form, Immortal Crest, Spirit Vault (as a term), Sky Link Company, Stable and Unstable Genesis Cores (partly under *Genesis core*).

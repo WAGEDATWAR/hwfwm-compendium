@@ -28,5 +28,6 @@ The list below is generated from the folder contents (`src/tools/overviews.py`).
 - [Source Map](Source_Map.md) (spoiler level 3): The Source Map ties compendium claims to book, chapter and lines so that facts can be traced, narrowed and re-checked.
 - [Source Register](Source_Register.md) (spoiler level 3)
 - [Wiki Reference Lists](Wiki_Reference_Lists.md) (spoiler level 3): The wiki lists the essences below by rarity, with the abilities and users it records for each.
+- [Wiki versus Book: Discrepancy Log](Wiki_vs_Book_Discrepancies.md) (spoiler level 3): A reader who meets a fan-wiki fact elsewhere can look it up here to see whether the chapter text agrees.
 
 <!-- files:end -->
